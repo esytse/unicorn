@@ -28,7 +28,11 @@ For substantive research updates:
 5. Update confidence when the evidence changes.
 6. Update `CHANGELOG.md` if the thesis, watchlist status, confidence, ranking or other material conclusion changes.
 7. Open a pull request explaining what changed, the evidence, unresolved uncertainty and any changed conclusions.
-8. Do not merge your own substantive research pull request.
+8. Treat the pull request as the audit record. Human approval is not required by default.
+9. Never merge while required checks are pending or failing.
+10. Once required checks pass, enable auto-merge where available. If auto-merge is unavailable and the user has not requested manual review, the agent may merge the PR after verifying the checks passed.
+
+If the user explicitly asks for review before merge, leave the PR open.
 
 ## Versioning rules
 
@@ -144,6 +148,4 @@ Every substantive research PR should include:
 
 ## Safety rule for automation
 
-Agents may automate research collection, comparison, document maintenance and drafting. They must not hide uncertainty, fabricate evidence, or silently promote a company on the watchlist.
-
-Human review is required before substantive research changes are merged into `main`.
+Agents may automate research collection, comparison, document maintenance, PR creation and merging after required checks pass. They must not hide uncertainty, fabricate evidence, silently promote a company on the watchlist, bypass required checks, force-push protected history, or delete research history to make a thesis look cleaner.
