@@ -22,12 +22,17 @@
 
 <!-- What remains unresolved? -->
 
-## Review checklist
+## Review / merge mode
+
+- [ ] Automated merge after required checks pass
+- [ ] Leave open for manual review
+
+## Governance checklist
 
 - [ ] I read `AGENTS.md` before making substantive changes.
 - [ ] Material factual claims have recoverable sources where practical.
 - [ ] Facts, interpretation and hypotheses are clearly distinguished.
 - [ ] Contradictory evidence is preserved or discussed.
 - [ ] `CHANGELOG.md` was updated for any material conclusion/status/confidence change.
-- [ ] Canonical documents were updated rather than duplicated/versioned filenames being created.
-- [ ] This change is ready for human review.
+- [ ] Canonical documents were updated rather than duplicate/versioned filenames being created.
+- [ ] Required checks must pass before merge.
