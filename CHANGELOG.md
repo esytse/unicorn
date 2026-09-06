@@ -15,7 +15,15 @@ This file records substantive changes to research conclusions, confidence, prior
 - Added automated pull-request governance checks.
 - Aligned the GitHub Actions job name with the required `Research governance` status check so auto-merge can satisfy the ruleset without manual intervention.
 
+### AI memory value-chain map added
+
+- Added the first evidence-backed end-to-end AI memory value-chain map.
+- Current strongest bottleneck candidates are HBM stacking/bonding/thermal/yield, advanced packaging/interposers, DRAM/HBM wafer capacity, and test.
+- Wafer thinning/TSV processing, package materials, memory-interface chips and CXL are retained as high-priority areas to validate rather than established conclusions.
+- Clarified that Weebit Nano is an emerging-memory architectural option, not a current mainstream AI-memory bottleneck.
+- Recommended the next deep dives: HBM stacking/thermal, advanced packaging, test, and DDR5/MRDIMM/CXL interfaces.
+
 ### Current working research state
 
-- **AI memory:** working hypothesis is that AI infrastructure value may increasingly accrue to memory, data-movement and interface bottlenecks rather than compute alone. Candidate companies require evidence-based validation before promotion on the watchlist.
+- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. The broader investment hypothesis — that smaller enabling suppliers will capture disproportionate value — remains to be tested company by company.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
