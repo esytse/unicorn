@@ -47,7 +47,7 @@ jobs:
           fi
 
           # Core governance files must remain present.
-          for required in AGENTS.md README.md CHANGELOG.md watchlist.md; do
+          for required in AGENTS.md README.md CONTRIBUTING.md CHANGELOG.md watchlist.md; do
             if [ ! -f "$required" ]; then
               echo "ERROR: required governance file missing: $required"
               exit 1
