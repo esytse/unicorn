@@ -7,7 +7,9 @@ This file records substantive changes to research conclusions, confidence, prior
 ### Repository governance established
 
 - Established `unicorn` as the single repository for multiple research streams.
-- Added mandatory agent operating rules and human-review workflow.
+- Added mandatory agent operating rules and pull-request workflow.
+- Pull requests are the audit and safety boundary; human approval is optional rather than required by default.
+- Agents must wait for required automated checks to pass before merging or enabling auto-merge.
 - Added cross-theme watchlist and source-provenance structure.
 - Added initial research streams for AI memory and robotics actuators.
 - Added automated pull-request governance checks.
