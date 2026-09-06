@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   governance:
+    name: Research governance
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
