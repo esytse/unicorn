@@ -23,15 +23,20 @@ Git history is the authoritative version record. Do not create duplicate files s
 1. Ask an agent to read `AGENTS.md` before doing anything.
 2. The agent researches or updates the requested theme.
 3. The agent edits the canonical Markdown files on a branch.
-4. The agent updates `CHANGELOG.md` for substantive changes.
-5. The agent opens a pull request and summarises what changed, why, and what remains uncertain.
-6. A human reviews the diff before merge.
+4. The agent updates sources and `CHANGELOG.md` where required.
+5. The agent opens a pull request that records what changed, why, evidence, confidence and uncertainty.
+6. Automated governance checks run.
+7. If the checks pass, the PR can auto-merge. Human approval is not required by default.
 
-The agent should not merge its own substantive research changes.
+Pull requests are primarily an audit trail and safety boundary, not a manual approval queue.
 
 ## Example instruction to an agent
 
-> Read `AGENTS.md` and the relevant existing research first. Research the actuator opportunity, update the canonical documents with sourced evidence, mark facts vs inference vs hypothesis, update the changelog if conclusions change, and open a pull request for review. Do not merge it.
+> Read `AGENTS.md` and the relevant existing research first. Research the actuator opportunity, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
+
+## When to request manual review
+
+Manual review is optional. Ask for it when you specifically want a second pair of eyes before a conclusion enters `main`, for example a major thesis reversal or an unusually consequential decision.
 
 ## Research principles
 
