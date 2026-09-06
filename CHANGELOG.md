@@ -13,6 +13,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Added cross-theme watchlist and source-provenance structure.
 - Added initial research streams for AI memory and robotics actuators.
 - Added automated pull-request governance checks.
+- Aligned the GitHub Actions job name with the required `Research governance` status check so auto-merge can satisfy the ruleset without manual intervention.
 
 ### Current working research state
 
