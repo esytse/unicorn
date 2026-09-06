@@ -17,6 +17,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `watchlist.md` — cross-theme research candidates and current status
 - `sources/source-register.md` — source provenance register
 - `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
+- `research/_templates/` — reusable structures for new themes and company deep dives
 
 ## Default workflow
 
@@ -29,6 +30,8 @@ Git history is the authoritative version record. Do not create duplicate files s
 7. If the checks pass, the PR can auto-merge. Human approval is not required by default.
 
 Pull requests are primarily an audit trail and safety boundary, not a manual approval queue.
+
+If someone prefers not to formulate an agent prompt directly, GitHub's **Research request** issue template can capture the question and starting context in a structured way.
 
 ## Example instruction to an agent
 
