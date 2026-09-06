@@ -1,0 +1,53 @@
+name: Research request
+description: Capture a new company, technology, theme or question for an agent to investigate.
+title: "Research: "
+labels: []
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Research type
+      options:
+        - New theme
+        - Company deep dive
+        - Update existing research
+        - Compare companies
+        - Challenge / falsify thesis
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      description: Company, technology, market or research question.
+      placeholder: e.g. Weebit Nano, humanoid robot actuators
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: What do we want to know?
+      description: State the decision or uncertainty this research should reduce.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Starting context
+      description: Optional links, observations, documents, screenshots or prior conclusions.
+
+  - type: checkboxes
+    id: workflow
+    attributes:
+      label: Agent workflow
+      options:
+        - label: Read AGENTS.md and existing relevant research first.
+          required: true
+        - label: Preserve sources, uncertainty and contradictory evidence.
+          required: true
+        - label: Use a branch and pull request; merge only after required checks pass unless manual review is explicitly requested.
+          required: true
