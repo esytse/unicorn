@@ -1,0 +1,57 @@
+name: Research governance
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  governance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate research workflow
+        shell: bash
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+
+          changed="$(git diff --name-only "$BASE_SHA" "$HEAD_SHA")"
+          echo "Changed files:"
+          echo "$changed"
+
+          # Any substantive research/watchlist change must be accompanied by a changelog update.
+          if echo "$changed" | grep -Eq '^(research/|watchlist\.md$)'; then
+            if ! echo "$changed" | grep -qx 'CHANGELOG.md'; then
+              echo "ERROR: research or watchlist changed without CHANGELOG.md being updated."
+              exit 1
+            fi
+          fi
+
+          # Prevent manual filename versioning. Git is the version history.
+          bad_files="$(find . -type f \
+            \( -iname '*final-v*.md' -o -iname '*revised-final*.md' -o -iname '*latest-copy*.md' -o -iname '*thesis-new*.md' \) \
+            -not -path './.git/*' || true)"
+          if [ -n "$bad_files" ]; then
+            echo "ERROR: duplicate/version-style filenames found:"
+            echo "$bad_files"
+            exit 1
+          fi
+
+          # Core governance files must remain present.
+          for required in AGENTS.md README.md CONTRIBUTING.md CHANGELOG.md watchlist.md; do
+            if [ ! -f "$required" ]; then
+              echo "ERROR: required governance file missing: $required"
+              exit 1
+            fi
+          done
+
+          echo "Research governance checks passed."
