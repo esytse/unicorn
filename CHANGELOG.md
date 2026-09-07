@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### Energy capital allocation completed; no Gate C candidate at current prices
+
+- Completed **#54** and added `research/energy/capital-allocation.md` with dated valuation inputs, normalized bear/base/bull scenarios, reverse 10/12/15% return tests and margin-of-safety price zones.
+- **No energy company passes strict Gate C at the September 2026 reference prices.** The operational thesis is strong, but the obvious AI-power beneficiaries have already rerated materially.
+- **Siemens Energy becomes the preferred capital-allocation monitor.** The normalized base case is ~11.2% annualized at ~€148.48, with a ~12% return zone around **€144**. Gas Services / Grid capture remains strong; Gamesa is the main quality risk.
+- **nVent ranks second.** The normalized base case is ~10.5% at $156.03, with a ~12% zone around **$147**. Smaller size and electrical + cooling exposure create better sensitivity than the large diversified platforms, but standardisation and capacity expansion remain material risks.
+- **Vertiv remains the direct AI-infrastructure quality leader but is valuation-bound:** base ~8.5% at $280.53; ~12% zone **~$245**. Eaton and HD Hyundai Electric also remain strong `Watch` names but require materially lower prices or stronger normalized earnings.
+- **GE Vernova illustrates the distinction between Gate B and Gate C most clearly.** It leads operating capture, but a normalized forward-EPS approach gives only ~4.6% base annualized return at ~$942 and a ~12% zone around **$702**. Current customer-advance / backlog-driven FCF is not capitalized as permanent cash margin.
+- **The specialist lane remains active but not capital-ready.** Hainan Jinpan base ~8.4% / ~CNY59 12% zone; Modine ~7.7% / ~$165; Centrus uses event-driven values of ~$75 bear / $240 base / $560 bull and a ~12% base-value zone around **$147**.
+- The energy programme now shifts from broad discovery to **valuation / earnings monitoring**. Re-open substantive work when a company crosses a return zone without thesis deterioration, or when earnings / FCF materially move the zone higher. No company is promoted to `High-conviction research candidate`.
+
 ### Energy supplier Investment Capture completed; Gate C shortlist established
 
 - Completed **#53** and added `research/energy/investment-capture.md` plus canonical company files for the leading immediate, specialist and nuclear-comparator candidates.
