@@ -2,6 +2,16 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-07
+
+### AI memory bottleneck research plan added
+
+- Added a structured execution plan for validating the strongest bottlenecks in the AI-memory value chain.
+- Separated **Bottleneck Strength** from **Investment Capture** so technical scarcity is not automatically treated as an attractive investment.
+- Prioritised HBM stacking/bonding/thermal/yield first, followed by advanced packaging and test, then wafer processing/TSV and interfaces/MRDIMM/CXL.
+- Added evidence standards, falsification requirements, completion gates and a parallel agent/collaborator workflow.
+- No investment conclusion or watchlist status changed as a result of the planning update.
+
 ## 2026-09-06
 
 ### Repository governance established
