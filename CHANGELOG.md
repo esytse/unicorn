@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Weebit Nano moves to Watch as commercial adoption becomes real
+
+- Completed **#5** and added `research/memory/companies/weebit-nano.md`.
+- **Weebit moves `Research queue` → `Watch`; confidence Low → Medium.** The commercial bridge is materially more advanced than the original thesis assumed: SkyWater and DB HiTek have qualified ReRAM processes, onsemi and Texas Instruments have licensed the technology, three product customers had taped out designs by June 2026, and at least one returned chip was functional and running software.
+- FY26 revenue reached **A$15.3m** versus A$4.4m in FY25, but revenue is still licensing/NRE rather than recurring royalties. First customer mass production is hoped for in CY27, so the decisive economics remain unproven.
+- **Valuation remains the binding investment risk.** At the 4 September reference WBT was ~A$3.53, market cap ~A$849m and EV ~A$681m, about **45x FY26 revenue**. FY26 also recorded a ~A$54.9m net loss, operating cash burn, material stock-based compensation and roughly A$102m of equity funding.
+- A reverse commercialization screen indicates the business likely needs roughly **5–7x FY26 revenue by end-2030 plus a material shift to royalty economics** to support an attractive return under illustrative normalized revenue multiples.
+- AI / compute-in-memory remains **upside optionality**, not the current commercial base case. The base thesis is embedded non-volatile-memory replacement in analog, power, automotive, industrial/security and embedded applications.
+- Weebit does **not** enter the current HBM Bottleneck × Investment Capture or Gate-C ranking. The next substantive discovery stream is **robotics actuators (#3)**.
+
 ### Probe-card capital allocation normalized; JEM remains an investigation
 
 - Opened **#31** and added `research/memory/probe-card-capital-allocation.md` to test JEM, Micronics Japan, FormFactor and Technoprobe on a common normalized-return basis.
@@ -133,5 +143,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** four workstreams pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). Two company-underwriting waves and the initial capital-allocation comparison are complete; no company passes Gate C at current reference prices, so the programme shifts to valuation monitoring plus selective optionality.
-- **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
+- **AI memory:** four workstreams pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). Two company-underwriting waves, capital allocation, probe-card peer normalization and the Weebit architectural-optionality deep dive are complete; no company passes Gate C, so the programme is now primarily a monitoring system.
+- **Robotics actuators:** next substantive research stream; value-chain and company analysis still to be built.
