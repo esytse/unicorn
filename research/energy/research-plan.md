@@ -1,8 +1,8 @@
 # AI Energy / Power Delivery — Research Plan
 
-**Status:** Active — structural ranking complete; supplier Investment Capture next  
+**Status:** Active — Gate B supplier Investment Capture complete; Gate C capital allocation next  
 **Created:** 2026-09-07  
-**Last reprioritised:** 2026-09-07  
+**Last reprioritised:** 2026-09-08  
 **Purpose:** Identify which validated AI-energy bottlenecks convert into durable company economics, then allocate capital only where valuation leaves enough asymmetry.
 
 ## Three gates
@@ -12,108 +12,102 @@
 3. **Gate C — Capital Allocation:** normalized risk-adjusted return and margin of safety at current valuation.
 
 Canonical E2E map: `research/energy/value-chain.md`  
-Canonical cross-layer ranking: `research/energy/synthesis-ranking.md`
+Canonical cross-layer ranking: `research/energy/synthesis-ranking.md`  
+Canonical company capture ranking: `research/energy/investment-capture.md`
 
 ## Structural discovery status
 
 Broad discovery is complete. Do not open new theme workstreams unless new evidence reveals a materially different physical constraint or a narrow sub-layer with direct qualification / reservation / pricing evidence.
 
-The ranking separates **physical importance** from **merchant economic capture**. Physical transmission is structurally 4.7/5 but its profit pool is dispersed; large gas turbines are 4.6/5 but rank first for company underwriting because customer reservations, concentrated OEM supply, pricing and decades of service economics make capture more direct.
+The ranking separates **physical importance** from **merchant economic capture**. Physical transmission is structurally 4.7/5 but its profit pool is dispersed; large gas turbines are 4.6/5 but rank first structurally for company underwriting because customer reservations, concentrated OEM supply, pricing and decades of service economics make capture more direct.
 
-## #53 Investment Capture priority
+## Gate B result (#53)
 
-### Lane A — large gas turbines: **priority #1**
+Company-level work changes the practical priority because platform breadth, service economics, customer concentration and company size matter as much as the underlying bottleneck score.
 
-Comparator set:
-- GE Vernova;
-- Siemens Energy;
-- Mitsubishi Heavy Industries.
+### Primary Gate-C group
 
-Key questions: gas-turbine / service earnings sensitivity, slot pricing, backlog quality, capacity expansion, installed-base service, non-AI demand support and broader-company dilution.
+| Company | ICS | Status | Why it survives Gate B |
+|---|---:|---|---|
+| **GE Vernova** | **4.4 / 5** | **Watch** | clearest scarcity → reservation/backlog → margin/FCF → long-service model; grid exposure adds architecture resilience |
+| **Vertiv** | **4.4 / 5** | **Watch** | highest direct AI-infrastructure sensitivity; electrical + thermal + BTM platform with strong margin/FCF evidence |
+| **Eaton** | **4.3 / 5** | **Watch** | broad architecture-resilient electrical platform; strong orders/backlog/margins; Boyd adds thermal capture |
+| **Siemens Energy** | **4.3 / 5** | **Watch** | gas-turbine + Grid Technologies dual exposure with customer prepayments and service economics |
+| **HD Hyundai Electric** | **4.2 / 5** | **Watch** | smaller transformer specialist; multi-year backlog and direct hyperscaler/data-centre demand sensitivity |
+| **nVent** | **4.2 / 5** | **Watch** | smaller electrical-connection + cooling challenger with very strong organic growth and cash generation |
 
-### Lane B — transformers / substations / MV-HV switchgear: **priority #2**
+### Asymmetric / specialist lane
 
-Broad benchmarks:
-- Eaton;
-- Schneider Electric;
-- ABB;
-- GE Vernova / Prolec exposure;
-- Hitachi / Hitachi Energy exposure;
-- HD Hyundai Electric.
+| Company | ICS | Status | Why it remains active |
+|---|---:|---|---|
+| **Centrus Energy** | **4.0 / 5** | **Investigating** | cleanest listed HALEU / Western enrichment exposure and high small-company asymmetry, offset by policy/funding/execution risk |
+| **Hainan Jinpan** | **4.0 / 5** | **Investigating** | smaller transformer/prefabricated-power-module exposure with rapidly growing data-centre orders and SST optionality |
+| **Modine** | **3.9 / 5** | **Investigating** | strongest direct customer evidence of cooling-capacity scarcity; very high AI sensitivity, but concentration and expansion risk are material |
 
-Mandatory: search for **smaller listed specialists** with stronger earnings asymmetry rather than assuming the multinational platforms are the best equities.
+### Benchmarks
 
-### Lane C — integrated thermal systems: **priority #3**
+- **Mitsubishi Heavy Industries — 4.1/5:** third advanced-class turbine benchmark; broader-group dilution.
+- **Quanta Services — 4.1/5:** best transmission/EPC execution comparator; weaker proprietary scarcity.
+- **Cameco — 4.1/5:** diversified nuclear comparator across uranium/fuel services/Westinghouse.
+- **Schneider Electric / ABB:** broad electrical-platform comparators for valuation / margin normalization.
 
-At minimum:
-- Modine;
-- Vertiv;
-- Schneider / Motivair;
-- Eaton / Boyd Thermal;
-- nVent or another evidence-backed thermal / connectivity specialist.
+## Key Gate-B conclusions
 
-Prefer architecture-resilient chip-to-ambient system capacity / qualification / service over generic cold plates or CDUs.
+### 1. GE Vernova / Siemens Energy own the cleanest scarcity-to-service model
 
-### Lane D — integrated electrical / BTM infrastructure: **priority #4**
+Turbine slot reservations, customer advances, concentrated OEM supply and decades of installed-base service make capture more visible than in most other energy layers.
 
-Use overlap rather than duplicate company files where possible:
-- Vertiv;
-- Eaton;
-- Schneider;
-- ABB;
-- additional integrators only with direct data-centre / BTM evidence.
+### 2. Vertiv / Eaton move up at company level
 
-Key question: is value in component volume or in reference architecture, qualification, controls, protection, commissioning and lifecycle service?
+Although the underlying integrated electrical / thermal lanes rank below turbines structurally, these companies span multiple bottlenecks and remain relevant as architecture migrates. That raises company-level resilience.
 
-### Lane E — Western enrichment / conversion: **strategic nuclear comparator**
+### 3. Specialists deserve separate capital-allocation treatment
 
-At minimum:
-- Centrus;
-- Cameco;
-- Urenco / Orano as industry benchmarks.
+HD Hyundai Electric, nVent, Modine, Jinpan and Centrus can have much greater earnings sensitivity than the obvious multinational platforms. Their quality is lower in some dimensions, but the asymmetry can be higher.
 
-This lane has exceptional concentration but lower direct AI sensitivity. Treat it as nuclear strategic optionality / diversification rather than an AI-pure-play by default.
+### 4. Nuclear bifurcates
 
-### Selective screens only
+Cameco offers durability / diversification. Centrus offers bottleneck purity / asymmetry with materially more policy, funding and execution risk. Do not treat them as interchangeable nuclear exposure.
 
-- physical transmission enabling: Quanta + conductors / GETs only if merchant margin / moat evidence is strong;
-- HALEU: high scarcity but 2030s / policy-sensitive;
-- nuclear forgings / components: Doosan, Japan Steel Works, BWXT, Curtiss-Wright only where exposure can move total-company earnings;
-- narrow 800 VDC sub-layers only if direct qualification / pricing evidence emerges.
+### 5. Revenue growth is not enough
 
-## Gate B scorecard
+Modine is the clearest warning: Data Centers sales rose sharply and customers pre-funded capacity, yet expansion and supply-chain execution compressed margins. Gate C must focus on FCF and normalized returns, not thematic revenue growth.
 
-Score company candidates 1–5 on:
+## Gate C — issue #54
 
-- revenue / EBIT sensitivity to the validated bottleneck;
-- AI / data-centre sensitivity versus broader cycle exposure;
-- pricing / margin capture;
-- competitive durability / qualification moat;
-- market-share / content runway;
-- recurring installed-base / service economics;
-- architecture resilience;
-- capital intensity / working-capital burden;
-- customer / project concentration;
-- asymmetry relative to company size;
-- execution / capacity-expansion risk.
+The capital-allocation screen should begin with:
 
-### Promotion discipline
+### Primary
+- GE Vernova
+- Vertiv
+- Eaton
+- Siemens Energy
+- HD Hyundai Electric
+- nVent
 
-A company enters `Watch` only when there is evidence of real economic capture, not theme exposure. `High-conviction research candidate` remains rare and should normally require Gate C as well.
+### Asymmetric / specialist
+- Modine
+- Hainan Jinpan Smart Technology
+- Centrus Energy
 
-## #54 Capital Allocation after Gate B
+### Benchmarks
+- Mitsubishi Heavy Industries
+- Quanta Services
+- Cameco
+- Schneider Electric / ABB where useful
 
-For the small completed company set:
+For each leading candidate:
 
-- dated price / market cap / EV;
-- normalize backlog, margins and cycle;
+- dated share price, market cap and EV;
+- isolate AI/data-centre contribution from broader electrification / utility / nuclear cycles;
+- normalize backlog conversion and margins;
+- assess capex, working capital, balance sheet, dilution and acquisition risk;
 - bear / base / bull 3–5 year earnings or FCF;
 - normalized terminal multiple;
 - annualized return / downside;
-- 10% / 12% / 15% reverse-return hurdles;
+- reverse valuation for 10%, 12% and 15% required returns;
 - margin-of-safety price zones;
-- balance-sheet / acquisition / dilution risk;
-- explicit breakers / monitoring triggers.
+- explicit thesis breakers / monitoring triggers.
 
 ## Falsification to carry forward
 
@@ -130,6 +124,6 @@ Penalise:
 
 ## Active sequence
 
-**#53 Investment Capture → #54 Capital Allocation.**
+**#54 Capital Allocation.**
 
-No broad new discovery is planned before those gates are complete.
+No broad new discovery is planned before Gate C is complete.
