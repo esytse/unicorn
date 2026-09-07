@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Data-centre electrical backbone validated; 800 VDC supplier scarcity not yet proven
+
+- Completed **#45** and added `research/energy/deep-dives/electrical-backbone-800vdc.md`.
+- **The integrated data-centre electrical backbone passes Gate A at 4.3/5 with Medium-High confidence.** Eaton, Schneider Electric and Vertiv show strong 2026 order / backlog growth alongside attractive or expanding electrical / critical-infrastructure margins, while ABB confirms investment across MV distribution, UPS and next-generation source-to-rack architecture.
+- **800 VDC is now a validated architecture transition but not a validated broad supplier bottleneck.** Google, Microsoft and NVIDIA are standardising 800 VDC through OCP; the technical need is strong as rack power moves toward MW scale, but more than 80 ecosystem participants and explicit interoperability goals reduce broad supplier scarcity to roughly **3.6/5** today.
+- The likely future 800 VDC profit pools are narrower: **MW-scale MVAC-to-DC conversion / transformer-rectifier or SST power blocks, DC fault protection / solid-state breakers, high-power DC busway / connectors, high-density DC/DC conversion and DC-native storage / UPS integration**. None is promoted without direct qualification / pricing evidence.
+- The architecture is likely to **redistribute rather than eliminate** electrical value. MV equipment, protection, transformation / conversion, busway and integrated power-system engineering remain relatively architecture-resilient; some legacy AC PDU / rack-PSU / repeated-conversion layers face bypass risk.
+- No Eaton, Schneider, Vertiv, ABB or other supplier is promoted before common-basis Investment Capture and valuation work. The next validation priority is **behind-the-meter / microgrid + storage**, then **cooling / heat rejection**, followed by an interim energy synthesis.
+
 ### Large gas-turbine equipment bottleneck validated
 
 - Completed **#41** and added `research/energy/deep-dives/dispatchable-generation.md`.
@@ -157,7 +166,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Separated **Bottleneck Strength** from **Investment Capture** so technical scarcity is not automatically treated as an attractive investment.
 - Prioritised HBM stacking/bonding/thermal/yield first, followed by advanced packaging and test, then wafer processing/TSV and interfaces/MRDIMM/CXL.
 - Added evidence standards, falsification requirements, completion gates and a parallel agent/collaborator workflow.
-- No investment conclusion or company conviction level changed as a result of the planning update.
+- No investment conclusion or company conviction level changed as a result of this reprioritisation.
 
 ## 2026-09-06
 
