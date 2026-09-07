@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### HBM stacking / bonding / thermal bottleneck validated
+
+- Completed the first HBM stacking/bonding/thermal/yield deep dive from issue #9.
+- **Bottleneck Strength Score: 4.6/5** — Gate A passed. The constraint is driven by thinner dies, warpage, placement/bonding precision, interconnect quality, thermal resistance and compounding yield risk as stack height rises.
+- Refined the bottleneck into four especially important sub-layers: (1) die bonding/stacking process control, (2) wafer thinning plus temporary bonding/debonding, (3) underfill/molding/warpage-control materials, and (4) surface preparation/alignment/metrology for future hybrid bonding.
+- The strongest new strategic conclusion is that the bottleneck is likely to **migrate rather than disappear** as HBM moves from TCB/MR-MUF/TC-NCF toward hybrid copper bonding. Current TCB leadership therefore carries technology-transition risk.
+- Added **SUSS** and **Hanmi Semiconductor** to `Investigating` on the watchlist. SUSS has disclosed HBM penetration in temporary bonding/debonding and a hybrid-bonding roadmap; Hanmi has direct HBM4 TC-bonder orders and strong current HBM revenue sensitivity.
+- Added **ASMPT** to the research queue as a cross-architecture benchmark/candidate because it has production evidence with multiple HBM customers and capabilities spanning TCB, mass reflow and hybrid bonding.
+- Opened follow-up company deep dives for SUSS (#15) and Hanmi Semiconductor (#16).
+- No company is promoted to high conviction; company-level Investment Capture Scores still require separate underwriting.
+
 ### AI memory bottleneck research plan added
 
 - Added a structured execution plan for validating the strongest bottlenecks in the AI-memory value chain.
@@ -35,5 +46,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. The broader investment hypothesis — that smaller enabling suppliers will capture disproportionate value — remains to be tested company by company.
+- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. The HBM stacking/bonding/thermal layer has now passed Gate A; supplier-level economic capture is being tested next.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
