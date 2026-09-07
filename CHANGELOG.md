@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Large gas-turbine equipment bottleneck validated
+
+- Completed **#41** and added `research/energy/deep-dives/dispatchable-generation.md`.
+- **Large gas-turbine equipment / manufacturing slots pass Gate A at 4.6/5 with High confidence on current scarcity.** GE Vernova reported 116 GW of gas-power backlog / slot reservations at Q2 2026 versus roughly 20 GW of 2026 annual output; Siemens Energy is sold out through FY2028 with FY2029 filling rapidly and identifies blades / vanes as a principal production bottleneck.
+- **Economic-capture evidence is unusually direct.** Multi-year reservations, favorable new-unit pricing, concentrated advanced-class OEM supply, gradual capacity expansion and long-lived aftermarket / service economics make this the strongest concentrated merchant profit-pool candidate in the energy work so far.
+- Mitsubishi Power provides a third credible advanced-class supplier and direct dedicated data-centre deployment evidence, preventing a duopoly conclusion while preserving high supplier concentration.
+- **Reciprocating gensets / distributed generation score 3.6/5 and do not pass Gate A.** Data-centre demand is strong, but modularity, broader supplier choice and substitution make supply more elastic.
+- AI is treated as an **important marginal accelerator rather than the sole cause** of the turbine cycle; grid reliability, replacement generation, industrial growth and regional power demand also matter.
+- No turbine OEM is promoted to `Watch` before common-basis Investment Capture and valuation work. The next validation priority moves closer to the data centre: **electrical backbone / grid-to-rack architecture**, followed by 800 VDC, behind-the-meter integration and cooling.
+
 ### Physical transmission deliverability validated; queue friction separated
 
 - Completed **#38** and added `research/energy/deep-dives/transmission-large-load.md`.
@@ -56,7 +66,7 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Added `research/memory/deep-dives/probe-card-peer-value.md` to compare **Japan Electronic Materials (JEM), Micronics Japan (MJC), FormFactor and Technoprobe** on HBM-test exposure, operating evidence and valuation asymmetry.
 - **Japan Electronic Materials enters `Investigating`.** FY2027 guidance was raised to ¥36.4bn revenue / ¥9.45bn operating profit as memory-probe-card demand and factory utilisation strengthened. At roughly a ¥97bn 7 September equity value, JEM is the highest-priority new valuation lead, but HBM-specific customers/share and normalized-cycle economics remain unverified.
-- **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory-probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
+- **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
 - **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8%, with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
 - **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe-card alternatives that may offer better valuation asymmetry.
 - No company is promoted to `High-conviction research candidate`. The next probe-card work is a common-basis valuation / normalized-cycle comparison, with JEM first and MJC second.
@@ -88,7 +98,7 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Completed company-level underwriting for **FormFactor (#21), Camtek (#22) and SUSS (#15)** after their underlying bottlenecks had passed Gate A.
 - **FormFactor: Investment Capture 4.0/5 → `Watch`.** Strongest current evidence of direct HBM economic capture: volume shipments to all three HBM manufacturers, share gains, >50% first-half HBM probe-card growth and substantial operating leverage. The main constraint is the post-rerating valuation rather than technical evidence.
-- **Camtek: Investment Capture 3.9/5 → `Watch`.** Direct HBM/CoWoS-like inspection orders, >$600m 2026 YTD orders and rising advanced-packaging mix support durable process-control exposure; premium valuation and strong competitors remain the main limits.
+- **Camtek: Investment Capture 3.9/5 → `Watch`.** Direct HBM/CoWoS-like inspection orders, >$600m 2026 YTD orders and rising AP mix support durable process-control exposure; premium valuation and strong competitors remain the main limits.
 - **SUSS: Investment Capture 3.7/5 → `Watch`.** Temporary bonding/debonding has real HBM qualification and high small-cap sensitivity, but management also reports competition at a Korean HBM customer and SUSS remains a follower in hybrid bonding.
 - Added `research/memory/synthesis-ranking.md` as the canonical interim cross-bottleneck/company comparison. Current completed-company order is **FormFactor > Camtek > SUSS**, with no High-conviction research candidate yet.
 - The synthesis explicitly preserves the strongest contradictory evidence and separates bottleneck quality from valuation/architecture risk.
@@ -147,7 +157,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Separated **Bottleneck Strength** from **Investment Capture** so technical scarcity is not automatically treated as an attractive investment.
 - Prioritised HBM stacking/bonding/thermal/yield first, followed by advanced packaging and test, then wafer processing/TSV and interfaces/MRDIMM/CXL.
 - Added evidence standards, falsification requirements, completion gates and a parallel agent/collaborator workflow.
-- No investment conclusion or watchlist status changed as a result of the planning update.
+- No investment conclusion or company conviction level changed as a result of the planning update.
 
 ## 2026-09-06
 
