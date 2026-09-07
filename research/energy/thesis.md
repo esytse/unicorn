@@ -1,78 +1,157 @@
 # AI Energy / Power Delivery — Working Thesis
 
-**Status:** Research stream opened  
-**Confidence:** Medium on demand / grid-delivery constraint; Low-Medium on company-level value capture  
+**Status:** Structural bottleneck map validated; moving to cross-layer ranking and company underwriting  
+**Confidence:** **High** on the coupled speed-to-power / speed-to-usable-compute thesis; **Medium** on supplier-level value capture before common-basis underwriting  
 **Last substantive update:** 2026-09-07
 
 ## Current thesis
 
-**FACT:** The IEA's 2026 update projects global data-centre electricity consumption rising from about **485 TWh in 2025 to ~950 TWh in 2030**, while AI-focused data-centre consumption grows much faster than the total. The IEA also says local energy-system bottlenecks are already limiting the most aggressive near-term buildout scenarios.
+**FACT:** The IEA's 2026 work projects global data-centre electricity consumption rising from about **485 TWh in 2025 to ~950 TWh in 2030**, while AI-focused facilities grow materially faster than the overall data-centre fleet.
 
-**HYPOTHESIS:** The most important AI-energy constraint is not simply aggregate electricity generation. It is the ability to deliver **reliable, connectable, controllable megawatts at the required location and timetable**.
+**INTERPRETATION:** The research no longer supports framing AI energy as a simple electricity-volume shortage.
 
-**INTERPRETATION:** This shifts the investment search away from generic exposure to electricity demand and toward the layers that determine **speed-to-power**: large-load interconnection, transmission/substations, transformers, switchgear, dispatchable generation equipment, behind-the-meter systems and the data-centre power-delivery architecture itself.
+The stronger conclusion is:
 
-## Why AI is different from ordinary load growth
+> **AI infrastructure is constrained by speed-to-power and speed-to-usable-compute: the ability to secure, generate, transmit, transform, protect, distribute and thermally reject large blocks of power at the required location and timetable.**
 
-- Large AI campuses concentrate hundreds of megawatts or more in one location rather than distributing demand broadly.
-- AI rack power density is rising much faster than conventional data-centre density, forcing changes in facility and rack-level power architecture.
-- AI workloads can create fast power swings, increasing the importance of storage, UPS, controls and grid/load flexibility.
-- Data-centre shell / compute deployment can move faster than transmission, generation and grid-equipment build cycles.
+This is a **serial constrained system**. Removing one constraint often shifts the bottleneck elsewhere rather than eliminating it.
 
-## Initial thesis
+## Canonical chain
 
-The working chain is:
+> **site / power rights → primary energy / fuel → generation → generation equipment → transmission → substation / transformers / switchgear → site distribution → behind-the-meter power → data-centre electrical backbone → grid-to-rack conversion → compute**, with **cooling / heat rejection** and **energy management / load flexibility** as coupled constraints.
 
-> **fuel / primary energy → generation → transmission → large-load interconnection → substations / transformers / switchgear → site distribution → onsite generation / storage / microgrid → data-centre power conversion and distribution → rack-level power delivery → compute**
+Nuclear adds an explicit upstream branch:
 
-Cooling / heat rejection is a coupled capacity constraint rather than a simple downstream step, and load flexibility / controls can feed back upstream by reducing required firm grid capacity.
+> **uranium → conversion → enrichment / HALEU where required → fuel fabrication → qualified forgings / components → nuclear EPC / QA → reactor / turbine-generator → the same transformer / transmission / electrical / cooling chain.**
 
-## Initial bottleneck hypothesis
+The canonical map and bottleneck-migration logic are in `research/energy/value-chain.md`.
 
-The highest-priority layers to test are:
+## What has been validated
 
-1. **large-load interconnection / transmission deliverability**;
-2. **large and distribution transformers / substation equipment**;
-3. **dispatchable generation equipment and turbine slots**;
-4. **medium-/low-voltage switchgear and data-centre electrical distribution**;
-5. **grid-to-rack power conversion, including the 800 VDC transition**;
-6. **behind-the-meter storage, UPS and microgrid orchestration**.
+### Immediate 2026–2030 physical bottlenecks
 
-The thesis is **not** that every company exposed to data-centre power demand will earn excess returns. Company-level capture still requires evidence on backlog, pricing, qualification, capacity expansion, competition, capital intensity and valuation.
+- **transformers / critical substation equipment — 4.7/5**;
+- **physical transmission deliverability — 4.7/5**;
+- **large gas-turbine equipment / manufacturing slots — 4.6/5**;
+- **integrated thermal chain / qualified cooling capacity — 4.4/5**;
+- **MV/HV switchgear — 4.4/5**;
+- **integrated data-centre electrical backbone — 4.3/5**;
+- **DTC liquid-cooling and facility heat-rejection functions — 4.2/5**;
+- **integrated behind-the-meter / microgrid architecture — 4.1/5**.
 
-## What would strengthen the thesis?
+### Nuclear supply-chain bottlenecks
 
-- persistent multi-year lead times for critical power equipment despite capacity additions;
-- large-load connection delays that remain binding even as generation grows;
-- supplier backlog / pricing evidence showing economic capture rather than volume alone;
-- standards or architecture transitions that increase content per MW or raise qualification barriers;
-- customers paying premiums for speed-to-power, onsite generation or integrated power systems;
-- evidence that higher rack density creates new power-electronics / distribution bottlenecks.
+- **HALEU enrichment / deconversion — 4.7/5**, mainly tied to 2030s advanced-reactor demand;
+- **Western LEU enrichment — 4.6/5**;
+- **large nuclear forgings / long-lead heavy components — 4.5/5**;
+- **nuclear EPC / QA / qualified workforce — 4.4/5**;
+- **UF6 conversion — 4.3/5**.
+
+Near-term nuclear power is primarily an **existing-fleet / life-extension / restart / uprate** story. Most new large and advanced reactors are a 2030s pathway.
+
+## What the research has rejected or narrowed
+
+The evidence does **not** support several broad thematic shortcuts:
+
+- interconnection queue MW is not a credible demand forecast or durable merchant bottleneck by itself;
+- generic BESS hardware is not structurally scarce (**3.4/5**);
+- reciprocating gensets benefit from demand but remain relatively substitutable (**3.6/5**);
+- 800 VDC is a major architecture transition, but broad supplier scarcity is only about **3.6/5** because the ecosystem is deliberately open;
+- liquid cooling can be technically mandatory while generic cold plates / CDUs remain multi-source (~**3.8/5 supplier scarcity**);
+- uranium mining is not the tightest nuclear layer (**3.5/5**); downstream conversion, enrichment and qualified manufacturing are scarcer;
+- generic SMR exposure should not be promoted before actual licensed repeat deployment / fuel / manufacturing evidence.
+
+## Bottleneck migration is central to the thesis
+
+Examples:
+
+```text
+grid queue reform
+→ physical transmission / substation work remains
+```
+
+```text
+grid delay
+→ onsite power
+→ turbine / gas / permit / electrical constraints
+→ cooling constraint
+```
+
+```text
+new nuclear demand
+→ enrichment / HALEU
+→ forgings / qualified components
+→ EPC / workforce
+→ transformer / transmission / cooling constraints downstream
+```
+
+```text
+54 VDC architecture reaches limits
+→ 800 VDC
+→ value shifts toward conversion / protection / busway
+→ open standards reduce broad supplier lock-in
+```
+
+**INTERPRETATION:** A supplier is more interesting when it owns the **function that remains necessary after the architecture changes**, not merely the current implementation.
+
+## Investment hypothesis
+
+The programme should now stop broad bottleneck discovery and test which companies satisfy four conditions simultaneously:
+
+1. **validated structural bottleneck exposure**;
+2. **direct enough revenue / margin sensitivity for AI demand to change normalized earnings**;
+3. **architecture resilience plus qualification / service economics**;
+4. **valuation / company size that leaves meaningful asymmetry**.
+
+Bottleneck strength and stock attractiveness remain separate gates.
+
+## What would strengthen the thesis further?
+
+- customers continuing to reserve or prepay qualified capacity;
+- scarcity translating into persistent price / margin / service economics after announced factory expansions;
+- physical transmission and transformer demand remaining strong after speculative data-centre projects are screened out;
+- more evidence that BTM architectures move rather than remove bottlenecks;
+- nuclear enrichment / component reservation extending beyond government-supported first-of-a-kind projects;
+- multi-MW thermal qualification narrowing the practical supplier set despite open interfaces;
+- evidence that architecture-resilient suppliers gain content as 800 VDC / liquid cooling mature.
 
 ## What would weaken it?
 
-- grid/interconnection reforms materially shorten connection timelines without shifting scarcity elsewhere;
-- rapid transformer, turbine or switchgear capacity additions erase pricing / lead-time power;
-- open standards create broad substitutability before suppliers establish durable differentiation;
-- AI efficiency improvements materially reduce site-level power requirements;
-- announced data-centre demand proves materially overstated or duplicative;
-- hyperscalers vertically integrate enough power infrastructure to commoditise merchant suppliers.
+- AI campus construction falling far below funded / contracted pipelines;
+- transformer, turbine, cooling or electrical capacity expansions removing schedule premiums without sustained service economics;
+- transmission reform / reconductoring unlocking sufficient capacity with limited new equipment demand;
+- rapid standardisation commoditising integrated systems faster than technical complexity rises;
+- hyperscaler vertical integration materially reducing merchant supplier capture;
+- advanced nuclear projects slipping well beyond current 2030–2035 windows, reducing enrichment / manufacturing demand;
+- efficiency improvements reducing total site MW and rack heat density materially faster than compute demand grows.
 
-## Open questions
+## Next decision gate
 
-1. Which constraint is currently most binding: generation, grid connection, transformers/substations, onsite power or facility distribution?
-2. Which bottlenecks are global versus region-specific?
-3. Where do long lead times reflect temporary capacity shortages versus durable qualification / engineering barriers?
-4. Which layers gain content per MW as rack density moves toward 200 kW, 600 kW and eventually MW-scale racks?
-5. Does 800 VDC create a concentrated new supplier layer or an open ecosystem with limited pricing power?
-6. Which smaller listed or private suppliers have disproportionate earnings sensitivity without already-large valuations?
-7. Where does cooling become the binding constraint even if electrical power is available?
+Issue #52 ranks the validated bottlenecks on a common basis including:
+
+- structural scarcity;
+- AI-specific sensitivity;
+- supplier concentration;
+- supply elasticity;
+- qualification / switching cost;
+- architecture resilience;
+- pricing / backlog / margin evidence;
+- service economics;
+- capital intensity / overbuild risk;
+- timing;
+- investable supplier availability.
+
+Only a small top tier should proceed to company Investment Capture #53, followed by capital allocation #54.
 
 ## Core sources
 
+The canonical value-chain and deep dives contain the recoverable source set. Key starting points include:
+
 - IEA — Key Questions on Energy and AI, 2026: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
 - IEA — Energy and AI / Energy demand from AI: https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai
-- IEA — Energy supply for AI: https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
-- FERC — large-load integration orders, 18 June 2026: https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration
-- US DOE — Distribution Transformer webinar, 2026: https://www.energy.gov/oe/distribution-transformer-webinar-text-alternative
-- NVIDIA — 800 VDC architecture, August 2026: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
+- FERC — large-load integration action, 18 June 2026: https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration
+- US DOE — Distribution Transformer webinar: https://www.energy.gov/oe/distribution-transformer-webinar-text-alternative
+- NVIDIA — 800 VDC architecture: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
+- ASHRAE / PNNL / NEMA — AI Data Center Energy Performance Framework: https://www.ashrae.org/technical-resources/ai-data-center-framework
+- US DOE — uranium enrichment awards: https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment
+- US DOE — American Nuclear Supply Chain Loans: https://www.energy.gov/articles/department-energy-announces-american-nuclear-supply-chain-loans
