@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Probe-card capital allocation normalized; JEM remains an investigation
+
+- Opened **#31** and added `research/memory/probe-card-capital-allocation.md` to test JEM, Micronics Japan, FormFactor and Technoprobe on a common normalized-return basis.
+- **JEM is the strongest new valuation lead but does not pass Gate C.** At the 4 September ¥6,230 reference, the initial EPS-normalized screen gives roughly **9.4% base CAGR**, **-9.8% bear CAGR** and a **~¥5,640** 12% base-return monitoring zone. The 7 September close of ¥6,650 widened the gap to that zone.
+- **The HBM link strengthened but remains incomplete.** A JEM company-controlled page says DRAM share is increasing around HBM; FY2026 major-customer disclosures show Micron Memory Japan + Taiwan were roughly **31% of sales**. Exact HBM production sockets, HBM revenue and share are still not disclosed.
+- **Falsification materially weakens the simple low-P/E thesis.** The top three customers were ~44.7% of FY2026 sales; TTM FCF through June was only ~¥2.24bn; FY2026 financing included ~¥12.15bn of new equity issuance; shares outstanding increased materially; and competitor evidence on JEM's DRAM position is mixed.
+- JEM remains **`Investigating`** and does **not** outrank the fully underwritten Onto / SUSS capital watch. The provisional research order is **Onto → SUSS → JEM → Micronics / Technoprobe → Camtek → FormFactor**.
+- The active backlog is reprioritized to **#31 JEM/probe-card evidence gap → #5 Weebit Nano → #3 robotics actuators**. No company is promoted to `High-conviction research candidate`.
+
 ### Probe-card peer screen surfaces JEM as a valuation lead
 
 - Added `research/memory/deep-dives/probe-card-peer-value.md` to compare **Japan Electronic Materials (JEM), Micronics Japan (MJC), FormFactor and Technoprobe** on HBM-test exposure, operating evidence and valuation asymmetry.
