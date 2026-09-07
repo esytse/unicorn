@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Integrated thermal chain validated as AI usable-compute bottleneck
+
+- Completed **#49** and added `research/energy/deep-dives/cooling-heat-rejection.md`.
+- **Integrated thermal chain / qualified cooling capacity passes Gate A at 4.4/5 with Medium-High confidence.** Cooling is part of the capacity path: essentially every compute MW becomes heat that must be captured, transported and rejected before electrical capacity becomes usable AI compute.
+- **Direct-to-chip liquid cooling and facility heat rejection each pass at 4.2/5 as technical functions**, but generic cold-plate / CDU / manifold supplier scarcity is only about **3.8/5** because OCP standardisation, multi-sourcing and rapid capacity additions weaken component-level lock-in.
+- **The strongest revealed-preference evidence is Modine's >$4bn 2027–2029 cooling-capacity agreement and $165m upfront customer payment** to fund supply expansion. Subsequent Data Centers revenue grew 90% y/y while expansion / supply-chain costs pressured margins, showing both real scarcity and real execution risk.
+- Eaton's ~$9.5bn Boyd Thermal acquisition and Schneider / Vertiv thermal-platform expansion support the strategic value of owning the chip-to-ambient thermal chain, but demanding M&A valuations are evidence against assuming easy investment asymmetry.
+- **Heat rejection is architecture-resilient; chillers are not.** Warm-water DTC can shift facilities toward dry / hybrid cooling and reduce conventional chiller or water dependence, so later underwriting should favour suppliers that span thermal functions across architectures.
+- Broad non-nuclear bottleneck discovery is now complete. The programme proceeds to **nuclear supply-chain decomposition #50**, then the canonical **E2E bottleneck-migration refresh #51**, common-basis ranking #52, supplier Investment Capture #53 and capital allocation #54.
+
 ### Behind-the-meter integration validated as moderate speed-to-power bottleneck
 
 - Completed **#47** and added `research/energy/deep-dives/behind-the-meter-microgrids.md`.
@@ -87,7 +97,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - **Japan Electronic Materials enters `Investigating`.** FY2027 guidance was raised to ¥36.4bn revenue / ¥9.45bn operating profit as memory-probe-card demand and factory utilisation strengthened. At roughly a ¥97bn 7 September equity value, JEM is the highest-priority new valuation lead, but HBM-specific customers/share and normalized-cycle economics remain unverified.
 - **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
 - **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8%, with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
-- **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe-card alternatives that may offer better valuation asymmetry.
+- **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe alternatives that may offer better valuation asymmetry.
 - No company is promoted to `High-conviction research candidate`. The next probe-card work is a common-basis valuation / normalized-cycle comparison, with JEM first and MJC second.
 
 ### Capital allocation scenarios completed; no Gate C candidate at current prices
