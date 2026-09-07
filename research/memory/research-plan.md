@@ -1,6 +1,6 @@
 # AI Memory Research Plan
 
-**Status:** Active — valuation monitoring / selective optionality phase  
+**Status:** Active — probe-card valuation challenge / selective optionality phase  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
 **Purpose:** Identify structural AI-memory bottlenecks, determine which companies capture their economics, then allocate research effort only where valuation or new evidence creates genuine asymmetry.
@@ -31,7 +31,7 @@ Broad bottleneck discovery is no longer the default priority.
 
 ---
 
-## 3. Company underwriting — complete
+## 3. Completed company underwriting
 
 | Company | Investment Capture | Status | Main constraint |
 |---|---:|---|---|
@@ -43,15 +43,13 @@ Broad bottleneck discovery is no longer the default priority.
 | ASMPT | **3.7/5** | Watch | HBM exposure diluted by broader Group |
 | Hanmi Semiconductor | **3.6/5** | Watch | customer + TCB concentration / extreme valuation |
 
-The targeted wafer-processing follow-up is complete; DISCO remains a benchmark `Watch` rather than a priority deep dive.
+DISCO remains a process benchmark `Watch` rather than a priority company deep dive.
 
 ---
 
-## 4. Capital allocation (#27) — complete
+## 4. Initial capital allocation (#27) — complete
 
 Canonical analysis: `research/memory/capital-allocation.md`.
-
-**Conclusion:** no company passes Gate C at the 4 September 2026 reference prices.
 
 | Capital watch rank | Company | Bear CAGR | Base CAGR | Bull CAGR | Approx. 12% base-return zone |
 |---:|---|---:|---:|---:|---:|
@@ -60,139 +58,137 @@ Canonical analysis: `research/memory/capital-allocation.md`.
 | **3** | **Camtek** | -15.7% | **3.8%** | 19.0% | **~$106** |
 | **4** | **FormFactor** | -15.7% | **1.5%** | 14.9% | **~$68** |
 
-These are scenario outputs, not price targets or recommendations.
-
-### Key interpretation
-
-- **Onto** is closest to Gate C because it combines strong HBM/AP evidence, margins and the least demanding valuation hurdle among the high-quality US names.
-- **SUSS** has the highest small-cap asymmetry but much wider execution/customer downside.
-- **Camtek** and **FormFactor** remain excellent businesses; current valuations are the binding constraint.
-- **ASMPT** was screened but does not improve the current allocation frontier at its current multiple and broader-company earnings dilution.
+No company passed Gate C.
 
 ---
 
-## 5. Gate C remains deliberately rare
+## 5. Probe-card peer challenge (#31) — immediate priority
 
-A `High-conviction research candidate` now requires:
+PR #30 identified listed memory-probe-card peers that may express the already-validated 4.6/5 HBM-test bottleneck at better valuations than FormFactor.
 
-- Gate A and Gate B evidence;
-- explicit bear/base/bull valuation;
-- attractive base and risk-adjusted expected return;
-- meaningful downside protection / margin of safety;
-- manageable balance sheet, dilution and customer risk;
-- explicit monitoring indicators and thesis breakers.
+Canonical analyses:
 
-**No company qualifies today.** Do not promote a name merely because its share price falls; verify that the operating thesis remains intact at the new price.
+- `research/memory/deep-dives/probe-card-peer-value.md`
+- `research/memory/probe-card-capital-allocation.md`
+- `research/memory/companies/japan-electronic-materials.md`
+
+### First normalization / falsification result
+
+| Peer | 4 Sep reference | Base CAGR | ~12% base-return zone | Current research view |
+|---|---:|---:|---:|---|
+| **JEM** | ¥6,230 | **~9.4%** | **~¥5,640** | **Investigating — best new valuation lead, but FCF/dilution/evidence gaps remain** |
+| **Micronics Japan** | ¥11,940 | **~6.8%** | **~¥9,760** | Investigating — quality/value comparator |
+| **Technoprobe** | €27.46 | **~6.9%** | **~€22.55** | Watch — operating benchmark / premium expectations |
+| **FormFactor** | $103.90 | **~1.5%** | **~$68** | Watch — strongest direct HBM evidence, valuation demanding |
+
+JEM's HBM link is more credible after the evidence pass: a company-controlled page says DRAM share is rising around HBM, and FY2026 major-customer disclosures show Micron Memory Japan + Taiwan represented ~31% of sales. But the same pass found weak current FCF conversion, material 2026 equity issuance, high customer concentration and contradictory competitor evidence.
+
+**Conclusion:** JEM is the immediate research priority, but **does not rank above Onto / SUSS for capital allocation yet**.
+
+### #31 completion gate
+
+Before JEM can move to `Watch` or alter Gate C conclusions, verify or explicitly exhaust public evidence on:
+
+- HBM production sockets / share by customer;
+- HBM-specific revenue versus conventional DRAM/NAND;
+- normalized margin and FCF after current capacity investment;
+- future capex / dilution requirements;
+- refreshed valuation.
+
+A lower P/E alone is not enough.
 
 ---
 
-## 6. AI-memory monitoring triggers
+## 6. Gate C remains deliberately rare
 
-Re-run `capital-allocation.md` when any of the following occurs:
+A `High-conviction research candidate` requires Gate A/B evidence, explicit bear/base/bull valuation, attractive risk-adjusted return, downside protection, manageable balance-sheet/dilution/customer risk and explicit monitoring indicators / thesis breakers.
+
+**No company qualifies today.**
+
+---
+
+## 7. Current research / capital frontier
+
+### Fully underwritten capital watch
+
+**Onto → SUSS → Camtek → FormFactor.**
+
+### New probe-card challenger lane
+
+**JEM → Micronics → Technoprobe.**
+
+### Provisional combined order after JEM falsification
+
+**Onto → SUSS → JEM (provisional investigation) → Micronics / Technoprobe → Camtek → FormFactor.**
+
+This is a research-priority view, not a recommendation ranking. JEM's EPS-based scenario looks competitive, but cash conversion and evidence quality prevent a capital-ranking promotion.
+
+---
+
+## 8. Monitoring triggers
+
+Re-run capital allocation when any of the following occurs:
 
 ### Price triggers, absent thesis deterioration
 
 - Onto approaches **~$250** or below;
 - SUSS approaches **~€64** or below;
+- JEM approaches **~¥5,600** or below **and** cash-conversion / HBM evidence remains intact;
+- Micronics approaches **~¥9,800** or below;
+- Technoprobe approaches **~€22.5** or below;
 - Camtek approaches **~$105** or below;
 - FormFactor approaches **~$68** or below.
 
 ### Evidence triggers
 
 - material earnings-estimate revisions;
-- new HBM4/HBM4E/HBM5 process-of-record or share evidence;
+- new HBM4/HBM4E/HBM5 customer/share evidence;
+- probe-card second sourcing / customer concentration changes;
 - backlog cancellation / capex pull-forward evidence;
-- hybrid-bond production qualification;
-- margin deterioration or operating leverage materially different from the model;
-- customer concentration, second sourcing or architecture substitution changes.
-
-A material change should update the company file, capital-allocation model, synthesis, watchlist and changelog as appropriate.
+- margin / FCF conversion materially different from the model;
+- new equity issuance or other dilution;
+- architecture substitution changes.
 
 ---
 
-## 7. Research-effort allocation from here
+## 9. Research-effort allocation from here
 
-The marginal value of finding another conventional HBM equipment supplier is now lower than it was at the start of the programme.
+PR #30 is an exception to the move away from broad supplier discovery because it found a potentially better **valuation expression of an already-validated bottleneck**.
 
-### Current priority
+### Current sequence
 
-1. **Maintain the AI-memory capital watch** using the triggers above.
-2. **#5 Weebit Nano** — test the speculative emerging-memory / architectural-discontinuity thesis. This is deliberately different from the validated current bottlenecks and should be treated as a high-risk optionality study, not grouped with the current Gate-A beneficiaries.
-3. **#3 robotics actuators** — build the separate end-to-end actuator bottleneck map.
+1. **#31 probe-card capital allocation / JEM evidence gap — immediate.** Finish the public-evidence exhaustion and decide whether JEM remains `Investigating`, moves to `Watch`, or is deprioritized.
+2. **#5 Weebit Nano** — speculative emerging-memory / architectural-discontinuity thesis.
+3. **#3 robotics actuators** — separate end-to-end actuator bottleneck map.
 
-Do not open additional AI-memory supplier deep dives unless new evidence suggests a materially better combination of bottleneck strength, company capture and valuation than the existing set.
-
----
-
-## 8. Evidence standard
-
-Prefer:
-
-1. regulatory filings / audited disclosures;
-2. technical standards / peer-reviewed papers;
-3. customer / supplier primary disclosures;
-4. earnings calls and investor presentations;
-5. reputable industry research;
-6. specialist journalism;
-7. community discussion only for question generation.
-
-Point-in-time valuation must carry a date and be refreshed before a capital-allocation conclusion.
+Do not open additional AI-memory supplier deep dives unless new evidence suggests a materially better combination of bottleneck strength, company capture and valuation than the existing frontier.
 
 ---
 
-## 9. Falsification requirement
+## 10. Evidence standard and falsification
 
-Every analysis must actively search for:
+Prefer regulatory/audited disclosures, technical standards/papers, customer/supplier primary disclosure, earnings calls/investor presentations, reputable industry research, then specialist journalism. Community discussion is question generation only.
 
-- second sourcing / share loss;
-- rapid capacity additions;
-- architecture substitution;
-- process simplification;
-- customer bargaining power;
-- falling equipment/content intensity;
-- margin normalisation;
-- cyclicality / capex pull-forward;
-- valuation that already assumes the upside.
+Every analysis must actively search for second sourcing/share loss, rapid capacity additions, architecture substitution, customer bargaining power, falling content intensity, margin normalization, capex pull-forward, dilution and valuation that already assumes the upside.
 
-Contradictory evidence stays in the canonical file.
+Point-in-time valuation must carry a date and be refreshed before a capital-allocation conclusion. Contradictory evidence stays in the canonical file.
 
 ---
 
-## 10. Working outputs
+## 11. Working outputs
 
-Maintain canonical living files only:
-
-1. `value-chain.md` — bottleneck map;
-2. `research-plan.md` — active execution plan;
-3. `deep-dives/*.md` — bottleneck/process research;
-4. `companies/*.md` — company underwriting;
-5. `synthesis-ranking.md` — cross-company synthesis;
-6. `capital-allocation.md` — scenario / margin-of-safety comparison;
-7. `watchlist.md` — research status and monitoring;
-8. `sources/source-register.md` — important sources;
-9. `CHANGELOG.md` — material changes.
+Maintain canonical living files only: `value-chain.md`, `research-plan.md`, `deep-dives/*.md`, `companies/*.md`, `synthesis-ranking.md`, capital-allocation analyses, `watchlist.md`, `sources/source-register.md` and `CHANGELOG.md`.
 
 Git history is the version record; do not create versioned copies.
 
 ---
 
-## 11. Agent + collaborator workflow
+## 12. Agent + collaborator workflow
 
-For each substantive workstream:
-
-1. read `AGENTS.md` and canonical files;
-2. work on a branch;
-3. build the primary evidence case;
-4. perform an explicit falsification pass;
-5. update canonical documentation and source register where relevant;
-6. update `CHANGELOG.md` for material changes;
-7. open a PR;
-8. wait for `Research governance` to pass;
-9. merge only after required checks pass;
-10. comment/close completed backlog issues.
+For each substantive workstream: read governance/current research, work on a branch, build the primary evidence case, perform falsification, update canonical documentation and sources, update `CHANGELOG.md`, open a PR, wait for `Research governance`, merge only after required checks pass, then comment/close completed backlog issues.
 
 ---
 
-## 12. Immediate question
+## 13. Immediate question
 
-> **Can a price reset or stronger normalized earnings evidence turn Onto or SUSS into a genuine Gate-C candidate — while Weebit offers a separate, much more speculative architecture-discontinuity path?**
+> **Can JEM's low-teens guided earnings multiple survive a cash-flow, dilution and HBM-share evidence test strongly enough to enter the primary capital watch — or is the discount compensation for concentration, capital intensity and lower disclosure quality?**
