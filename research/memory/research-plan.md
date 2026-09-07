@@ -7,41 +7,105 @@
 
 ## 1. Decision we want to reach
 
-The research must answer two separate questions:
+The research must keep two questions separate:
 
 1. **Where are the real structural bottlenecks in the AI-memory value chain?**
-2. **Which investable companies capture the economics of those bottlenecks strongly enough for AI-driven demand to materially change their earnings trajectory?**
+2. **Which investable companies capture the economics strongly enough, and at a valuation that still leaves attractive asymmetry?**
 
-A severe technical bottleneck can still be a poor investment if the economics accrue to a very large incumbent, are competed away, require excessive capital, or are already fully reflected in valuation.
+A severe technical bottleneck can still be a poor investment if economics accrue to a giant incumbent, are competed away, require excessive capital, or are already priced in.
+
+---
 
 ## 2. Current validated state
 
-Three workstreams have now passed Gate A:
+Four workstreams now pass Gate A:
 
 | Bottleneck | Bottleneck Strength | Current conclusion |
 |---|---:|---|
 | Advanced packaging / interposers / process control | **4.7/5** | Structural and likely to persist through architecture transitions |
-| HBM stacking / bonding / thermal / yield | **4.6/5** | Structural; the bottleneck is likely to migrate toward hybrid-bond surface preparation/alignment/metrology rather than disappear |
-| Test / known-good-die / burn-in | **4.6/5** | Structural; expensive heterogeneous packages increase the value and number of test insertion points |
+| HBM stacking / bonding / thermal / yield | **4.6/5** | Structural; bottleneck migrates toward hybrid-bond surface preparation/alignment/metrology rather than disappearing |
+| Test / known-good-die / burn-in | **4.6/5** | Structural; expensive heterogeneous packages increase the number and value of test insertion points |
+| DDR5 / MRDIMM interface silicon | **4.4/5** | Structural within registered/multiplexed server memory; concentrated qualified supplier base |
 
-The research has therefore reached a transition point: **the highest-value next work is no longer broad bottleneck discovery. It is investment-capture underwriting plus one strategically different bottleneck test — memory interfaces / MRDIMM / CXL.**
+**CXL memory-expander controllers currently score 3.2/5 and do not pass Gate A.** Keep CXL as emerging optionality until adoption and merchant economic capture strengthen.
 
-## 3. Research principle
+The programme has now moved decisively from broad bottleneck discovery toward **Investment Capture underwriting**.
 
-We are looking for **structural dependency plus economic capture**, not simply growth.
+---
 
-A bottleneck is stronger when:
+## 3. First company wave — complete
 
-- the physical problem gets harder with each generation;
-- capacity is slow or expensive to add;
-- there are few qualified suppliers;
-- qualification and switching are difficult;
-- failure at that step prevents the final system from shipping;
-- the supplier can retain some economics through pricing, margins, share, service or content growth.
+The first planned underwriting wave is complete:
 
-Every deep dive must actively search for evidence that the apparent bottleneck is temporary, easy to substitute, vertically integrated, or economically unattractive.
+| Company | Bottleneck | Investment Capture | Status | Main unresolved issue |
+|---|---|---:|---|---|
+| FormFactor (#21) | HBM test / probe cards | **4.0/5** | Watch | Valuation and undisclosed absolute HBM profit share |
+| Camtek (#22) | AP inspection / metrology | **3.9/5** | Watch | Premium valuation and whether 2026 orders contain pull-forward |
+| SUSS (#15) | HBM thinning / temporary bonding | **3.7/5** | Watch | Customer/process-of-record competition and unproven HBM hybrid-bond capture |
 
-## 4. Two-score framework
+The interim synthesis is maintained in `research/memory/synthesis-ranking.md`.
+
+**No company is a High-conviction research candidate yet.** For FormFactor and Camtek, valuation is increasingly the binding constraint. For SUSS, technology/customer transition risk is the binding constraint.
+
+---
+
+## 4. Revised execution sequence
+
+### Priority A — Montage Technology company underwriting (#25)
+
+The DDR5/MRDIMM interface layer has passed Gate A at 4.4/5, so Montage now requires a company-level test rather than more generic interface research.
+
+Focus on:
+
+- DDR5 RCD revenue/share and gross-margin durability;
+- MRDIMM MRCD/MDB content and adoption across Intel/AMD/OEM platforms;
+- newer product revenue from CKD, retimers and CXL MXC;
+- competition versus Renesas and Rambus in the core interface franchise;
+- platform qualification / standards participation / switching costs;
+- customer and geopolitical/foundry risk;
+- market-cap asymmetry and valuation expectations.
+
+**Important:** The technical thesis is now much stronger, but Montage is already large and highly valued. The company must not be promoted merely because the bottleneck passed Gate A.
+
+### Priority B — second company wave
+
+Run next, preferably as distinct files/branches:
+
+1. **Onto Innovation (#23)** — compare directly with Camtek in HBM4/AP inspection and process control.
+2. **Hanmi Semiconductor (#16)** — determine whether current TCB dominance is a moat or a technology-transition trap.
+3. **ASMPT (#18)** — test whether multi-customer/multi-architecture bonding exposure is more durable than Hanmi's concentration.
+
+### Priority C — targeted wafer-processing follow-up (#12)
+
+Do **not** repeat a broad HBM/TSV value-chain study. The HBM stacking work already validated thinning and temporary bonding/debonding.
+
+Close only the remaining economic-capture gaps:
+
+- DISCO / ultra-thin grinding and polishing;
+- precision dicing / singulation;
+- carrier/debond steps not already covered by SUSS;
+- metrology specific to ultra-thin HBM wafers;
+- how hybrid bonding changes tool/content intensity.
+
+Only open new company work if the incremental process evidence justifies it.
+
+### Priority D — refresh synthesis
+
+After #25, #23, #16 and #18 (or earlier if a thesis breaks materially), update the ranking rather than automatically adding more companies.
+
+Compare:
+
+- Bottleneck Strength;
+- Investment Capture;
+- market-cap asymmetry;
+- valuation;
+- architecture-transition durability;
+- strongest evidence against the thesis;
+- catalysts and thesis breakers.
+
+---
+
+## 5. Two-score framework
 
 ### A. Bottleneck Strength Score — 1 to 5
 
@@ -53,7 +117,7 @@ Score:
 - qualification / switching;
 - system criticality.
 
-A bottleneck should normally reach approximately **4/5 or higher** before substantial company-level valuation work.
+A bottleneck normally needs approximately **4/5 or higher** before substantial company valuation work.
 
 ### B. Investment Capture Score — 1 to 5
 
@@ -68,101 +132,9 @@ For a company exposed to a validated bottleneck, score:
 
 A strong research candidate requires both a real bottleneck and credible economic capture.
 
-## 5. Revised execution sequence
+---
 
-### Priority A — Memory interfaces / MRDIMM / CXL (#13)
-
-**Priority:** Immediate
-
-This workstream is deliberately different from the manufacturing-side bottlenecks already validated. It tests whether rising memory speed, bandwidth and capacity make specialist interface/controller silicon structurally mandatory.
-
-Separate:
-
-1. DDR5 register clock drivers / data buffers;
-2. MRDIMM multiplexing and interface silicon;
-3. PMIC / clocking support;
-4. CXL memory-expander controllers;
-5. CXL switches;
-6. firmware / interoperability.
-
-Key questions:
-
-- Which chips are mandatory versus optional?
-- How concentrated are qualified suppliers and market share?
-- How long is platform/OEM qualification and what are the switching costs?
-- Can CPU vendors or hyperscalers integrate these functions?
-- Does each generation increase silicon content per DIMM/system?
-- Is CXL creating a durable new profit pool or shifting value to larger incumbents?
-
-**Montage Technology must be assessed as a candidate, not assumed to be the winner.**
-
-Deliverable: `research/memory/deep-dives/interfaces-cxl.md`.
-
-### Priority B — Company Investment Capture deep dives
-
-Start company underwriting in parallel because three bottlenecks have already passed Gate A.
-
-**First wave:**
-
-- **FormFactor (#21)** — HBM probe-card leverage and moat;
-- **Camtek (#22)** — advanced-packaging inspection/metrology leverage;
-- **SUSS (#15)** — temporary bonding/debonding and hybrid-bond transition.
-
-**Second wave:**
-
-- **Onto Innovation (#23)** — HBM4 / advanced-packaging process control;
-- **Hanmi Semiconductor (#16)** — current TCB leadership versus hybrid-bond transition risk;
-- **ASMPT (#18)** — multi-customer, multi-architecture bonding exposure.
-
-The first wave should be completed before opening many more company deep dives unless new evidence materially changes priorities.
-
-### Priority C — Narrowed wafer-processing follow-up (#12)
-
-Do **not** rerun a broad wafer-thinning / TSV study. The HBM stacking work already established thinning plus temporary bonding/debonding as a real sub-bottleneck.
-
-Issue #12 should now answer only the unresolved economic-capture questions:
-
-- Is ultra-thin grinding/polishing/dicing sufficiently hard to create durable supplier power?
-- Does DISCO or another precision-processing supplier gain disproportionate HBM content?
-- Which temporary-carrier, debond, metrology or dicing steps remain under-researched after the SUSS work?
-- How does hybrid bonding alter demand for these tools?
-
-Treat #12 as a **targeted validation / gap-closing workstream**, not another broad value-chain exercise.
-
-### Priority D — Interim synthesis
-
-Do not wait for every possible backlog item to finish.
-
-After #13 and at least three company Investment Capture deep dives, create an interim ranking comparing:
-
-- Bottleneck Strength Score;
-- Investment Capture Score;
-- market cap / asymmetry;
-- durability across architecture transitions;
-- valuation;
-- thesis breakers;
-- strongest evidence against the thesis.
-
-Use that synthesis to decide which remaining backlog items deserve more research.
-
-## 6. Benchmark workstream — large incumbents
-
-SK hynix, Micron, Samsung, TSMC, Advantest and Teradyne should primarily remain **benchmarks** unless new evidence shows they are the best way to capture the thesis.
-
-Track them for:
-
-- HBM / advanced-packaging mix;
-- capacity and capex;
-- pricing / contracts;
-- yields and qualification where disclosed;
-- customer concentration;
-- margin and return-on-capital effects.
-
-Their disclosures help determine whether economic value is flowing into smaller equipment/material/interface suppliers.
-
-## 7. Supplier discovery and economic-capture process
-
-For each validated bottleneck:
+## 6. Supplier-discovery / underwriting process
 
 ### Pass 1 — Exposure
 
@@ -170,36 +142,39 @@ Identify equipment, materials, test/metrology, interface silicon/IP and assembly
 
 ### Pass 2 — Qualification evidence
 
-Look for:
+Prefer named or strongly triangulated evidence of:
 
-- named customers or credible customer-class evidence;
 - design wins / qualified-vendor status;
 - installed-base share;
 - repeat orders;
 - multi-year agreements;
 - customer capex linked to supplier orders.
 
-Treat vague references to "AI demand" as weak evidence.
+Treat generic "AI demand" references as weak evidence.
 
 ### Pass 3 — Financial sensitivity
 
 Estimate:
 
-- percentage of revenue exposed to the relevant bottleneck;
+- percentage of revenue/profit exposed to the bottleneck;
 - growth of that revenue;
-- margins / incremental margins;
-- capital needs;
+- margins and incremental margins;
+- capital requirements;
 - backlog / book-to-bill where meaningful;
 - customer concentration;
-- content per HBM stack/package/server.
+- content per HBM stack/package/server/module.
 
 ### Pass 4 — Asymmetry
 
 Ask:
 
-> If the bottleneck doubles in economic value over 3–5 years, how much can this company's revenue, earnings and valuation plausibly change?
+> If the bottleneck doubles in economic value over 3–5 years, how much can this company's revenue, earnings and valuation plausibly change from today's starting point?
 
-## 8. Evidence standard
+This must explicitly include the current market capitalization and valuation. A technically perfect supplier can fail the investment test if the market has already capitalised the opportunity.
+
+---
+
+## 7. Evidence standard
 
 Prefer, roughly:
 
@@ -211,27 +186,36 @@ Prefer, roughly:
 6. specialist journalism;
 7. community discussion only for question generation.
 
-For a material bottleneck claim, try to establish multiple independent indicators: customer constraint, supplier capacity expansion, backlog/lead time, technical difficulty, limited substitution and/or economic capture.
+For a material bottleneck or moat claim, triangulate across multiple source classes when possible.
 
-## 9. Falsification requirement
+Point-in-time valuation data must be labelled with its date and refreshed before a capital-allocation conclusion.
 
-Every deep dive must include **Evidence against the thesis** and explicitly search for:
+---
+
+## 8. Falsification requirement
+
+Every bottleneck/company deep dive must contain **Evidence against the thesis** and actively search for:
 
 - rapid capacity additions;
 - second sourcing;
 - process simplification;
 - vertical integration;
 - alternative architectures;
-- falling equipment intensity;
+- falling equipment/content intensity;
 - customer bargaining power;
 - commoditisation;
-- margin compression despite strong demand.
+- margin compression despite strong demand;
+- valuation that already assumes the upside.
 
-## 10. Completion gates
+Contradictory evidence must remain in the canonical file.
+
+---
+
+## 9. Completion gates
 
 ### Gate A — Bottleneck validated
 
-Advance to company work only if the bottleneck is approximately **4/5 or higher**, supported by multiple source classes, structural across generations, and not obviously displaced by a rapid substitute.
+Require approximately **4/5 or higher**, multiple evidence classes, persistence across generations and no obvious rapid substitute.
 
 ### Gate B — Company candidate validated
 
@@ -239,20 +223,51 @@ A company should be `Investigating` only if it has meaningful exposure, qualific
 
 ### Gate C — High-conviction research candidate
 
-Require strong bottleneck evidence, strong competitive evidence, clear economic capture, manageable execution/balance-sheet risk, valuation headroom and explicit thesis breakers.
+Require all of:
+
+- strong bottleneck evidence;
+- strong competitive/qualification evidence;
+- clear financial capture;
+- manageable balance-sheet/execution risk;
+- valuation headroom;
+- explicit thesis breakers and monitoring indicators.
+
+This status should remain rare.
+
+---
+
+## 10. Benchmark workstream
+
+Use SK hynix, Micron, Samsung, TSMC, Advantest and Teradyne primarily as benchmarks unless new evidence shows they are the cleanest investment vehicles.
+
+Track:
+
+- HBM/AP mix and capacity;
+- capex and pricing/contracts;
+- yield/qualification disclosures;
+- customer concentration;
+- margin / ROIC effects.
+
+These disclosures help determine whether economic value is flowing into smaller suppliers.
+
+---
 
 ## 11. Working outputs
 
 Maintain canonical living files only:
 
-1. `value-chain.md` — end-to-end map;
-2. `research-plan.md` — this execution plan;
+1. `value-chain.md` — end-to-end map and validated bottleneck state;
+2. `research-plan.md` — active execution sequence;
 3. `deep-dives/*.md` — bottleneck work;
-4. company files — Investment Capture underwriting;
-5. `watchlist.md` — prioritisation;
-6. synthesis/ranking file once enough company work exists.
+4. `companies/*.md` — Investment Capture underwriting;
+5. `synthesis-ranking.md` — cross-company comparison;
+6. `watchlist.md` — research prioritisation;
+7. `sources/source-register.md` — important cross-file sources;
+8. `CHANGELOG.md` — material conclusion/status/priority changes.
 
-Git history is the version record; do not create `final-v2` style copies.
+Git history is the version record; do not create `final-v2` copies.
+
+---
 
 ## 12. Agent + collaborator workflow
 
@@ -262,38 +277,29 @@ For each workstream:
 2. work on a branch;
 3. build the evidence case;
 4. actively challenge/falsify it;
-5. update canonical files and sources;
+5. update canonical files and source register where relevant;
 6. update `CHANGELOG.md` for material changes;
 7. open a PR;
 8. wait for `Research governance` to pass;
-9. merge after required checks pass unless manual review was explicitly requested.
+9. merge after required checks pass unless manual review was explicitly requested;
+10. close/comment the completed backlog issue so GitHub remains the operational research queue.
 
-Parallelise by distinct bottleneck/company files rather than having multiple agents edit the same file simultaneously.
+Parallelise by distinct company/bottleneck files rather than having multiple agents edit the same file simultaneously.
+
+---
 
 ## 13. Current recommended order
 
-**Run now, in parallel:**
+**Next:**
 
-1. #13 — Interfaces / MRDIMM / CXL, including Montage;
-2. #21 — FormFactor;
-3. #22 — Camtek;
-4. #15 — SUSS.
+1. #25 — Montage Technology company underwriting;
+2. #23 — Onto Innovation;
+3. #16 — Hanmi Semiconductor;
+4. #18 — ASMPT;
+5. narrowed #12 — wafer-processing economic-capture gap analysis.
 
-**Then:**
-
-5. #23 — Onto Innovation;
-6. #16 — Hanmi Semiconductor;
-7. #18 — ASMPT;
-8. narrowed #12 — wafer-processing gap analysis.
-
-**Then:** interim cross-bottleneck/company synthesis before opening many additional deep dives.
+**Then:** refresh `synthesis-ranking.md` and decide whether further company or bottleneck work is justified.
 
 ## 14. Immediate research question
 
-The next system-level question is:
-
-> **Does the memory-interface layer create a fourth structural bottleneck with better small/mid-cap investment asymmetry than the already validated manufacturing-side bottlenecks?**
-
-In parallel, the next company-level question is:
-
-> **Among FormFactor, Camtek and SUSS, which has the strongest combination of validated bottleneck exposure, revenue sensitivity, competitive durability and valuation headroom?**
+> **After FormFactor, Camtek and SUSS, does Montage's validated memory-interface franchise produce enough incremental earnings and valuation headroom to outrank them — or has the market already priced the structural advantage?**
