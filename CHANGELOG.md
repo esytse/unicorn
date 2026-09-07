@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### AI energy / power-delivery value chain opened
+
+- Opened **#34** and created `research/energy/` with an initial thesis, end-to-end value-chain map and validation plan.
+- **Working thesis:** the critical AI-energy constraint is more likely to be **speed-to-power / deliverable connected megawatts** than aggregate electricity volume. Large-load interconnection / transmission deliverability and transformers / substation equipment each score **~4.8/5 preliminarily**, with bulk transmission **4.7**, MV/HV switchgear **4.5**, large gas-turbine slots **4.4** and the data-centre electrical backbone **4.4**.
+- Evidence includes IEA's updated projection of data-centre electricity demand roughly doubling from ~485 TWh in 2025 to ~950 TWh in 2030; FERC's June 2026 large-load integration reforms; US DOE transformer lead times of roughly 1–2 years for distribution units and 3–4 years for large transformers; and strong 2026 backlog/order evidence across GE Vernova, Eaton, Schneider and ABB.
+- Added the **AC → hybrid → 800 VDC** architecture transition as a rising technical bottleneck, but supplier concentration is not yet proven because NVIDIA's open ecosystem already includes 80+ participants.
+- Cooling / heat rejection is treated as a **coupled capacity constraint** rather than a simple downstream auxiliary system.
+- No energy company is promoted to `Watch` or high conviction. The next work is to validate the highest-scoring functions before company-level Investment Capture and valuation analysis.
+
 ### Weebit Nano moves to Watch as commercial adoption becomes real
 
 - Completed **#5** and added `research/memory/companies/weebit-nano.md`.
