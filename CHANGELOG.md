@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Capital allocation scenarios completed; no Gate C candidate at current prices
+
+- Completed **#27** and added `research/memory/capital-allocation.md` with explicit bear/base/bull scenarios, normalized terminal multiples, return hurdles and monitoring thresholds.
+- **No company is promoted to `High-conviction research candidate`.** At the 4 September 2026 reference prices, none of the primary candidates provides enough base-case return plus downside protection to pass Gate C.
+- **Onto Innovation becomes the preferred capital-allocation watch.** The base scenario produces roughly **10.4% annualized return** to end-2030; a ~12% base-return hurdle is reached around **$252** under the current earnings assumptions. Onto is closest to Gate C because its HBM/AP evidence, margins and valuation are better balanced than the other high-quality US names.
+- **SUSS ranks second as the higher-risk asymmetric watch.** Base scenario return is roughly **8.8%**; the ~12% base-return zone is about **€64**. Upside is larger if backlog and HBM qualification convert, but the bear case is materially worse because of customer/process concentration and margin volatility.
+- **Camtek and FormFactor remain strong businesses but fail the current margin-of-safety test.** Base scenarios are roughly **3.8%** and **1.5%** annualized respectively. At normalized terminal multiples, a 12% return requires roughly **28% Camtek** and **30% FormFactor** 2027–2030 EPS CAGR; corresponding monitoring zones are approximately **$106** and **$68** unless normalized earnings estimates rise materially.
+- **ASMPT was screened as an optional comparator but does not improve the current allocation frontier** because its premium multiple combines with diluted HBM earnings sensitivity across the broader Group.
+- The active research plan moves from broad AI-memory supplier discovery into **valuation monitoring / selective optionality**. The next selective AI-memory backlog item is **Weebit Nano (#5)**, followed separately by the **robotics-actuator value-chain stream (#3)**.
+- Watchlist statuses remain `Watch`; the change is ranking, valuation discipline and research priority rather than a thesis rejection.
+
 ### Second Investment Capture wave completed; research moves to capital allocation
 
 - Completed company-level underwriting for **Montage Technology (#25), Onto Innovation (#23), Hanmi Semiconductor (#16) and ASMPT (#18)** and closed the targeted wafer-processing gap analysis (#12).
@@ -104,5 +115,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** four workstreams pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). Two company-underwriting waves are complete; the programme moves to capital-allocation issue #27.
+- **AI memory:** four workstreams pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). Two company-underwriting waves and the initial capital-allocation comparison are complete; no company passes Gate C at current reference prices, so the programme shifts to valuation monitoring plus selective optionality.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.

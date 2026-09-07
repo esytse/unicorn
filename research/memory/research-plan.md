@@ -1,19 +1,19 @@
 # AI Memory Research Plan
 
-**Status:** Active — capital-allocation phase  
+**Status:** Active — valuation monitoring / selective optionality phase  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
-**Purpose:** Identify structural AI-memory bottlenecks, determine which companies capture their economics, then test whether current valuation leaves attractive risk-adjusted returns.
+**Purpose:** Identify structural AI-memory bottlenecks, determine which companies capture their economics, then allocate research effort only where valuation or new evidence creates genuine asymmetry.
 
 ## 1. Decision framework
 
 Keep three questions separate:
 
-1. **Bottleneck:** Is the technical / manufacturing dependency structural?
-2. **Investment Capture:** Does a company capture enough of the economics for the theme to materially change earnings?
-3. **Capital Allocation:** Is enough upside left at today's price after normalising the cycle and downside risk?
+1. **Bottleneck:** Is the dependency structural?
+2. **Investment Capture:** Does a company capture enough economics for the theme to materially change earnings?
+3. **Capital Allocation:** Does the current price leave enough risk-adjusted upside after normalising the cycle?
 
-A severe bottleneck is not automatically a good investment. A great company is not automatically a good buy at any price.
+A severe bottleneck is not automatically a good investment. A great company is not automatically attractive at any price.
 
 ---
 
@@ -27,89 +27,104 @@ A severe bottleneck is not automatically a good investment. A great company is n
 | DDR5 / MRDIMM interface silicon | **4.4/5** | Gate A passed |
 | CXL memory-expander controllers | **3.2/5** | Gate A not passed; optionality only |
 
-The programme should no longer prioritise broad bottleneck discovery unless new evidence materially changes this map.
+Broad bottleneck discovery is no longer the default priority.
 
 ---
 
-## 3. Company underwriting — two waves complete
+## 3. Company underwriting — complete
 
 | Company | Investment Capture | Status | Main constraint |
 |---|---:|---|---|
-| Onto Innovation (#23) | **4.0/5** | Watch | market-cap rerating / competition |
-| FormFactor (#21) | **4.0/5** | Watch | valuation / undisclosed absolute HBM profit |
-| Camtek (#22) | **3.9/5** | Watch | premium valuation / capex pull-forward risk |
-| Montage Technology (#25) | **3.8/5** | Watch | large size / ~52x point-in-time forward P/E |
-| SUSS (#15) | **3.7/5** | Watch | customer competition / unproven hybrid-bond capture |
-| ASMPT (#18) | **3.7/5** | Watch | HBM exposure diluted by broader Group |
-| Hanmi Semiconductor (#16) | **3.6/5** | Watch | customer + TCB concentration / extreme valuation |
+| Onto Innovation | **4.0/5** | Watch | valuation / competition |
+| FormFactor | **4.0/5** | Watch | valuation / undisclosed absolute HBM profit |
+| Camtek | **3.9/5** | Watch | premium valuation / capex pull-forward risk |
+| Montage Technology | **3.8/5** | Watch | large size / premium valuation |
+| SUSS | **3.7/5** | Watch | customer competition / unproven hybrid-bond capture |
+| ASMPT | **3.7/5** | Watch | HBM exposure diluted by broader Group |
+| Hanmi Semiconductor | **3.6/5** | Watch | customer + TCB concentration / extreme valuation |
 
-The targeted wafer-processing follow-up (#12) is also complete. Precision thinning/singulation remains structurally important, but the evidence does not justify a dedicated DISCO company deep dive today. DISCO remains a benchmark `Watch`.
-
-No company is a `High-conviction research candidate` yet.
+The targeted wafer-processing follow-up is complete; DISCO remains a benchmark `Watch` rather than a priority deep dive.
 
 ---
 
-## 4. Immediate priority — Capital allocation (#27)
+## 4. Capital allocation (#27) — complete
 
-The next research question is:
+Canonical analysis: `research/memory/capital-allocation.md`.
 
-> **Which of Onto Innovation, FormFactor, Camtek and SUSS offers the best risk-adjusted expected return after current valuation and a normal semiconductor-capex cycle are explicitly modelled?**
+**Conclusion:** no company passes Gate C at the 4 September 2026 reference prices.
 
-ASMPT may be included if refreshed valuation shows its architecture durability offsets lower HBM earnings sensitivity.
+| Capital watch rank | Company | Bear CAGR | Base CAGR | Bull CAGR | Approx. 12% base-return zone |
+|---:|---|---:|---:|---:|---:|
+| **1** | **Onto Innovation** | -7.9% | **10.4%** | 24.7% | **~$252** |
+| **2** | **SUSS** | -17.1% | **8.8%** | 27.8% | **~€64** |
+| **3** | **Camtek** | -15.7% | **3.8%** | 19.0% | **~$106** |
+| **4** | **FormFactor** | -15.7% | **1.5%** | 14.9% | **~$68** |
 
-### Required work
+These are scenario outputs, not price targets or recommendations.
 
-For each candidate:
+### Key interpretation
 
-1. refresh share price, market cap, enterprise value and valuation;
-2. reconstruct / normalise current earnings and free cash flow;
-3. estimate how much earnings are tied to HBM/AP versus other businesses;
-4. build **bear / base / bull** 3–5 year revenue, margin and earnings scenarios;
-5. use plausible terminal valuation multiples, not today's multiple by default;
-6. calculate downside, upside and annualised return in each scenario;
-7. calculate probability-weighted expected return where defensible;
-8. identify what growth/margins the current share price appears to imply;
-9. assess balance sheet, capital needs, dilution and customer concentration;
-10. specify monitoring indicators and thesis breakers.
-
-### Required output
-
-Create/update a canonical capital-allocation file under `research/memory/`. Update `synthesis-ranking.md`, `watchlist.md`, source register and changelog only when the new valuation work changes conclusions.
-
-**The Bottleneck Strength × Investment Capture screen is not a valuation model and must not determine the winner automatically.**
+- **Onto** is closest to Gate C because it combines strong HBM/AP evidence, margins and the least demanding valuation hurdle among the high-quality US names.
+- **SUSS** has the highest small-cap asymmetry but much wider execution/customer downside.
+- **Camtek** and **FormFactor** remain excellent businesses; current valuations are the binding constraint.
+- **ASMPT** was screened but does not improve the current allocation frontier at its current multiple and broader-company earnings dilution.
 
 ---
 
-## 5. Two-score framework retained for research triage
+## 5. Gate C remains deliberately rare
 
-### A. Bottleneck Strength — 1 to 5
+A `High-conviction research candidate` now requires:
 
-Score:
+- Gate A and Gate B evidence;
+- explicit bear/base/bull valuation;
+- attractive base and risk-adjusted expected return;
+- meaningful downside protection / margin of safety;
+- manageable balance sheet, dilution and customer risk;
+- explicit monitoring indicators and thesis breakers.
 
-- physical difficulty;
-- supply elasticity;
-- supplier concentration;
-- qualification / switching;
-- system criticality.
-
-A bottleneck normally needs around **4/5** to pass Gate A.
-
-### B. Investment Capture — 1 to 5
-
-Score:
-
-- revenue / earnings sensitivity;
-- pricing / margin capture;
-- competitive durability;
-- market-share / content runway;
-- size / asymmetry;
-- valuation / execution.
-
-These scores identify where deeper valuation work is worth the effort. They do not replace capital-allocation analysis.
+**No company qualifies today.** Do not promote a name merely because its share price falls; verify that the operating thesis remains intact at the new price.
 
 ---
 
-## 6. Evidence standard
+## 6. AI-memory monitoring triggers
+
+Re-run `capital-allocation.md` when any of the following occurs:
+
+### Price triggers, absent thesis deterioration
+
+- Onto approaches **~$250** or below;
+- SUSS approaches **~€64** or below;
+- Camtek approaches **~$105** or below;
+- FormFactor approaches **~$68** or below.
+
+### Evidence triggers
+
+- material earnings-estimate revisions;
+- new HBM4/HBM4E/HBM5 process-of-record or share evidence;
+- backlog cancellation / capex pull-forward evidence;
+- hybrid-bond production qualification;
+- margin deterioration or operating leverage materially different from the model;
+- customer concentration, second sourcing or architecture substitution changes.
+
+A material change should update the company file, capital-allocation model, synthesis, watchlist and changelog as appropriate.
+
+---
+
+## 7. Research-effort allocation from here
+
+The marginal value of finding another conventional HBM equipment supplier is now lower than it was at the start of the programme.
+
+### Current priority
+
+1. **Maintain the AI-memory capital watch** using the triggers above.
+2. **#5 Weebit Nano** — test the speculative emerging-memory / architectural-discontinuity thesis. This is deliberately different from the validated current bottlenecks and should be treated as a high-risk optionality study, not grouped with the current Gate-A beneficiaries.
+3. **#3 robotics actuators** — build the separate end-to-end actuator bottleneck map.
+
+Do not open additional AI-memory supplier deep dives unless new evidence suggests a materially better combination of bottleneck strength, company capture and valuation than the existing set.
+
+---
+
+## 8. Evidence standard
 
 Prefer:
 
@@ -121,13 +136,13 @@ Prefer:
 6. specialist journalism;
 7. community discussion only for question generation.
 
-Material claims should be triangulated across source classes when possible. Point-in-time valuation must always carry a date and be refreshed before a capital-allocation conclusion.
+Point-in-time valuation must carry a date and be refreshed before a capital-allocation conclusion.
 
 ---
 
-## 7. Falsification requirement
+## 9. Falsification requirement
 
-Every analysis must actively search for evidence against the thesis, including:
+Every analysis must actively search for:
 
 - second sourcing / share loss;
 - rapid capacity additions;
@@ -143,58 +158,21 @@ Contradictory evidence stays in the canonical file.
 
 ---
 
-## 8. Completion gates
-
-### Gate A — Bottleneck validated
-
-Approximately 4/5+, multiple evidence classes, persistence across generations, no obvious rapid substitute.
-
-### Gate B — Company capture validated
-
-Meaningful exposure, qualification/adoption evidence, potentially material financial sensitivity and a non-obviously commoditised position.
-
-### Gate C — High-conviction research candidate
-
-Require:
-
-- Gate A and Gate B evidence;
-- explicit valuation / scenario analysis;
-- attractive risk-adjusted expected return;
-- meaningful margin of safety;
-- manageable balance-sheet / execution risk;
-- explicit thesis breakers / monitoring indicators.
-
-Gate C remains intentionally rare.
-
----
-
-## 9. Benchmark / monitoring set
-
-Use large incumbents and lower-priority candidates to test assumptions rather than deep-dive automatically:
-
-- SK hynix / Micron / Samsung — HBM economics and capacity;
-- TSMC — advanced-packaging capacity / architecture;
-- Advantest / Teradyne — test intensity;
-- DISCO — wafer-thinning/singulation economics;
-- Montage / Hanmi / ASMPT — monitor valuation and architecture transitions after completed underwriting.
-
----
-
 ## 10. Working outputs
 
 Maintain canonical living files only:
 
-1. `value-chain.md` — end-to-end bottleneck map;
+1. `value-chain.md` — bottleneck map;
 2. `research-plan.md` — active execution plan;
-3. `deep-dives/*.md` — bottleneck/process work;
-4. `companies/*.md` — Investment Capture underwriting;
-5. `synthesis-ranking.md` — cross-company prioritisation;
-6. capital-allocation file — scenario / expected-return comparison;
-7. `watchlist.md` — research status;
-8. `sources/source-register.md` — important cross-file sources;
-9. `CHANGELOG.md` — material conclusion/status/priority changes.
+3. `deep-dives/*.md` — bottleneck/process research;
+4. `companies/*.md` — company underwriting;
+5. `synthesis-ranking.md` — cross-company synthesis;
+6. `capital-allocation.md` — scenario / margin-of-safety comparison;
+7. `watchlist.md` — research status and monitoring;
+8. `sources/source-register.md` — important sources;
+9. `CHANGELOG.md` — material changes.
 
-Git history is the version record; do not create `final-v2` copies.
+Git history is the version record; do not create versioned copies.
 
 ---
 
@@ -213,27 +191,8 @@ For each substantive workstream:
 9. merge only after required checks pass;
 10. comment/close completed backlog issues.
 
-Parallelise distinct files/workstreams rather than editing the same canonical file simultaneously.
-
 ---
 
-## 12. Current order
+## 12. Immediate question
 
-**Now:**
-
-1. **#27 — capital allocation: Onto vs FormFactor vs Camtek vs SUSS** (ASMPT optional comparator).
-
-**After #27:**
-
-2. decide whether any candidate passes Gate C;
-3. update monitoring thresholds / buy-zone or re-entry conditions if appropriate;
-4. only then decide whether further AI-memory supplier work is worth opening.
-
-**Separate backlog:**
-
-- **#5 Weebit Nano** — speculative emerging-memory / architectural-discontinuity thesis;
-- **#3 robotics actuators** — separate value-chain research stream.
-
-## 13. Immediate question
-
-> **We have found strong businesses. Which one, if any, is mispriced enough today to deserve capital?**
+> **Can a price reset or stronger normalized earnings evidence turn Onto or SUSS into a genuine Gate-C candidate — while Weebit offers a separate, much more speculative architecture-discontinuity path?**
