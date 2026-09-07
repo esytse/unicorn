@@ -2,467 +2,298 @@
 
 **Status:** Active research plan  
 **Created:** 2026-09-07  
-**Purpose:** Turn the first-pass memory value-chain map into a ranked, evidence-based view of structural bottlenecks and the companies most likely to capture disproportionate value from them.
+**Last reprioritised:** 2026-09-07  
+**Purpose:** Turn the memory value-chain map into a ranked, evidence-based view of structural bottlenecks and the companies most likely to capture disproportionate value from them.
 
 ## 1. Decision we want to reach
 
-The research should ultimately answer two separate questions:
+The research must answer two separate questions:
 
 1. **Where are the real structural bottlenecks in the AI-memory value chain?**
 2. **Which investable companies capture the economics of those bottlenecks strongly enough for AI-driven demand to materially change their earnings trajectory?**
 
-These questions must remain separate. A severe technical bottleneck can still be a poor investment opportunity if the value is captured by a very large incumbent, passed through to customers, competed away, or already fully reflected in valuation.
+A severe technical bottleneck can still be a poor investment if the economics accrue to a very large incumbent, are competed away, require excessive capital, or are already fully reflected in valuation.
 
-## 2. Current starting point
+## 2. Current validated state
 
-The current value-chain map identifies the strongest first-pass bottleneck candidates as:
+Three workstreams have now passed Gate A:
 
-1. HBM stacking / bonding / thermal / yield
-2. Advanced packaging / interposers / substrates
-3. DRAM / HBM wafer capacity and yield
-4. Test / known-good-die / burn-in
-5. Wafer thinning / TSV / precision processing
-6. Memory-interface / MRDIMM buffer chips
-7. Thermal / power / package materials
-8. CXL memory expansion / pooling
-9. Emerging non-volatile memory
+| Bottleneck | Bottleneck Strength | Current conclusion |
+|---|---:|---|
+| Advanced packaging / interposers / process control | **4.7/5** | Structural and likely to persist through architecture transitions |
+| HBM stacking / bonding / thermal / yield | **4.6/5** | Structural; the bottleneck is likely to migrate toward hybrid-bond surface preparation/alignment/metrology rather than disappear |
+| Test / known-good-die / burn-in | **4.6/5** | Structural; expensive heterogeneous packages increase the value and number of test insertion points |
 
-The next phase should go **one layer deeper than the obvious memory vendors** and identify equipment, materials, IP, interface and test suppliers whose products are difficult to substitute.
+The research has therefore reached a transition point: **the highest-value next work is no longer broad bottleneck discovery. It is investment-capture underwriting plus one strategically different bottleneck test — memory interfaces / MRDIMM / CXL.**
 
 ## 3. Research principle
 
-We are looking for **structural dependency**, not simply growth.
+We are looking for **structural dependency plus economic capture**, not simply growth.
 
-A bottleneck is more attractive when:
+A bottleneck is stronger when:
 
 - the physical problem gets harder with each generation;
-- demand can outrun capacity;
 - capacity is slow or expensive to add;
 - there are few qualified suppliers;
 - qualification and switching are difficult;
-- failure at that step prevents the whole system from shipping;
-- the supplier can retain some of the economics through pricing, margins, share or volume leverage.
+- failure at that step prevents the final system from shipping;
+- the supplier can retain some economics through pricing, margins, share, service or content growth.
 
-Every deep dive should actively search for evidence that the apparent bottleneck is temporary, easy to substitute, vertically integrated, or economically unattractive.
-
----
+Every deep dive must actively search for evidence that the apparent bottleneck is temporary, easy to substitute, vertically integrated, or economically unattractive.
 
 ## 4. Two-score framework
 
-Do not collapse technical bottleneck strength and investment attractiveness into a single score too early.
-
 ### A. Bottleneck Strength Score — 1 to 5
 
-Score each dimension from 1 to 5 and record the evidence.
+Score:
 
-| Dimension | Question |
-|---|---|
-| Physical difficulty | Does the next generation make the problem materially harder? |
-| Supply elasticity | How quickly can industry capacity expand? |
-| Supplier concentration | How many suppliers can actually meet the requirement at scale? |
-| Qualification / switching | How long, risky or expensive is it to change supplier? |
-| System criticality | Does failure or shortage at this step constrain shipment of the final AI system? |
+- physical difficulty;
+- supply elasticity;
+- supplier concentration;
+- qualification / switching;
+- system criticality.
 
-A bottleneck should normally reach **4/5 or higher** before we spend substantial time on company-level valuation work.
+A bottleneck should normally reach approximately **4/5 or higher** before substantial company-level valuation work.
 
 ### B. Investment Capture Score — 1 to 5
 
-Only score this after the bottleneck itself is validated.
+For a company exposed to a validated bottleneck, score:
 
-| Dimension | Question |
-|---|---|
-| Revenue sensitivity | Would AI/HBM growth materially affect this company's revenue or earnings? |
-| Pricing / margin capture | Is there evidence the company can retain economics rather than pass them through? |
-| Competitive durability | Is the company's position protected by IP, process know-how, installed base or qualification? |
-| Market-share runway | Can the company gain share or sell more content per system? |
-| Asymmetry | Is the company small enough for the opportunity to matter materially? |
-| Valuation / execution | Is the upside already priced in, and can the company finance and execute the required expansion? |
+- revenue / earnings sensitivity;
+- pricing and margin capture;
+- competitive durability;
+- market-share or content-per-system runway;
+- size / asymmetry;
+- valuation and execution risk.
 
-A strong research candidate requires **both** a real bottleneck and credible economic capture.
+A strong research candidate requires both a real bottleneck and credible economic capture.
 
----
+## 5. Revised execution sequence
 
-## 5. Research sequence
+### Priority A — Memory interfaces / MRDIMM / CXL (#13)
 
-The work should proceed in waves. We should not try to deep-dive every layer simultaneously.
+**Priority:** Immediate
 
-### Wave 1 — HBM stacking, bonding, thermal and yield
+This workstream is deliberately different from the manufacturing-side bottlenecks already validated. It tests whether rising memory speed, bandwidth and capacity make specialist interface/controller silicon structurally mandatory.
 
-**Priority:** Highest
+Separate:
 
-This is the first deep dive because the physical problem appears to worsen as stack height, bandwidth and thermal density rise.
+1. DDR5 register clock drivers / data buffers;
+2. MRDIMM multiplexing and interface silicon;
+3. PMIC / clocking support;
+4. CXL memory-expander controllers;
+5. CXL switches;
+6. firmware / interoperability.
 
-#### Decompose the process
+Key questions:
 
-Map the sub-steps separately:
+- Which chips are mandatory versus optional?
+- How concentrated are qualified suppliers and market share?
+- How long is platform/OEM qualification and what are the switching costs?
+- Can CPU vendors or hyperscalers integrate these functions?
+- Does each generation increase silicon content per DIMM/system?
+- Is CXL creating a durable new profit pool or shifting value to larger incumbents?
 
-1. TSV formation
-2. wafer thinning
-3. temporary bonding / debonding
-4. dicing / die preparation
-5. die stacking
-6. thermo-compression / other bonding approaches
-7. MR-MUF / TC-NCF / underfill and molding approaches
-8. warpage control
-9. thermal-interface and heat-removal materials
-10. metrology / inspection
-11. known-good-die and stack-level test
+**Montage Technology must be assessed as a candidate, not assumed to be the winner.**
 
-#### Questions
+Deliverable: `research/memory/deep-dives/interfaces-cxl.md`.
 
-- Which sub-step is actually limiting yield or throughput today?
-- Which problems become harder at 12-high and 16-high stacks?
-- Which processes differ materially between SK hynix, Samsung and Micron?
-- Are suppliers qualified across multiple memory vendors, or captive to one process architecture?
-- What equipment/material categories have long lead times or limited qualified capacity?
-- Where does hybrid bonding change the supplier map?
-- Which suppliers gain content per HBM stack as complexity rises?
+### Priority B — Company Investment Capture deep dives
 
-#### Deliverable
+Start company underwriting in parallel because three bottlenecks have already passed Gate A.
 
-`research/memory/deep-dives/hbm-stacking-thermal.md`
+**First wave:**
 
-Include a process map, supplier map, bottleneck score, evidence against the thesis, and a shortlist of companies for deeper work.
+- **FormFactor (#21)** — HBM probe-card leverage and moat;
+- **Camtek (#22)** — advanced-packaging inspection/metrology leverage;
+- **SUSS (#15)** — temporary bonding/debonding and hybrid-bond transition.
 
----
+**Second wave:**
 
-### Wave 2 — Advanced packaging and interposers
+- **Onto Innovation (#23)** — HBM4 / advanced-packaging process control;
+- **Hanmi Semiconductor (#16)** — current TCB leadership versus hybrid-bond transition risk;
+- **ASMPT (#18)** — multi-customer, multi-architecture bonding exposure.
 
-**Priority:** Very high
+The first wave should be completed before opening many more company deep dives unless new evidence materially changes priorities.
 
-The goal is to move beyond the headline fact that CoWoS capacity is constrained and identify **what inside the packaging process is actually hard to scale**.
+### Priority C — Narrowed wafer-processing follow-up (#12)
 
-#### Decompose
+Do **not** rerun a broad wafer-thinning / TSV study. The HBM stacking work already established thinning plus temporary bonding/debonding as a real sub-bottleneck.
 
-- silicon / RDL interposer production
-- advanced lithography steps
-- redistribution layers
-- substrate supply
-- bumping / micro-bump or alternative interconnect
-- bonding / assembly
-- inspection and metrology
-- warpage control
-- package-level thermal management
-- final package test
+Issue #12 should now answer only the unresolved economic-capture questions:
 
-#### Questions
+- Is ultra-thin grinding/polishing/dicing sufficiently hard to create durable supplier power?
+- Does DISCO or another precision-processing supplier gain disproportionate HBM content?
+- Which temporary-carrier, debond, metrology or dicing steps remain under-researched after the SUSS work?
+- How does hybrid bonding alter demand for these tools?
 
-- Which equipment or material categories gate incremental CoWoS-like capacity?
-- Which suppliers are single- or dual-sourced?
-- What must be qualified with TSMC, memory vendors or accelerator customers?
-- Which constraints disappear if packaging architectures move from silicon interposers toward RDL or other approaches?
-- Which suppliers sell across TSMC, ASE, Amkor, Samsung and other packaging ecosystems?
+Treat #12 as a **targeted validation / gap-closing workstream**, not another broad value-chain exercise.
 
-#### Deliverable
+### Priority D — Interim synthesis
 
-`research/memory/deep-dives/advanced-packaging.md`
+Do not wait for every possible backlog item to finish.
 
----
+After #13 and at least three company Investment Capture deep dives, create an interim ranking comparing:
 
-### Wave 3 — Test, known-good-die and burn-in
+- Bottleneck Strength Score;
+- Investment Capture Score;
+- market cap / asymmetry;
+- durability across architecture transitions;
+- valuation;
+- thesis breakers;
+- strongest evidence against the thesis.
 
-**Priority:** High
+Use that synthesis to decide which remaining backlog items deserve more research.
 
-Testing becomes more valuable when one bad die can destroy an expensive multi-die package.
+## 6. Benchmark workstream — large incumbents
 
-#### Decompose
+SK hynix, Micron, Samsung, TSMC, Advantest and Teradyne should primarily remain **benchmarks** unless new evidence shows they are the best way to capture the thesis.
 
-- wafer probe
-- DRAM die test
-- known-good-die selection
-- HBM stack test
-- high-speed memory test
-- accelerator / SoC test
-- final package test
-- burn-in / reliability
-- probe cards, handlers and sockets
+Track them for:
 
-#### Questions
+- HBM / advanced-packaging mix;
+- capacity and capex;
+- pricing / contracts;
+- yields and qualification where disclosed;
+- customer concentration;
+- margin and return-on-capital effects.
 
-- Does tester intensity per unit increase as HBM generations advance?
-- Is test time increasing or decreasing?
-- Which test steps are unique to HBM?
-- Where are capacity constraints occurring?
-- Which suppliers have the strongest installed-base or qualification moat?
-- Are there smaller suppliers with greater revenue sensitivity than Advantest?
+Their disclosures help determine whether economic value is flowing into smaller equipment/material/interface suppliers.
 
-#### Deliverable
+## 7. Supplier discovery and economic-capture process
 
-`research/memory/deep-dives/test-and-known-good-die.md`
+For each validated bottleneck:
 
----
+### Pass 1 — Exposure
 
-### Wave 4 — Wafer thinning, TSV and precision processing
-
-**Priority:** High but dependent on Wave 1
-
-This should be treated as a separate deep dive only after Wave 1 identifies which wafer-preparation steps are truly critical.
-
-#### Questions
-
-- How thin are HBM dies becoming by generation?
-- What happens to breakage, warpage and yield as thickness falls?
-- Are grinding, polishing, dicing or temporary-bonding tools difficult to substitute?
-- Which tools are already installed across all three HBM manufacturers?
-- Does hybrid bonding increase or reduce demand for any of these steps?
-
-#### Deliverable
-
-`research/memory/deep-dives/wafer-processing-tsv.md`
-
----
-
-### Wave 5 — Memory interfaces, MRDIMM and CXL
-
-**Priority:** Medium, but potentially the cleanest smaller-company opportunity
-
-This is a different bottleneck from HBM manufacturing. The research question is whether increasing memory speed and capacity make specialist interface/controller silicon structurally mandatory.
-
-#### Separate the layers
-
-1. DDR5 register clock drivers / data buffers
-2. MRDIMM multiplexing and interface silicon
-3. PMIC / clocking support
-4. CXL memory-expander controllers
-5. CXL switches
-6. firmware / interoperability
-
-#### Questions
-
-- What is mandatory versus optional in each architecture?
-- How concentrated are market shares?
-- How long is server-OEM / CPU-platform qualification?
-- What can CPU vendors or hyperscalers integrate themselves?
-- Does each DDR generation increase chip content per DIMM?
-- Is CXL adoption creating a new market or simply shifting value among incumbents?
-
-#### Deliverable
-
-`research/memory/deep-dives/interfaces-cxl.md`
-
-Montage Technology should be assessed inside this workstream rather than treated as validated in advance.
-
----
-
-## 6. Benchmark workstream — DRAM/HBM manufacturers
-
-SK hynix, Micron and Samsung should remain a **benchmark**, not the main hunting ground.
-
-Track:
-
-- HBM mix and capacity allocation
-- node migration
-- HBM pricing / contracts
-- capital expenditure
-- yields where disclosed
-- customer concentration
-- gross-margin impact
-
-This tells us how valuable the bottleneck is at the system level and whether economics are flowing upstream into equipment/material suppliers.
-
-The objective is not to repeatedly re-underwrite the large memory manufacturers unless new evidence suggests they remain the best way to capture the thesis.
-
----
-
-## 7. Supplier discovery process
-
-For each validated bottleneck, build the supplier universe systematically rather than starting from familiar stocks.
-
-### Pass 1 — Process suppliers
-
-Identify all meaningful suppliers of:
-
-- equipment
-- materials
-- test / metrology
-- interface silicon / IP
-- assembly / packaging services
+Identify equipment, materials, test/metrology, interface silicon/IP and assembly suppliers.
 
 ### Pass 2 — Qualification evidence
 
-Look for evidence of:
+Look for:
 
-- named HBM / DRAM / advanced-packaging customers
-- design wins
-- qualified-vendor status
-- installed-base share
-- customer concentration
-- multi-year supply agreements
-- customer capex linked to supplier orders
+- named customers or credible customer-class evidence;
+- design wins / qualified-vendor status;
+- installed-base share;
+- repeat orders;
+- multi-year agreements;
+- customer capex linked to supplier orders.
 
 Treat vague references to "AI demand" as weak evidence.
 
-### Pass 3 — Economic exposure
+### Pass 3 — Financial sensitivity
 
-Estimate for each company:
+Estimate:
 
-- % of revenue exposed to the relevant process
-- growth of that revenue
-- gross / operating margins
-- incremental capital needs
-- backlog / book-to-bill where meaningful
-- customer concentration
-- likely content per HBM stack or package
+- percentage of revenue exposed to the relevant bottleneck;
+- growth of that revenue;
+- margins / incremental margins;
+- capital needs;
+- backlog / book-to-bill where meaningful;
+- customer concentration;
+- content per HBM stack/package/server.
 
-### Pass 4 — Investment asymmetry
+### Pass 4 — Asymmetry
 
 Ask:
 
 > If the bottleneck doubles in economic value over 3–5 years, how much can this company's revenue, earnings and valuation plausibly change?
 
-This is the key filter for distinguishing a great company from a potentially asymmetric opportunity.
-
----
-
 ## 8. Evidence standard
 
-Each material claim should ideally be supported by two different source classes when possible.
+Prefer, roughly:
 
-### Preferred order
+1. regulatory filings and audited disclosures;
+2. technical standards / peer-reviewed papers;
+3. customer and supplier primary disclosures;
+4. earnings calls and investor presentations;
+5. reputable industry research;
+6. specialist journalism;
+7. community discussion only for question generation.
 
-1. regulatory filings / audited disclosures
-2. technical standards and peer-reviewed papers
-3. customer / supplier primary disclosures
-4. earnings calls and investor presentations
-5. reputable industry research
-6. specialist journalism
-7. community discussion only for generating questions
+For a material bottleneck claim, try to establish multiple independent indicators: customer constraint, supplier capacity expansion, backlog/lead time, technical difficulty, limited substitution and/or economic capture.
 
-### Triangulation rule
+## 9. Falsification requirement
 
-For claims such as "X is a bottleneck", try to establish at least three of:
+Every deep dive must include **Evidence against the thesis** and explicitly search for:
 
-- a customer says it is constrained;
-- the supplier is expanding capacity;
-- lead times / backlog are elevated;
-- technical literature explains why the process is hard;
-- competitors cannot easily substitute;
-- pricing / margins show economic capture.
-
----
-
-## 9. Falsification work
-
-Every deep dive must contain a section titled **Evidence against the bottleneck thesis**.
-
-Search specifically for:
-
-- rapid capacity additions
-- second-source qualification
-- process simplification
-- vertical integration
-- alternative architectures
-- falling equipment intensity
-- customer bargaining power
-- commoditisation
-- margin compression despite strong demand
-
-A research stream should be deprioritised if the physical constraint is real but suppliers cannot capture economics.
-
----
+- rapid capacity additions;
+- second sourcing;
+- process simplification;
+- vertical integration;
+- alternative architectures;
+- falling equipment intensity;
+- customer bargaining power;
+- commoditisation;
+- margin compression despite strong demand.
 
 ## 10. Completion gates
 
 ### Gate A — Bottleneck validated
 
-Advance to company deep dives only if:
-
-- Bottleneck Strength Score is approximately **4/5 or higher**;
-- evidence comes from at least two independent source classes;
-- the constraint appears structural across more than one product generation;
-- there is no obvious rapid substitute that destroys the thesis.
+Advance to company work only if the bottleneck is approximately **4/5 or higher**, supported by multiple source classes, structural across generations, and not obviously displaced by a rapid substitute.
 
 ### Gate B — Company candidate validated
 
-Promote a company from `Research queue` to `Investigating` only if:
-
-- it has meaningful exposure to a validated bottleneck;
-- there is evidence of qualification / customer adoption;
-- the opportunity can materially affect its financials;
-- the relevant market is not obviously commoditised.
+A company should be `Investigating` only if it has meaningful exposure, qualification/adoption evidence, potentially material financial sensitivity and a non-obviously commoditised position.
 
 ### Gate C — High-conviction research candidate
 
-This should be rare. Require:
-
-- strong bottleneck evidence;
-- strong competitive-position evidence;
-- clear economic capture;
-- manageable balance-sheet / execution risk;
-- valuation that still leaves plausible upside;
-- explicit thesis breakers and monitoring indicators.
-
----
+Require strong bottleneck evidence, strong competitive evidence, clear economic capture, manageable execution/balance-sheet risk, valuation headroom and explicit thesis breakers.
 
 ## 11. Working outputs
 
-Maintain five living outputs:
+Maintain canonical living files only:
 
-1. `value-chain.md` — canonical end-to-end map
-2. `research-plan.md` — this execution plan
-3. `deep-dives/*.md` — one canonical file per bottleneck
-4. company files — only after a supplier passes Gate A
-5. `watchlist.md` — cross-theme prioritisation after evidence supports a status change
+1. `value-chain.md` — end-to-end map;
+2. `research-plan.md` — this execution plan;
+3. `deep-dives/*.md` — bottleneck work;
+4. company files — Investment Capture underwriting;
+5. `watchlist.md` — prioritisation;
+6. synthesis/ranking file once enough company work exists.
 
-Do not create parallel "final" copies. Git history is the version record.
-
----
+Git history is the version record; do not create `final-v2` style copies.
 
 ## 12. Agent + collaborator workflow
 
-The research is designed for parallel agent work without requiring either collaborator to manage Git manually.
-
 For each workstream:
 
-1. one agent builds the primary evidence case;
-2. a second pass should actively challenge or falsify the conclusion;
-3. the agent updates the canonical deep-dive file;
-4. source links and conflicting evidence are preserved;
-5. the agent updates `CHANGELOG.md` when conclusions/confidence change;
-6. the agent opens a PR;
-7. the Research governance check runs;
-8. the PR auto-merges after required checks pass unless manual review was explicitly requested.
+1. read `AGENTS.md` and relevant canonical files;
+2. work on a branch;
+3. build the evidence case;
+4. actively challenge/falsify it;
+5. update canonical files and sources;
+6. update `CHANGELOG.md` for material changes;
+7. open a PR;
+8. wait for `Research governance` to pass;
+9. merge after required checks pass unless manual review was explicitly requested.
 
-Avoid having two agents edit the same deep-dive file simultaneously. Parallelise by bottleneck instead.
+Parallelise by distinct bottleneck/company files rather than having multiple agents edit the same file simultaneously.
 
----
+## 13. Current recommended order
 
-## 13. Recommended order of execution
+**Run now, in parallel:**
 
-### First
+1. #13 — Interfaces / MRDIMM / CXL, including Montage;
+2. #21 — FormFactor;
+3. #22 — Camtek;
+4. #15 — SUSS.
 
-**HBM stacking / bonding / thermal / yield**
+**Then:**
 
-This should produce the first supplier longlist and tell us whether wafer processing, bonding equipment, molding/underfill, thermal materials or metrology deserve separate company deep dives.
+5. #23 — Onto Innovation;
+6. #16 — Hanmi Semiconductor;
+7. #18 — ASMPT;
+8. narrowed #12 — wafer-processing gap analysis.
 
-### Second
+**Then:** interim cross-bottleneck/company synthesis before opening many additional deep dives.
 
-Run **advanced packaging** and **test** in parallel.
+## 14. Immediate research question
 
-### Third
+The next system-level question is:
 
-Use the findings from HBM stacking to decide whether **wafer thinning / TSV / precision processing** deserves its own full workstream.
+> **Does the memory-interface layer create a fourth structural bottleneck with better small/mid-cap investment asymmetry than the already validated manufacturing-side bottlenecks?**
 
-### Fourth
+In parallel, the next company-level question is:
 
-Run **interfaces / MRDIMM / CXL**, with Montage Technology as one candidate to test rather than the assumed winner.
-
-### Fifth
-
-Create a cross-bottleneck ranking that compares:
-
-- Bottleneck Strength Score
-- Investment Capture Score
-- best public candidates
-- best emerging/private candidates to monitor
-- key thesis breakers
-
----
-
-## 14. Immediate next action
-
-Start the HBM stacking / thermal workstream by answering one narrow question first:
-
-> **As HBM moves from 8/12-high toward 16-high and future bonding architectures, which process steps become disproportionately harder, and which external suppliers are required to solve them?**
-
-The first research pass should map the process before ranking companies. This prevents us from selecting stocks first and inventing the bottleneck thesis around them.
+> **Among FormFactor, Camtek and SUSS, which has the strongest combination of validated bottleneck exposure, revenue sensitivity, competitive durability and valuation headroom?**
