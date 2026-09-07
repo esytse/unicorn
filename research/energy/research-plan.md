@@ -25,46 +25,45 @@ Initial end-to-end map: `research/energy/value-chain.md`.
 
 | Workstream | Bottleneck Strength | State | Main caveat |
 |---|---:|---|---|
-| **Transformers / critical substation equipment** | **4.7 / 5** | **Gate A passed** | very large global capacity additions should gradually reduce scarcity through 2027–2030 |
+| **Transformers / critical substation equipment** | **4.7 / 5** | **Gate A passed** | large global capacity additions should gradually reduce scarcity through 2027–2030 |
+| **Physical transmission deliverability** | **4.7 / 5** | **Gate A passed** | flexible service, reconductoring and GETs can reduce required greenfield build |
 | **MV/HV switchgear** | **4.4 / 5** | **Gate A passed** | broader qualified supplier base and somewhat faster capacity expansion than LPTs |
 
-Canonical deep dive: `research/energy/deep-dives/transformers-grid-equipment.md`.
+Canonical deep dives:
 
-The conclusion is deliberately narrower than "electrical equipment wins": qualified transformer capacity is structurally scarce today, while supplier-level economics still need later underwriting.
+- `research/energy/deep-dives/transformers-grid-equipment.md`
+- `research/energy/deep-dives/transmission-large-load.md`
+
+### Important distinction
+
+**Large-load interconnection-process friction is not itself treated as a durable investable bottleneck.** It is a real current constraint, but FERC/RTO reforms, flexible service, co-location and stronger project screening can reduce it materially. The durable layer is the **physical network / equipment / engineering required by credible loads that remain after screening**.
 
 ## Current validation priority
 
 | Priority | Workstream | Initial score / status | Why next |
 |---:|---|---|---|
-| 1 | **Large-load interconnection / transmission** | **4.8 / 4.7 preliminary** | likely highest system-level speed-to-power constraint; need to separate policy scarcity from investable hardware |
-| 2 | **Dispatchable generation equipment** | **4.4 preliminary** | direct backlog / manufacturing-capacity evidence; need concentration and service-economics test |
-| 3 | **Data-centre electrical backbone** | **4.4 preliminary** | high content per MW / rack and strong order evidence |
-| 4 | **800 VDC / grid-to-rack power architecture** | **4.2 technical preliminary** | major architecture transition; supplier capture not yet established |
-| 5 | **Behind-the-meter / microgrid + storage** | **4.1 / 3.9 preliminary** | grid bypass / flexibility value; integration economics need testing |
-| 6 | **Cooling / heat rejection** | **4.1 provisional** | coupled constraint on usable compute; separate deep dive warranted |
+| 1 | **Dispatchable generation equipment** | **4.4 preliminary** | concentrated OEM supply, large backlog and service economics could create direct merchant capture |
+| 2 | **Data-centre electrical backbone** | **4.4 preliminary** | high content per MW / rack and strong order evidence |
+| 3 | **800 VDC / grid-to-rack power architecture** | **4.2 technical preliminary** | major architecture transition; supplier capture not yet established |
+| 4 | **Behind-the-meter / microgrid + storage** | **4.1 / 3.9 preliminary** | grid bypass / flexibility value; integration economics need testing |
+| 5 | **Cooling / heat rejection** | **4.1 provisional** | coupled constraint on usable compute; separate deep dive warranted |
 
 ## Transformer validation result (#36)
 
-The first full Gate-A-style pass finds that the transformer shortage is **structural through the late 2020s rather than permanent**.
+Transformers are **structurally scarce through the late 2020s rather than permanently scarce**. DOE lead times, custom engineering, factory/test capacity, qualification, transport and component dependence support Gate A; Hitachi / Prolec / Eaton capacity additions and DOE standardisation are the main evidence against permanence.
 
-Evidence supporting persistence:
+## Transmission validation result (#38)
 
-- DOE still reports 1–2+ year distribution-transformer and 3–4 year large-transformer lead times;
-- specialized factory / test equipment itself can take years to add;
-- >80,000 U.S. distribution-transformer variants reduce fungibility and factory efficiency;
-- large transformers remain heavily customized, difficult to transport and qualification-sensitive;
-- raw-material / component dependence, including GOES, reduces supply elasticity;
-- customers are paying extreme logistics costs for urgent hyperscale transformer delivery;
-- GE Vernova / Prolec, Hitachi Energy, Eaton and others show strong backlog / order and capacity-expansion evidence.
+**Physical transmission deliverability passes Gate A at 4.7/5.** DOE's 2026 Needs Study identifies pressing transmission needs driven partly by data centres and other large loads, while major regions are approving record transmission portfolios.
 
-Evidence against permanence:
+The work also separates physical scarcity from queue/process friction:
 
-- Hitachi Energy is deploying >$9bn globally across manufacturing / engineering;
-- GE Vernova is investing about $1bn in Prolec GE through 2028 plus other grid capacity;
-- Eaton and other vendors are expanding transformer / switchgear production;
-- DOE is explicitly trying to standardise transformer specifications and reduce SKU fragmentation.
+- FERC's June 2026 reforms can shorten connection by enabling flexible service, co-location and integrated load/generation studies;
+- SPP / ERCOT are redesigning large-load processes;
+- raw queue MW materially overstates credible demand because of duplicate / speculative "ghost demand";
+- advanced reconductoring, dynamic line rating and power-flow control can unlock existing corridors faster than greenfield lines.
 
-**Decision:** treat transformers as validated, but monitor lead-time normalization, capacity additions and backlog/margin changes before company underwriting.
+**Decision:** treat physical transmission as validated, but seek investment capture in **EPC / engineering, grid equipment, advanced conductors / GETs, substations and related physical solutions**, not in the queue process itself.
 
 ## Gate A-style validation criteria
 
@@ -82,13 +81,12 @@ A preliminary score is **not** a validated bottleneck until contradictory eviden
 
 ## Immediate work
 
-1. **Large-load interconnection / transmission** — separate regulatory / queue scarcity from equipment and service profit pools.
-2. **Dispatchable generation equipment** — compare GE Vernova, Siemens Energy, Mitsubishi Heavy and distributed-generation alternatives at the function level.
-3. **Data-centre electrical backbone** — determine whether integrated grid-to-chip portfolios capture structurally higher content / margins or merely volume.
-4. **AC → hybrid → 800 VDC** — identify scarce conversion, protection, busway and power-semiconductor sub-layers versus a broad open ecosystem.
-5. **Behind-the-meter / microgrid + storage** — test durable integration economics versus temporary grid-queue workaround.
-6. **Cooling / heat rejection** — separate coupled bottleneck map after core electrical validation.
-7. Only after the major functions are validated, open company-level Investment Capture work on a common basis.
+1. **Dispatchable generation equipment** — compare large gas turbines, distributed generation and service economics at the function level.
+2. **Data-centre electrical backbone** — determine whether integrated grid-to-chip portfolios capture structurally higher content / margins or merely volume.
+3. **AC → hybrid → 800 VDC** — identify scarce conversion, protection, busway and power-semiconductor sub-layers versus a broad open ecosystem.
+4. **Behind-the-meter / microgrid + storage** — test durable integration economics versus temporary grid-queue workaround.
+5. **Cooling / heat rejection** — separate coupled bottleneck map after core electrical validation.
+6. Only after the major functions are validated, open company-level Investment Capture work on a common basis.
 
 ## Falsification requirements
 
@@ -105,6 +103,6 @@ Every workstream must test:
 
 ## Company discipline
 
-Reference suppliers in `value-chain.md` and the transformer deep dive are **starting points only**. Do not move a company to `Watch` or `High-conviction research candidate` from theme exposure alone.
+Reference suppliers in the energy value-chain and deep dives are **starting points only**. Do not move a company to `Watch` or `High-conviction research candidate` from theme exposure alone.
 
-Company underwriting should begin only when enough of the power-delivery functions are validated to compare supplier capture across the energy frontier rather than promoting the first bottleneck we studied.
+Company underwriting should begin only when enough of the power-delivery functions are validated to compare supplier capture across the energy frontier rather than promoting the first bottleneck studied.
