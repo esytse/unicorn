@@ -2,6 +2,19 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-08
+
+### Energy supplier Investment Capture completed; Gate C shortlist established
+
+- Completed **#53** and added `research/energy/investment-capture.md` plus canonical company files for the leading immediate, specialist and nuclear-comparator candidates.
+- **GE Vernova and Vertiv lead Gate B at 4.4/5.** GE Vernova has the clearest scarcity → reservation/backlog → margin/FCF → long-service model; Vertiv has the highest direct AI-infrastructure sensitivity and spans electrical, thermal and BTM architecture.
+- **Eaton and Siemens Energy score 4.3/5; HD Hyundai Electric and nVent 4.2/5.** Eaton/Vertiv move up at company level because they span multiple validated bottlenecks, while HD Hyundai Electric and nVent provide greater total-company sensitivity than the largest diversified platforms.
+- **Mitsubishi Heavy Industries, Quanta Services and Cameco score 4.1/5 as important benchmarks.** MHI validates the third advanced-class turbine supplier; Quanta captures transmission execution rather than proprietary equipment scarcity; Cameco provides diversified nuclear fuel/services exposure.
+- **Centrus Energy and Hainan Jinpan score 4.0/5 and remain `Investigating`; Modine scores 3.9/5 and remains `Investigating`.** These names offer greater potential asymmetry but materially higher policy, qualification, customer-concentration, capital or execution risk.
+- **Modine is the clearest warning that revenue growth is not equivalent to economic capture:** Data Centers sales rose 90% and a customer pre-funded capacity, yet expansion / supply-chain effects materially pressured margins.
+- **The nuclear lane bifurcates:** Cameco offers diversified durability while Centrus offers much purer Western enrichment / HALEU exposure and greater asymmetry, with correspondingly greater policy / funding / execution risk.
+- No company passes Gate C yet. The active programme now moves to **#54 capital allocation**, using dated valuation, normalized cycle earnings/FCF, bear/base/bull scenarios, reverse 10/12/15% return hurdles and margin-of-safety price zones.
+
 ## 2026-09-07
 
 ### Energy bottlenecks ranked on common economic-capture basis
@@ -121,7 +134,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Opened **#31** and added `research/memory/probe-card-capital-allocation.md` to test JEM, Micronics Japan, FormFactor and Technoprobe on a common normalized-return basis.
 - **JEM is the strongest new valuation lead but does not pass Gate C.** At the 4 September ¥6,230 reference, the initial EPS-normalized screen gives roughly **9.4% base CAGR**, **-9.8% bear CAGR** and a **~¥5,640** 12% base-return monitoring zone. The 7 September close of ¥6,650 widened the gap to that zone.
 - **The HBM link strengthened but remains incomplete.** A JEM company-controlled page says DRAM share is increasing around HBM; FY2026 major-customer disclosures show Micron Memory Japan + Taiwan were roughly **31% of sales**. Exact HBM production sockets, HBM revenue and share are still not disclosed.
-- **Falsification materially weakens the simple low-P/E thesis.** The top three customers were ~44.7% of FY2026 sales; TTM FCF was only ~¥2.24bn; FY2026 included ~¥12.15bn of new equity issuance; shares outstanding increased materially; and competitor evidence on JEM's DRAM position is mixed.
+- **Falsification materially weakens the simple low-P/E thesis.** The top three customers were ~44.7% of FY2026 sales; TTM FCF was only ~¥2.24bn; FY2026 financing included ~¥12.15bn of new equity issuance; shares outstanding increased materially; and competitor evidence on JEM's DRAM position is mixed.
 - JEM remains **`Investigating`** and does **not** outrank the fully underwritten Onto / SUSS capital watch. The provisional research order is **Onto → SUSS → JEM → Micronics / Technoprobe → Camtek → FormFactor**.
 - The active backlog is reprioritized to **#31 JEM/probe-card evidence gap → #5 Weebit Nano → #3 robotics actuators**. No company is promoted to `High-conviction research candidate`.
 
