@@ -1,7 +1,7 @@
 # AI Memory — Synthesis & Capital-Allocation Ranking
 
 **Status:** Capital-allocation synthesis  
-**Confidence:** Medium-High on structural/company evidence; Medium on valuation scenarios; Medium-Low on JEM HBM-specific evidence  
+**Confidence:** Medium-High on structural/company evidence; Medium on valuation scenarios; Medium-Low on JEM investability  
 **Last substantive update:** 2026-09-07  
 **Capital-allocation detail:** `research/memory/capital-allocation.md` and `research/memory/probe-card-capital-allocation.md`
 
@@ -68,20 +68,22 @@ PR #30 surfaces a different way to express the 4.6/5 test/KGD bottleneck.
 
 | Peer | 4 Sep reference | Base CAGR | Bear CAGR | ~12% base-return zone | Evidence status |
 |---|---:|---:|---:|---:|---|
-| **Japan Electronic Materials (JEM)** | **¥6,230** | **~9.4%** | **-9.8%** | **~¥5,640** | **Investigating — HBM customers/share not yet verified** |
+| **Japan Electronic Materials (JEM)** | **¥6,230** | **~9.4%** | **-9.8%** | **~¥5,640** | **Investigating — best new valuation lead, but FCF/dilution/HBM socket gaps remain** |
 | **Micronics Japan** | **¥11,940** | **~6.8%** | **-11.8%** | **~¥9,760** | Investigating — stronger memory leadership evidence |
 | **Technoprobe** | **€27.46** | **~6.9%** | **-16.2%** | **~€22.55** | Watch — operating benchmark, premium valuation |
 | **FormFactor** | **$103.90** | **~1.5%** | **-15.7%** | **~$68** | Watch — strongest direct HBM evidence |
 
-**CONCLUSION:** JEM is the only new probe-card peer whose first normalized return screen is competitive with the existing Onto / SUSS capital frontier.
+**FACT:** The JEM evidence pass strengthened the HBM connection: a company-controlled page says its DRAM share is increasing **centered on HBM**, and FY2026 filings show Micron Memory Japan plus Micron Memory Taiwan accounted for about **31% of sales**.
 
-**But:** JEM's evidence quality is lower. Public evidence reviewed so far says memory-probe-card demand is driving growth, but does not establish the same HBM-customer specificity as FormFactor or the same claimed memory leadership as Micronics.
+**FACT:** The same pass weakened the simple low-P/E thesis: FY2026 operating cash flow was ¥5.76bn versus tangible fixed-asset purchases of ~¥3.52bn; TTM FCF through June was only ~¥2.24bn, and FY2026 financing included ~¥12.15bn of new equity issuance. The top three customers represented about **44.7% of FY2026 sales**.
 
-Therefore JEM becomes a **provisional capital challenger**, not a Gate-C candidate.
+**FACT:** A competitor regulatory filing reviewed in falsification lists FormFactor and Micronics among overseas DRAM probe-card competitors while placing JEM in other probe-card categories. The taxonomy may be incomplete, but it is contradictory evidence against assuming broad DRAM/HBM leadership.
+
+**CONCLUSION:** JEM is the only new probe-card peer whose EPS-based normalized return screen is competitive with the existing Onto / SUSS frontier, but **cash conversion, dilution and lower evidence quality prevent it from outranking SUSS today**.
 
 ---
 
-## 5. Combined frontier after PR #30
+## 5. Combined frontier after #31 falsification
 
 ### Fully underwritten capital order
 
@@ -93,25 +95,25 @@ Therefore JEM becomes a **provisional capital challenger**, not a Gate-C candida
 
 ### Provisional combined research order
 
-**Onto → JEM (provisional) → SUSS → Micronics / Technoprobe → Camtek → FormFactor.**
+**Onto → SUSS → JEM (provisional investigation) → Micronics / Technoprobe → Camtek → FormFactor.**
 
-This ordering deliberately penalizes JEM for lower evidence quality. A clean HBM-customer/share verification plus durable normalized FCF could move JEM into the primary capital set; failure to verify would push it back below SUSS/Micronics regardless of its headline P/E.
+JEM's position is a **research-priority position, not a capital-allocation promotion**. A clean HBM-socket/share verification plus durable normalized FCF could move it into the primary capital set. Failure to verify, repeated dilution or weak cash conversion would push it lower regardless of headline P/E.
 
 No company is a `High-conviction research candidate`.
 
 ---
 
-## 6. Why JEM matters
+## 6. Why JEM matters — and why it is not yet #2
 
-**FACT:** JEM's FY Mar-2027 guidance is ¥36.4bn revenue, ¥9.45bn operating profit and ¥6.7bn net income. At the 4 September ¥6,230 reference and ~14.65m shares, the equity value is ~¥91bn and the price is roughly **13.6x management-guided EPS**.
+**FACT:** JEM's FY Mar-2027 guidance is ¥36.4bn revenue, ¥9.45bn operating profit and ¥6.7bn net income. At the 4 September ¥6,230 reference and ~14.65m shares, equity value is ~¥91bn and the price is roughly **13.6x management-guided EPS**.
 
-**FACT:** Management says rapidly expanding memory-probe-card demand and prior capacity investments are supporting higher production and high factory utilization.
+**FACT:** Management says rapidly expanding memory-probe-card demand and prior capacity investment are supporting higher production and high factory utilization. Company-controlled disclosure also states that DRAM share is rising around HBM.
 
-**INTERPRETATION:** This is much closer to the repository's original asymmetric-upside objective than paying ~30x forward earnings for a large already-rerated US supplier.
+**INTERPRETATION:** This is closer to the repository's original asymmetric-upside objective than paying ~30x forward earnings for a large already-rerated supplier.
 
-**Evidence against:** the public record reviewed does not yet prove HBM4/HBM4E sockets, which HBM manufacturers are customers, what share of revenue/profit is HBM, or what operating margin survives utilization normalization.
+**Evidence against:** exact HBM4/HBM4E sockets and HBM revenue are not disclosed; top-customer concentration is high; FCF is much less impressive than accounting earnings; the 2026 capacity build required material equity issuance; competitor evidence on DRAM share is mixed.
 
-**Current decision:** keep JEM `Investigating`; make closing those evidence gaps the immediate AI-memory priority.
+**Current decision:** keep JEM `Investigating`. It becomes the highest-priority AI-memory **evidence-gap investigation**, not the second-ranked capital allocation.
 
 ---
 
@@ -134,33 +136,34 @@ Research thresholds, not recommendations:
 | Company | Reference | Approx. ~12% base-return zone |
 |---|---:|---:|
 | **Onto Innovation** | $268 | **~$252** |
-| **JEM** | ¥6,230 | **~¥5,640** |
 | **SUSS** | €72 | **~€64** |
+| **JEM** | ¥6,230 | **~¥5,640** |
 | **Micronics** | ¥11,940 | **~¥9,760** |
 | **Technoprobe** | €27.46 | **~€22.55** |
 | **Camtek** | $146 | **~$106** |
 | **FormFactor** | $104 | **~$68** |
 
-JEM closed at ¥6,650 on 7 September, so the gap to the unchanged ~¥5,640 research zone had widened to roughly 15%. Do not chase the rerating without better HBM evidence.
+JEM closed at ¥6,650 on 7 September, so the gap to the unchanged ~¥5,640 research zone had widened to roughly 15%. A price reset alone is not sufficient; cash-conversion and HBM-share evidence must also improve.
 
 ---
 
 ## 9. What changes the ranking
 
-### JEM moves toward Gate C if
+### JEM moves toward the primary capital set if
 
-- HBM production customers / sockets are verified;
-- HBM-specific revenue/share is material rather than generic DRAM-cycle exposure;
+- HBM production sockets / share are corroborated with investor-grade or customer evidence;
+- HBM-specific revenue is material rather than generic DRAM/NAND-cycle exposure;
 - normalized operating margin and FCF remain strong after capex;
-- dilution / share-count reconciliation is benign;
+- future capacity growth does not require repeated material dilution;
 - refreshed valuation still provides ~12%+ base-case return.
 
 ### JEM falls back if
 
 - HBM4 qualification is materially weaker than MJC / FORM;
-- current growth is conventional DRAM utilization rather than HBM content/share;
+- current growth is mainly conventional memory utilization;
 - margins collapse with utilization;
-- capex or dilution absorbs most incremental economics.
+- capex/dilution absorbs most incremental economics;
+- customer concentration results in share or order volatility.
 
 Existing Onto, SUSS, Camtek and FormFactor triggers remain as recorded in `capital-allocation.md`.
 
@@ -170,8 +173,8 @@ Existing Onto, SUSS, Camtek and FormFactor triggers remain as recorded in `capit
 
 The core thesis remains intact: **AI-memory complexity creates durable value in process control, test and qualified interfaces.**
 
-The new contribution improves the investment search because it distinguishes the **bottleneck** from the **listed vehicle used to capture it**. FormFactor can be an excellent HBM-test business and still be the wrong stock at its current valuation; JEM may be a better vehicle, but only if its apparent discount survives a much stricter evidence test.
+The collaborator contribution improved the investment search by separating the **bottleneck** from the **listed vehicle used to capture it**. FormFactor can be an excellent HBM-test business and still be the wrong stock at its current valuation. JEM may be a better vehicle, but the latest falsification shows why low P/E is not enough: cash conversion, dilution, customer concentration and proof of HBM share matter just as much.
 
 **Immediate research question:**
 
-> **Can JEM's low-teens guided earnings multiple survive HBM-customer/share verification and normalized cash-flow analysis strongly enough to challenge Onto — or is the discount simply compensation for lower evidence quality and memory-cycle risk?**
+> **Can stronger public or customer evidence verify JEM's HBM production sockets/share and normalized cash economics strongly enough to move it into the primary capital watch — or should it remain a lower-confidence valuation lead?**
