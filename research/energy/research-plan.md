@@ -1,6 +1,6 @@
 # AI Energy / Power Delivery — Research Plan
 
-**Status:** Active — cooling validated; nuclear decomposition and E2E synthesis next  
+**Status:** Active — structural discovery complete; canonical E2E synthesis next  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
 **Purpose:** Validate which AI power-delivery constraints are structural, then underwrite only the suppliers that capture the economics.
@@ -19,17 +19,22 @@ The highest-value question is not "who generates more electricity?" but:
 
 > **Which layers determine speed-to-power and speed-to-usable-compute for large AI loads, and which suppliers own those constraints?**
 
-Initial end-to-end map: `research/energy/value-chain.md`. That map is intentionally due for a full evidence-backed refresh in issue #51 after the nuclear branch is decomposed.
+The initial end-to-end map in `research/energy/value-chain.md` is now intentionally stale. Issue #51 will replace preliminary scores with the full validated chain, including nuclear and cooling, and explicitly map bottleneck migration.
 
 ## Validated bottlenecks
 
 | Workstream | Bottleneck Strength | State | Main caveat |
 |---|---:|---|---|
+| **HALEU enrichment / deconversion** | **4.7 / 5** | **Gate A passed** | narrow / policy-shaped market; demand depends on advanced-reactor execution |
 | **Transformers / critical substation equipment** | **4.7 / 5** | **Gate A passed** | large global capacity additions should gradually reduce scarcity through 2027–2030 |
 | **Physical transmission deliverability** | **4.7 / 5** | **Gate A passed** | flexible service, reconductoring and GETs can reduce required greenfield build |
+| **Western LEU enrichment** | **4.6 / 5** | **Gate A passed** | major expansions are underway, but meaningful new capacity arrives gradually |
 | **Large gas-turbine equipment / manufacturing slots** | **4.6 / 5** | **Gate A passed** | GE / Siemens / Mitsubishi capacity expansion and non-gas substitutes cap long-run scarcity |
+| **Large nuclear forgings / long-lead heavy components** | **4.5 / 5** | **Gate A passed** | new-build demand is mostly a 2030s output story and designs differ |
 | **Integrated thermal chain / qualified cooling capacity** | **4.4 / 5** | **Gate A passed** | open interfaces and aggressive capacity additions weaken generic component scarcity |
 | **MV/HV switchgear** | **4.4 / 5** | **Gate A passed** | broader qualified supplier base and somewhat faster capacity expansion than LPTs |
+| **Nuclear EPC / QA / qualified workforce** | **4.4 / 5** | **Gate A passed** | labor / delivery scarcity is real but hard to translate into attractive listed economics |
+| **UF6 conversion** | **4.3 / 5** | **Gate A passed narrowly** | concentrated Western footprint, but less technically scarce than enrichment |
 | **Integrated data-centre electrical backbone** | **4.3 / 5** | **Gate A passed** | broader multi-vendor supply; scarcity is integration / qualification / delivery rather than one uniquely scarce component |
 | **DTC liquid-cooling function** | **4.2 / 5** | **Gate A passed as function** | generic cold-plate / CDU supplier scarcity is only ~3.8 because of standardisation / multi-sourcing |
 | **Facility heat-rejection function** | **4.2 / 5** | **Gate A passed** | heat rejection persists, but chillers / dry coolers / towers / hybrid implementations can migrate |
@@ -43,6 +48,7 @@ Canonical deep dives:
 - `research/energy/deep-dives/electrical-backbone-800vdc.md`
 - `research/energy/deep-dives/behind-the-meter-microgrids.md`
 - `research/energy/deep-dives/cooling-heat-rejection.md`
+- `research/energy/deep-dives/nuclear-supply-chain.md`
 
 ### Important distinctions
 
@@ -56,17 +62,18 @@ Canonical deep dives:
 
 **Cooling is now validated as part of the capacity path, not an auxiliary load.** The integrated thermal chain scores **4.4/5**, but the investment target should be architecture-resilient thermal capacity / engineering rather than generic cold plates, CDUs or one particular chiller topology.
 
-## Current validation / synthesis priority
+**Nuclear must be split by time horizon.** Existing nuclear output, restarts and selected uprates can affect power availability before 2030. Most new large reactors and commercial advanced-reactor fleets are 2030s supply. The strongest nuclear supply-chain scarcity sits downstream of uranium in **enrichment, HALEU, conversion, qualified forgings/components and specialist delivery capacity**.
+
+## Current synthesis / underwriting priority
 
 | Priority | Workstream | Status | Why next |
 |---:|---|---|---|
-| 1 | **Nuclear E2E supply chain (#50)** | Open | nuclear is currently too coarse in the main value-chain map; decompose fuel, existing fleet, new build, SMR / advanced reactors, qualified components and EPC before final synthesis |
-| 2 | **Canonical E2E refresh (#51)** | Open | reconcile all preliminary scores, include nuclear and cooling, and map bottleneck migration across the full chain |
-| 3 | **Cross-layer bottleneck ranking (#52)** | Open | rank structural scarcity, AI sensitivity, architecture resilience and economic-capture mechanisms before proliferating company work |
-| 4 | **Supplier Investment Capture (#53)** | Open | underwrite only the top-ranked layers on one common company basis |
-| 5 | **Capital allocation (#54)** | Open | valuation / scenario / margin-of-safety gate after company capture is validated |
+| 1 | **Canonical E2E refresh (#51)** | Open | reconcile all preliminary scores, integrate nuclear + cooling, separate 2026–2030 from 2030s pathways, and map bottleneck migration across the full chain |
+| 2 | **Cross-layer bottleneck ranking (#52)** | Open | rank structural scarcity, AI sensitivity, architecture resilience, economic capture and capital intensity before proliferating company work |
+| 3 | **Supplier Investment Capture (#53)** | Open | underwrite only the top-ranked layers on one common company basis |
+| 4 | **Capital allocation (#54)** | Open | valuation / scenario / margin-of-safety gate after company capture is validated |
 
-Broad non-nuclear bottleneck discovery is now complete. Do not reopen it unless evidence identifies a materially different physical function.
+Broad bottleneck discovery is now complete. Do not reopen it unless evidence identifies a materially different physical function or a narrow 800 VDC / nuclear sub-layer with direct qualification / pricing evidence.
 
 ## Transformer validation result (#36)
 
@@ -145,6 +152,24 @@ Key evidence and caveats:
 
 **Decision:** treat the integrated thermal chain as validated, with DTC and facility heat rejection at **4.2/5 function-level**. Generic liquid-cooling component scarcity is only about **3.8/5**. Later company underwriting should favor suppliers with architecture-resilient thermal-system capacity, qualification, testing, integration and service rather than generic liquid-cooling exposure.
 
+## Nuclear supply-chain validation result (#50)
+
+Nuclear changes the timing and location of the energy bottleneck rather than replacing the grid / electrical / cooling chain.
+
+**Near-term pathway:** existing operating nuclear output → life extension / contracted output → selected restarts → uprates. Microsoft-backed Crane targets 835 MW from a brownfield restart, while Meta-backed agreements preserve / contract operating nuclear output and support uprates. NRC's expected uprate schedule totals about **2.42 GW electric through 2032**.
+
+**Longer-duration pathway:** new large reactors / advanced reactors → fuel / enrichment → qualified heavy components → specialist EPC / commissioning → turbine / grid / cooling. Hyperscaler demand is credible, but most new commercial output is targeted for **2030–2035+**.
+
+Validated nuclear scarcity:
+
+- **HALEU enrichment / deconversion: 4.7/5** — limited commercial supply, DOE-backed capacity buildout, Centrus / advanced-reactor contracts;
+- **Western LEU enrichment: 4.6/5** — concentrated major supplier base, geopolitical substitution pressure, new capacity arriving only gradually;
+- **large nuclear forgings / long-lead heavy components: 4.5/5** — no U.S. capacity for the largest nuclear forgings in DOE's supply-chain work; X-energy has already reserved Doosan forging capacity;
+- **nuclear EPC / QA / qualified workforce: 4.4/5** — persistent hiring / experience constraints after a generation with limited U.S. new build;
+- **UF6 conversion: 4.3/5** — concentrated Western footprint; Cameco describes Port Hope as one of only three Western UF6 suppliers.
+
+**Decision:** uranium mining itself is a weaker 3.5/5 bottleneck than downstream fuel-cycle / qualification layers. Do not treat generic SMR exposure as a validated investment thesis. The E2E synthesis must separate **2026–2030 power availability** from the **2030s nuclear industrial buildout**.
+
 ## Gate A-style validation criteria
 
 Score each workstream 1–5 on:
@@ -161,11 +186,10 @@ A preliminary score is **not** a validated bottleneck until contradictory eviden
 
 ## Immediate work
 
-1. **Nuclear #50** — map uranium → conversion → enrichment / HALEU where relevant → fuel fabrication → existing-fleet uprates / life extensions / restarts → conventional new build → SMR / advanced reactors → nuclear-grade equipment / forgings / pumps / valves / controls → turbine island / EPC → grid delivery; score pathways separately.
-2. **E2E synthesis #51** — refresh `research/energy/value-chain.md` using all validated results, explicitly map bottleneck migration and cross-cutting constraints such as land, water, gas pipelines, materials, factory test / qualification and skilled EPC.
-3. **Cross-layer ranking #52** — stop broad discovery and identify the small top tier for supplier underwriting.
-4. **Investment Capture #53** — compare suppliers only after the structural ranking is fixed.
-5. **Capital allocation #54** — move to normalized return / valuation / margin-of-safety analysis only after company capture is validated.
+1. **E2E synthesis #51** — rebuild `research/energy/value-chain.md` using all validated evidence. Include explicit nuclear branches, cooling as a cross-cutting capacity path, two timing horizons and bottleneck migration.
+2. **Cross-layer ranking #52** — rank the entire frontier on structural scarcity, AI sensitivity, architecture resilience, evidence quality, capital intensity and likely merchant capture; identify a small top tier.
+3. **Investment Capture #53** — compare suppliers only after the structural ranking is fixed, including smaller specialists rather than defaulting to the obvious large-cap platforms.
+4. **Capital allocation #54** — move to normalized return / valuation / margin-of-safety analysis only after company capture is validated.
 
 ## Falsification requirements
 
@@ -184,4 +208,4 @@ Every workstream must test:
 
 Reference suppliers in the energy value-chain and deep dives are **starting points only**. Do not move a company to `Watch` or `High-conviction research candidate` from theme exposure alone.
 
-Company underwriting should begin only after the E2E refresh and common-basis bottleneck ranking identify which power-delivery / thermal functions deserve concentrated Investment Capture work.
+Company underwriting should begin only after the E2E refresh and common-basis bottleneck ranking identify which generation / grid / fuel / thermal functions deserve concentrated Investment Capture work.
