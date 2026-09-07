@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Advanced packaging bottleneck validated
+
+- Completed the advanced packaging/interposer deep dive from issue #10.
+- **Bottleneck Strength Score: 4.7/5** — Gate A passed. The constraint is broader than CoWoS capacity and includes large-area interposer/RDL yield, high-performance package substrates, inspection/metrology/process control, bonding/CMP/plating and final heterogeneous assembly.
+- The strongest strategic conclusion is that the bottleneck is likely to **persist through architecture transitions**. Silicon interposers may migrate toward RDL, bridges, panel-level, organic/glass or hybrid-bond architectures, but larger package area and higher interconnect density continue to create process-control and substrate challenges.
+- Inspection/metrology emerged as the highest-priority supplier hunting ground. **Camtek** and **Onto Innovation** move to `Investigating` based on direct 2026 HBM/CoWoS-like order and qualification evidence.
+- **Ibiden** and **Amkor** enter the research queue as substrate/capacity benchmarks with strong demand evidence but higher capital intensity and less certain economic asymmetry.
+- No company is promoted to high conviction; company-level Investment Capture Scores still require separate underwriting.
+
 ### HBM stacking / bonding / thermal bottleneck validated
 
 - Completed the first HBM stacking/bonding/thermal/yield deep dive from issue #9.
@@ -46,5 +55,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. The HBM stacking/bonding/thermal layer has now passed Gate A; supplier-level economic capture is being tested next.
+- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. HBM stacking and advanced packaging have now passed Gate A; supplier-level economic capture is being tested company by company.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
