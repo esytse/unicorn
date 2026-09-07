@@ -1,15 +1,19 @@
-# AI Memory — Bottleneck & Investment-Capture Ranking
+# AI Memory — Synthesis & Capital-Allocation Ranking
 
-**Status:** Second-wave synthesis  
-**Confidence:** Medium-High on relative research priority; valuation still requires scenario work  
+**Status:** Capital-allocation synthesis  
+**Confidence:** Medium-High on structural/company evidence; Medium on valuation scenarios  
 **Last substantive update:** 2026-09-07  
-**Next decision:** capital-allocation issue #27
+**Capital-allocation detail:** `research/memory/capital-allocation.md`
 
 ## Purpose
 
-Compare validated AI-memory bottlenecks and completed company underwritings on the same basis. This is a **research-prioritisation ranking, not an investment recommendation or valuation model**.
+Keep three different decisions separate:
 
-The planned second company wave is now complete: Montage Technology, Onto Innovation, Hanmi Semiconductor and ASMPT have been underwritten, and the targeted wafer-processing gap analysis is closed.
+1. Is the bottleneck structural?
+2. Does the company capture the economics?
+3. Does the current price leave enough risk-adjusted upside?
+
+The first two company-underwriting waves are complete and issue #27 has now tested the third question for the leading candidates.
 
 ---
 
@@ -27,131 +31,174 @@ The planned second company wave is now complete: Montage Technology, Onto Innova
 
 ---
 
-## 2. Completed company underwritings
+## 2. Investment Capture ranking
 
 | Research rank | Company | Bottleneck | Investment Capture | Key attraction | Main constraint |
 |---:|---|---|---:|---|---|
-| **1** | **Onto Innovation** | AP inspection / metrology | **4.0/5** | HBM4 process-of-record win, >$240m HBM VPA, >$1bn backlog, strong margins | Rerated ~$13bn market cap; KLA/Camtek/Applied competition |
+| **1** | **Onto Innovation** | AP inspection / metrology | **4.0/5** | HBM4 process-of-record win, >$240m HBM VPA, >$1bn backlog, strong margins | Rerated market cap; KLA/Camtek/Applied competition |
 | **2** | **FormFactor** | HBM test / probe cards | **4.0/5** | Volume at all 3 HBM makers, share gains, direct earnings leverage | Post-rerating valuation; absolute HBM profit not disclosed |
 | **3** | **Camtek** | AP inspection / metrology | **3.9/5** | Very visible HBM/OSAT orders and rising AP mix | Premium valuation and possible capex pull-forward |
 | **4** | **SUSS** | HBM thinning / TBDB | **3.7/5** | Smallest-cap asymmetry and direct HBM qualification | Customer competition and unproven HBM hybrid-bond position |
 | **5** | **ASMPT** | HBM/AP bonding | **3.7/5** | Multi-customer, multi-architecture TCB/AOR/hybrid exposure | HBM earnings diluted by broader Group; lower Group margins |
-| **6** | **Montage Technology** | DDR5 / MRDIMM interfaces | **3.8/5** | Exceptional oligopoly franchise, ~36.8% reported share, ~65% interface GM | Large HK$268bn market cap and ~52x point-in-time forward P/E |
+| **6** | **Montage Technology** | DDR5 / MRDIMM interfaces | **3.8/5** | Exceptional oligopoly franchise, ~36.8% reported share, high interface GM | Large market value and demanding valuation |
 | **7** | **Hanmi Semiconductor** | HBM TCB | **3.6/5** | Exceptional current HBM sensitivity and ~52% Q2 operating margin | Customer/TCB concentration, hybrid transition and extreme valuation |
 
-The ordering above is a **research-priority judgment**, not a mechanical ordering by Investment Capture score alone. For example, Montage scores 3.8 but ranks below smaller companies because size/valuation materially weaken asymmetric return potential.
+The ordering is a research-priority judgment, not a mechanical score ranking.
 
 ---
 
 ## 3. Bottleneck × capture screen
 
-A simple product is useful for triage only:
+This remains useful for deciding what deserved valuation work, but it is **not** a valuation model.
 
 | Company | Bottleneck Strength | Investment Capture | Screen /25 |
 |---|---:|---:|---:|
-| **Onto Innovation** | 4.7 | 4.0 | **18.8** |
-| **FormFactor** | 4.6 | 4.0 | **18.4** |
-| **Camtek** | 4.7 | 3.9 | **18.3** |
-| **SUSS** | 4.6 | 3.7 | **17.0** |
-| **ASMPT** | 4.6 | 3.7 | **17.0** |
-| **Montage** | 4.4 | 3.8 | **16.7** |
-| **Hanmi** | 4.6 | 3.6 | **16.6** |
+| Onto Innovation | 4.7 | 4.0 | **18.8** |
+| FormFactor | 4.6 | 4.0 | **18.4** |
+| Camtek | 4.7 | 3.9 | **18.3** |
+| SUSS | 4.6 | 3.7 | **17.0** |
+| ASMPT | 4.6 | 3.7 | **17.0** |
+| Montage | 4.4 | 3.8 | **16.7** |
+| Hanmi | 4.6 | 3.6 | **16.6** |
 
-**Do not use this screen as a valuation model.** Issue #27 must explicitly model earnings, valuation and downside before any capital-allocation conclusion.
-
----
-
-## 4. What changed in the second wave
-
-### Onto Innovation moved into the top tier
-
-**FACT:** A leading HBM manufacturer selected Dragonfly G5 for HBM4 after competitive evaluation and committed to double-digit Dragonfly G5/3Di systems. Onto also has a >$240m HBM volume-purchase agreement through 2027, Q2 revenue of $343.1m (+35.3% y/y), >$1bn backlog and 57.0% non-GAAP gross margin.
-
-**INTERPRETATION:** Onto now has evidence quality comparable with FormFactor/Camtek while its point-in-time forward multiple appears less extreme than some peers. That makes it the most important new entrant to the capital-allocation shortlist.
-
-### Montage technical thesis strengthened; investment asymmetry weakened
-
-Montage's core franchise is excellent: interconnect chips are a major business, its filing cites 36.8% global share, 2025 interconnect gross margin was 65.6%, and MRDIMM raises chip content per module.
-
-But at roughly HK$268bn market cap and ~52x point-in-time forward P/E, the market already recognises much of that advantage. Final Investment Capture is **3.8/5**, not a High-conviction promotion.
-
-### Hanmi is a high-beta HBM capex vehicle, not a durable winner yet
-
-Hanmi's current economics are extraordinary: Q2-26 operating margin reached 51.9%, and individual SK hynix HBM4 orders are material to annual revenue.
-
-The same concentration is the problem. TCB technology transition, customer dependence and a very high valuation make Hanmi less durable than the headline margins suggest. Final score **3.6/5**.
-
-### ASMPT looks more architecture-resilient than Hanmi
-
-ASMPT spans conventional TCB, AOR fluxless processes and hybrid bonding, with HBM4 orders from multiple players. Its 2025 AP revenue was US$532.1m and TCB revenue rose ~146%.
-
-The trade-off is dilution: HBM is one part of a broad equipment Group. Final score **3.7/5**.
-
-### DISCO closes the wafer-processing gap without creating a new priority company thesis
-
-Precision grinding/thinning/singulation recur at multiple steps across HBM and 2.5D packaging, and DISCO has clear commercial exposure to generative-AI/high-performance semiconductor demand.
-
-But HBM-specific revenue/share/content is not disclosed and DISCO is already ~¥6tn scale. It enters `Watch` as a benchmark; no dedicated company-underwriting issue is justified yet.
+Issue #27 demonstrates why the screen cannot select the investment: FormFactor and Camtek remain near the top technically, but their starting valuations materially reduce expected returns in a normalized scenario.
 
 ---
 
-## 5. Strongest evidence against each leading thesis
+## 4. Capital-allocation result
 
-| Candidate | Strongest contradiction / risk |
-|---|---|
-| Onto | KLA/Camtek/Applied competition; HBM VPA creates customer concentration; backlog can include capex pull-forward |
-| FormFactor | dual sourcing, HBM design volatility, valuation already assumes strong earnings growth |
-| Camtek | order surge may pull forward capex; competitors can contest high-value inspection steps |
-| SUSS | process-of-record competition at one Korean HBM customer; hybrid-bond leadership unproven |
-| ASMPT | HBM contribution diluted across Group; hybrid-bond mass-production leadership not proven |
-| Montage | Rambus/Renesas competition; RDIMM/SOCAMM2 alternatives; very demanding valuation |
-| Hanmi | customer concentration; hybrid-bond transition; current margins/valuation may be unsustainably high |
+**Reference date:** 4 September 2026 for Onto, FormFactor, Camtek and SUSS.  
+**Detailed assumptions:** `capital-allocation.md`.
 
----
+| Capital rank | Company | Reference price | 2027 EPS anchor multiple | Bear CAGR | Base CAGR | Bull CAGR | Gate C? |
+|---:|---|---:|---:|---:|---:|---:|---|
+| **1** | **Onto Innovation** | $268.01 | ~23x | **-7.9%** | **10.4%** | **24.7%** | **No — closest** |
+| **2** | **SUSS** | €72.40 | ~21x | **-17.1%** | **8.8%** | **27.8%** | **No** |
+| **3** | **Camtek** | $145.72 | ~30x | **-15.7%** | **3.8%** | **19.0%** | **No** |
+| **4** | **FormFactor** | $103.90 | ~30x | **-15.7%** | **1.5%** | **14.9%** | **No** |
 
-## 6. Capital-allocation shortlist
+The scenario model uses 2027 consensus EPS as a visible-cycle anchor, haircuts it in the bear case, assumes slower 2027–2030 growth than the current AI ramp, and normalizes terminal P/E rather than preserving today's multiples.
 
-Issue **#27** should now focus on four companies:
+### Current capital conclusion
 
-1. **Onto Innovation** — strongest new combination of process-control evidence, margins and valuation balance.
-2. **FormFactor** — strongest direct HBM test evidence and customer breadth.
-3. **Camtek** — strongest order visibility but premium valuation/pull-forward risk.
-4. **SUSS** — highest small-cap asymmetry, but materially more technical/customer risk.
+**CONCLUSION:** **No candidate passes Gate C at current reference prices.**
 
-ASMPT should be included if refreshed valuation/scenario work shows its architecture durability compensates for diluted HBM sensitivity.
-
-Montage and Hanmi remain `Watch`, but current valuation makes them lower priority for immediate capital-allocation work.
+- **Onto** is the preferred valuation/quality watch and is closest to a sufficient margin of safety.
+- **SUSS** remains the higher-risk asymmetric alternative: similar scenario-weighted upside, but much larger bear-case impairment risk.
+- **Camtek** and **FormFactor** remain excellent franchises, but the current share prices demand too much post-2027 earnings compounding for a strong margin of safety.
 
 ---
 
-## 7. What happens next
+## 5. Reverse valuation test
 
-The bottleneck-discovery and two company-underwriting waves are sufficiently mature. The next step is **not** to add another dozen suppliers.
+To earn a **12% annual return** through end-2030 at the base terminal P/E, current prices require approximately:
 
-Execute **#27 — capital allocation**:
+| Company | Required 2027–30 EPS CAGR |
+|---|---:|
+| Onto Innovation | **17%** |
+| SUSS | **20%** |
+| Camtek | **28%** |
+| FormFactor | **30%** |
 
-- refresh market prices/valuation;
-- normalise earnings through a semiconductor-capex cycle;
-- build bear/base/bull 3–5 year scenarios;
-- estimate terminal multiples and annualised returns;
-- quantify downside and margin of safety;
-- identify what growth the current price already assumes;
-- compare risk-adjusted expected returns.
-
-Only after that should any company be considered for `High-conviction research candidate` status.
-
-Separately, **#5 Weebit Nano** remains a speculative architectural-discontinuity backlog item and **#3 robotics actuators** remains a separate research stream.
+**INTERPRETATION:** Onto's hurdle is demanding but plausible if HBM/AP process-control growth persists. SUSS can clear its hurdle in a strong execution case but carries much greater customer/process risk. Camtek and FormFactor need exceptionally strong earnings compounding for several years after the current earnings step-up.
 
 ---
 
-## 8. Current working conclusion
+## 6. Monitoring / valuation zones
 
-We have not found one obvious “memory unicorn.” We have found something more useful: a small set of **validated picks-and-shovels franchises** with different risk profiles.
+These are **research thresholds, not buy recommendations**. They are the approximate entry prices at which the base scenario would produce a 12% annualized return to end-2030, assuming the earnings thesis does not deteriorate.
 
-- **Onto / FormFactor / Camtek:** strongest current evidence of durable economic capture.
-- **SUSS:** most interesting small-cap asymmetry, with higher transition risk.
-- **ASMPT:** architecture-resilient bonding exposure but lower total-company sensitivity.
-- **Montage:** exceptional strategic franchise, but starting valuation substantially weakens asymmetry.
-- **Hanmi:** exceptional current HBM economics but the most obvious transition/valuation trap risk.
+| Company | Current reference | ~12% base-return zone | Approx. reset needed |
+|---|---:|---:|---:|
+| **Onto Innovation** | $268 | **~$252** | ~6% |
+| **SUSS** | €72 | **~€64** | ~12% |
+| **Camtek** | $146 | **~$106** | ~28% |
+| **FormFactor** | $104 | **~$68** | ~34% |
 
-No company is yet a **High-conviction research candidate**. The next decision depends on valuation and expected return, not another technical screen.
+A 15% base-return hurdle would require roughly $225 for Onto, €57 for SUSS, $94 for Camtek and $61 for FormFactor.
+
+---
+
+## 7. Why Onto now ranks first for capital allocation
+
+**FACT:** Onto's Q2 revenue reached $343.1m, +35.3% y/y, backlog exceeded $1bn, non-GAAP gross margin was 57.0%, and Q3 non-GAAP operating-margin guidance was 31.5–32.5%.
+
+**FACT:** It has direct HBM4 process-control evidence and a >$240m HBM volume agreement through 2027.
+
+**INTERPRETATION:** Onto combines evidence quality comparable to FormFactor/Camtek with a lower 2027 EPS multiple and a stronger base-case return. It therefore moves from the top *research* tier to the top *capital-allocation watch* position.
+
+**Evidence against:** current market cap has already rerated sharply; HBM customer concentration is meaningful; $1bn backlog could still contain pull-forward; KLA/Camtek/Applied remain strong competitors.
+
+---
+
+## 8. Why SUSS remains second rather than first
+
+SUSS is the only primary candidate with a market value near €1.4bn, record backlog and direct HBM temporary-bonding exposure. That creates the greatest percentage upside if execution goes right.
+
+But 2027 consensus already assumes a large recovery: €591.7m sales, 15.5% EBIT margin and €3.41 EPS versus a 2026 guidance trough. The downside distribution is therefore much wider than Onto's, and process-of-record competition at a Korean HBM customer remains unresolved.
+
+**INTERPRETATION:** SUSS is the best asymmetric *watch*, not the best risk-adjusted allocation at the current price.
+
+---
+
+## 9. Why FormFactor and Camtek fall in capital rank despite strong research scores
+
+### FormFactor
+
+The HBM test thesis remains intact: volume at all three memory makers, strong revenue/margin growth and a structural test bottleneck. The problem is price. At roughly 30x the 2027 consensus EPS anchor, a normalized 22x terminal P/E requires ~30% annual EPS growth from 2027–2030 to generate a 12% return.
+
+### Camtek
+
+Camtek has exceptionally visible HBM/OSAT/AP orders and strong margins. But its roughly 30x 2027 EPS anchor and order-pull-forward risk leave insufficient downside protection. A 12% return at a 23x terminal multiple requires ~28% 2027–2030 EPS CAGR.
+
+Neither thesis is rejected. Both remain `Watch`; the required entry price or earnings-estimate upgrade is simply much larger.
+
+---
+
+## 10. ASMPT, Montage, Hanmi and DISCO
+
+- **ASMPT:** screened in #27; current ~28x published forward P/E and broader-company dilution do not improve the allocation frontier. Remains `Watch`.
+- **Montage:** excellent franchise and improving new-product revenue, but already-large market value and premium valuation keep it below the allocation shortlist.
+- **Hanmi:** extraordinary current margins and HBM sensitivity, but concentration and transition risk make normalized valuation difficult to defend.
+- **DISCO:** remains a high-quality benchmark; HBM-specific revenue/share is still insufficiently quantified for dedicated capital allocation.
+
+---
+
+## 11. Falsification / what changes the capital ranking
+
+### Onto moves toward Gate C if
+
+- price reaches roughly the low-$250s or below without thesis deterioration;
+- 2027/2028 backlog visibility rises enough to justify >17% post-2027 EPS compounding;
+- HBM process-control share expands across more than one major customer.
+
+### SUSS moves toward Gate C if
+
+- price approaches the mid-€60s or lower;
+- 2027 backlog conversion supports ≥15% EBIT margin;
+- temporary-bonding share is defended and HBM hybrid-bond production qualification becomes explicit.
+
+### Camtek moves toward Gate C if
+
+- price approaches ~$105 or normalized earnings estimates rise materially;
+- the 2026 order surge converts cleanly into 2027/2028 revenue rather than pulling demand forward;
+- Hawk retains high-value HBM/hybrid-bond share.
+
+### FormFactor moves toward Gate C if
+
+- price approaches ~$68 or normalized EPS rises enough to reduce the earnings-growth hurdle materially;
+- HBM probe-card content/share continues to rise while gross margins remain durable.
+
+---
+
+## 12. Current working conclusion
+
+We have validated the core “picks and shovels of memory complexity” thesis, but **business quality and stock attractiveness have now separated**.
+
+The highest-value next action is not more supplier discovery. It is monitoring prices, earnings estimates, backlog conversion and architecture/customer evidence.
+
+**Capital watch order today:**
+
+**Onto → SUSS → Camtek → FormFactor.**
+
+No company is a `High-conviction research candidate` yet. A better price or stronger normalized-earnings evidence is required before capital-allocation conviction increases.
