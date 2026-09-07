@@ -1,9 +1,9 @@
 # AI Energy / Power Delivery — Research Plan
 
-**Status:** Active — Gate B supplier Investment Capture complete; Gate C capital allocation next  
+**Status:** Gate A/B/C programme complete — valuation monitoring / selective evidence refresh  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-08  
-**Purpose:** Identify which validated AI-energy bottlenecks convert into durable company economics, then allocate capital only where valuation leaves enough asymmetry.
+**Purpose:** Maintain an evidence-backed map of AI-energy bottlenecks and act only when company capture and valuation jointly create enough asymmetry.
 
 ## Three gates
 
@@ -11,103 +11,87 @@
 2. **Gate B — Investment Capture:** company turns scarcity into pricing, margin, share, content or service economics.
 3. **Gate C — Capital Allocation:** normalized risk-adjusted return and margin of safety at current valuation.
 
-Canonical E2E map: `research/energy/value-chain.md`  
-Canonical cross-layer ranking: `research/energy/synthesis-ranking.md`  
-Canonical company capture ranking: `research/energy/investment-capture.md`
+Canonical documents:
 
-## Structural discovery status
+- E2E map: `research/energy/value-chain.md`
+- Cross-layer ranking: `research/energy/synthesis-ranking.md`
+- Supplier capture: `research/energy/investment-capture.md`
+- Capital allocation: `research/energy/capital-allocation.md`
 
-Broad discovery is complete. Do not open new theme workstreams unless new evidence reveals a materially different physical constraint or a narrow sub-layer with direct qualification / reservation / pricing evidence.
+## Programme conclusion
 
-The ranking separates **physical importance** from **merchant economic capture**. Physical transmission is structurally 4.7/5 but its profit pool is dispersed; large gas turbines are 4.6/5 but rank first structurally for company underwriting because customer reservations, concentrated OEM supply, pricing and decades of service economics make capture more direct.
+Broad structural discovery is complete. The core thesis is:
 
-## Gate B result (#53)
+> **AI energy is a serial speed-to-power + speed-to-usable-compute problem. Bottlenecks migrate across generation, grid, electrical delivery and thermal rejection rather than disappearing when one layer is bypassed.**
 
-Company-level work changes the practical priority because platform breadth, service economics, customer concentration and company size matter as much as the underlying bottleneck score.
+The strongest immediate physical functions remain transformers / transmission, large gas turbines, integrated thermal systems, MV/HV switchgear and integrated data-centre electrical infrastructure. Nuclear adds strategically scarce Western enrichment / HALEU and qualified manufacturing layers, but most new-build demand is a 2030s pathway.
 
-### Primary Gate-C group
+## Gate B supplier result (#53)
 
-| Company | ICS | Status | Why it survives Gate B |
-|---|---:|---|---|
-| **GE Vernova** | **4.4 / 5** | **Watch** | clearest scarcity → reservation/backlog → margin/FCF → long-service model; grid exposure adds architecture resilience |
-| **Vertiv** | **4.4 / 5** | **Watch** | highest direct AI-infrastructure sensitivity; electrical + thermal + BTM platform with strong margin/FCF evidence |
-| **Eaton** | **4.3 / 5** | **Watch** | broad architecture-resilient electrical platform; strong orders/backlog/margins; Boyd adds thermal capture |
-| **Siemens Energy** | **4.3 / 5** | **Watch** | gas-turbine + Grid Technologies dual exposure with customer prepayments and service economics |
-| **HD Hyundai Electric** | **4.2 / 5** | **Watch** | smaller transformer specialist; multi-year backlog and direct hyperscaler/data-centre demand sensitivity |
-| **nVent** | **4.2 / 5** | **Watch** | smaller electrical-connection + cooling challenger with very strong organic growth and cash generation |
+| Company | Investment Capture | Status |
+|---|---:|---|
+| GE Vernova | **4.4 / 5** | Watch |
+| Vertiv | **4.4 / 5** | Watch |
+| Eaton | **4.3 / 5** | Watch |
+| Siemens Energy | **4.3 / 5** | Watch |
+| HD Hyundai Electric | **4.2 / 5** | Watch |
+| nVent | **4.2 / 5** | Watch |
+| Mitsubishi Heavy Industries | 4.1 / 5 | Watch / benchmark |
+| Quanta Services | 4.1 / 5 | Watch / benchmark |
+| Cameco | 4.1 / 5 | Watch / nuclear comparator |
+| Centrus Energy | 4.0 / 5 | Investigating |
+| Hainan Jinpan | 4.0 / 5 | Investigating |
+| Modine | 3.9 / 5 | Investigating |
 
-### Asymmetric / specialist lane
+**Interpretation:** turbine OEMs own the cleanest scarcity-to-service model, while Vertiv / Eaton gain company-level resilience by spanning several bottlenecks. Specialists can offer more asymmetry but with materially higher concentration, execution, policy or qualification risk.
 
-| Company | ICS | Status | Why it remains active |
-|---|---:|---|---|
-| **Centrus Energy** | **4.0 / 5** | **Investigating** | cleanest listed HALEU / Western enrichment exposure and high small-company asymmetry, offset by policy/funding/execution risk |
-| **Hainan Jinpan** | **4.0 / 5** | **Investigating** | smaller transformer/prefabricated-power-module exposure with rapidly growing data-centre orders and SST optionality |
-| **Modine** | **3.9 / 5** | **Investigating** | strongest direct customer evidence of cooling-capacity scarcity; very high AI sensitivity, but concentration and expansion risk are material |
+## Gate C result (#54)
 
-### Benchmarks
+**No company passes strict Gate C at the September 2026 reference prices.**
 
-- **Mitsubishi Heavy Industries — 4.1/5:** third advanced-class turbine benchmark; broader-group dilution.
-- **Quanta Services — 4.1/5:** best transmission/EPC execution comparator; weaker proprietary scarcity.
-- **Cameco — 4.1/5:** diversified nuclear comparator across uranium/fuel services/Westinghouse.
-- **Schneider Electric / ABB:** broad electrical-platform comparators for valuation / margin normalization.
+Current capital-allocation order:
 
-## Key Gate-B conclusions
+1. **Siemens Energy** — base ~11.2% annualized; ~12% return zone around **€144** versus ~€148 reference.
+2. **nVent** — base ~10.5%; ~12% zone around **$147** versus ~$156.
+3. **Vertiv** — base ~8.5%; ~12% zone around **$245** versus ~$281.
+4. **Hainan Jinpan** — base ~8.4%; ~12% zone around **CNY59** versus ~CNY68; lower evidence quality.
+5. **Centrus** — event-driven base ~7.8%; ~12% zone around **$147** versus ~$174; severe policy / dilution / execution risk.
+6. **Modine** — base ~7.7%; ~12% zone around **$165** versus ~$195.
+7. **HD Hyundai Electric** — base ~6.2%; ~12% zone around **KRW606k** versus KRW763k.
+8. **Eaton** — base ~6.0%; ~12% zone around **$325** versus ~$411.
+9. **GE Vernova** — base ~4.6%; ~12% zone around **$702** versus ~$942 under normalized-EPS assumptions.
 
-### 1. GE Vernova / Siemens Energy own the cleanest scarcity-to-service model
+The ordering deliberately differs from Gate B: **best business / strongest bottleneck does not automatically produce the best expected return.**
 
-Turbine slot reservations, customer advances, concentrated OEM supply and decades of installed-base service make capture more visible than in most other energy layers.
+## Monitoring priorities
 
-### 2. Vertiv / Eaton move up at company level
+### Highest priority
 
-Although the underlying integrated electrical / thermal lanes rank below turbines structurally, these companies span multiple bottlenecks and remain relevant as architecture migrates. That raises company-level resilience.
+- **Siemens Energy:** monitor the mid-€140s and below while Gas Services / Grid backlog quality and Gamesa cash generation remain intact.
+- **nVent:** monitor the high-$140s and below while organic growth, margins and FCF demonstrate durable electrical + thermal capture.
 
-### 3. Specialists deserve separate capital-allocation treatment
+### Quality names waiting for valuation / earnings catch-up
 
-HD Hyundai Electric, nVent, Modine, Jinpan and Centrus can have much greater earnings sensitivity than the obvious multinational platforms. Their quality is lower in some dimensions, but the asymmetry can be higher.
+- **Vertiv:** mid-$240s under current assumptions, or earnings sufficient to move the 12% zone higher.
+- **Eaton:** low/mid-$300s unless normalized post-Boyd earnings rise materially.
+- **HD Hyundai Electric:** low-KRW600k area under normalized transformer-cycle assumptions.
+- **GE Vernova:** current operational leader but valuation-bound; require much stronger normalized service / Electrification EPS or a material price reset.
 
-### 4. Nuclear bifurcates
+### Asymmetric evidence-gathering lane
 
-Cameco offers durability / diversification. Centrus offers bottleneck purity / asymmetry with materially more policy, funding and execution risk. Do not treat them as interchangeable nuclear exposure.
+- **Modine:** prove Data Centers margin and FCF recovery after expansion.
+- **Hainan Jinpan:** verify repeated overseas / hyperscaler qualification and cash conversion.
+- **Centrus:** convert contingent LEU/HALEU commitments into funded capacity without excessive dilution.
 
-### 5. Revenue growth is not enough
+## Re-open research only when evidence changes
 
-Modine is the clearest warning: Data Centers sales rose sharply and customers pre-funded capacity, yet expansion and supply-chain execution compressed margins. Gate C must focus on FCF and normalized returns, not thematic revenue growth.
+A new substantive energy workstream should normally require one of:
 
-## Gate C — issue #54
-
-The capital-allocation screen should begin with:
-
-### Primary
-- GE Vernova
-- Vertiv
-- Eaton
-- Siemens Energy
-- HD Hyundai Electric
-- nVent
-
-### Asymmetric / specialist
-- Modine
-- Hainan Jinpan Smart Technology
-- Centrus Energy
-
-### Benchmarks
-- Mitsubishi Heavy Industries
-- Quanta Services
-- Cameco
-- Schneider Electric / ABB where useful
-
-For each leading candidate:
-
-- dated share price, market cap and EV;
-- isolate AI/data-centre contribution from broader electrification / utility / nuclear cycles;
-- normalize backlog conversion and margins;
-- assess capex, working capital, balance sheet, dilution and acquisition risk;
-- bear / base / bull 3–5 year earnings or FCF;
-- normalized terminal multiple;
-- annualized return / downside;
-- reverse valuation for 10%, 12% and 15% required returns;
-- margin-of-safety price zones;
-- explicit thesis breakers / monitoring triggers.
+- a new physical bottleneck not represented in the E2E map;
+- direct qualification / pricing evidence that a narrow 800 VDC or nuclear sub-layer has become concentrated;
+- a material change in capacity expansion, regulation or architecture that invalidates an existing score;
+- a company crossing a valuation monitoring zone while the operating thesis remains intact;
+- earnings / FCF evidence that materially moves a company's normalized 12% return zone.
 
 ## Falsification to carry forward
 
@@ -118,12 +102,10 @@ Penalise:
 - open-standard volume growth without supplier concentration;
 - capex / working capital that absorbs apparent pricing power;
 - AI exposure too small to move total-company earnings;
-- service economics that are assumed but not contracted / evidenced;
+- customer advances mistaken for permanent FCF margins;
 - 2030s nuclear optionality valued as current earnings;
 - premium valuation already discounting the infrastructure boom.
 
-## Active sequence
+## Current state
 
-**#54 Capital Allocation.**
-
-No broad new discovery is planned before Gate C is complete.
+**Energy is now a monitoring system, not a broad-discovery programme.** No company is promoted to `High-conviction research candidate` until Gate C is met with sufficient downside protection.
