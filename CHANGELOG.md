@@ -4,6 +4,18 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Second Investment Capture wave completed; research moves to capital allocation
+
+- Completed company-level underwriting for **Montage Technology (#25), Onto Innovation (#23), Hanmi Semiconductor (#16) and ASMPT (#18)** and closed the targeted wafer-processing gap analysis (#12).
+- **Onto Innovation: Investment Capture 4.0/5 → `Watch`.** A leading HBM manufacturer selected Dragonfly G5 for HBM4 after competitive evaluation; a >$240m HBM volume agreement, >$1bn backlog and strong margins move Onto into the top research tier alongside FormFactor and Camtek.
+- **Montage Technology: Investment Capture 3.8/5 → `Watch`.** The interface franchise is exceptionally strong — ~36.8% reported global share and ~65% interconnect gross margin — but HK$268bn point-in-time market cap and ~52x forward P/E materially weaken the original asymmetric-upside framing.
+- **ASMPT: Investment Capture 3.7/5 → `Watch`.** Multi-customer HBM4 orders and capabilities spanning TCB, AOR fluxless processing and hybrid bonding improve architecture-transition durability, but HBM earnings are diluted by the broader Group.
+- **Hanmi Semiconductor: Investment Capture 3.6/5 → `Watch`.** Current HBM capture is extraordinary, including a 51.9% Q2 operating margin and material SK hynix orders, but customer/TCB concentration, hybrid-bonding uncertainty and extreme valuation substantially reduce durability.
+- **Wafer processing (#12): completed without opening a DISCO company deep dive.** Precision thinning/grinding/singulation are validated sub-steps across HBM/2.5D packaging, but DISCO's HBM-specific revenue/share is not disclosed and its large market value reduces asymmetry. DISCO enters `Watch` as a process benchmark.
+- Refreshed `synthesis-ranking.md`. The current research-priority top tier is **Onto Innovation, FormFactor and Camtek**, with **SUSS** as the smaller-cap asymmetric wildcard.
+- Opened **#27 — Capital allocation: value top AI-memory candidates with scenarios and margin of safety**. The programme now moves from technical/company screening to explicit bear/base/bull expected-return analysis.
+- No company is promoted to `High-conviction research candidate`; Gate C now requires explicit valuation, normalized-cycle scenarios and margin-of-safety evidence.
+
 ### First Investment Capture wave completed and interim ranking created
 
 - Completed company-level underwriting for **FormFactor (#21), Camtek (#22) and SUSS (#15)** after their underlying bottlenecks had passed Gate A.
@@ -92,5 +104,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** four workstreams now pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). The first Investment Capture wave is complete; FormFactor, Camtek and SUSS are all `Watch`, while Montage proceeds to company underwriting in #25. CXL remains emerging rather than validated.
+- **AI memory:** four workstreams pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). Two company-underwriting waves are complete; the programme moves to capital-allocation issue #27.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
