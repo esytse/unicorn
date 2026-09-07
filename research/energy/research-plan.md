@@ -1,6 +1,6 @@
 # AI Energy / Power Delivery — Research Plan
 
-**Status:** Active — structural-bottleneck validation phase  
+**Status:** Active — final structural-bottleneck validation before synthesis  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
 **Purpose:** Validate which AI power-delivery constraints are structural, then underwrite only the suppliers that capture the economics.
@@ -30,6 +30,7 @@ Initial end-to-end map: `research/energy/value-chain.md`.
 | **Large gas-turbine equipment / manufacturing slots** | **4.6 / 5** | **Gate A passed** | GE / Siemens / Mitsubishi capacity expansion and non-gas substitutes cap long-run scarcity |
 | **MV/HV switchgear** | **4.4 / 5** | **Gate A passed** | broader qualified supplier base and somewhat faster capacity expansion than LPTs |
 | **Integrated data-centre electrical backbone** | **4.3 / 5** | **Gate A passed** | broader multi-vendor supply; scarcity is integration / qualification / delivery rather than one uniquely scarce component |
+| **Integrated behind-the-meter power / microgrid architecture** | **4.1 / 5** | **Gate A passed narrowly** | component supply is broad; value sits in site architecture, orchestration, protection, execution and time-to-power rather than generic generation/storage |
 
 Canonical deep dives:
 
@@ -37,6 +38,7 @@ Canonical deep dives:
 - `research/energy/deep-dives/transmission-large-load.md`
 - `research/energy/deep-dives/dispatchable-generation.md`
 - `research/energy/deep-dives/electrical-backbone-800vdc.md`
+- `research/energy/deep-dives/behind-the-meter-microgrids.md`
 
 ### Important distinctions
 
@@ -46,13 +48,16 @@ Canonical deep dives:
 
 **800 VDC is a validated architecture transition, not yet a validated broad supplier bottleneck.** Technical pressure scores roughly **4.3/5**, but supplier scarcity is only about **3.6/5** today because Google / Microsoft / NVIDIA are deliberately creating an open interoperable OCP ecosystem with 80+ participants. Future scarcity may emerge in specific MVAC-to-DC conversion, DC protection, busway/connectors or high-power DC/DC layers.
 
+**Generic battery / BESS hardware is a growth layer, not a structural scarcity layer.** #47 scores it **3.4/5**. Storage becomes strategically important for dynamic AI loads and resilience, but broad cell/system supply and technology substitution weaken durable pricing power.
+
 ## Current validation priority
 
 | Priority | Workstream | Initial score / status | Why next |
 |---:|---|---|---|
-| 1 | **Behind-the-meter / microgrid + storage** | **4.1 / 3.9 preliminary** | directly monetises grid delay / speed-to-power; integration economics need testing |
-| 2 | **Cooling / heat rejection** | **4.1 provisional** | coupled constraint on usable compute; can become binding as rack density rises |
-| 3 | **800 VDC narrow sub-layers** | **3.6 supplier scarcity today** | do not broaden research unless direct qualification / margin evidence identifies a concentrated new bottleneck |
+| 1 | **Cooling / heat rejection** | **4.1 provisional** | final major coupled constraint on converting electrical MW into usable compute |
+| 2 | **800 VDC narrow sub-layers** | **3.6 supplier scarcity today** | investigate only if direct qualification / margin evidence identifies a concentrated new bottleneck |
+
+After cooling, **stop broad bottleneck discovery and synthesize the energy frontier** unless new evidence reveals a materially different function.
 
 ## Transformer validation result (#36)
 
@@ -99,6 +104,23 @@ The architecture work changes the conclusion for 800 VDC:
 
 **Decision:** focus later underwriting on architecture-resilient functions and only investigate narrow 800 VDC sub-layers if direct evidence of qualification scarcity / pricing power emerges. Do not treat generic 800 VDC exposure as a moat.
 
+## Behind-the-meter validation result (#47)
+
+**Integrated behind-the-meter power / microgrid architecture passes Gate A narrowly at 4.1/5, Medium confidence.** The economic function is not generic onsite generation. It is the ability to design, permit, protect and orchestrate a site-specific mix of grid service, firm generation, BESS/UPS and dynamic AI load so a campus can energise sooner and operate reliably.
+
+Key evidence and caveats:
+
+- Vertiv's September 2026 agreement to acquire UtilityInnovation Group for ~$1.45bn upfront plus up to $1.15bn contingent consideration is strong strategic revealed preference for microgrid controls, BTM architecture and time-to-power capability;
+- Siemens Energy + Eaton have a standardized 500 MW onsite architecture and market schedule compression of up to roughly two years;
+- Mitsubishi Power's Cheyenne Power Hub demonstrates >1 GW dedicated onsite power is moving into real projects;
+- Bloom/Brookfield's expanded $25bn financing framework confirms alternative onsite fuel-cell architecture has meaningful commercial momentum;
+- IEA analysis is important falsification: reliable onsite gas can require **30–70% overbuild**, turbine queues remain a constraint and onsite power often shifts bottlenecks into gas pipelines, permits, land, equipment, storage and controls;
+- generic BESS / battery hardware scores only **3.4/5** and does not pass Gate A;
+- fuel cells remain an emerging alternative, not a broadly scarce function;
+- gensets remain **3.6/5**, not Gate A.
+
+**Decision:** treat integrated BTM architecture / controls / protection / execution as a moderate structural profit pool, while avoiding a broad “onsite power” scarcity thesis. Later Investment Capture should compare generation-agnostic integrators with the already validated scarce turbine OEMs and electrical-platform suppliers.
+
 ## Gate A-style validation criteria
 
 Score each workstream 1–5 on:
@@ -115,11 +137,10 @@ A preliminary score is **not** a validated bottleneck until contradictory eviden
 
 ## Immediate work
 
-1. **Behind-the-meter / microgrid + storage** — test whether onsite power and integrated controls create durable economics or mainly a temporary workaround for grid queues.
-2. **Cooling / heat rejection** — map liquid cooling, CDU / heat-exchange and facility heat-rejection constraints as a coupled limit on usable electrical capacity.
-3. Run an **interim energy synthesis** after those two workstreams. Stop broad bottleneck discovery unless evidence identifies a materially different constraint.
-4. Compare supplier Investment Capture across **transformers / switchgear, transmission EPC / GETs, large turbines and integrated data-centre electrical infrastructure** on one basis.
-5. Only then move to capital-allocation / valuation work.
+1. **Cooling / heat rejection** — map direct-to-chip liquid cooling, CDUs, heat exchangers, pumps, chillers / dry coolers, facility water and controls as the final major coupled constraint on usable electrical capacity.
+2. Run an **interim energy synthesis** after cooling. Rank validated functions by structural scarcity, architecture resilience and likely merchant economic capture.
+3. Compare supplier Investment Capture across **transformers / switchgear, transmission EPC / GETs, large turbines, integrated data-centre electrical infrastructure and BTM integration** on one common basis.
+4. Only then move to capital-allocation / valuation work.
 
 ## Falsification requirements
 
