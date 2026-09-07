@@ -8,6 +8,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 
 - `research/memory/` — AI memory, data movement, interfaces and related bottlenecks
 - `research/robotics-actuators/` — robotics actuator value chain and emerging players
+- `research/energy/` — AI/data-centre energy, grid, power-delivery and speed-to-power bottlenecks
 - Additional themes can be added under `research/` without creating a new repository
 
 ## Key files
