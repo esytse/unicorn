@@ -1,120 +1,135 @@
 # AI Energy / Power Delivery — Research Plan
 
-**Status:** Active — canonical E2E synthesis complete; cross-layer ranking next  
+**Status:** Active — structural ranking complete; supplier Investment Capture next  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
-**Purpose:** Identify which AI-energy bottlenecks create durable supplier economics, then allocate capital only where valuation leaves enough asymmetry.
+**Purpose:** Identify which validated AI-energy bottlenecks convert into durable company economics, then allocate capital only where valuation leaves enough asymmetry.
 
-## Decision framework
+## Three gates
 
-Keep three gates separate:
+1. **Gate A — Bottleneck:** structural scarcity / difficulty / qualification validated.
+2. **Gate B — Investment Capture:** company turns scarcity into pricing, margin, share, content or service economics.
+3. **Gate C — Capital Allocation:** normalized risk-adjusted return and margin of safety at current valuation.
 
-1. **Bottleneck / Gate A** — is the function genuinely scarce, difficult to substitute and slow to expand?
-2. **Investment Capture / Gate B** — does a supplier convert the bottleneck into pricing, margin, share, content or recurring service economics?
-3. **Capital Allocation / Gate C** — does current valuation leave attractive normalized risk-adjusted return and margin of safety?
+Canonical E2E map: `research/energy/value-chain.md`  
+Canonical cross-layer ranking: `research/energy/synthesis-ranking.md`
 
-## Canonical system thesis
+## Structural discovery status
 
-The research now supports:
+Broad discovery is complete. Do not open new theme workstreams unless new evidence reveals a materially different physical constraint or a narrow sub-layer with direct qualification / reservation / pricing evidence.
 
-> **AI energy is a speed-to-power and speed-to-usable-compute problem. The chain is serial: site access → fuel → generation → generation equipment → transmission → transformers / switchgear → BTM / site power → data-centre electrical infrastructure → rack power → compute, with cooling / heat rejection as a coupled capacity path.**
+The ranking separates **physical importance** from **merchant economic capture**. Physical transmission is structurally 4.7/5 but its profit pool is dispersed; large gas turbines are 4.6/5 but rank first for company underwriting because customer reservations, concentrated OEM supply, pricing and decades of service economics make capture more direct.
 
-Solving one constraint often **moves** the bottleneck rather than eliminating it.
+## #53 Investment Capture priority
 
-Canonical E2E map: `research/energy/value-chain.md`.
+### Lane A — large gas turbines: **priority #1**
 
-## Validated frontier
+Comparator set:
+- GE Vernova;
+- Siemens Energy;
+- Mitsubishi Heavy Industries.
 
-| Workstream | Bottleneck Strength | Timing / caveat |
-|---|---:|---|
-| **HALEU enrichment / deconversion** | **4.7 / 5** | very scarce, but mostly 2030s advanced-reactor demand and policy-shaped |
-| **Transformers / critical substation equipment** | **4.7 / 5** | immediate; capacity additions should gradually reduce scarcity |
-| **Physical transmission deliverability** | **4.7 / 5** | immediate / long duration; merchant capture is dispersed |
-| **Western LEU enrichment** | **4.6 / 5** | current fleet + future nuclear; concentrated supply |
-| **Large gas-turbine equipment / slots** | **4.6 / 5** | immediate; unusually direct reservation / pricing / service evidence |
-| **Large nuclear forgings / heavy components** | **4.5 / 5** | strong scarcity, mainly 2030s build cycle |
-| **Integrated thermal chain / cooling capacity** | **4.4 / 5** | immediate; direct AI sensitivity, broader multi-vendor supply |
-| **MV/HV switchgear** | **4.4 / 5** | immediate; highly architecture-resilient |
-| **Nuclear EPC / QA / qualified workforce** | **4.4 / 5** | restart + 2030s; difficult to translate into listed margin capture |
-| **UF6 conversion** | **4.3 / 5** | concentrated Western footprint |
-| **Integrated data-centre electrical backbone** | **4.3 / 5** | very high AI sensitivity; broader supplier set |
-| **DTC liquid cooling / facility heat rejection** | **4.2 / 5** | function-level scarcity; generic components weaker |
-| **Integrated BTM / microgrid architecture** | **4.1 / 5** | integration / control / execution value, not generic hardware |
+Key questions: gas-turbine / service earnings sensitivity, slot pricing, backlog quality, capacity expansion, installed-base service, non-AI demand support and broader-company dilution.
 
-## Important non-bottleneck / narrowed conclusions
+### Lane B — transformers / substations / MV-HV switchgear: **priority #2**
 
-- Interconnection **process friction** is real but reformable; physical transmission and equipment are the durable constraints.
-- Generic BESS hardware: **3.4/5**.
-- Reciprocating gensets: **3.6/5**.
-- Broad 800 VDC supplier scarcity: **~3.6/5** despite strong technical pressure.
-- Generic cold-plate / CDU supplier scarcity: **~3.8/5** despite DTC becoming structurally important.
-- Uranium mining: **3.5/5**, weaker than downstream nuclear fuel-cycle bottlenecks.
-- Existing nuclear assets are strategically scarce but are an **asset-owner thesis**, not a supplier Gate-A score.
-- New large / advanced nuclear should not be treated as a 2026–2029 power solution; most output is a 2030s pathway.
+Broad benchmarks:
+- Eaton;
+- Schneider Electric;
+- ABB;
+- GE Vernova / Prolec exposure;
+- Hitachi / Hitachi Energy exposure;
+- HD Hyundai Electric.
 
-## Programme sequence
+Mandatory: search for **smaller listed specialists** with stronger earnings asymmetry rather than assuming the multinational platforms are the best equities.
 
-### 1. #52 — Cross-layer bottleneck ranking
+### Lane C — integrated thermal systems: **priority #3**
 
-Create `research/energy/synthesis-ranking.md` and rank the validated frontier on one basis:
+At minimum:
+- Modine;
+- Vertiv;
+- Schneider / Motivair;
+- Eaton / Boyd Thermal;
+- nVent or another evidence-backed thermal / connectivity specialist.
 
-- structural scarcity;
-- direct AI demand sensitivity;
-- supply elasticity / time to qualified capacity;
-- supplier concentration;
-- qualification / switching cost;
+Prefer architecture-resilient chip-to-ambient system capacity / qualification / service over generic cold plates or CDUs.
+
+### Lane D — integrated electrical / BTM infrastructure: **priority #4**
+
+Use overlap rather than duplicate company files where possible:
+- Vertiv;
+- Eaton;
+- Schneider;
+- ABB;
+- additional integrators only with direct data-centre / BTM evidence.
+
+Key question: is value in component volume or in reference architecture, qualification, controls, protection, commissioning and lifecycle service?
+
+### Lane E — Western enrichment / conversion: **strategic nuclear comparator**
+
+At minimum:
+- Centrus;
+- Cameco;
+- Urenco / Orano as industry benchmarks.
+
+This lane has exceptional concentration but lower direct AI sensitivity. Treat it as nuclear strategic optionality / diversification rather than an AI-pure-play by default.
+
+### Selective screens only
+
+- physical transmission enabling: Quanta + conductors / GETs only if merchant margin / moat evidence is strong;
+- HALEU: high scarcity but 2030s / policy-sensitive;
+- nuclear forgings / components: Doosan, Japan Steel Works, BWXT, Curtiss-Wright only where exposure can move total-company earnings;
+- narrow 800 VDC sub-layers only if direct qualification / pricing evidence emerges.
+
+## Gate B scorecard
+
+Score company candidates 1–5 on:
+
+- revenue / EBIT sensitivity to the validated bottleneck;
+- AI / data-centre sensitivity versus broader cycle exposure;
+- pricing / margin capture;
+- competitive durability / qualification moat;
+- market-share / content runway;
+- recurring installed-base / service economics;
 - architecture resilience;
-- reservation / pricing / backlog / margin evidence;
-- installed-base / service economics;
-- capital intensity and overbuild risk;
-- non-AI demand support / cyclicality;
-- timing: 2026–2030 versus 2030s;
-- availability of listed suppliers with material company-level sensitivity.
+- capital intensity / working-capital burden;
+- customer / project concentration;
+- asymmetry relative to company size;
+- execution / capacity-expansion risk.
 
-**Output:** small top tier for company research; monitoring / deprioritised layers for the rest.
+### Promotion discipline
 
-### 2. #53 — Supplier Investment Capture
+A company enters `Watch` only when there is evidence of real economic capture, not theme exposure. `High-conviction research candidate` remains rare and should normally require Gate C as well.
 
-Underwrite only companies tied to the top-ranked functions. Do not default to obvious large caps; deliberately search for smaller specialists with greater earnings asymmetry.
+## #54 Capital Allocation after Gate B
 
-Potential reference universe, not predetermined selections:
+For the small completed company set:
 
-- gas turbines: GE Vernova, Siemens Energy, Mitsubishi Heavy Industries;
-- transformers / electrical: Eaton, Schneider, ABB, Hitachi / Hitachi Energy, HD Hyundai Electric and smaller qualified specialists;
-- transmission / grid enabling: Quanta and evidence-backed conductor / GET suppliers;
-- cooling / integrated infrastructure: Vertiv, Modine, nVent, Schneider / Motivair, Eaton / Boyd and specialists;
-- nuclear fuel / manufacturing: Centrus, Cameco, Doosan Enerbility, Japan Steel Works, BWX Technologies, Curtiss-Wright and relevant cross-architecture suppliers.
-
-Score revenue sensitivity, pricing / margin capture, durability, service economics, capital intensity, customer concentration, architecture resilience, asymmetry and execution risk.
-
-### 3. #54 — Capital allocation
-
-Only after Gate B:
-
-- refresh point-in-time valuation;
-- normalize peak backlog / margins;
+- dated price / market cap / EV;
+- normalize backlog, margins and cycle;
 - bear / base / bull 3–5 year earnings or FCF;
-- terminal multiples below / around normalized history;
-- annualized return and downside;
-- 10% / 12% / 15% reverse-return tests;
-- monitoring / margin-of-safety price zones;
-- explicit thesis breakers.
+- normalized terminal multiple;
+- annualized return / downside;
+- 10% / 12% / 15% reverse-return hurdles;
+- margin-of-safety price zones;
+- balance-sheet / acquisition / dilution risk;
+- explicit breakers / monitoring triggers.
 
-## Falsification discipline
+## Falsification to carry forward
 
-At each remaining gate, penalise:
+Penalise:
 
-- project announcements without deposits / construction / equipment orders;
-- temporary shortages already being aggressively overbuilt;
+- announced projects without deposits / construction / equipment orders;
+- factory expansion that can destroy scarcity before demand converts;
 - open-standard volume growth without supplier concentration;
-- commodity exposure masquerading as bottleneck exposure;
-- customer vertical integration;
-- capex / working-capital intensity that absorbs the apparent margin pool;
-- premium valuation already discounting the AI-power cycle;
-- 2030s optionality being valued as near-term certainty.
+- capex / working capital that absorbs apparent pricing power;
+- AI exposure too small to move total-company earnings;
+- service economics that are assumed but not contracted / evidenced;
+- 2030s nuclear optionality valued as current earnings;
+- premium valuation already discounting the infrastructure boom.
 
-## Stop rule
+## Active sequence
 
-Broad energy bottleneck discovery is complete. Open a new structural workstream only if new evidence reveals a materially different constraint or a narrow sub-layer with direct qualification / price / capacity-reservation evidence.
+**#53 Investment Capture → #54 Capital Allocation.**
 
-The default sequence is now **#52 → #53 → #54**.
+No broad new discovery is planned before those gates are complete.
