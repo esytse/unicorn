@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Test / known-good-die bottleneck validated
+
+- Completed the HBM test / known-good-die / burn-in deep dive from issue #11.
+- **Bottleneck Strength Score: 4.6/5** — Gate A passed. The structural driver is not simply more chips being tested; it is the rising economic cost of an escaped defect as HBM, compute dies, interposers and substrates are integrated into expensive heterogeneous packages.
+- Identified four high-priority sub-layers: HBM wafer/probe-card test, dedicated HBM memory ATE, known-good-everything/module-level test, and thermal/system-level validation.
+- **FormFactor** moves to `Investigating`: it ships HBM probe cards in volume to all three major HBM manufacturers, has record HBM-driven DRAM revenue, and faces increasingly demanding HBM probe density/speed/thermal requirements.
+- **Advantest** and **Teradyne** enter `Watch` as large-cap benchmarks with strong direct evidence that AI/HBM complexity is increasing test content, revenue, capacity and margins.
+- The strongest strategic conclusion is that advanced packaging pushes test both **left** (earlier die/module screening) and **right** (system-level reliability), increasing the number and value of test insertion points.
+- No company is promoted to high conviction; Investment Capture still requires valuation and competitive-underwriting work.
+
 ### Advanced packaging bottleneck validated
 
 - Completed the advanced packaging/interposer deep dive from issue #10.
@@ -55,5 +65,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** evidence now supports a chain of constraints across advanced DRAM capacity, HBM stack yield/thermal, advanced package integration, test and system-level memory interfaces. HBM stacking and advanced packaging have now passed Gate A; supplier-level economic capture is being tested company by company.
+- **AI memory:** HBM stacking, advanced packaging and test have now passed Gate A. The research focus is shifting from validating bottlenecks to identifying which smaller suppliers capture enough of the economics to create asymmetric investment potential.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
