@@ -4,6 +4,18 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Energy bottlenecks ranked on common economic-capture basis
+
+- Completed **#52** and created `research/energy/synthesis-ranking.md` to stop treating Bottleneck Strength as equivalent to investment attractiveness.
+- The current supplier-underwriting order is **(1) large gas turbines / slots / service, (2) transformers + MV/HV switchgear, (3) integrated thermal systems / qualified cooling capacity, (4) integrated data-centre electrical infrastructure + BTM orchestration**. **Western LEU enrichment / UF6 conversion** remains a separate strategic nuclear lane.
+- **Large gas turbines rank first despite a 4.6/5 structural score below 4.7/5 transmission / transformers** because concentrated OEM supply, multi-year reservations, favorable pricing and decades of service economics provide the clearest merchant capture.
+- **Transformers / switchgear rank second** because architecture resilience is exceptional: gas, nuclear, renewables, grid and BTM architectures all continue to require transformation, switching and protection. Company research must deliberately search smaller qualified specialists rather than defaulting to large electrical platforms.
+- **Integrated thermal ranks third** because AI sensitivity is exceptionally direct and customer capacity prepayment is real, but OCP standardisation and rapid multi-vendor expansion weaken generic component scarcity. The target is architecture-resilient thermal-system capacity / qualification / service.
+- **Integrated electrical / BTM ranks fourth** as a platform lane where potential value sits in reference architecture, protection, controls, commissioning and lifecycle service rather than individual commodity components.
+- **Physical transmission remains 4.7/5 structurally but is a selective company lane** because the profit pool is dispersed across utilities, EPC, conductors, GETs, substations and already-ranked electrical equipment; project execution / capital intensity can absorb returns.
+- **HALEU, nuclear forgings and nuclear EPC remain longer-duration optionality despite high technical scarcity.** Timing, policy dependence and 2030s deployment reduce their immediate AI underwriting priority.
+- The programme now moves to **#53 supplier Investment Capture**, with Gate B requiring evidence that the bottleneck changes total-company earnings / margins / service economics. Capital allocation remains separate in #54.
+
 ### Canonical E2E AI-energy chain synthesized; bottleneck migration becomes core thesis
 
 - Completed **#51** and comprehensively rebuilt `research/energy/value-chain.md` from the completed Gate-A work rather than the original preliminary scores. `research/energy/thesis.md` and the active research plan were aligned to the same canonical state.
@@ -118,7 +130,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Added `research/memory/deep-dives/probe-card-peer-value.md` to compare **Japan Electronic Materials (JEM), Micronics Japan (MJC), FormFactor and Technoprobe** on HBM-test exposure, operating evidence and valuation asymmetry.
 - **Japan Electronic Materials enters `Investigating`.** FY2027 guidance was raised to ¥36.4bn revenue / ¥9.45bn operating profit as memory-probe-card demand and factory utilisation strengthened. At roughly a ¥97bn 7 September equity value, JEM is the highest-priority new valuation lead, but HBM-specific customers/share and normalized-cycle economics remain unverified.
 - **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
-- **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8%, with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
+- **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8% with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
 - **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe alternatives that may offer better valuation asymmetry.
 - No company is promoted to `High-conviction research candidate`. The next probe-card work is a common-basis valuation / normalized-cycle comparison, with JEM first and MJC second.
 
