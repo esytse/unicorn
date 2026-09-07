@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Transformer and MV/HV switchgear bottlenecks validated
+
+- Completed **#36** and added `research/energy/deep-dives/transformers-grid-equipment.md`.
+- **Transformers pass Gate A at 4.7/5 with High confidence.** DOE still reports roughly 1–2+ year distribution-transformer and 3–4 year large-transformer lead times; custom engineering, factory/test capacity, utility qualification, heavy transport, GOES/component dependence and regional manufacturing make qualified capacity slow to expand.
+- **MV/HV switchgear passes Gate A at 4.4/5 with Medium-High confidence.** The function is architecture-resilient and 2026 order/backlog evidence is strong, but the global qualified supplier base is broader and capacity can expand somewhat faster than for large transformers.
+- **The strongest revealed-preference evidence is speed-to-power:** Hitachi Energy air-freighted >80-tonne large transformers from Europe to a U.S. hyperscale data-centre project, showing that schedule value can dominate logistics cost.
+- Supplier economics are already visible: GE Vernova's data-centre Electrification orders exceeded $5bn YTD by Q2 2026; Eaton's Electrical order/backlog growth remained very strong; leading suppliers are expanding capacity while maintaining attractive electrical margins.
+- **Falsification is material but does not overturn the thesis.** Hitachi Energy's >$9bn global investment program, GE Vernova / Prolec expansion, Eaton capacity additions and DOE standardisation should reduce scarcity gradually through 2027–2030. The conclusion is **structural scarcity through the late 2020s, not permanent shortage**.
+- No energy supplier is promoted to `Watch`. The next validation priority is **large-load interconnection / transmission**, followed by dispatchable generation equipment, before company-level Investment Capture begins.
+
 ### AI energy / power-delivery value chain opened
 
 - Opened **#34** and created `research/energy/` with an initial thesis, end-to-end value-chain map and validation plan.
