@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Memory research reprioritised after three Gate A validations
+
+- Updated the active research plan after HBM stacking, advanced packaging and test all passed Gate A.
+- Shifted the programme from broad bottleneck discovery toward **Investment Capture underwriting** plus one strategically different system-level bottleneck test.
+- Promoted **interfaces / MRDIMM / CXL (#13)** to the next system-level priority so Montage and the wider interface layer can be compared against the validated manufacturing-side bottlenecks.
+- Narrowed **wafer processing (#12)** from a broad TSV/thinning deep dive to a targeted economic-capture gap analysis focused on DISCO/precision processing, ultra-thin dicing, temporary-carrier gaps and hybrid-bond implications.
+- Prioritised first-wave company deep dives for **FormFactor (#21), Camtek (#22) and SUSS (#15)**, followed by Onto Innovation, Hanmi Semiconductor and ASMPT.
+- Added an **interim synthesis gate**: after #13 and at least three company Investment Capture deep dives, rank candidates before opening many more research streams.
+- No investment conclusion or company conviction level changed as a result of this reprioritisation.
+
 ### Test / known-good-die bottleneck validated
 
 - Completed the HBM test / known-good-die / burn-in deep dive from issue #11.
