@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Canonical E2E AI-energy chain synthesized; bottleneck migration becomes core thesis
+
+- Completed **#51** and comprehensively rebuilt `research/energy/value-chain.md` from the completed Gate-A work rather than the original preliminary scores. `research/energy/thesis.md` and the active research plan were aligned to the same canonical state.
+- **The central thesis strengthens from “speed-to-power” to “speed-to-power + speed-to-usable-compute.”** AI infrastructure is a serial constrained system: site / fuel / generation → transmission → transformers / switchgear → BTM / electrical backbone → rack conversion → compute, with cooling / heat rejection as a coupled capacity path.
+- Added a common E2E table covering structural scarcity, AI sensitivity, substitutability, architecture resilience, evidence quality, likely economic-capture mechanism and timing. The strongest immediate physical functions remain **transformers 4.7, physical transmission 4.7, gas turbines 4.6, integrated thermal chain 4.4, MV/HV switchgear 4.4 and integrated electrical backbone 4.3**.
+- Integrated nuclear explicitly rather than treating it as a generic generation source. The map now separates **2026–2030 existing-fleet / restart / uprate / LEU support** from the **2030s HALEU / advanced-reactor / forgings / nuclear EPC industrial buildout**.
+- Added explicit **bottleneck-migration maps**: queue reform → physical network scarcity; grid delay → BTM → turbine / gas / permit / electrical constraints; new generation → transformers / transmission; advanced nuclear → fuel / forgings / EPC before downstream grid constraints; 54 VDC → 800 VDC → value migration to conversion / protection; higher rack density → DTC → architecture-resilient heat rejection.
+- Reversed the stale initial conclusion that interconnection-process friction itself is the highest durable bottleneck. Process friction is material but reformable; **physical network / equipment / engineering** is the durable layer after speculative queue demand is screened out.
+- Reconciled growth layers that do not currently pass the scarcity test: generic BESS **3.4**, gensets **3.6**, broad 800 VDC supplier scarcity **~3.6**, generic cold-plate / CDU scarcity **~3.8**, and uranium mining **3.5**.
+- Broad structural discovery is now closed by default. The programme proceeds to **#52 common-basis bottleneck ranking → #53 supplier Investment Capture → #54 capital allocation**. No company is promoted from the E2E synthesis alone.
+
 ### Nuclear supply chain decomposed; downstream fuel and qualified manufacturing bottlenecks validated
 
 - Completed **#50** and added `research/energy/deep-dives/nuclear-supply-chain.md`.
