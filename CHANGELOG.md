@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Behind-the-meter integration validated as moderate speed-to-power bottleneck
+
+- Completed **#47** and added `research/energy/deep-dives/behind-the-meter-microgrids.md`.
+- **Integrated BTM power / microgrid architecture passes Gate A narrowly at 4.1/5, Medium confidence.** The durable function is site-specific power architecture, controls, protection, orchestration and execution that can bring an AI campus online before or beyond a conventional grid connection — not generic onsite generation.
+- **Strategic revealed preference is now strong.** Vertiv agreed to acquire UtilityInnovation Group for about **$1.45bn upfront plus up to $1.15bn contingent consideration**, explicitly to add microgrid controls, BTM architecture, generation/storage orchestration and microgrid switchgear to its grid-to-rack portfolio.
+- Commercial alternatives are real: Siemens Energy + Eaton offer a standardized 500 MW onsite architecture; Mitsubishi Power's Cheyenne Power Hub targets ~1.15 GW of dedicated data-centre power; Bloom/Brookfield expanded an AI-power financing framework to **$25bn**.
+- **Falsification materially narrows the thesis.** IEA analysis says reliable onsite gas for variable critical loads can require **30–70% overbuild**, turbine supply remains constrained and only a minority of announced onsite-gas projects have entered physical construction. BTM therefore often **moves** scarcity into turbine slots, gas pipelines, permitting, land, redundancy, electrical equipment and controls rather than eliminating it.
+- **Generic BESS / battery hardware scores 3.4/5 and does not pass Gate A; gensets remain 3.6/5; fuel cells are a credible commercial alternative but not a validated scarce broad function.** Large gas turbines retain their prior 4.6/5 Gate-A result inside many BTM architectures.
+- No BTM supplier is promoted before common-basis Investment Capture. The only remaining broad bottleneck validation is **cooling / heat rejection**, after which the energy programme should synthesize the frontier and move to supplier underwriting.
+
 ### Data-centre electrical backbone validated; 800 VDC supplier scarcity not yet proven
 
 - Completed **#45** and added `research/energy/deep-dives/electrical-backbone-800vdc.md`.
@@ -86,7 +96,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - **No company is promoted to `High-conviction research candidate`.** At the 4 September 2026 reference prices, none of the primary candidates provides enough base-case return plus downside protection to pass Gate C.
 - **Onto Innovation becomes the preferred capital-allocation watch.** The base scenario produces roughly **10.4% annualized return** to end-2030; a ~12% base-return hurdle is reached around **$252** under the current earnings assumptions. Onto is closest to Gate C because its HBM/AP evidence, margins and valuation are better balanced than the other high-quality US names.
 - **SUSS ranks second as the higher-risk asymmetric watch.** Base scenario return is roughly **8.8%**; the ~12% base-return zone is about **€64**. Upside is larger if backlog and HBM qualification convert, but the bear case is materially worse because of customer/process concentration and margin volatility.
-- **Camtek and FormFactor remain strong businesses but fail the current margin-of-safety test.** Base scenarios are roughly **3.8%** and **1.5%** annualized respectively. At normalized terminal multiples, a 12% return requires roughly **28% Camtek** and **30% FormFactor** 2027–2030 EPS CAGR; corresponding monitoring zones are approximately **$106** and **$68** unless normalized earnings estimates rise materially.
+- **Camtek and FormFactor remain strong businesses but fail the current margin-of-safety test.** Base scenarios are roughly **3.8%** and **1.5%** annualized. At normalized terminal multiples, a 12% return requires roughly **28% Camtek** and **30% FormFactor** 2027–2030 EPS CAGR; corresponding monitoring zones are approximately **$106** and **$68** unless normalized earnings estimates rise materially.
 - **ASMPT was screened as an optional comparator but does not improve the current allocation frontier** because its premium multiple combines with diluted HBM earnings sensitivity across the broader Group.
 - The active research plan moves from broad AI-memory supplier discovery into **valuation monitoring / selective optionality**. The next selective AI-memory backlog item is **Weebit Nano (#5)**, followed separately by the **robotics-actuator value-chain stream (#3)**.
 - Watchlist statuses remain `Watch`; the change is ranking, valuation discipline and research priority rather than a thesis rejection.
