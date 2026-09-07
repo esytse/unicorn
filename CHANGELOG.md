@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Nuclear supply chain decomposed; downstream fuel and qualified manufacturing bottlenecks validated
+
+- Completed **#50** and added `research/energy/deep-dives/nuclear-supply-chain.md`.
+- **Nuclear is now separated into near-term and 2030s pathways.** Through 2030, the most credible AI-power route is existing licensed output → life extension / contracted generation → selected restarts → uprates. New large reactors and most advanced-reactor fleets are primarily a 2030s industrial buildout rather than a solution to the 2026–2029 power gap.
+- **The strongest nuclear bottlenecks are downstream of uranium:** HALEU enrichment / deconversion **4.7/5**, Western LEU enrichment **4.6/5**, large nuclear forgings / long-lead heavy components **4.5/5**, nuclear EPC / QA / qualified workforce **4.4/5**, and UF6 conversion **4.3/5**. Uranium mining itself scores only **3.5/5**.
+- Hyperscaler demand is already commercial: Microsoft supports the 835 MW Crane restart; Meta agreements preserve / contract operating nuclear output and support uprates while also backing TerraPower / Oklo; Google / Kairos and Amazon / X-energy provide additional advanced-reactor demand signals. These projects must still be separated by delivery timing and execution certainty.
+- **Existing operating nuclear assets have high strategic scarcity but are not treated as a supplier Gate-A layer.** Restarts are valuable but rare / non-scalable; uprates are attractive brownfield additions but NRC's expected schedule totals only about 2.42 GW electric through 2032.
+- Fuel-cycle scarcity is reinforced by a small Western conversion / enrichment footprint, multi-year centrifuge expansions, DOE enrichment awards and limited commercial HALEU supply. Manufacturing scarcity is reinforced by DOE evidence that the U.S. lacks capacity for the largest nuclear forgings and by X-energy / Doosan reservation agreements for future forgings.
+- Nuclear does **not** remove the already validated grid / electrical / cooling constraints. New nuclear output still flows through turbine-generator, transformers / switchgear, transmission, data-centre electrical infrastructure and heat rejection; the E2E synthesis must avoid double counting these shared layers.
+- No nuclear company is promoted on theme exposure. The programme now moves to **canonical E2E synthesis #51**, common-basis bottleneck ranking #52, supplier Investment Capture #53 and capital allocation #54.
+
 ### Integrated thermal chain validated as AI usable-compute bottleneck
 
 - Completed **#49** and added `research/energy/deep-dives/cooling-heat-rejection.md`.
@@ -87,7 +98,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - Opened **#31** and added `research/memory/probe-card-capital-allocation.md` to test JEM, Micronics Japan, FormFactor and Technoprobe on a common normalized-return basis.
 - **JEM is the strongest new valuation lead but does not pass Gate C.** At the 4 September ¥6,230 reference, the initial EPS-normalized screen gives roughly **9.4% base CAGR**, **-9.8% bear CAGR** and a **~¥5,640** 12% base-return monitoring zone. The 7 September close of ¥6,650 widened the gap to that zone.
 - **The HBM link strengthened but remains incomplete.** A JEM company-controlled page says DRAM share is increasing around HBM; FY2026 major-customer disclosures show Micron Memory Japan + Taiwan were roughly **31% of sales**. Exact HBM production sockets, HBM revenue and share are still not disclosed.
-- **Falsification materially weakens the simple low-P/E thesis.** The top three customers were ~44.7% of FY2026 sales; TTM FCF through June was only ~¥2.24bn; FY2026 financing included ~¥12.15bn of new equity issuance; shares outstanding increased materially; and competitor evidence on JEM's DRAM position is mixed.
+- **Falsification materially weakens the simple low-P/E thesis.** The top three customers were ~44.7% of FY2026 sales; TTM FCF was only ~¥2.24bn; FY2026 included ~¥12.15bn of new equity issuance; shares outstanding increased materially; and competitor evidence on JEM's DRAM position is mixed.
 - JEM remains **`Investigating`** and does **not** outrank the fully underwritten Onto / SUSS capital watch. The provisional research order is **Onto → SUSS → JEM → Micronics / Technoprobe → Camtek → FormFactor**.
 - The active backlog is reprioritized to **#31 JEM/probe-card evidence gap → #5 Weebit Nano → #3 robotics actuators**. No company is promoted to `High-conviction research candidate`.
 
