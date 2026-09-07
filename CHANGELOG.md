@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Physical transmission deliverability validated; queue friction separated
+
+- Completed **#38** and added `research/energy/deep-dives/transmission-large-load.md`.
+- **Physical transmission deliverability passes Gate A at 4.7/5 with High confidence.** DOE's 2026 National Transmission Needs Study identifies pressing transmission needs driven partly by data centres and other large loads, while major regions are approving some of their largest transmission portfolios.
+- **Large-load interconnection-process friction is deliberately separated from physical scarcity.** FERC's June 2026 reforms, flexible / non-firm service, co-location and electrically proximate generation can reduce study delays and network upgrades; SPP and ERCOT are already redesigning large-load processes.
+- **Ghost demand materially weakens raw queue forecasts.** U.S. large-load requests reportedly exceed 700 GW, and stronger deposits / project-maturity requirements are removing speculative requests. Queue MW is therefore not treated as a credible demand forecast by itself.
+- Advanced reconductoring, dynamic line rating and power-flow control can unlock existing corridors faster than greenfield lines. This is evidence against a simplistic "more transmission lines" thesis but supports a broader **speed-to-power** profit pool in physical network upgrades.
+- The likely investable layers are **EPC / engineering, grid equipment, advanced conductors / GETs, substations and onsite alternatives**, not the interconnection queue itself. Quanta's Q2 2026 backlog of ~$53.4bn is an early signal of construction / execution demand, but no company is promoted before common-basis Investment Capture.
+- The next validation priority becomes **dispatchable generation equipment**, followed by data-centre electrical backbone / 800 VDC / behind-the-meter power.
+
 ### Transformer and MV/HV switchgear bottlenecks validated
 
 - Completed **#36** and added `research/energy/deep-dives/transformers-grid-equipment.md`.
@@ -46,7 +56,7 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Added `research/memory/deep-dives/probe-card-peer-value.md` to compare **Japan Electronic Materials (JEM), Micronics Japan (MJC), FormFactor and Technoprobe** on HBM-test exposure, operating evidence and valuation asymmetry.
 - **Japan Electronic Materials enters `Investigating`.** FY2027 guidance was raised to ¥36.4bn revenue / ¥9.45bn operating profit as memory-probe-card demand and factory utilisation strengthened. At roughly a ¥97bn 7 September equity value, JEM is the highest-priority new valuation lead, but HBM-specific customers/share and normalized-cycle economics remain unverified.
-- **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
+- **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory-probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
 - **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8%, with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
 - **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe-card alternatives that may offer better valuation asymmetry.
 - No company is promoted to `High-conviction research candidate`. The next probe-card work is a common-basis valuation / normalized-cycle comparison, with JEM first and MJC second.
