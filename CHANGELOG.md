@@ -4,6 +4,23 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### First Investment Capture wave completed and interim ranking created
+
+- Completed company-level underwriting for **FormFactor (#21), Camtek (#22) and SUSS (#15)** after their underlying bottlenecks had passed Gate A.
+- **FormFactor: Investment Capture 4.0/5 → `Watch`.** Strongest current evidence of direct HBM economic capture: volume shipments to all three HBM manufacturers, share gains, >50% first-half HBM probe-card growth and substantial operating leverage. The main constraint is the post-rerating valuation rather than technical evidence.
+- **Camtek: Investment Capture 3.9/5 → `Watch`.** Direct HBM/CoWoS-like inspection orders, >$600m 2026 YTD orders and rising advanced-packaging mix support durable process-control exposure; premium valuation and strong competitors remain the main limits.
+- **SUSS: Investment Capture 3.7/5 → `Watch`.** Temporary bonding/debonding has real HBM qualification and high small-cap sensitivity, but management also reports competition at a Korean HBM customer and SUSS remains a follower in hybrid bonding.
+- Added `research/memory/synthesis-ranking.md` as the canonical interim cross-bottleneck/company comparison. Current completed-company order is **FormFactor > Camtek > SUSS**, with no High-conviction research candidate yet.
+- The synthesis explicitly preserves the strongest contradictory evidence and separates bottleneck quality from valuation/architecture risk.
+
+### Memory-interface bottleneck validated; CXL remains optionality
+
+- Completed the interfaces / MRDIMM / CXL deep dive from issue #13.
+- **DDR5/MRDIMM interface silicon: Bottleneck Strength 4.4/5 — Gate A passed.** Server-memory electrical limits make qualified RCD/MRCD/MDB silicon structurally important, and the merchant supplier base is concentrated.
+- **CXL memory-expander controllers: 3.2/5 — Gate A not yet passed.** CXL addresses a real memory-capacity/tiering problem, but the controller market is broader and CXL-attached memory remains optional for most systems today.
+- Montage Technology's technical exposure is materially stronger than the prior low-confidence thesis suggested, but its market value and valuation are already substantial. Opened **#25** for company-level Investment Capture underwriting rather than promoting the stock on bottleneck evidence alone.
+- The value-chain map, watchlist and active research plan are updated to treat memory interfaces as the fourth validated bottleneck while keeping CXL as emerging optionality.
+
 ### Memory research reprioritised after three Gate A validations
 
 - Updated the active research plan after HBM stacking, advanced packaging and test all passed Gate A.
@@ -75,5 +92,5 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ### Current working research state
 
-- **AI memory:** HBM stacking, advanced packaging and test have now passed Gate A. The research focus is shifting from validating bottlenecks to identifying which smaller suppliers capture enough of the economics to create asymmetric investment potential.
+- **AI memory:** four workstreams now pass Gate A: advanced packaging (4.7), HBM stacking (4.6), test (4.6) and DDR5/MRDIMM interface silicon (4.4). The first Investment Capture wave is complete; FormFactor, Camtek and SUSS are all `Watch`, while Montage proceeds to company underwriting in #25. CXL remains emerging rather than validated.
 - **Robotics actuators:** research stream opened; value-chain and company analysis still to be built.
