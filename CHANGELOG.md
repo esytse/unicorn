@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-07
 
+### Probe-card peer screen surfaces JEM as a valuation lead
+
+- Added `research/memory/deep-dives/probe-card-peer-value.md` to compare **Japan Electronic Materials (JEM), Micronics Japan (MJC), FormFactor and Technoprobe** on HBM-test exposure, operating evidence and valuation asymmetry.
+- **Japan Electronic Materials enters `Investigating`.** FY2027 guidance was raised to ¥36.4bn revenue / ¥9.45bn operating profit as memory-probe-card demand and factory utilisation strengthened. At roughly a ¥97bn 7 September equity value, JEM is the highest-priority new valuation lead, but HBM-specific customers/share and normalized-cycle economics remain unverified.
+- **Micronics Japan enters `Investigating`.** MJC says HBM drove strong DRAM probe-card demand and describes itself as the leading memory probe-card supplier; FV26 targets ¥80bn revenue / ¥20bn operating profit / 25% margin. It becomes the primary quality/value comparator for JEM and FormFactor.
+- **Technoprobe enters `Watch` as the operating benchmark.** H1 2026 revenue rose 42.4% and EBITDA 93.8%, with 44.4% EBITDA margin; raised 2026 guidance implies €1.05–1.10bn revenue and 46–48% EBITDA margin. The research will normalize these exceptional margins rather than capitalize them indefinitely.
+- **FormFactor remains `Watch`, but its valuation case weakens on relative comparison.** Direct HBM evidence remains excellent, yet JEM/MJC now provide listed memory-probe-card alternatives that may offer better valuation asymmetry.
+- No company is promoted to `High-conviction research candidate`. The next probe-card work is a common-basis valuation / normalized-cycle comparison, with JEM first and MJC second.
+
 ### Capital allocation scenarios completed; no Gate C candidate at current prices
 
 - Completed **#27** and added `research/memory/capital-allocation.md` with explicit bear/base/bull scenarios, normalized terminal multiples, return hurdles and monitoring thresholds.
