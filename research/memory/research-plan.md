@@ -1,6 +1,6 @@
 # AI Memory Research Plan
 
-**Status:** Active — probe-card valuation challenge / selective optionality phase  
+**Status:** Active — monitoring / architectural optionality phase  
 **Created:** 2026-09-07  
 **Last reprioritised:** 2026-09-07  
 **Purpose:** Identify structural AI-memory bottlenecks, determine which companies capture their economics, then allocate research effort only where valuation or new evidence creates genuine asymmetry.
@@ -17,7 +17,7 @@ A severe bottleneck is not automatically a good investment. A great company is n
 
 ---
 
-## 2. Validated bottlenecks
+## 2. Validated current bottlenecks
 
 | Bottleneck | Strength | State |
 |---|---:|---|
@@ -47,9 +47,9 @@ DISCO remains a process benchmark `Watch` rather than a priority company deep di
 
 ---
 
-## 4. Initial capital allocation (#27) — complete
+## 4. Capital allocation — completed current-bottleneck work
 
-Canonical analysis: `research/memory/capital-allocation.md`.
+### Initial capital allocation (#27)
 
 | Capital watch rank | Company | Bear CAGR | Base CAGR | Bull CAGR | Approx. 12% base-return zone |
 |---:|---|---:|---:|---:|---:|
@@ -60,48 +60,70 @@ Canonical analysis: `research/memory/capital-allocation.md`.
 
 No company passed Gate C.
 
----
+### Probe-card peer challenge (#31)
 
-## 5. Probe-card peer challenge (#31) — immediate priority
-
-PR #30 identified listed memory-probe-card peers that may express the already-validated 4.6/5 HBM-test bottleneck at better valuations than FormFactor.
-
-Canonical analyses:
-
-- `research/memory/deep-dives/probe-card-peer-value.md`
-- `research/memory/probe-card-capital-allocation.md`
-- `research/memory/companies/japan-electronic-materials.md`
-
-### First normalization / falsification result
+PR #30 identified JEM/Micronics/Technoprobe as alternative listed expressions of the validated HBM-test bottleneck. #31 normalized and falsified the apparent JEM valuation advantage.
 
 | Peer | 4 Sep reference | Base CAGR | ~12% base-return zone | Current research view |
 |---|---:|---:|---:|---|
-| **JEM** | ¥6,230 | **~9.4%** | **~¥5,640** | **Investigating — best new valuation lead, but FCF/dilution/evidence gaps remain** |
+| **JEM** | ¥6,230 | **~9.4%** | **~¥5,640** | Investigating — best new valuation lead, but FCF/dilution/HBM socket gaps remain |
 | **Micronics Japan** | ¥11,940 | **~6.8%** | **~¥9,760** | Investigating — quality/value comparator |
 | **Technoprobe** | €27.46 | **~6.9%** | **~€22.55** | Watch — operating benchmark / premium expectations |
 | **FormFactor** | $103.90 | **~1.5%** | **~$68** | Watch — strongest direct HBM evidence, valuation demanding |
 
-JEM's HBM link is more credible after the evidence pass: a company-controlled page says DRAM share is rising around HBM, and FY2026 major-customer disclosures show Micron Memory Japan + Taiwan represented ~31% of sales. But the same pass found weak current FCF conversion, material 2026 equity issuance, high customer concentration and contradictory competitor evidence.
+JEM remains `Investigating`; it does not outrank the fully underwritten Onto / SUSS capital watch because cash conversion, dilution, concentration and HBM-socket evidence remain weaker.
 
-**Conclusion:** JEM is the immediate research priority, but **does not rank above Onto / SUSS for capital allocation yet**.
+---
 
-### #31 completion gate
+## 5. Weebit Nano (#5) — deep dive complete
 
-Before JEM can move to `Watch` or alter Gate C conclusions, verify or explicitly exhaust public evidence on:
+Canonical file: `research/memory/companies/weebit-nano.md`.
 
-- HBM production sockets / share by customer;
-- HBM-specific revenue versus conventional DRAM/NAND;
-- normalized margin and FCF after current capacity investment;
-- future capex / dilution requirements;
-- refreshed valuation.
+**Previous state:** `Research queue`, Low confidence; the thesis still depended on proving that ReRAM technical promise was translating into commercial adoption.
 
-A lower P/E alone is not enough.
+**New conclusion:** commercial adoption is now **real but early**.
+
+Evidence now includes:
+
+- production-qualified ReRAM platforms at SkyWater and DB HiTek;
+- Tier-1 IDM licences with onsemi and Texas Instruments;
+- three product-customer tape-outs by June 2026, with at least one returned chip functional and running software;
+- FY26 revenue of **A$15.3m**, up from A$4.4m, driven by licensing and NRE.
+
+The unresolved step is also the most important one for valuation: **mass production and recurring royalties have not yet been demonstrated**. The company hopes its first customer reaches mass production in CY27.
+
+### Status decision
+
+**Weebit: `Research queue` → `Watch`; confidence Low → Medium.**
+
+This is an **architectural-optionality** conclusion, not a Gate-A bottleneck conclusion. The base commercial thesis is embedded non-volatile-memory replacement; AI / compute-in-memory remains upside optionality rather than the current base case.
+
+### Valuation discipline
+
+At the 4 September 2026 reference, WBT was about **A$3.53**, market cap ~**A$849m** and EV ~**A$681m**, around **45x FY26 revenue**. FY26 also included a **A$54.9m net loss**, operating cash outflow, material stock-based compensation and roughly A$102m of equity funding during 2026.
+
+A reverse commercialization screen suggests the business needs roughly **5–7x FY26 revenue by end-2030 plus a meaningful shift to royalty economics** to support an attractive return without relying on an even more aggressive terminal multiple.
+
+**Conclusion:** Weebit is now credible enough to monitor, but the current price already capitalizes substantial future success. It does not enter the primary capital-allocation ranking.
+
+### Monitoring triggers
+
+Move the thesis materially higher only if several occur:
+
+- first meaningful recurring royalty revenue;
+- a customer reaches sustained mass production;
+- onsemi and/or TI reach commercial availability / product milestones;
+- another Tier-1 foundry/IDM licence converts to production;
+- royalties scale faster than R&D / SBC;
+- dilution falls materially;
+- a named commercial AI / compute-in-memory customer appears;
+- valuation resets enough to absorb execution risk.
 
 ---
 
 ## 6. Gate C remains deliberately rare
 
-A `High-conviction research candidate` requires Gate A/B evidence, explicit bear/base/bull valuation, attractive risk-adjusted return, downside protection, manageable balance-sheet/dilution/customer risk and explicit monitoring indicators / thesis breakers.
+A `High-conviction research candidate` requires Gate A/B evidence where applicable, explicit valuation, attractive risk-adjusted return, downside protection, manageable balance-sheet/dilution/customer risk and explicit monitoring indicators / thesis breakers.
 
 **No company qualifies today.**
 
@@ -109,59 +131,57 @@ A `High-conviction research candidate` requires Gate A/B evidence, explicit bear
 
 ## 7. Current research / capital frontier
 
-### Fully underwritten capital watch
+### Current-bottleneck capital watch
 
 **Onto → SUSS → Camtek → FormFactor.**
 
-### New probe-card challenger lane
+### Probe-card challenger lane
 
 **JEM → Micronics → Technoprobe.**
 
-### Provisional combined order after JEM falsification
+### Architectural optionality
 
-**Onto → SUSS → JEM (provisional investigation) → Micronics / Technoprobe → Camtek → FormFactor.**
+**Weebit Nano — Watch / Medium.** Commercial adoption is credible; royalty-scale economics are unproven.
 
-This is a research-priority view, not a recommendation ranking. JEM's EPS-based scenario looks competitive, but cash conversion and evidence quality prevent a capital-ranking promotion.
+Do not mix Weebit's speculative architecture path mechanically into the Bottleneck × Investment Capture ranking used for the current HBM ecosystem.
 
 ---
 
 ## 8. Monitoring triggers
 
-Re-run capital allocation when any of the following occurs:
+Re-run capital allocation when material price, earnings, customer/share, qualification, margin/FCF, dilution or architecture evidence changes.
 
-### Price triggers, absent thesis deterioration
+Existing price-monitoring references remain approximately:
 
-- Onto approaches **~$250** or below;
-- SUSS approaches **~€64** or below;
-- JEM approaches **~¥5,600** or below **and** cash-conversion / HBM evidence remains intact;
-- Micronics approaches **~¥9,800** or below;
-- Technoprobe approaches **~€22.5** or below;
-- Camtek approaches **~$105** or below;
-- FormFactor approaches **~$68** or below.
+- Onto **~$250** or below;
+- SUSS **~€64** or below;
+- JEM **~¥5,600** or below only if HBM/cash evidence remains intact;
+- Micronics **~¥9,800** or below;
+- Technoprobe **~€22.5** or below;
+- Camtek **~$105** or below;
+- FormFactor **~$68** or below.
 
-### Evidence triggers
-
-- material earnings-estimate revisions;
-- new HBM4/HBM4E/HBM5 customer/share evidence;
-- probe-card second sourcing / customer concentration changes;
-- backlog cancellation / capex pull-forward evidence;
-- margin / FCF conversion materially different from the model;
-- new equity issuance or other dilution;
-- architecture substitution changes.
+For Weebit, price alone is not a promotion trigger. Commercial royalty evidence must improve first.
 
 ---
 
 ## 9. Research-effort allocation from here
 
-PR #30 is an exception to the move away from broad supplier discovery because it found a potentially better **valuation expression of an already-validated bottleneck**.
+The current AI-memory programme has now tested:
+
+- the main structural bottlenecks;
+- multiple supplier capture cases;
+- capital allocation;
+- a new valuation expression of HBM test;
+- an architectural-discontinuity option through Weebit.
+
+The marginal value of opening another broad AI-memory supplier screen is now low.
 
 ### Current sequence
 
-1. **#31 probe-card capital allocation / JEM evidence gap — immediate.** Finish the public-evidence exhaustion and decide whether JEM remains `Investigating`, moves to `Watch`, or is deprioritized.
-2. **#5 Weebit Nano** — speculative emerging-memory / architectural-discontinuity thesis.
-3. **#3 robotics actuators** — separate end-to-end actuator bottleneck map.
-
-Do not open additional AI-memory supplier deep dives unless new evidence suggests a materially better combination of bottleneck strength, company capture and valuation than the existing frontier.
+1. **Maintain the AI-memory watch** using the evidence and valuation triggers above.
+2. **#3 robotics actuators — next substantive research stream.** Build the end-to-end actuator stack, identify structural bottlenecks and only then identify investable suppliers.
+3. Reopen AI-memory deep research only when a material monitoring trigger or genuinely new architecture/economic opportunity appears.
 
 ---
 
@@ -169,7 +189,7 @@ Do not open additional AI-memory supplier deep dives unless new evidence suggest
 
 Prefer regulatory/audited disclosures, technical standards/papers, customer/supplier primary disclosure, earnings calls/investor presentations, reputable industry research, then specialist journalism. Community discussion is question generation only.
 
-Every analysis must actively search for second sourcing/share loss, rapid capacity additions, architecture substitution, customer bargaining power, falling content intensity, margin normalization, capex pull-forward, dilution and valuation that already assumes the upside.
+Every analysis must actively search for second sourcing/share loss, architecture substitution, customer bargaining power, falling content intensity, margin normalization, capex pull-forward, dilution and valuation that already assumes the upside.
 
 Point-in-time valuation must carry a date and be refreshed before a capital-allocation conclusion. Contradictory evidence stays in the canonical file.
 
@@ -191,4 +211,4 @@ For each substantive workstream: read governance/current research, work on a bra
 
 ## 13. Immediate question
 
-> **Can JEM's low-teens guided earnings multiple survive a cash-flow, dilution and HBM-share evidence test strongly enough to enter the primary capital watch — or is the discount compensation for concentration, capital intensity and lower disclosure quality?**
+> **Within robotics actuators, which component or enabling layer becomes structurally hard to substitute as advanced robotics scales — and which supplier captures that dependency without the valuation already assuming success?**
