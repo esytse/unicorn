@@ -1,101 +1,100 @@
-# Opinion paper seed — AI data centres and memory
+# We Are Building AI Data Centres Around Compute. Memory May Decide How Useful They Are.
 
-**Status:** Draft insight capture  
+**Status:** Draft opinion article  
 **Date:** 2026-09-08  
-**Purpose:** Capture the core argument and reader value for a future opinion article focused on AI data centres and memory. This is an editorial framing document, not a change to the canonical memory thesis or watchlist.
+**Editorial frame:** AI data-centre productivity through the lens of memory architecture. This article does not alter the canonical memory thesis, rankings or watchlist.
 
-## Working premise
+The artificial intelligence boom is rapidly becoming an infrastructure boom.
 
-**FACT:** McKinsey estimates roughly **$6.7 trillion** of global data-centre investment through 2030, including approximately **$5.2 trillion for AI workloads**.
+By the end of the decade, trillions of dollars are expected to be spent on data centres, much of it to support AI. The visible markers of this expansion are familiar: new campuses, larger power commitments, denser racks and an extraordinary appetite for accelerators.
 
-**FACT:** McKinsey separately estimates more than **$1.7 trillion** of data-centre infrastructure capex excluding IT hardware through 2030.
+The industry has consequently developed a fairly simple shorthand for AI capacity. More megawatts, more GPUs and more racks generally mean more compute.
 
-**FACT:** The IEA reports that capital expenditure by five large technology companies exceeded **$400 billion in 2025** and could rise by roughly **75% in 2026**.
+That is increasingly an incomplete way of looking at it.
 
-**INTERPRETATION:** The strategic question is therefore not simply how much AI infrastructure is being built, but how much of the installed compute can actually be kept productive.
+The more powerful processors become, the more their performance depends on something less glamorous: getting enough data to them, quickly enough, to keep them busy. A processor capable of performing enormous numbers of calculations is of limited use if it spends too much of its time waiting for information to arrive.
 
-## Core opinion
+This is why memory is moving towards the centre of the AI infrastructure problem.
 
-**HYPOTHESIS:** We tend to measure AI infrastructure by what we install: megawatts, racks, GPUs, accelerators and data-centre capacity. We should increasingly measure it by **productive compute** — how much useful work the infrastructure can deliver once memory bandwidth, capacity, latency, data movement, power and thermal constraints are taken into account.
+High-bandwidth memory, or HBM, has become one of the most visible beneficiaries of the AI boom precisely because it addresses this problem. By placing large amounts of extremely fast memory close to an accelerator, HBM allows data to move at rates conventional memory architectures struggle to sustain.
 
-**HYPOTHESIS:** Memory is central to this distinction. As accelerators become more powerful, system performance depends increasingly on supplying them with the right data quickly and economically enough to keep them busy. More compute does not automatically translate into proportionally more useful AI capacity if the memory system cannot keep pace.
+But focusing on HBM demand alone risks missing the more important shift.
 
-## Why readers should care
+The question is no longer simply how much memory an accelerator contains. It is how memory is organised around compute, how quickly data can move through the system, how much energy that movement consumes and how the architecture changes as workloads move from training frontier models to serving them at enormous scale.
 
-**INTERPRETATION:** The article should give readers a different mental model for thinking about AI data-centre capacity:
+In other words, the AI data centre is beginning to look as much like a memory architecture problem as a compute problem.
 
-> **Installed compute is not the same as useful compute. Memory architecture increasingly determines the gap between the two.**
+This matters because the industry is making very large capital commitments on the assumption that installed compute translates into useful capacity. Those two things are not necessarily the same.
 
-This matters because trillions of dollars are being committed to AI infrastructure. If memory architecture materially influences accelerator utilisation, power efficiency and workload economics, it is not a narrow semiconductor issue; it is a question about the productivity of one of the largest infrastructure build-outs underway globally.
+A data centre containing tens of thousands of accelerators is an impressive asset. But its economic value ultimately depends on how productively those accelerators can be used. Memory bandwidth, memory capacity, interconnect, power and thermal limits all influence that utilisation.
 
-## Key insights to develop
+The distinction becomes particularly important as AI shifts increasingly towards inference.
 
-### 1. Memory is moving from component choice to data-centre architecture
+Training the largest models has placed huge emphasis on memory bandwidth. Large numbers of accelerators must exchange and process vast quantities of data, which has helped make HBM an essential part of leading AI systems.
 
-**HYPOTHESIS:** HBM is the most visible part of the shift, but the larger issue is how memory is organised around compute. Bandwidth, capacity, latency, physical proximity and energy cost increasingly need to be considered together.
+Inference introduces a somewhat different problem.
 
-**HYPOTHESIS:** The future AI data centre is likely to use a hierarchy rather than a single memory technology, potentially combining on-chip SRAM/cache, HBM, conventional DRAM, CXL-attached or pooled memory, and flash/storage tiers according to workload needs.
+The model still has to be held somewhere. Longer context windows increase memory requirements. KV caches grow as conversations and workloads become more complex. Serving millions of users places greater pressure on cost per query and energy consumption.
 
-### 2. Training and inference create different memory problems
+For some workloads, maximum bandwidth will remain critical. For others, memory capacity and cost may matter just as much.
 
-**INTERPRETATION:** Frontier training has emphasised bandwidth. Large-scale inference may broaden the constraint toward capacity and economics as model weights, context windows and KV caches grow.
+That makes it increasingly unlikely that the future AI data centre will be built around a single memory technology.
 
-**OPEN QUESTION:** To what extent will the memory architecture optimised for training differ from the architecture that minimises cost per useful inference workload?
+A more plausible outcome is a hierarchy. The fastest and most frequently accessed data sits closest to the processor, in cache and HBM. Larger pools of conventional DRAM provide capacity further away. Technologies such as CXL may allow memory to be expanded, pooled or shared more flexibly across systems. Flash and other slower tiers can absorb data that does not need to live permanently beside the accelerator.
 
-### 3. More GPUs do not automatically mean proportionally more useful AI capacity
+None of these technologies replaces the others. Their importance depends on the workload.
 
-**HYPOTHESIS:** A facility filled with accelerators that cannot be supplied with data efficiently is an under-utilised capital asset. The relevant measure of capacity therefore shifts from accelerator count toward how effectively compute, memory and interconnect operate as a system.
+That is a significant change in how data-centre architecture should be thought about. Memory stops being something selected after the processor and becomes something that helps determine the architecture around it.
 
-### 4. Memory architecture affects power and cooling economics
+It also brings memory into areas that would traditionally have been treated as separate engineering disciplines.
 
-**FACT:** Moving data consumes energy, and memory density/proximity contribute to package and rack thermal challenges.
+Power is one.
 
-**INTERPRETATION:** As data centres become increasingly power constrained, the energy cost of moving and storing data becomes part of infrastructure economics rather than an isolated chip-design concern.
+Moving data consumes energy. As AI clusters grow larger, the energy required to move information between memory and processors, across packages and eventually across racks becomes increasingly relevant. When electricity and grid access are already constraints on new data-centre capacity, wasting power moving data unnecessarily becomes an infrastructure problem, not merely a chip-design problem.
 
-### 5. HBM scaling creates manufacturing-system constraints
+Cooling is another.
 
-**FACT:** HBM4 and later generations increase complexity in stacking, bonding, logic base dies, packaging, testing, yield and thermals.
+Putting more compute and memory into increasingly dense packages raises the thermal load that must be managed. HBM itself is becoming more complex as stacks become taller, dies thinner and integration with accelerator logic tighter. The manufacturing challenge therefore extends into packaging, bonding, test, yield and thermal management.
 
-**INTERPRETATION:** Increasing nominal DRAM capacity does not automatically produce usable HBM capacity if downstream manufacturing steps remain constrained. The memory roadmap is therefore increasingly intertwined with advanced packaging and manufacturing capability.
+This is one reason simply increasing semiconductor capacity does not guarantee that usable AI capacity rises at the same rate.
 
-### 6. The strategic question changes
+Memory has to be fabricated, stacked, bonded, tested and integrated. Advanced packages have to yield reliably. The final system has to dissipate heat. Power has to reach it. Data has to move through it efficiently.
 
-Instead of asking only **"How many accelerators can we deploy?"**, infrastructure leaders should increasingly ask:
+Improving one part of this chain often reveals the next constraint.
 
-- How much of that compute can we keep productive?
-- Which workloads are bandwidth constrained versus capacity constrained?
-- Which workloads genuinely require HBM?
-- Where can slower or lower-power memory tiers improve economics?
-- How much energy is spent moving data rather than computing on it?
-- At what point does improving the memory system deliver more value than adding another accelerator?
+That dynamic is easy to overlook because the industry naturally focuses on the most visible scarcity. For several years, that has been accelerators. It may continue to be so in important parts of the market.
 
-## Potential audience
+But bottlenecks move.
 
-The article should be readable beyond memory specialists and useful to:
+Once enough compute is available, the next question is whether it can be fed. Once memory bandwidth increases, capacity may become the constraint. Once memory capacity expands, interconnect or power may matter more. Increasing rack density can then move the problem into cooling.
 
-- data-centre and AI-infrastructure leaders;
-- semiconductor and systems executives;
-- enterprise technology leaders planning large-scale AI deployments;
-- strategy leaders thinking about AI capex and utilisation;
-- technically curious executives and analysts following the AI infrastructure build-out.
+The danger is therefore to confuse the thing being installed with the thing creating useful capacity.
 
-The intended reader takeaway is not "HBM demand is growing." It is:
+This matters well beyond semiconductor design.
 
-> **The industry may be using the wrong unit of AI capacity. Installed compute is easy to count; productive compute is what matters, and memory increasingly determines the difference.**
+For companies building AI infrastructure, it suggests that accelerator count is an increasingly crude measure of capability. A better measure is productive compute: the amount of useful work a system can deliver after memory, networking, power and thermal constraints are taken into account.
 
-## Potential framing / title
+For enterprises buying AI capacity, it means headline hardware specifications may tell less about economics than utilisation and workload architecture. The cheapest system will not necessarily be the one with the cheapest processor, nor the fastest system the one containing the most expensive accelerator.
 
-**We Are Building AI Data Centres Around Compute. Memory May Decide How Useful They Are.**
+And for the wider technology industry, it points towards a change in where engineering effort will need to go.
 
-Alternative:
+The first phase of generative AI was dominated by the question of whether enough compute could be assembled to train increasingly powerful models. The next phase is likely to be more concerned with making that infrastructure efficient enough to operate at very large scale.
 
-**We Measure AI Data Centres by Compute. We May Be Measuring the Wrong Thing.**
+Memory sits directly in the middle of that transition.
 
-## Sources
+We are spending extraordinary sums building AI data centres. It would be a mistake to measure the success of that build-out simply by counting the accelerators going into them.
 
-- McKinsey, *The $7 trillion data center build-out: How industrials can capture their share* — https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-7-trillion-dollar-data-center-build-out-how-industrials-can-capture-their-share
-- McKinsey, *Scaling bigger, faster, cheaper data centers with smarter designs* — https://www.mckinsey.com/industries/private-capital/our-insights/scaling-bigger-faster-cheaper-data-centers-with-smarter-designs
-- IEA, *Key questions on energy and AI — Executive summary* — https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
-- Existing HBM manufacturing, packaging, testing and thermal evidence is preserved in `sources/source-register.md` and the canonical files under `research/memory/`.
+The more important question is how much of that compute can actually be kept productive.
 
-These figures and interpretations should be revalidated against the latest available sources immediately before publication.
+Memory may increasingly determine the answer.
+
+---
+
+## Source notes for editorial validation
+
+- McKinsey, *The $7 trillion data center build-out: How industrials can capture their share* — estimates roughly $6.7tn of global data-centre investment through 2030, including approximately $5.2tn for AI workloads.
+- McKinsey, *Scaling bigger, faster, cheaper data centers with smarter designs* — estimates more than $1.7tn of data-centre infrastructure capex excluding IT hardware through 2030.
+- IEA, *Key questions on energy and AI — Executive summary* — reports that capex by five large technology companies exceeded $400bn in 2025 and could rise by roughly 75% in 2026.
+- Existing HBM manufacturing, packaging, testing, thermal and interface evidence is preserved in `sources/source-register.md` and the canonical files under `research/memory/`.
+
+External figures and time-sensitive claims should be revalidated immediately before publication.
