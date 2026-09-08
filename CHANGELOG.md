@@ -4,6 +4,14 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### Energy specialist monitoring backlog opened and evidence refreshed
+
+- Opened **#64–#67** to convert the completed energy Gate A/B/C programme into an explicit follow-up backlog: Jinpan qualification/cash conversion, Modine margin/FCF normalization, Centrus funding/dilution, and trigger-based Siemens Energy/nVent/Vertiv Gate-C monitoring.
+- **Hainan Jinpan remains `Investigating` / 4.0/5 / Medium-Low.** H1 2026 data-centre orders, revenue and backlog strengthened materially, and overseas backlog is now more clearly AIDC-linked; however, named North-American hyperscaler qualification remains unverified in primary public evidence and H1 operating cash flow turned negative as inventory expanded. No Gate-C or confidence promotion is made.
+- **Modine remains `Investigating` / 3.9/5 / Medium.** Q1 FY2027 Data Centers sales rose 90%, but gross margin fell to 20.2%, operating margin to ~13.3% and simple OCF-minus-capex was about -$5m. The >$4bn customer capacity agreement remains exceptional demand evidence, but normalization of margins, customer concentration and FCF are the gating questions.
+- **Centrus remains `Investigating` / 4.0/5 / Medium-Low.** The signed $900m DOE HALEU expansion contract, ~$1.9bn cash and customer-prepayment structures make the industrial build more credible, but the project is multi-billion-dollar, most future LEU/HALEU commitments remain contingent, and ATM / convertible dilution can materially affect per-share economics. Added an explicit capital-stack / dilution sensitivity rather than raising probability-weighted value.
+- The **#67 valuation monitor does not trigger on 8 September**: Siemens Energy remains above its ~€144 12% zone, nVent above ~$147 and Vertiv materially above ~$245. No broad energy discovery stream is reopened.
+
 ### Canonical memory and energy theses synchronized
 
 - Updated `research/memory/thesis.md` from the stale low-confidence opening hypothesis to the current canonical state: four validated bottleneck classes, completed company capture / capital-allocation work, no Gate C candidate at current reference prices, and Weebit Nano separated as `Watch` / Medium-confidence architectural optionality.
