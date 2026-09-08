@@ -6,8 +6,9 @@ Git history is the authoritative version record. Do not create duplicate files s
 
 ## Research streams
 
+- `research/physical-ai/` — umbrella Physical AI value chain: data, simulation, embodied models, edge compute, sensing, deployment and cross-embodiment bottlenecks
+- `research/robotics-actuators/` — embodiment-specific actuator / precision-motion substream within Physical AI
 - `research/memory/` — AI memory, data movement, interfaces and related bottlenecks
-- `research/robotics-actuators/` — robotics actuator value chain and emerging players
 - `research/energy/` — AI/data-centre energy, grid, power-delivery and speed-to-power bottlenecks
 - Additional themes can be added under `research/` without creating a new repository
 
@@ -36,7 +37,7 @@ If someone prefers not to formulate an agent prompt directly, GitHub's **Researc
 
 ## Example instruction to an agent
 
-> Read `AGENTS.md` and the relevant existing research first. Research the actuator opportunity, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
+> Read `AGENTS.md` and the relevant existing research first. Research the requested Physical AI bottleneck, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
 
 ## When to request manual review
 
