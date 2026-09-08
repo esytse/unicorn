@@ -1,31 +1,33 @@
 # AI Energy — Second-Order Supplier Ranking
 
-**Status:** Initial second-order discovery cycle complete  
-**Backlog:** #74  
+**Status:** Second-order discovery cycle and first company underwriting complete  
+**Backlog:** #74; Huaming follow-up #75  
 **Last substantive update:** 2026-09-08  
 **Purpose:** Compare upstream / specialist suppliers inside already-validated energy bottlenecks and test whether any improves the existing capital-allocation frontier.
 
 ## Executive conclusion
 
-The second-order search produces **one genuinely new company-research lane** and two important negative results.
+The second-order search produces **one genuinely new capital-relevant research lane** and two important negative results.
 
-### New lane
+### New lane — OLTC / Huaming
 
-**On-load tap changers (OLTCs) / Huaming Power Equipment** are the strongest new second-order finding. The component is active, customized, reliability-critical, qualification-heavy and serviceable through the transformer lifecycle. Huaming combines unusually high power-equipment gross margin, strong cash conversion and international growth with much greater total-company transformer sensitivity than the diversified electrical OEMs. It therefore merits dedicated #75 company underwriting.
+**On-load tap changers (OLTCs) / Huaming Power Equipment** are the strongest new second-order finding. The component is active, customized, reliability-critical, qualification-heavy and serviceable through the transformer lifecycle. Huaming combines unusually high power-equipment gross margin, strong cash conversion and international growth with much greater total-company transformer sensitivity than the diversified electrical OEMs.
+
+The initial #75 underwriting gives Huaming an **Investment Capture Score of 4.1/5, `Investigating`, Medium confidence**. At the 8 September 2026 reference price of **CNY19.73**, a deliberately normalized base case produces about **11.0% annualized price return** to end-2030, with a **~CNY18.99 12% return zone**. That places Huaming close to the existing capital-allocation frontier, but it does **not** yet pass strict Gate C because repeat global high-voltage qualification, overseas service recurrence and investor-access / geopolitical risk are less well evidenced than at the established leaders.
 
 ### Negative result #1 — turbine hot section
 
-**Hot-section blades / vanes / precision castings are physically the strongest second-order bottleneck at 4.8/5**, but the public-market opportunity is not undiscovered. Howmet has exceptional operating capture but is already a ~$95bn company trading around 44x forward earnings; Yingliu has smaller-company sensitivity and real Siemens/Baker Hughes/Ansaldo qualification but roughly 80x trailing earnings plus negative H1 operating cash flow. The turbine OEMs' long-duration service economics remain hard to beat on a risk-adjusted basis.
+**Hot-section blades / vanes / precision castings are physically the strongest second-order bottleneck at 4.8/5**, but the public-market opportunity is not undiscovered. Howmet has exceptional operating capture but is already a ~$95bn company trading around 44x forward earnings; Yingliu has smaller-company sensitivity and real Siemens Energy / Baker Hughes / Ansaldo qualification but roughly 80x trailing earnings plus negative H1 operating cash flow. The turbine OEMs' long-duration service economics remain hard to beat on a risk-adjusted basis.
 
 ### Negative result #2 — 800 VDC
 
-The 800 VDC transition is increasingly real, but **open standardization is actively preventing concentrated supplier lock-in**. More than 80 ecosystem participants are building to OCP/NVIDIA specifications. DC fault protection is the most technically interesting narrow layer, but ABB and Eaton already provide credible competing platforms and no production market-share concentration is established.
+The 800 VDC transition is increasingly real, but **open standardization is actively preventing concentrated supplier lock-in**. More than 80 ecosystem participants are building to OCP / NVIDIA specifications. DC fault protection is the most technically interesting narrow layer, but ABB and Eaton already provide credible competing platforms and no production market-share concentration is established.
 
 The main research conclusion is:
 
 > **Scarcity is not enough. The best second-order opportunity appears where qualification is hard, the product remains merchant-supplied, the economics are visible, and the public vehicle is small enough for the bottleneck to matter.**
 
-On that basis, **Huaming is the only new company that currently deserves dedicated underwriting.**
+On that basis, **Huaming is the only new company from the second-order cycle that currently improves the candidate frontier.**
 
 ---
 
@@ -33,7 +35,7 @@ On that basis, **Huaming is the only new company that currently deserves dedicat
 
 | Rank | Sublayer / company lead | Parent bottleneck | Structural / functional scarcity | Merchant capture | Listed asymmetry | Current action |
 |---:|---|---|---:|---:|---:|---|
-| **1** | **OLTC / Huaming** | Transformers | **4.5** | **4.6** | **4.3** | **#75 full company Gate B/C underwriting** |
+| **1** | **OLTC / Huaming** | Transformers | **4.5** | **4.6** | **4.3** | **Investigating / ICS 4.1; near Gate C; monitor ~CNY19 and global qualification** |
 | **2** | Hot-section blades / Howmet | Gas turbines | **4.8** | **4.5** | 3.5 | Benchmark / valuation monitor; no new issue at ~44x fwd P/E |
 | **3** | Hot-section blades / Yingliu | Gas turbines | 4.8 parent layer | 3.9 provisional | 3.6 | Comparator; wait for valuation / cash conversion improvement |
 | **4** | Transformerboard / Weidmann | Transformers | 4.3 | 4.0 | 2.5 | Structural benchmark; best specialist private |
@@ -44,7 +46,7 @@ On that basis, **Huaming is the only new company that currently deserves dedicat
 | **9** | GOES / Cleveland-Cliffs | Transformers | 4.2 | 3.3 | 2.8 | Strategic input, weak listed economic capture |
 | **10** | MVAC-to-800 VDC / SST | 800 VDC | ~3.6 supplier scarcity | 3.5 | 3.4 | Architecture watch, deliberately multi-vendor |
 
-Scores combine the completed #71–#73 screens; they are **research prioritization**, not investment recommendations.
+Scores combine the completed #71–#75 work; they are **research prioritization, not investment recommendations**.
 
 ---
 
@@ -58,7 +60,7 @@ The transformer second-order work is the only stream where going upstream improv
 - They are the key moving / switching component inside the transformer rather than passive material content.
 - Designs are customized by transformer class / customer and require long reliability / approval histories.
 - Installed units create inspection, maintenance, spare-parts and replacement economics.
-- Premium high-voltage markets remain difficult enough that global incumbent MR still holds strong positions, providing a real qualification benchmark rather than a commodity market.
+- Premium high-voltage markets remain difficult enough that global incumbent Maschinenfabrik Reinhausen (MR) still holds strong positions, providing a real qualification benchmark rather than a commodity market.
 
 ### Huaming economics
 
@@ -66,26 +68,32 @@ H1 2026:
 
 - power-equipment revenue **RMB1.099bn**;
 - power-equipment gross margin **60.83%**;
-- international revenue **+32.13%**;
-- international gross margin **58.50%**;
+- direct + indirect overseas core-business revenue **RMB449m, +44.59%**;
 - operating cash flow **RMB458.9m, +44.41%**;
 - simple OCF less fixed/intangible capex roughly **RMB416m**.
 
-At the 8 September reference the company was around **RMB17bn market capitalization and ~19–20x forward earnings**, materially smaller and less highly valued than the obvious turbine / data-centre power winners.
+At the 8 September reference the company was around **CNY17.25bn market capitalization and ~19.5x forward earnings**, materially smaller and less highly valued than the obvious turbine / data-centre power winners.
+
+### Initial Gate-C normalization
+
+| Scenario | 2027–2030 EPS CAGR | 2030 terminal P/E | 2030 price | Annualized price return |
+|---|---:|---:|---:|---:|
+| Bear | 8% | 14x | ~CNY18.1 | **-2.0%** |
+| Base | 16% | 18x | ~CNY31.0 | **11.0%** |
+| Bull | 22% | 22x | ~CNY46.3 | **21.9%** |
+
+Base-case price zones: approximately **CNY20.52 for 10%**, **CNY18.99 for 12%** and **CNY16.94 for 15%** annualized price return. Dividends are excluded from the headline calculation.
 
 **INTERPRETATION:** This is the closest the second-order work has come to the pattern the repo is searching for: a small-ish company, a high-qualification component, visible margins / cash, structural parent-market growth and a valuation that does not obviously assume hypergrowth.
 
-### What #75 must prove
+### Why Huaming is still only `Investigating`
 
-Huaming is **not yet promoted**. #75 must establish:
-
-- repeat global / high-voltage qualification rather than China-only share;
-- durable competitive position versus Maschinenfabrik Reinhausen;
-- lifecycle service / spare-parts recurrence;
-- overseas capacity / margin sustainability;
-- working-capital quality;
-- A-share access / governance / geopolitical constraints;
-- normalized bear/base/bull returns and 10/12/15% hurdles.
+- named repeat overseas / high-voltage customer qualifications remain insufficiently disclosed;
+- MR has a much denser global installed base and service network;
+- MR's capacity investment has brought committed OLTC delivery times back toward ~16 weeks, weakening any permanent unit-shortage thesis;
+- Huaming says its overseas installed base and overseas maintenance revenue remain relatively limited today;
+- A-share access, governance and geopolitical constraints reduce comparability with Siemens Energy / nVent;
+- the current CNY19-ish valuation zone is a monitoring reference, not an automatic buy threshold.
 
 ---
 
@@ -135,20 +143,20 @@ The only narrow watch is **DC fault protection**, where production qualification
 
 ---
 
-## 5. What happens to the existing energy capital frontier
+## 5. Updated energy capital frontier
 
-The second-order research does **not** displace the existing Gate-C monitor yet.
+The second-order work adds Huaming to the research comparison, but does **not** formally promote it through Gate C.
 
-Current quality / valuation frontier remains:
+| Current research order | Base annualized return | Evidence quality | Current interpretation |
+|---|---:|---|---|
+| **Siemens Energy** | ~11.2% | Medium-High | Preferred established capital monitor |
+| **Huaming** | **~11.0%** | **Medium** | New near-Gate-C evidence lead; qualification still gating |
+| **nVent** | ~10.5% | Medium-High | Established second monitor |
+| **Vertiv** | ~8.5% | Medium-High | Direct AI-infrastructure quality leader, valuation-bound |
 
-1. **Siemens Energy** — closest existing Gate-C setup.
-2. **nVent** — next closest.
-3. **Vertiv** — highest direct AI-infrastructure quality, valuation-bound.
-4. **specialist evidence lane** — Jinpan / Modine / Centrus.
+This ordering is **not a recommendation ranking**. Huaming's lower evidence confidence prevents treating its ~11% modeled return as equivalent certainty to Siemens Energy's.
 
-**Huaming now sits outside that list as the single new candidate requiring full underwriting.** If #75 verifies qualification and normalized returns, it should then be inserted into the capital-allocation table on the same common basis.
-
-Howmet remains a high-quality operating benchmark rather than a new valuation leader. Yingliu remains a research comparator. No 800 VDC company is added.
+The specialist evidence lane remains Jinpan / Modine / Centrus, while Howmet is carried as a high-quality second-order operating benchmark rather than a new valuation leader.
 
 ---
 
@@ -156,7 +164,8 @@ Howmet remains a high-quality operating benchmark rather than a new valuation le
 
 ```text
 #71 transformer second-order ──► OLTC passes ──► #75 Huaming underwriting
-                         │
+                         │                         │
+                         │                         └─ near Gate C, evidence-limited
                          ├─ transformerboard / bushings ──► private / diluted exposure
                          └─ GOES ──► scarcity but poor public capture
 
@@ -169,15 +178,19 @@ Howmet remains a high-quality operating benchmark rather than a new valuation le
 #73 narrow 800 VDC ─────► no Gate-A supplier concentration
                          └─ DC protection remains watch-only
 
-#74 synthesis ──────────► #75 is the only new active company underwriting
+#74 synthesis ──────────► one new capital-relevant lane: Huaming
 ```
 
-This keeps the energy programme disciplined: **one new company issue from three discovery streams**, rather than turning every technically important component into a stock thesis.
+This keeps the energy programme disciplined: **one new company from three discovery streams**, rather than turning every technically important component into a stock thesis.
 
 ---
 
 ## Next gate
 
-Complete **#75 Huaming Power Equipment**. The question is no longer whether OLTCs are technically attractive; it is whether Huaming's global qualification, service moat, governance and valuation can produce a base-case expected return that competes with or exceeds Siemens Energy / nVent without requiring heroic assumptions.
+The active Huaming evidence question is narrow:
+
+> **Can repeat named international high-voltage qualification and lifecycle service economics be verified strongly enough to raise confidence from Medium while the valuation remains around the current ~CNY19 12% zone?**
+
+Do not open more broad second-order energy discovery automatically. Re-open only for new qualification / pricing / concentration evidence or a material valuation change.
 
 #67 remains the trigger-based monitor for Siemens Energy / nVent / Vertiv.
