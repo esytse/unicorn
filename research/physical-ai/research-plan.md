@@ -1,241 +1,251 @@
 # Physical AI — Research Plan
 
-**Status:** Active Gate-A discovery  
+**Status:** Gate A complete; Gate B merchant-capture research active  
 **Parent issue:** #91  
 **Last substantive update:** 2026-09-08
 
 ## Objective
 
-Identify the **cross-embodiment bottlenecks and profit pools** created as AI moves from digital reasoning into autonomous action in the physical world.
+Identify the **cross-embodiment bottlenecks and merchant profit pools** created as AI moves from digital reasoning into autonomous action in the physical world.
 
-The programme deliberately separates:
+The programme separates:
 
 - **Gate A — Bottleneck Strength:** is the function hard to reproduce/substitute at production scale?
 - **Gate B — Investment Capture:** can a supplier/operator retain economics from that bottleneck?
-- **Gate C — Capital Allocation:** is the expected return attractive at current valuation with tolerable downside?
+- **Gate C — Capital Allocation:** is expected return attractive at current valuation with tolerable downside?
 
-The existing `research/robotics-actuators/` stream remains valid but is now one downstream substream of the broader Physical AI programme.
+`research/robotics-actuators/` remains a valid detailed embodiment-hardware substream, not the umbrella thesis.
 
 ---
 
-## Core principles
+## Research principles
 
-1. **Loop before BOM.** Model the real-world learning/deployment feedback loop before selecting components.
+1. **Loop before BOM.** Start with the real-world learning/deployment loop, not component counts.
 2. **Cross-embodiment before humanoid-specific.** Compare vehicles, drones, industrial/mobile robots and humanoids.
-3. **Real deployment beats demos.** Fleet miles, field hours, production agreements and customer deployment matter more than benchmark videos.
-4. **Action data differs from internet data.** Track state/action/outcome alignment, failure coverage and embodiment context.
-5. **Synthetic data is both solution and falsification.** It can reduce real-data scarcity but still depends on calibration to reality.
-6. **Closed-loop evaluation matters.** Open-loop replay is insufficient for systems whose actions change the environment.
-7. **Open models reduce model scarcity.** Separate model capability from proprietary post-training/deployment data.
-8. **Edge constraints are explicit.** Latency, power, thermal, sensor bandwidth and safe fallback can make onboard inference a distinct bottleneck.
-9. **Technical constraint ≠ merchant profit pool.** Batteries can constrain runtime while remaining commodity-like.
-10. **Captive moat ≠ investable supplier.** Tesla/Waymo/Amazon-type feedback loops may be powerful but trapped inside vertically integrated operators.
-11. **Avoid double counting.** Reuse the memory, energy and actuator research for shared physical infrastructure.
-12. **Do not capitalize top-down robot-unit forecasts.** Tie economics to observed deployment and disclosed contracts.
+3. **Real deployment beats demos.** Fleet miles/hours, production programs and field economics outrank showcase capability.
+4. **Action data differs from internet data.** Track state/action/outcome alignment, failures, interventions and embodiment context.
+5. **Synthetic data is solution and falsification.** It can scale learning while increasing the importance of real calibration anchors.
+6. **Closed-loop evaluation matters.** Physical actions change the next state; replay alone is insufficient.
+7. **Open models reduce base-model scarcity.** Separate model capability from post-training/data/deployment moats.
+8. **Edge constraints are explicit.** Latency, power, thermal, sensor I/O and safe fallback create a distinct physical-AI runtime problem.
+9. **Technical constraint ≠ merchant profit pool.** Energy density can bind without creating a robotics-specific battery moat.
+10. **Captive moat ≠ investable supplier.** A Tesla/Waymo/Amazon/Figure feedback loop may be powerful while difficult to buy cleanly.
+11. **Avoid double counting.** Reuse memory, energy and actuator findings where the bottleneck is already canonical.
+12. **Do not capitalize top-down robot-unit forecasts.** Tie economics to deployment and signed/commercial evidence.
+13. **Data rights are a Gate-B variable.** A multi-customer platform has no data flywheel if contracts prevent cross-deployment learning.
+14. **Safety evidence can create secondary switching costs.** Component substitution can force retraining/revalidation even when hardware is technically multi-source.
 
 ---
 
-## Gate-A scorecard
+## Gate-A result — complete
 
-Score 1–5 on:
+### Validated structural frontier
 
-- scarcity / reproducibility;
-- real-world data dependence;
-- supply elasticity;
+1. **real deployment feedback / rare failure data — 4.7**
+2. **closed-loop safety / policy evaluation — 4.7**
+3. **domain-calibrated sim-to-real / digital twin — 4.6**
+4. **data-engine curation / replay — 4.6**
+5. **safety validation / certification evidence — 4.6**
+6. **edge performance-per-watt / latency — 4.5 as system constraint**
+7. **fleet operations / continuous learning — 4.5**
+8. **manufacturing / calibration / field reliability — 4.4**
+9. **embodiment-specific post-training / transfer — 4.4**
+10. **precision actuation / motion conversion — 4.4, embodiment-specific**
+11. deployment / commissioning — 4.4
+12. sensor fusion / calibration — 4.2
+13. energy density — 4.2 as system constraint
+
+### Explicit negative / narrowed results
+
+- **General VLA/model weights:** technically important, only ~3.8 current supplier scarcity because open models and rapid diffusion are strong falsification.
+- **Merchant edge-accelerator concentration:** ~3.9 despite a 4.5 system constraint; NVIDIA/Qualcomm/custom silicon prevent a single-vendor conclusion.
+- **Generic sensors:** no camera/lidar/radar category passes cross-embodiment Gate A; architecture is not converged.
+- **Physical-AI-specific battery cells:** ~3.2; real energy constraint, weak robotics-specific supplier scarcity.
+- **Generic motors / bearings / encoders:** existing actuator work keeps these below Gate A despite high unit content.
+
+Canonical synthesis: `synthesis-ranking.md`.
+
+---
+
+## Completed Gate-A issues
+
+- **#92** data engines / teleoperation / fleet learning
+- **#93** world models / simulation / digital twins / sim-to-real
+- **#94** training compute / edge inference / runtime
+- **#95** embodied models / VLA / planning / control transfer
+- **#96** sensing / perception / localization
+- **#97** embodiment hardware / power / industrialization
+- **#98** safety / evaluation / deployment / fleet operations
+- **#99** common-basis synthesis
+
+Parent #91 can close after the governed umbrella PR lands.
+
+---
+
+# Gate B — active backlog
+
+Gate B now asks **where the validated bottlenecks escape captive OEMs and become merchant economics**.
+
+## P1 — #100 Simulation / digital-twin / evaluation platforms
+
+### Why first
+
+Domain-calibrated simulation/evaluation combines:
+
+- 4.6–4.7 structural score;
+- cross-embodiment applicability;
+- possibility of serving many customers;
+- recurring software/engineering/service economics;
+- switching cost after virtual-controller / digital-twin validation.
+
+### Required tests
+
+- paid production usage, not demos;
+- multi-customer adoption;
+- recurring revenue / retention;
+- reality correlation / virtual commissioning;
+- domain-data ownership;
+- open/NVIDIA commoditization;
+- total-company earnings sensitivity.
+
+Do not assume generic simulation is scarce.
+
+---
+
+## P2 — #101 Safety runtime / validation / certification platforms
+
+### Why second
+
+NVIDIA Halos provides direct evidence that safety can become a reusable platform across AVs and robotics.
+
+### Required tests
+
+- production OEM design-ins;
+- hardware/software pull-through;
+- inspection/certification monetization;
+- recurring safety/runtime economics;
+- switching cost from validated configurations;
+- open standards / independent certification as falsification.
+
+---
+
+## P3 — #102 Merchant data / robot-brain / fleet-learning flywheels
+
+### Why potentially highest upside
+
+The data flywheel is the strongest structural moat.
+
+### Why not first
+
+The evidence hurdle for **merchant capture** is much higher:
+
+- customer data rights;
+- privacy/IP restrictions;
+- OEM insourcing;
+- private-company concentration;
+- open model substitutes.
+
+A platform passes only if it can demonstrably **learn across customer deployments** and retain the resulting economics.
+
+---
+
+## P4 — #103 Edge compute / deterministic runtime platforms
+
+### Required comparison
+
+- NVIDIA Jetson/IGX/Thor + software/safety stack;
+- Qualcomm Dragonwing robotics + mixed-criticality/runtime architecture;
+- Tesla/Waymo/custom silicon as disintermediation benchmarks;
+- model efficiency as hardware-demand falsification.
+
+Do not promote a semiconductor supplier solely because local compute is essential.
+
+---
+
+# Existing actuator Gate B treatment
+
+Open issues:
+
+- #85 Harmonic Drive Systems
+- #86 Laifual Drive
+- #87 Schaeffler
+- #88 MinebeaMitsumi
+- #89 actuator Gate C
+
+These remain open for audit continuity but are **parked behind #100–#103**.
+
+Resume early only if:
+
+- new named high-volume customer evidence appears;
+- valuation changes materially;
+- #100–#103 fail to produce merchantizable economics;
+- new evidence strengthens precision hardware as a superior profit pool.
+
+---
+
+# Gate-B common scorecard
+
+For every platform/company assess:
+
+- structural bottleneck inherited from Gate A;
+- **merchant vs captive** value;
+- multi-customer production adoption;
+- data / learning rights;
 - switching / revalidation cost;
-- cross-embodiment durability;
-- safety / failure consequence;
-- learning / network effects;
+- recurring revenue / service;
+- gross/operating margin evidence;
+- capex / working capital / cash conversion;
 - open-source / standardization risk;
 - vertical-integration risk;
-- production/deployment evidence.
+- total-company revenue/earnings sensitivity;
+- public investability / valuation only after operating capture is credible.
 
-A score of **≥4.0** warrants focused supplier/profit-pool hunting, but is not a company recommendation.
-
----
-
-## Execution backlog
-
-### P1 — #92 Data engines / teleoperation / fleet learning
-
-Test:
-- real robot/vehicle state-action data;
-- human video;
-- teleoperation;
-- intervention/failure data;
-- data curation and replay;
-- fleet learning;
-- data rights.
-
-Main question: **does deployment create a compounding proprietary data moat, or can video/synthetic/cross-embodiment learning commoditize it?**
-
-### P2 — #93 World models / simulation / sim-to-real
-
-Test:
-- generative world models;
-- physics simulation;
-- digital twins;
-- synthetic data;
-- closed-loop evaluation;
-- safety critics;
-- real-to-sim calibration.
-
-Main question: **is value in the generic simulation platform or in domain-calibrated reality correlation and evaluation?**
-
-### P3 — #94 Training compute / edge inference / runtime
-
-Separate:
-- generic training compute already covered by memory/energy;
-- simulation compute;
-- edge AI accelerators;
-- deterministic runtime;
-- sensor ingest / memory bandwidth;
-- local safety / redundancy.
-
-Main question: **does Physical AI create a distinct merchant edge-compute bottleneck despite custom silicon?**
-
-### P4 — #95 Embodied models / VLA / planning / control
-
-Test:
-- VLA weights;
-- embodied reasoning;
-- whole-body policies;
-- post-training;
-- cross-embodiment transfer;
-- high-level vs low-level control.
-
-Main question: **do model weights stay scarce, or does value migrate to data/post-training/deployment?**
-
-### P5 — #96 Sensing / perception / localization
-
-Test:
-- cameras;
-- lidar/radar/depth;
-- tactile/force;
-- IMU/proprioception;
-- SLAM/localization;
-- sensor fusion/calibration.
-
-Main question: **is any sensing layer scarce across embodiments, or only in specific architectures?**
-
-### P6 — #97 Embodiment / power / industrialization
-
-Reuse actuator findings and add:
-- batteries / energy density;
-- power electronics;
-- thermal;
-- structures;
-- ruggedization;
-- production calibration/reliability.
-
-Main question: **which body constraints remain cross-embodiment and which are form-factor-specific?**
-
-### P7 — #98 Safety / deployment / fleet operations
-
-Test:
-- critic/evaluation;
-- commissioning;
-- remote assist;
-- OTA deployment;
-- fleet orchestration;
-- monitoring / maintenance;
-- safety/regulatory evidence.
-
-Main question: **does the most durable economic moat appear after training, when systems meet real workflows and failure consequences?**
-
-### Synthesis — #99
-
-After #92–#98:
-- replace preliminary scores with common-basis evidence-backed ranking;
-- separate technical bottleneck from merchant profit pool;
-- identify captive versus merchantizable feedback loops;
-- identify layers already captured by memory/energy/actuator streams;
-- open company Gate-B issues only for evidence-backed candidates.
+A strong Gate-B candidate should normally show a credible **feedback-loop or qualification moat**, not merely high market growth.
 
 ---
 
-## Preliminary frontier to test
+# Gate C — not yet opened at umbrella level
 
-1. proprietary real-world feedback / rare-failure data — **4.7 preliminary**
-2. domain-calibrated closed-loop evaluation / safety critic — **4.7 preliminary**
-3. sim-to-real / domain digital twin — **4.6 preliminary**
-4. data engine / curation / replay — **4.6 preliminary**
-5. edge inference / deterministic runtime — **4.5 preliminary**
-6. fleet operations / continuous learning — **4.5 preliminary**
-7. physical industrialization / calibration — **4.4 preliminary / partially validated in actuators**
-8. embodiment-specific precision actuation — **4.4 validated in humanoid substream**
-9. embodiment-specific post-training/control integration — **4.4 preliminary**
-10. generic training compute — **4.3, but cross-theme**
-11. base VLA weights — ~**4.1 technical / lower supplier scarcity**
-12. generic sensors / motors / batteries — generally below the cross-embodiment Gate-A frontier unless a narrower sublayer validates.
+Gate C begins after at least two credible Gate-B candidates can be compared on:
+
+- dated price / market cap / EV;
+- normalized base business independent of heroic Physical AI forecasts;
+- explicit Physical AI contribution scenarios tied to production evidence;
+- bear/base/bull 3–5 year outcomes;
+- reverse 10/12/15% annualized-return hurdles;
+- margin-of-safety zones;
+- dilution/capex/working-capital effects;
+- thesis breakers.
+
+No automatic Gate C from strategic importance.
 
 ---
 
-## Evidence hierarchy
+# Evidence hierarchy
 
 Prefer:
 
 1. regulatory filings / audited financials;
 2. fleet/deployment metrics from operators;
 3. signed production/customer agreements;
-4. primary technical reports and benchmark methodology;
-5. platform docs with reproducible architecture information;
-6. peer-reviewed or strong conference work;
-7. reputable journalism;
-8. supplier marketing only as capability evidence.
+4. safety/certification records and standards evidence;
+5. primary technical reports / benchmark methodology;
+6. platform docs with reproducible architecture information;
+7. peer-reviewed / strong conference work;
+8. reputable journalism;
+9. supplier marketing only as capability evidence.
 
-Avoid anonymous 'supply chain' claims for qualification or market share.
-
----
-
-## Gate-A completion criteria
-
-The umbrella structural phase is complete when:
-
-- #92–#98 each have a canonical sourced deep dive;
-- each major layer has a score or explicit rejection;
-- captive vs merchantizable economics are separated;
-- #99 produces a common-basis ranking;
-- the actuator findings are integrated without duplication;
-- memory/energy cross-links avoid double counting.
-
-## Gate-B entry criteria
-
-A company/platform receives a dedicated underwriting issue only when there is direct evidence of at least one of:
-
-- proprietary deployment/data flywheel;
-- multi-customer platform adoption;
-- qualification / switching cost;
-- recurring software/service economics;
-- significant backlog / revenue / margin contribution;
-- unusually pure public-market exposure to a validated bottleneck.
-
-## Gate-C entry criteria
-
-At least two Gate-B candidates must be comparable on:
-
-- dated valuation;
-- normalized earnings/FCF independent of heroic Physical AI forecasts;
-- bear/base/bull outcomes;
-- 10/12/15% return hurdles;
-- capital intensity / dilution;
-- thesis breakers.
+Avoid anonymous supply-chain claims for production qualification or market share.
 
 ---
 
-## Existing actuator backlog treatment
+# Re-open / reprioritization triggers
 
-Actuator Gate-B issues #85–#89 remain open for audit continuity, but are **parked behind #99**. Resume them early only if #97/#99 confirm embodiment hardware / precision actuation as one of the leading merchant profit pools.
-
----
-
-## Re-open / reprioritization triggers
-
-- a major operator discloses a large new data/compute deployment;
-- open models materially close the gap with proprietary robot brains;
-- cross-embodiment transfer becomes demonstrably reliable;
-- synthetic data sharply reduces real-world demonstration requirements;
-- a merchant platform wins multiple major OEM/fleet deployments;
-- edge compute architecture concentrates around a small supplier set;
-- regulation/safety frameworks create a new certification bottleneck;
-- a hardware architecture standardizes strongly enough to change component scarcity.
+- cross-embodiment transfer becomes demonstrably reliable or fails materially;
+- synthetic data sharply reduces real-data needs;
+- a platform wins multiple production OEMs with retained learning rights;
+- regulators/customers standardize Physical AI safety evidence;
+- edge compute concentrates around a small certified platform set;
+- a sensor architecture converges across major embodiments;
+- a hardware architecture standardizes enough to alter component scarcity;
+- valuation creates a large margin-of-safety opportunity in a previously validated actuator or platform candidate.
