@@ -1,258 +1,318 @@
 # Probe-card Capital Allocation — JEM, Micronics, FormFactor and Technoprobe
 
 **Research stream:** AI memory — HBM test / probe cards  
-**Status:** Capital-allocation comparison  
-**Confidence:** Medium-Low on JEM investability; Medium on relative valuation  
-**Last substantive update:** 2026-09-07  
+**Status:** Capital-allocation comparison; JEM/MJC deep dive refreshed  
+**Confidence:** Medium-Low on JEM investability; Medium on MJC capital allocation; High on the need to normalize the HBM cycle  
+**Last substantive update:** 2026-09-08  
 **Backlog:** issue #31
 
-## Purpose
+## Executive conclusion
 
-Test whether the probe-card peer screen from PR #30 changes the AI-memory capital-allocation frontier.
+The refreshed JEM / Micronics work sharpens rather than reverses the prior conclusion:
 
-> **Does a listed probe-card supplier offer enough normalized earnings and valuation asymmetry to improve on the existing Onto / SUSS capital watch?**
+> **Micronics Japan is the stronger operating / technical franchise; Japan Electronic Materials is the more interesting current valuation / asymmetry candidate. Neither passes strict Gate C.**
 
-This is a research framework, not an investment recommendation. Scenario outputs are deliberately approximate and expose what must go right rather than manufacture false precision.
+The comparison is now less about which company has HBM exposure — both do — and more about **what kind of risk the investor is being paid to take**.
 
----
+- **MJC:** stronger public HBM evidence, claimed world-leading memory probe-card share, ~98% probe-card revenue purity, ~30% current operating margin and positive free cash flow through a major capex cycle. But ~71% of FY2025 group sales came from Samsung Electronics + Micron Memory Taiwan, and the stock already capitalizes a large part of the HBM inflection.
+- **JEM:** weaker investor-grade HBM socket/share evidence, lower current cash conversion and an explicitly equity-funded 2028 factory. But market capitalization is only about one-fifth of MJC's and the share trades around 14x guided earnings rather than ~21x.
 
-## 1. Current conclusion
+At 8 September 2026 reference prices:
 
-**CONCLUSION:** **JEM is the strongest new probe-card valuation lead, but it does not yet improve on the fully underwritten Onto / SUSS capital frontier.**
+| Company | Ref. price | Approx. equity value | Guided / normalized earnings anchor | Approx. P/E | Refreshed base CAGR | Approx. 12% base-return zone |
+|---|---:|---:|---|---:|---:|---:|
+| **JEM (6855)** | **¥6,480** | **~¥95bn** | FY Mar-27 guided EPS ~¥457 | **~14.2x** | **~8.4%** | **~¥5,640** |
+| **Micronics Japan (6871)** | **¥12,310** | **~¥501bn** | FY26 guided EPS ¥593.31 | **~20.8x** | **~4.8%** | **~¥9,270** |
+| FormFactor | prior common reference $103.90 | ~$8.1bn | existing #27 scenario | ~30x 2027 EPS at prior ref | ~1–2% prior base | ~$68 prior zone |
+| Technoprobe | prior common reference €27.46 | ~€17.6bn | existing normalized anchor | premium | ~7% prior base | ~€22.55 prior zone |
 
-The low earnings multiple is real. The HBM link is also more credible after the falsification pass: a JEM company-controlled page says DRAM share is rising **centered on HBM**, and FY2026 filings show Micron Memory Japan and Micron Memory Taiwan together represented about 31% of sales.
+These are research scenarios, not price targets.
 
-But the cheapness has important offsets:
+**Current risk-adjusted order for the probe-card challenger lane:**
 
-- HBM revenue / exact production sockets are still not disclosed;
-- top-three customers represented about **44.7%** of FY2026 sales;
-- TTM FCF is only around **¥2.24bn** versus a ~¥91bn common-reference equity value;
-- FY2026 financing included **~¥12.15bn of new equity issuance**;
-- shares outstanding increased materially during 2026;
-- a competitor regulatory filing does not list JEM among the principal overseas DRAM probe-card competitors, providing contradictory evidence on share breadth.
+1. **JEM — best valuation/asymmetry investigation, evidence-limited**;
+2. **Micronics Japan — best Japanese operating-quality benchmark, valuation-limited**;
+3. **Technoprobe — exceptional operating benchmark, premium expectations**;
+4. **FormFactor — highest-quality direct HBM customer evidence, valuation-limited**.
 
-**Current risk-adjusted order:**
-
-1. **Onto Innovation** — best validated quality / valuation balance.
-2. **SUSS** — higher-risk, but direct HBM qualification and completed underwriting.
-3. **JEM — provisional challenger / immediate investigation.** Better headline valuation and scenario distribution, but weaker cash conversion and evidence quality.
-4. **Micronics Japan** — strongest new memory-probe quality comparator; less valuation asymmetry.
-5. **Technoprobe** — exceptional operating benchmark; premium expectations.
-6. **Camtek / FormFactor** — excellent businesses with demanding normalized return hurdles.
-
-JEM moves **ahead of Weebit as the immediate AI-memory research task**, but remains `Investigating`.
+Across the broader memory programme, **Onto and SUSS remain ahead on completed quality/valuation underwriting**.
 
 ---
 
-## 2. Common reference valuation snapshot
+## 1. Why probe cards matter in HBM
 
-Use **4 September 2026 closes** for all four peers.
+The memory programme already validates **test / known-good-die / burn-in at 4.6/5**.
 
-| Company | Reference price | Equity value | Earnings / margin anchor | Approx. current valuation | Initial read |
-|---|---:|---:|---|---:|---|
-| **Japan Electronic Materials (6855)** | **¥6,230** | **~¥91.3bn** | FY Mar-2027 management guidance: ¥6.7bn net income; implied EPS ~¥457 | **~13.6x management-guided EPS** | Cheapest headline valuation; FCF / dilution / HBM mix are the issues |
-| **Micronics Japan (6871)** | **¥11,940** | **~¥462.9bn** | 2026 consensus net income ~¥23.87bn; implied EPS ~¥616; TTM op margin ~28% | **~19.4x 2026 consensus EPS** | Better incumbent evidence, less valuation asymmetry |
-| **FormFactor (FORM)** | **$103.90** | **~$8.12bn** | 2027 consensus EPS $3.48; Q2 non-GAAP GM 53.3% | **~29.9x 2027 EPS** | Best direct HBM evidence; valuation remains demanding |
-| **Technoprobe (TPRO)** | **€27.46** | **~€17.58bn** | H1 EBITDA margin 44.4%; 2026 guide 46–48%; published forward P/E around ~40x | **premium** | Exceptional economics already heavily capitalized |
+**INTERPRETATION:** As HBM becomes more expensive and more vertically integrated, the cost of an escaped wafer-level defect increases. A bad die can impair a high-value stack/package after substantial downstream processing. That raises the economic value of:
 
-### JEM evidence added during #31
+- earlier screening;
+- higher parallelism;
+- stable contact resistance;
+- thermal / mechanical consistency;
+- high-pin-count routing;
+- repeatable customer-qualified probe-card performance.
 
-**FACT:** FY Mar-2027 guidance is **¥36.4bn revenue, ¥9.45bn operating profit and ¥6.7bn net income**.
+The structural thesis therefore does not require probe-card unit growth alone. It depends on **test content and qualification value rising with package complexity**.
 
-**FACT:** JEM's company-controlled recruitment site says it has high NAND share and is **increasing DRAM share, centered on HBM used in generative AI**.
-
-**FACT:** FY2026 major customers were:
-
-- Micron Memory Japan: **¥4.567bn / 15.6%**;
-- Micron Memory Taiwan: **¥4.495bn / 15.3%**;
-- FlashForward: **¥4.054bn / 13.8%**.
-
-**FACT:** FY2026 semiconductor-inspection order intake was about **¥32.53bn**, +24.3%, and backlog about **¥11.72bn**, +40.7%.
-
-**FACT:** FY2026 operating cash flow was **¥5.76bn** and tangible fixed-asset purchases about **¥3.52bn**. TTM third-party data through June 2026 showed FCF around **¥2.24bn**.
-
-**FACT:** FY2026 financing cash inflow included **¥12.15bn from share issuance**. Third-party share data at end-August showed 14.65m shares outstanding, up ~5.3% y/y and ~10.4% q/q.
-
-**INTERPRETATION:** JEM is not merely a generic AI-adjacent story. It has credible HBM-linked DRAM participation and major Micron exposure. But the current accounting-earnings discount is less dramatic on cash flow, and the growth plan has already required substantial equity capital.
+**FALSIFICATION:** Probe cards remain replaceable capital consumables inside a cyclical memory supply chain. Capacity expansion, customer insourcing, multi-sourcing and new probe architectures can reduce scarcity. A strong HBM market does not guarantee strong normalized supplier returns.
 
 ---
 
-## 3. Evidence-quality hierarchy
+# 2. Japan Electronic Materials — valuation asymmetry with financing/evidence risk
 
-| Company | HBM / advanced-memory evidence | Competitive evidence | Capital intensity / cash | Evidence confidence |
-|---|---|---|---|---|
-| **FormFactor** | Volume HBM probe-card shipments at all three major HBM manufacturers | Share-gain and high-speed/high-parallelism evidence | Strong net cash and improving FCF | **High / Medium-High** |
-| **Micronics** | Management directly says HBM drove DRAM probe-card demand | Claims commanding / world-leading memory probe-card share | Heavy growth capex; net cash positive | **Medium** |
-| **JEM** | Company says HBM-centered DRAM share is rising; large Micron customer exposure | Exact HBM sockets/share not quantified; competitor filing creates contradictory DRAM-share evidence | Weak current FCF yield; material 2026 equity issuance | **Medium-Low on investability** |
-| **Technoprobe** | AI/datacenter exposure strong; memory expansion newer | Exceptional advanced-probe operating performance | Large 2026–27 capacity program; strong NFP | **Medium-High as benchmark** |
+## Operating evidence
 
----
+**FACT:** FY2026 revenue was about **¥29.37bn**, operating profit **¥7.25bn** and net income **¥5.45bn**.
 
-## 4. Normalization discipline
+**FACT:** FY2027 Q1 revenue reached approximately **¥9.641bn**, operating profit **¥3.094bn** and net income **¥2.169bn**. Q1 operating margin was approximately **32.1%**.
 
-The current probe-card results are occurring during an unusually strong HBM / AI memory cycle.
+**FACT:** full-year FY Mar-2027 guidance is now **¥36.4bn revenue / ¥9.45bn operating profit / ¥6.7bn net income**.
 
-- bear cases assume utilization / memory demand normalizes and terminal multiples compress;
-- base cases assume HBM test content remains structural but growth slows materially;
-- bull cases require durable HBM share/content gains, not merely a stronger DRAM cycle;
-- JEM receives a lower terminal multiple than higher-evidence peers;
-- JEM's EPS scenario **does not fully capture future dilution or heavy capex**, so its output should be treated as an optimistic first-pass until FCF improves;
-- returns are approximately September 2026 to end-2030 (~4.25 years), ignoring dividends.
+**INTERPRETATION:** Current earnings momentum is strong enough that JEM's low earnings multiple is not simply a trailing-cycle artifact. The harder question is how much of the step-up converts to per-share free cash flow after the factory build.
 
-These are **HYPOTHESES**, not forecasts.
+## HBM evidence
 
----
+**FACT:** JEM says DRAM share is increasing **centered on HBM used in generative AI**.
 
-## 5. Scenario assumptions
+**FACT:** FY2026 disclosed customers included Micron Memory Japan at **15.6%**, Micron Memory Taiwan at **15.3%** and FlashForward at **13.8%** of sales.
 
-### JEM
+**INTERPRETATION:** The Micron relationships make HBM participation credible, but exact HBM revenue, HBM generation and production sockets remain unverified.
 
-Visible anchor: FY Mar-2027 management-guided EPS ~¥457.
+**COUNTER-EVIDENCE:** a Korean competitor regulatory filing reviewed in the falsification pass highlighted FormFactor and Micronics in overseas DRAM probe-card competition and classified JEM more strongly in other probe categories. The taxonomy may be incomplete, but it prevents assuming broad HBM leadership.
 
-| Scenario | Anchor adjustment | Subsequent EPS CAGR | 2030 terminal P/E | Interpretation |
-|---|---:|---:|---:|---|
-| Bear | 80% | 0% | 11x | HBM share is narrower than hoped; utilization / memory cycle normalizes |
-| Base | 100% | 10% | 15x | HBM-linked memory growth persists but margins / capital returns normalize |
-| Bull | 115% | 20% | 20x | HBM sockets/share are verified and advanced probe-card mix compounds |
+## Capital intensity / dilution
 
-### Micronics Japan
+**FACT:** JEM increased its 2024–2026 cumulative investment plan to approximately **¥14.882bn**.
 
-Visible anchor: 2026 consensus implied EPS ~¥616; use ~¥625 rounded.
+**FACT:** the new Amagasaki factory is planned for completion in **August 2028**, with investment around **¥12.5bn**.
 
-| Scenario | Anchor adjustment | Subsequent EPS CAGR | 2030 terminal P/E | Interpretation |
-|---|---:|---:|---:|---|
-| Bear | 80% | 0% | 14x | memory capex digests and 2026 margins prove cyclical |
-| Base | 100% | 12% | 18x | leading memory share persists but growth normalizes |
-| Bull | 110% | 20% | 23x | HBM4/HBM5 leadership and new capacity sustain premium growth |
+**FACT:** company financing materials show roughly **¥12.2bn of public-equity proceeds** allocated to fund essentially the new factory investment.
 
-### Technoprobe
+**INTERPRETATION:** JEM's apparent cheapness is partly the price of a capital transition. The equity raise lowers balance-sheet risk but means future value must be assessed on **per-share** rather than headline revenue/earnings growth.
 
-Use an approximate 2026 forward EPS anchor of ~€0.80 for scenario normalization; this is a **model anchor**, not company guidance.
+## Customer concentration
 
-| Scenario | Anchor adjustment | Subsequent EPS CAGR | 2030 terminal P/E | Interpretation |
-|---|---:|---:|---:|---|
-| Bear | 70% | 5% | 20x | AI mix / 46–48% EBITDA margin prove near-cycle peak |
-| Base | 100% | 15% | 30x | AI testing stays structural but margins / multiple normalize |
-| Bull | 115% | 25% | 40x | capacity expansion captures sustained AI and memory share |
+Top three disclosed customers were roughly **44.7%** of FY2026 sales.
 
-FormFactor uses the existing #27 scenarios unchanged.
+That is high, but materially less concentrated than MJC's two-customer ~71% exposure.
 
----
+## Refreshed valuation
 
-## 6. Scenario return screen
+At **¥6,480** on 8 September:
 
-| Company | Bear end value | Bear CAGR | Base end value | Base CAGR | Bull end value | Bull CAGR |
-|---|---:|---:|---:|---:|---:|---:|
-| **JEM** | **~¥4,030** | **-9.8%** | **~¥9,130** | **9.4%** | **~¥18,175** | **28.6%** |
-| **Micronics** | **~¥7,000** | **-11.8%** | **~¥15,805** | **6.8%** | **~¥27,325** | **21.5%** |
-| **Technoprobe** | **~€13.0** | **-16.2%** | **~€36.5** | **6.9%** | **~€71.9** | **25.4%** |
-| **FormFactor** | **$50** | **-15.7%** | **$110** | **1.5%** | **$188** | **14.9%** |
+- approximate market cap: **¥95bn**;
+- FY Mar-2027 guided EPS: **~¥457**;
+- guided P/E: **~14.2x**.
 
-**INTERPRETATION:** JEM is the only new peer whose EPS-based base / bear distribution is competitive with Onto / SUSS. However, because current FCF conversion and dilution are materially worse than the simple EPS screen suggests, **do not rank JEM above SUSS yet**.
+Existing normalized base assumptions:
+
+- FY27 guided EPS anchor;
+- 10% subsequent EPS CAGR;
+- 15x terminal P/E;
+- end-2030 horizon.
+
+These produce an end value around **¥9.1k** and a current base price CAGR around **8.4%**.
+
+Approximate base-return zones:
+
+- 10%: ~**¥6.1k**;
+- **12%: ~¥5.64k**;
+- 15%: ~**¥5.04k**.
+
+**Decision:** `Investigating`. JEM is close enough to the capital frontier to matter, but HBM socket/share evidence and post-capex cash conversion are required before `Watch` / Gate C.
 
 ---
 
-## 7. Return-hurdle monitoring zones
+# 3. Micronics Japan — superior franchise, higher expectations
 
-| Company | 4 Sep reference | ~12% base-return zone | ~15% base-return zone | Reset needed to 12% zone |
-|---|---:|---:|---:|---:|
-| **JEM** | ¥6,230 | **~¥5,640** | **~¥5,040** | **~9%** |
-| **Micronics** | ¥11,940 | **~¥9,760** | **~¥8,730** | **~18%** |
-| **Technoprobe** | €27.46 | **~€22.55** | **~€20.15** | **~18%** |
-| **FormFactor** | $103.90 | **~$68** | **~$61** | **~35%** |
+## Revenue purity / HBM evidence
 
-JEM closed at **¥6,650 on 7 September**, so the gap to the unchanged ~¥5,640 model zone was closer to **15%**. A price reset alone is not sufficient; cash-conversion evidence must also improve.
+**FACT:** probe cards represented about **97.7% of FY2025 group sales**.
 
-For context, #27's ~12% zones were Onto ~$252 vs $268 and SUSS ~€64 vs €72.
+**FACT:** MJC says strong HBM demand drove DRAM probe-card sales and that expanded Aomori capacity contributed to record probe-card sales.
+
+**FACT:** the company describes itself as holding the world's leading / top share in memory probe cards and is developing technology for **next-generation HBM**.
+
+**INTERPRETATION:** Among the Japanese names, this is the cleaner operating exposure to the validated HBM-test bottleneck.
+
+## Latest operating inflection
+
+**FACT:** H1 2026 sales were approximately **¥49.206bn, +48.6% y/y**.
+
+**FACT:** H1 operating profit was **¥15.557bn, +105.5%**, for a **31.6% operating margin**.
+
+**FACT:** Q2 standalone operating margin was approximately **35%**.
+
+**FACT:** full-year guidance was raised to approximately **¥103.8bn revenue / ¥31.4bn operating profit / ¥23.0bn net income / ¥593.31 EPS**.
+
+**FACT:** this materially exceeds the prior FV26 plan of **¥80bn revenue / ¥20bn operating profit / 25% operating margin**.
+
+**INTERPRETATION:** MJC has already delivered the operating inflection that JEM investors are hoping the next factory can sustain. The debate is now how much is structural versus peak utilization/mix.
+
+## Customer concentration — the key risk
+
+**FACT:** FY2025 major-customer disclosures show approximately:
+
+- **Samsung Electronics: ¥35.0bn / 49.9% of group sales**;
+- **Micron Memory Taiwan: ¥15.0bn / 21.4%**.
+
+Together: roughly **71% of group sales**.
+
+**INTERPRETATION:** This is both qualification proof and a major fragility. MJC's strong HBM sensitivity means customer-specific sourcing decisions can directly hit total-company economics.
+
+## Capex / cash conversion
+
+**FACT:** the FV26 plan contemplated approximately **¥48bn capex** and **¥22bn R&D** over 2023–2026.
+
+**FACT:** H1 2026 operating cash flow was approximately **¥12.17bn** versus capex of approximately **¥7.65bn**, producing a simple FCF proxy around **¥4.66bn**.
+
+**FACT:** receivables and inventory still increased, and work-in-process remains a large portion of inventory.
+
+**INTERPRETATION:** MJC's cash conversion is materially better than JEM's during the current expansion, but a memory digestion cycle could still unwind the working-capital and margin benefit.
+
+## Refreshed valuation
+
+At **¥12,310** on 8 September:
+
+- market cap: approximately **¥501bn**;
+- guided EPS: **¥593.31**;
+- guided P/E: approximately **20.8x**.
+
+For discipline, the normalized scenario is re-anchored to company guidance rather than the earlier ~¥625 consensus EPS estimate:
+
+- FY26 EPS anchor **¥593.31**;
+- 12% subsequent EPS CAGR;
+- 18x terminal P/E;
+- end-2030 horizon.
+
+That produces an approximate end value around **¥15.0k** and a base annualized price return around **4.8%**.
+
+Approximate base-return zones:
+
+- 10%: ~**¥10.0k**;
+- **12%: ~¥9.27k**;
+- 15%: ~**¥8.3k**.
+
+This replaces the prior ~¥9.76k 12% zone that used the higher consensus EPS anchor.
+
+**Decision:** remain `Investigating`. Operating-capture confidence improves, but current valuation and customer concentration prevent Gate C.
 
 ---
 
-## 8. Falsification of the JEM undervaluation thesis
+# 4. JEM versus MJC — common-basis decision
 
-### Evidence supporting mispricing
+| Dimension | JEM | MJC | Better today |
+|---|---|---|---|
+| Direct HBM evidence | Medium | Medium-High | **MJC** |
+| Probe-card / memory purity | High-ish | Very high (~98%) | **MJC** |
+| Current operating strength | Strong | Exceptional | **MJC** |
+| Current operating margin | Q1 ~32%; FY guide ~26% | H1 ~31.6%; FY guide ~30% | **MJC** |
+| Customer concentration | top 3 ~44.7% | top 2 ~71% | **JEM** |
+| Cash conversion | weak after capex | positive despite capex | **MJC** |
+| Funding / dilution | 2028 plant largely equity-funded | heavy capex, better internal funding currently | **MJC** |
+| Equity value | ~¥95bn | ~¥501bn | **JEM asymmetry** |
+| Guided P/E | ~14.2x | ~20.8x | **JEM** |
+| Base modeled CAGR | ~8.4% | ~4.8% | **JEM** |
+| Gap to 12% zone | ~15% | ~33% | **JEM** |
+| Evidence confidence | lower | higher | **MJC** |
 
-- company-controlled disclosure says HBM-centered DRAM share is rising;
-- Micron Memory Japan + Taiwan represented ~31% of FY2026 sales;
-- memory-probe demand, order intake and backlog are rising;
-- ~13–14x guided earnings is far below FORM / TPRO and below MJC;
-- ~¥91bn common-reference equity value preserves small-cap asymmetry.
+### Bottom line
 
-### Evidence against / unresolved
+**If the two stocks traded at the same normalized return, MJC would be preferred.**
 
-1. **Exact HBM sockets and HBM revenue are not disclosed.**
-2. **Customer concentration is high:** top three ~44.7% of FY2026 sales.
-3. **Current FCF conversion is weak relative to accounting earnings.**
-4. **Growth has required capital:** FY2026 included ~¥12.15bn of equity issuance.
-5. **Dilution is real:** shares outstanding rose materially in 2026.
-6. **Competitor evidence is mixed:** a Korean regulatory filing names FormFactor/Micronics as overseas DRAM competitors and JEM in other probe-card categories.
-7. **Operating leverage can reverse:** current high utilization may overstate normalized margins.
+At today's relative valuations, however, **JEM remains the more interesting research/capital asymmetry**, because positive HBM evidence could move a ~¥95bn company much more than it can move a ~¥501bn company already trading around 21x guided earnings.
 
-**CONCLUSION:** The apparent cheapness survives an earnings-normalization pass, but **does not yet survive the cash-conversion / evidence-quality standard required for Gate C**.
+That does not make JEM safer. It makes the evidence gap potentially more valuable if it closes.
 
 ---
 
-## 9. Decision and backlog implication
-
-### JEM
-
-**Status remains `Investigating`.** It is the **highest-priority AI-memory investigation**, not the second-ranked capital allocation.
-
-Promote toward `Watch` / Gate C only if:
-
-- HBM production sockets / share are corroborated with investor-grade or customer evidence;
-- normalized FCF improves after capex;
-- further capacity does not require repeated material dilution;
-- refreshed valuation still provides roughly 12%+ base-case return.
-
-### Micronics
-
-Remain `Investigating`. Best new quality comparator, but valuation and heavy investment reduce immediate asymmetry.
-
-### Technoprobe
-
-Remain `Watch` as operating benchmark. Current valuation does not improve the capital frontier.
+# 5. Comparison with FormFactor / Technoprobe
 
 ### FormFactor
 
-Remain `Watch`. Technical thesis intact; relative valuation case is weaker after PR #30.
+- strongest direct public evidence of HBM volume shipments to all three major HBM manufacturers;
+- strong balance sheet / FCF quality;
+- much more demanding normalized valuation at the prior reference.
 
-### Research sequence
+**Read-through:** FORM remains the evidence-quality benchmark. JEM/MJC are interesting because they offer more direct memory purity / lower headline valuations, but with weaker disclosure or concentration risk.
 
-1. **#31 JEM / probe-card normalization — immediate.** The first pass is complete; remaining work is to seek stronger HBM socket/share evidence and track cash conversion. If no stronger public evidence is available, close #31 with JEM remaining `Investigating` and monitoring triggers recorded.
-2. **#5 Weebit Nano**.
-3. **#3 robotics actuators**.
+### Technoprobe
+
+- exceptional current EBITDA margin and growth;
+- premium valuation already assumes substantial AI/probe success;
+- memory exposure is becoming more relevant but is not as pure as MJC.
+
+**Read-through:** operating quality is excellent; current asymmetry remains weaker than JEM.
+
+---
+
+# 6. What would change the ranking?
+
+## JEM moves materially upward if
+
+- investor-grade evidence identifies HBM4/HBM4E production sockets / share;
+- Samsung or SK hynix production exposure is verified;
+- FCF improves as existing capacity matures;
+- the 2028 factory is linked to high-return HBM/advanced-memory demand;
+- no further material dilution is required;
+- price approaches the **~¥5.6k** zone while the thesis remains intact.
+
+## JEM moves down if
+
+- HBM growth proves mostly conventional DRAM/NAND cycle exposure;
+- the new factory creates weak incremental returns;
+- more equity issuance is required;
+- Micron share/customer dependence worsens.
+
+## MJC moves materially upward if
+
+- exact HBM4/HBM4E share is disclosed and proves leadership;
+- ~30% margins remain durable through more normalized utilization;
+- customer concentration improves without sacrificing economics;
+- FCF scales as capex intensity falls;
+- price approaches **~¥9.3k**, or normalized earnings rise enough to move that zone materially higher.
+
+## MJC moves down if
+
+- Samsung sourcing/share changes;
+- current margin is mainly peak utilization;
+- inventory / WIP rises into a memory digestion cycle;
+- next-generation HBM reduces U-Probe share/content.
+
+---
+
+# 7. Current decision
+
+Neither company passes strict Gate C.
+
+- **JEM:** `Investigating` — **best valuation lead / higher evidence and financing risk**.
+- **MJC:** `Investigating` — **better business / worse current expected-return setup**.
+
+The next evidence-gathering priority inside this pair is **JEM HBM socket/share proof**, because that is the unresolved fact with the largest potential impact on the current capital ranking.
 
 ---
 
 ## Sources
 
-Primary / company:
+Primary/company sources are preserved in the canonical JEM and MJC company files. Key sources include:
 
-- JEM investor message / FY Mar-2027 outlook: https://www.jem-net.co.jp/ir/ir-msg
-- JEM FY2026 results supplement: https://www.jem-net.co.jp/images/top/pdf/2026/FY2025_4qhosoku.pdf
-- JEM FY2026 securities-report library: https://www.jem-net.co.jp/ir/ir-library/yuka
-- JEM FY2026 cash-flow filing / JPX: https://www2.jpx.co.jp/disc/68550/140120260513530301.pdf
+- JEM investor message / outlook: https://www.jem-net.co.jp/ir/ir-msg
 - JEM HBM-centered DRAM share statement: https://saiyoweb.jem-net.co.jp/identity/
-- Micronics Japan FV26 plan: https://www.mjc.co.jp/en/ir/strategy/fv26/
-- Micronics Japan HBM commentary: https://www.mjc.co.jp/en/ir/strategy/investors/
-- FormFactor Q2 2026 results: https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-second-quarter-results
-- Technoprobe H1 2026 results (regulated filing mirror): https://financialfilings.com/filings/technoprobe/earnings-release/2026/49978047/
+- JEM probe cards: https://www.jem-net.co.jp/en/products/probe
+- JEM FY2026 / medium-term capacity-financing materials: JEM IR library
+- MJC investor message: https://www.mjc.co.jp/en/ir/strategy/investors/
+- MJC FV26 plan: https://www.mjc.co.jp/en/ir/strategy/fv26/
+- MJC IR / H1 2026 results: https://www.mjc.co.jp/en/ir/
+- FormFactor filings / HBM customer evidence: https://investors.formfactor.com/
+- Korean competitor regulatory filing used for falsification: https://kind.krx.co.kr/external/2026/03/12/000314/20260312001009/00591.htm
 
-Contradictory / competitor evidence:
+Point-in-time market data:
 
-- Korean probe-card competitor regulatory filing: https://kind.krx.co.kr/external/2026/03/12/000314/20260312001009/00591.htm
-
-Point-in-time / structured market and filing data:
-
-- JEM current shares / FCF / valuation: https://stockanalysis.com/quote/tyo/6855/statistics/
-- JEM history: https://stockanalysis.com/quote/tyo/6855/history/
-- JEM FY2026 customer extraction: https://kitaishihon.com/company/6855/business
-- Micronics valuation / forecasts: https://stockanalysis.com/quote/tyo/6871/ and https://stockanalysis.com/quote/tyo/6871/forecast/
-- FormFactor valuation: https://stockanalysis.com/stocks/form/
-- Technoprobe history / valuation: https://stockanalysis.com/quote/bit/TPRO/history/ and https://stockanalysis.com/quote/bit/TPRO/statistics/
+- JEM: https://stockanalysis.com/quote/tyo/6855/
+- MJC: https://stockanalysis.com/quote/tyo/6871/
 
 ## Change history
 
-2026-09-07 — First common-basis peer screen identified JEM as the strongest valuation lead.
+2026-09-07 — Initial peer normalization identified JEM as the strongest new valuation lead and MJC as the quality comparator.
 
-2026-09-07 — #31 falsification pass added HBM-centered DRAM share evidence, Micron customer concentration, FCF and 2026 dilution. JEM remains the immediate investigation but is **not ranked above Onto / SUSS for capital allocation**; no peer passes Gate C.
+2026-09-08 — Deep dive refreshed JEM Q1/capacity financing and MJC H1/guidance/customer concentration. Ranking remains JEM ahead for current asymmetry, MJC ahead for operating quality; neither passes Gate C.
