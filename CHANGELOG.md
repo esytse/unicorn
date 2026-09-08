@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### Canonical memory and energy theses synchronized
+
+- Updated `research/memory/thesis.md` from the stale low-confidence opening hypothesis to the current canonical state: four validated bottleneck classes, completed company capture / capital-allocation work, no Gate C candidate at current reference prices, and Weebit Nano separated as `Watch` / Medium-confidence architectural optionality.
+- Updated `research/energy/thesis.md` from the stale “moving to ranking and underwriting” state to the completed programme state: common-basis bottleneck ranking, Gate B supplier capture, Gate C capital allocation, no current-price pass, and a shift to valuation / earnings monitoring.
+- Memory confidence is now aligned to the downstream evidence: **Medium-High** on structural/current-company evidence, **Medium** on valuation scenarios, and **Medium** on Weebit commercial-adoption conclusions.
+- Energy confidence is now aligned to the downstream evidence: **High** on the coupled speed-to-power / speed-to-usable-compute thesis, **Medium-High** on leading supplier capture, and **Medium** on normalized valuation scenarios.
+- No new external evidence or company promotion was introduced; this change synchronizes the canonical thesis summaries with source-backed research already present in the repository and the current `watchlist.md`.
+- Both mature streams now default to monitoring for valuation / earnings / evidence changes. The next substantive cross-theme discovery stream remains **robotics actuators (#3)**.
+
 ### Energy capital allocation completed; no Gate C candidate at current prices
 
 - Completed **#54** and added `research/energy/capital-allocation.md` with dated valuation inputs, normalized bear/base/bull scenarios, reverse 10/12/15% return tests and margin-of-safety price zones.
