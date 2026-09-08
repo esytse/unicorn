@@ -37,11 +37,16 @@ Current fully underwritten capital order:
 3. **Camtek** — strong AP/HBM order evidence but premium valuation;
 4. **FormFactor** — strongest direct HBM probe-card evidence but demanding valuation.
 
-The probe-card challenger lane is:
+The refreshed probe-card challenger lane is:
 
 **Japan Electronic Materials → Micronics Japan → Technoprobe.**
 
-JEM is the strongest new valuation lead, but remains `Investigating` because HBM production-socket evidence, cash conversion, concentration and dilution still need to be resolved.
+The 8 September JEM/MJC deep dive clarifies why:
+
+- **MJC is the stronger operating/technical franchise:** direct HBM-driven DRAM demand, ~98% probe-card revenue purity, H1 operating margin ~31.6%, positive FCF during heavy investment and explicit next-generation HBM development. But Samsung Electronics + Micron Memory Taiwan represented roughly **71% of FY2025 group revenue**, creating major customer concentration, and the share already trades around ~21x company-guided EPS.
+- **JEM remains the better valuation/asymmetry investigation:** market capitalization is only about one-fifth of MJC's and the share trades around ~14x guided EPS. But exact HBM sockets/share remain unverified, current FCF conversion is weaker and the planned ~¥12.5bn 2028 Amagasaki factory is essentially funded by a ~¥12.2bn public equity raise.
+
+At 8 September reference prices, the normalized base screens are roughly **8.4% annualized for JEM** and **4.8% for MJC**. Neither passes Gate C.
 
 **No current-bottleneck company passes strict Gate C at the September 2026 reference prices.** No company is promoted to `High-conviction research candidate`.
 
@@ -54,10 +59,12 @@ These are research thresholds, not recommendations. Price alone never triggers p
 | Onto Innovation | **~$252** |
 | SUSS | **~€64** |
 | Japan Electronic Materials | **~¥5,640** |
-| Micronics Japan | **~¥9,760** |
+| Micronics Japan | **~¥9,270** |
 | Technoprobe | **~€22.55** |
 | Camtek | **~$106** |
 | FormFactor | **~$68** |
+
+The MJC zone was previously ~¥9,760 using a higher consensus EPS anchor. The refreshed deep dive uses **company-guided FY2026 EPS of ¥593.31** for greater normalization discipline.
 
 ## Architectural optionality — Weebit Nano
 
@@ -91,7 +98,8 @@ What is still unproven:
 - rising process-control, test or interface content as HBM stack count and package complexity increase;
 - sustained pricing, margins or service economics after supplier capacity expands;
 - evidence that hybrid bonding increases rather than bypasses the value of qualified enabling layers;
-- JEM or another smaller supplier closing current evidence-quality gaps while retaining valuation asymmetry;
+- **JEM corroborating HBM4/HBM4E sockets/share while FCF improves after the current factory build**;
+- **MJC proving current HBM leadership and high margins survive customer concentration and utilization normalization**;
 - Weebit converting licences and tape-outs into recurring production royalties with lower dilution.
 
 ## What would weaken it?
@@ -101,6 +109,8 @@ What is still unproven:
 - HBM / advanced-packaging capex proving materially more cyclical or pulled-forward than expected;
 - architecture changes that genuinely eliminate rather than migrate test, bonding, process-control or interface requirements;
 - normalized earnings failing to catch up with current valuations;
+- JEM's factory build requiring repeated dilution without HBM-specific high-return capacity;
+- MJC losing material share at Samsung/Micron or current ~30% margins proving transient;
 - Weebit royalty conversion slipping materially while repeated equity issuance continues.
 
 ## Current decision state
@@ -110,9 +120,13 @@ The memory programme now contains **two distinct opportunity classes**:
 1. **validated complexity bottlenecks** — packaging, stacking, test and interfaces, where the principal remaining question is valuation and company-level economic capture;
 2. **architectural optionality** — Weebit Nano, where commercialization is credible but royalty-scale economics remain unproven.
 
-Broad memory discovery is no longer the default task. Re-open capital work when a monitored company reaches an attractive return zone without thesis deterioration, when earnings materially move that zone, or when new evidence changes the bottleneck/capture ranking.
+Within HBM test, the JEM/MJC comparison now shows a useful distinction:
 
-The next substantive cross-theme discovery stream is **robotics actuators (#3)**.
+> **MJC is the better business; JEM currently offers the better potential asymmetry.**
+
+JEM remains `Investigating` rather than `Watch` because the evidence gap that would unlock the valuation thesis — explicit HBM production sockets/share — is still unresolved.
+
+Broad memory discovery is no longer the default task. Re-open capital work when a monitored company reaches an attractive return zone without thesis deterioration, when earnings materially move that zone, or when new evidence changes the bottleneck/capture ranking.
 
 ## Canonical supporting documents
 
