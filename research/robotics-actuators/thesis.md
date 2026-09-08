@@ -1,99 +1,119 @@
-# Robotics Actuators — Working Thesis
+# Robotics Actuators — Canonical Thesis
 
-**Status:** Active Gate-A discovery  
-**Confidence:** **Medium on architecture decomposition; Low-Medium on supplier bottlenecks**  
+**Status:** Gate A complete; Gate B company underwriting active  
+**Confidence:** **Medium** on structural bottlenecks and architecture decomposition; **Low-Medium** on company Investment Capture until #85–#88 complete  
 **Last substantive update:** 2026-09-08
 
 ## Current thesis
 
-**INTERPRETATION:** Advanced-robot actuation should not be researched as a single "actuator manufacturer" market. The investable question is which **motion-conversion and industrialization functions** remain difficult to substitute after robot architectures, supplier competition and vertical integration mature.
+Advanced-robot actuation is not one component market and there is no universal humanoid actuator architecture.
 
-The initial E2E map identifies four distinct actuation economies:
+The canonical E2E map separates four actuation economies:
 
-1. **high-ratio rotary joints** using strain-wave, cycloidal/RV or precision planetary transmission;
-2. **low-ratio / quasi-direct-drive rotary joints** prioritizing backdrivability and control bandwidth;
-3. **linear joints** using planetary roller screws / ball screws where very high force over short stroke is attractive;
-4. **dexterous hands**, whose microactuation, bearing, wiring and force/tactile sensing problems differ from body joints.
+1. **high-ratio rotary joints** — strain-wave, cycloidal/RV or precision planetary transmission;
+2. **low-ratio / quasi-direct-drive rotary joints** — larger motor / lower ratio for backdrivability and bandwidth;
+3. **linear joints** — planetary roller screw or ball screw where high force / stiffness over short stroke is attractive;
+4. **dexterous hands** — miniature motors/reducers or tendons/linkages plus dense sensing/bearing/routing integration.
 
-No single architecture currently appears capable of winning every body zone.
+The Gate-A programme shows that the durable opportunity is more likely to sit in **precision motion conversion and repeatable actuator industrialization** than in high-count catalog components.
 
-## Strongest preliminary bottleneck hypotheses
+## Validated Gate-A frontier
 
-These are research priorities, not completed Gate-A findings:
+| Function | Bottleneck Strength | Current interpretation |
+|---|---:|---|
+| **Integrated actuator industrialization / calibration** | **4.4 / 5** | most architecture-resilient; merchant capture uncertain because OEMs can vertically integrate |
+| **Planetary roller-screw precision manufacture** | **4.4 / 5** | strongest precision-manufacturing candidate; architecture share / public purity weaker |
+| **Qualified precision rotary-transmission manufacture** | **4.4 / 5** | strongest listed supplier-hunting ground; direct humanoid production evidence exists |
+| Integrated high-force linear actuator | 4.2 | meaningful switching burden; vertical-integration risk |
+| Dexterous-hand integration / industrialization | 4.1 | difficult system, but winning hand architecture unsettled |
+| Compact cycloidal/RV / Monocrank | 4.1 | strong rigidity/shock advantages; humanoid volume evidence still emerging |
+| Precision planetary/QDD integrated transmission | 4.0 | dynamic/backdrivable architecture; standalone gear scarcity lower |
+| High-torque microactuation | 4.0 | difficult miniaturization, architecture-dependent |
+| Joint force / torque sensing | 3.9 | strongest common-component watch, but estimation / alternative sensors exist |
+| Precision robotic ball screws | 3.8 | qualified substitute/content layer, not scarce enough for primary Gate A |
+| Specialized joint bearings | 3.8 | high precision/content, broad supply |
+| Frameless torque motors | 3.7 | high content, broad adjacent motor capability |
+| Encoders / position sensing | 3.7 | essential feedback, many physical technologies/suppliers |
+| Miniature bearings | 3.6 | very high content, not structural scarcity |
+| Servo drives / power electronics | 3.5 | mature broad ecosystem |
+| Brakes / locks | 3.3 | joint-dependent / substitutable |
 
-1. **Planetary roller screws / high-force linear conversion — 4.4 preliminary.** Precision thread/roller manufacture, preload and load sharing may create a narrow process moat, but adoption is architecture-dependent.
-2. **Precision strain-wave reducer manufacture — 4.3 preliminary.** Compact high-ratio/low-backlash performance is important, but Chinese mass production and alternative architectures weaken any thesis of permanent incumbent scarcity.
-3. **Integrated actuator industrialization / calibration — 4.3 preliminary.** Repeatable tolerance stack, preload, encoder zero, torque calibration, thermal behavior, EOL test and field reliability may be harder to scale than individual catalog components.
-4. **Dexterous-hand microactuation — 4.1 preliminary.** Miniaturization and force control are difficult, but winning hand architecture remains highly uncertain.
-5. **Compact cycloidal/RV — 4.1 preliminary.** Strong rigidity/shock performance; humanoid share is not yet established.
-6. **Precision planetary / QDD — 4.0 preliminary.** Dynamic performance is attractive, but the gear-making supplier base is broader and large motors/thermal load can offset the mechanical advantage.
+## What surprised us
 
-## Early evidence that changes the original thesis
+### 1. Harmonic drive is not the whole thesis
 
-**FACT:** Schaeffler's humanoid BOM model estimates rotary actuator integration at ~25% and linear actuator integration at ~30%, with dexterous hands at ~20%. This is a supplier estimate, not an industry standard, but it is strong evidence against researching humanoids as a harmonic-reducer-only opportunity.
+Strain-wave gearing passes at **4.3/5**, but Chinese mass-production evidence and Schaeffler/Nabtesco multi-architecture offerings falsify a permanent incumbent-only scarcity thesis.
 
-**FACT:** In 2026 Schaeffler disclosed actuator supply partnerships with Humanoid and Hexagon Robotics. Humanoid says its five-year agreement makes Schaeffler preferred supplier for more than half of its wheeled-platform joint-actuator demand through 2031 and is expected to represent a **seven-digit number of actuators**.
+The moat is increasingly **process consistency + fatigue/lifetime + qualification + joint integration**, not ownership of a reducer concept.
 
-**FACT:** Harmonic Drive Systems previously disclosed prototype supply to multiple humanoid startups and mass production for some customers, while its 2026 plan identifies AI robots as a focus area.
+### 2. Roller screws tie rotary transmission technically
 
-**FACT:** Laifual's 2026 Hong Kong listing document says it was one of two Chinese manufacturers that had achieved mass-production/delivery of harmonic reducers for humanoid robots by end-2025.
+Planetary roller screws pass at **4.4/5** because internal-thread machining, load sharing, preload, wear and micron-scale interacting errors are genuinely difficult.
 
-**INTERPRETATION:** The reducer opportunity remains real, but the likely moat is increasingly **qualified precision manufacturing + life consistency + joint integration**, not ownership of a gearbox concept or historical patent position.
+But their investment case is weaker than the engineering case because:
+- QDD/rotary lower-limb architectures remain credible substitutes;
+- ball screws can be qualified for some human-scale joints;
+- premium specialists are often private / embedded in large groups.
 
-## What may not be bottlenecks
+### 3. Industrialization is the most architecture-resilient bottleneck
 
-Current preliminary scores keep these below the main Gate-A line until stronger evidence emerges:
+Regardless of gear/screw architecture, production joints need repeatable:
+- preload/alignment;
+- encoder zero / commutation;
+- torque/force calibration;
+- lubrication / thermal behavior;
+- backlash/friction/NVH limits;
+- EOL load/lifetime test;
+- traceability / field reliability feedback.
 
-- frameless motors — high content but broad supplier base;
-- encoders / resolvers — technically critical but multiple sensing architectures;
-- general bearings — very high unit content but global supply breadth;
-- servo drives / power electronics — mature ecosystem;
-- brakes / locks — joint-dependent and relatively substitutable;
-- thermal / lubrication — physically critical but economic capture may be diffuse.
+Schaeffler's seven-digit Humanoid actuator expectation and multiple production partnerships are strong revealed-preference evidence that this is becoming a high-volume manufacturing problem.
 
-A component can be an excellent volume beneficiary without becoming a scarce profit pool.
+### 4. Component count is a trap
 
-## Key thesis tension
+Motors, encoders and bearings can see enormous unit growth without becoming scarce. MinebeaMitsumi's estimates of 120–200 body bearings plus 30–100 per hand illustrate the content opportunity, but the supplier base remains broad.
 
-The central tension is now:
+### 5. Hands are difficult but not yet a clean merchant moat
 
-> **Will value remain in specialist precision components, or migrate into integrated actuator platforms and high-volume industrialization?**
+Hand integration passes at 4.1, while individual bearings/sensors/motors remain below Gate A. Competing geared, tendon, linkage and underactuated architectures can radically alter the BOM.
 
-Schaeffler is direct evidence that automotive/industrial motion suppliers can enter the humanoid stack with complete planetary, strain-wave and linear actuator platforms. Harmonic Drive Systems and Nabtesco remain important specialist benchmarks, while Chinese strain-wave suppliers provide strong falsification against assuming permanent Japanese scarcity.
+## Core thesis tension
+
+> **Which companies convert precision-process or industrialization bottlenecks into durable total-company economics before competition, standardization or robot-OEM vertical integration erodes the profit pool?**
+
+This is now a Gate-B question, not a Gate-A question.
+
+## Gate-B shortlist
+
+Dedicated underwriting is open for:
+
+- **#85 Harmonic Drive Systems** — direct humanoid mass-production evidence and pure precision-transmission exposure; China/architecture/valuation risks.
+- **#86 Laifual Drive (03952.HK)** — newly listed smaller strain-wave/joint-module pure play with regulatory-quality humanoid mass-production evidence; financial quality/valuation/customer concentration need underwriting.
+- **#87 Schaeffler** — strongest integrated-actuator/industrialization contracts and architecture hedge; large-group dilution is the key test.
+- **#88 MinebeaMitsumi** — broad humanoid content/integration platform and order progress; thesis is portfolio capture, not component scarcity.
+
+Nabtesco remains a technical benchmark until named humanoid production/customer evidence becomes stronger. THK, IKO and specialist sensing suppliers remain content/process benchmarks rather than current Gate-B candidates.
+
+## Gate C
+
+**#89** will compare validated company candidates on dated valuation, normalized bear/base/bull outcomes, reverse 10/12/15% return hurdles and margin of safety after #85–#88 complete.
+
+No actuator company is currently promoted to `Watch` or high conviction from Gate A alone.
 
 ## Thesis breakers
 
-- Rapid standardization / easy multi-sourcing of complete actuator modules
-- Robot OEM vertical integration of gearboxes, motors, sensing and calibration
-- Comparative lifetime data showing lower-cost reducers/screws are good enough
-- Humanoids remaining low-volume or shifting to lower-DOF/wheeled/simpler architectures
-- Dexterous hands losing to simple end-effectors or underactuated grippers
-- Lower-limb architecture moving away from roller screws before scale
-- Automotive-scale entrants eliminating specialist capacity scarcity faster than demand grows
-- Strong technology exposure that does not move total-company earnings
+- joint-module standardization makes qualified actuators easily interchangeable;
+- lower-cost Chinese reducers/screws demonstrate comparable field life/yield and compress pricing;
+- robot OEMs vertically integrate the highest-value motion conversion / calibration functions;
+- production humanoids converge on lower-DOF / wheeled / task-specific designs with less actuator content;
+- simple grippers beat dexterous hands in most industrial deployments;
+- linear lower limbs lose share before roller-screw production scales;
+- automotive-scale entrants add capacity faster than demand grows;
+- humanoid exposure remains too small to move candidate-company earnings.
 
-## Active research programme
+## Re-open Gate A only when
 
-- **#78** rotary reducer architectures — P1
-- **#79** linear actuators / roller screws — P2
-- **#80** dexterous-hand microactuation — P3
-- **#81** motors / encoders / force sensing / bearings — P4
-- **#82** drives / brakes / thermal / industrialization — P5
-- **#83** common-basis synthesis and Gate-B shortlist — P6
-
-See `value-chain.md` for the E2E map and `research-plan.md` for evidence standards and completion gates.
-
-## Current company treatment
-
-No company is promoted to `Watch` or high conviction from the E2E map alone.
-
-Current evidence-backed benchmarks/candidates for later Gate-B work include:
-
-- Harmonic Drive Systems;
-- Nabtesco;
-- Schaeffler / Ewellix;
-- MinebeaMitsumi;
-- selected Chinese strain-wave suppliers where primary production/customer evidence can be recovered;
-- specialist sensing/bearing/linear-motion suppliers only if #79–#81 establish real scarcity.
-
-Company status must wait for the architecture-specific Gate-A work.
+- a major robot OEM discloses a materially different actuator architecture;
+- production field/lifetime data materially changes qualification scores;
+- new reducer/screw manufacturing changes supply elasticity;
+- actuator interfaces standardize enough to change dual-source economics;
+- a new component sublayer demonstrates direct production scarcity not captured above.
