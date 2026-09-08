@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### JEM / Micronics deep dive clarifies probe-card quality versus valuation trade-off
+
+- Refreshed the canonical **Japan Electronic Materials (JEM)** and **Micronics Japan (MJC)** company underwritings and the common probe-card capital-allocation comparison using current operating, customer, capex, cash-conversion and 8 September valuation evidence.
+- **JEM remains `Investigating` and the stronger valuation/asymmetry lead, not the stronger business.** FY2027 Q1 revenue was ~¥9.64bn and operating profit ~¥3.09bn (~32% margin); full-year guidance remains ¥36.4bn revenue / ¥9.45bn operating profit / ¥6.7bn net income. JEM's HBM-centered DRAM-share statement and ~31% FY2026 sales exposure to Micron Memory Japan + Taiwan strengthen participation evidence, but exact HBM4/HBM4E sockets/share remain unverified.
+- **JEM's financing risk is now explicit rather than generic.** The planned ~¥12.5bn Amagasaki factory, due around August 2028, is essentially funded by a ~¥12.2bn public-equity raise. This reinforces the conclusion that the ~14x guided P/E cannot be treated as cheap without adjusting for capex, dilution and weak current FCF conversion.
+- At the **¥6,480 8 September reference**, JEM's existing normalized base scenario falls to about **8.4% annualized** to end-2030; the ~12% base-return zone remains around **¥5,640**. Status does not change.
+- **MJC remains `Investigating` but operating-capture evidence strengthens materially.** H1 2026 sales were ~¥49.2bn (+48.6%), operating profit ~¥15.6bn (+105.5%) and operating margin ~31.6%; FY2026 guidance was raised to ~¥103.8bn revenue / ¥31.4bn operating profit / ¥23.0bn net income. Probe cards represented ~98% of FY2025 group sales, HBM is directly cited as a DRAM probe-card growth driver, and H1 FCF remained positive despite heavy capex.
+- **The main new MJC falsification is customer concentration:** Samsung Electronics + Micron Memory Taiwan represented roughly **71% of FY2025 group sales**. This is strong production-qualification evidence but creates material single-customer/share-loss risk.
+- Re-anchoring MJC's normalized scenario to **company-guided EPS of ¥593.31** rather than the prior higher consensus anchor gives only about **4.8% base annualized return** from the ¥12,310 reference and moves the ~12% base-return zone from ~¥9,760 to roughly **¥9,270**.
+- The pairwise conclusion is now explicit: **MJC is the better business; JEM currently offers the better potential asymmetry.** Neither passes Gate C and neither is promoted to `Watch`. The highest-value next evidence gap is JEM investor-grade HBM production socket/share proof; MJC becomes a valuation/reset and customer-concentration monitor.
+
 ### Physical AI umbrella opened; feedback / evaluation loops outrank actuator-only framing
 
 - Opened **#91–#99** and created `research/physical-ai/` as the umbrella above the existing robotics-actuator substream. Physical AI is now modeled as a **closed learning/deployment loop**: real deployment → state/action/failure data → curation/replay → calibrated simulation → training/post-training → embodied policy → edge runtime → physical action → safety/evaluation → fleet operations → new field experience. `README.md` now reflects this structure.
