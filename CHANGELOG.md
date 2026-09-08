@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### Transformer second-order screen surfaces OLTC / tap changers
+
+- Opened **#71–#74** to search for smaller second-order suppliers inside validated energy bottlenecks: transformer/switchgear sub-suppliers, turbine hot-section/service dependencies, narrow 800 VDC profit pools and a common-basis second-order synthesis.
+- Completed the initial **#71 transformer second-order screen**. **On-load tap changers (OLTCs) pass Gate A at 4.5/5** because they combine load-moving electromechanical complexity, customization, high reliability consequences, qualification barriers and lifecycle service economics.
+- **Huaming Power Equipment is the strongest new listed lead**, but is not promoted yet. H1 2026 power-equipment revenue was RMB1.099bn at **60.83% gross margin**; international revenue grew **32.13%** with 58.50% gross margin; operating cash flow rose 44.41% to RMB458.9m. Opened **#75** for dedicated qualification / Investment Capture / valuation underwriting.
+- **Transformerboard / insulation (4.3), high-voltage bushings (4.2) and test/diagnostics (4.1)** are real second-order functions, but the strongest specialists are private or the listed exposure is diluted. Weidmann is investing >$500m globally; Trench/HSP opened a new U.S. high-voltage bushing plant; ESCO's Doble business has strong orders/margins and is acquiring Megger, but ESCO has already rerated and the transaction is large.
+- **GOES remains strategically scarce (4.2) but weaker for listed economic capture.** Cleveland-Cliffs is the sole U.S. producer but electrical steel is a small part of a much larger cyclical steel business, and the planned Weirton downstream transformer plant was abandoned.
+- The key new research implication is that **qualified active components can offer cleaner economic capture than scarce raw materials**. No watchlist promotion is made until #75 completes Huaming underwriting.
+
 ### Energy specialist monitoring backlog opened and evidence refreshed
 
 - Opened **#64–#67** to convert the completed energy Gate A/B/C programme into an explicit follow-up backlog: Jinpan qualification/cash conversion, Modine margin/FCF normalization, Centrus funding/dilution, and trigger-based Siemens Energy/nVent/Vertiv Gate-C monitoring.
