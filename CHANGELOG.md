@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-08
 
+### Energy second-order cycle completed; Huaming becomes near-Gate-C evidence lead
+
+- Completed **#72–#74** after the transformer second-order work. **Hot-section blades / vanes / precision castings pass as the strongest physical second-order gas-turbine bottleneck at 4.8/5**, but no new current-price capital candidate emerges: Howmet has exceptional operating capture but is already roughly a $95bn company at ~44x forward earnings, while Yingliu has direct Siemens Energy / Baker Hughes / Ansaldo qualification but ~80x trailing earnings and negative H1 operating cash flow.
+- Completed **#73 narrow 800 VDC concentration testing**. The broad ~3.6/5 supplier-scarcity conclusion remains unchanged. **DC fault protection is the best narrow watch at ~3.7/5**, but ABB and Eaton already provide credible competing breaker platforms and the OCP / NVIDIA architecture is deliberately open and multi-vendor, with 80+ ecosystem participants. No 800 VDC company is promoted.
+- Completed **#74 second-order synthesis**. OLTC / Huaming is the only new lane from the cycle that improves the public-company candidate frontier; transformerboard / bushings are structurally attractive but the best specialists are private, and turbine hot-section / 800 VDC do not currently improve risk-adjusted valuation.
+- Completed the initial **#75 Huaming Power Equipment underwriting**. Huaming is **`Investigating`, Investment Capture 4.1/5, Medium confidence**. H1 2026 core power-equipment gross margin was 60.83%, direct + indirect overseas core revenue was RMB449m (+44.59%), operating cash flow was RMB458.9m (+44.41%), and capital intensity / leverage remain low.
+- The key falsification is **Maschinenfabrik Reinhausen's global installed / service moat and restored OLTC delivery capacity**: MR performs 6,000+ OLTC maintenance events annually and says its capacity programme has stabilized committed delivery times around 16 weeks. Huaming also says its overseas installed base and overseas maintenance revenue remain relatively limited. The durable thesis is therefore qualification + share gain + service, not permanent unit shortage.
+- Huaming's initial normalized Gate-C screen uses a CNY19.73 reference price: **bear ~CNY18.1 / -2.0% annualized; base ~CNY31.0 / 11.0%; bull ~CNY46.3 / 21.9%** to end-2030. The base-case **12% price-only return zone is ~CNY18.99**; dividends are excluded from headline returns.
+- This places Huaming close to the existing energy capital frontier — **Siemens Energy ~11.2% base return (higher evidence confidence) → Huaming ~11.0% (lower confidence) → nVent ~10.5% → Vertiv ~8.5%** — but Huaming is **not promoted to `Watch` or strict Gate C** until repeat named international high-voltage qualification, service recurrence and investor-access / geopolitical risk are better evidenced.
+- The second-order discovery programme is now closed by default. Re-open only for new qualification / pricing / market-share concentration evidence or a material valuation change; #67 remains the trigger monitor for Siemens Energy / nVent / Vertiv.
+
 ### Transformer second-order screen surfaces OLTC / tap changers
 
 - Opened **#71–#74** to search for smaller second-order suppliers inside validated energy bottlenecks: transformer/switchgear sub-suppliers, turbine hot-section/service dependencies, narrow 800 VDC profit pools and a common-basis second-order synthesis.
