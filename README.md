@@ -19,6 +19,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — active stock-aware cross-theme top-10 hunting queue; separates structural upside, evidence quality and current stock attractiveness
 - `research/top10-capital-allocation.md` — Gate-D decision layer for the Top 10; converts research into dated Buy-below / speculative / wait / avoid conclusions with explicit valuation hurdles
+- `PORTFOLIO.md` — Gate-E dynamic portfolio strategy for the £40k / four-year objective; defines buy/add/trim/sell/rotation rules, bottleneck migration and portfolio-construction workflow
 - `sources/source-register.md` — source provenance register
 - `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
 - `research/_templates/` — reusable structures for new themes and company deep dives
@@ -53,3 +54,5 @@ Manual review is optional. Ask for it when you specifically want a second pair o
 - Thesis changes are explicit and traceable
 - Uncertainty and confidence are recorded
 - Sources should be attributable and recoverable
+- Portfolio capital is dynamic: holdings must continue to earn their place on forward return and evidence, not on cost basis or past conviction
+- Bottlenecks are expected to migrate as technology, capacity and supply chains mature; the research universe must be re-ranked accordingly
