@@ -4,6 +4,19 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-09
 
+### Top-10 Gate D opens; research converts into explicit capital-allocation decisions
+
+- Opened **#114 — Top-10 Gate D: convert research into capital-allocation decisions** and added `research/top10-capital-allocation.md` as the canonical decision layer above the Top-10 research ranking.
+- **No full-size `Buy now` candidate emerges at current prices under the repo's normalized-return discipline.** This is a valuation conclusion, not a rejection of the underlying structural theses.
+- Provisional conventional entry decisions are **JEM: Buy below ~¥5.6k**, **SUSS: Buy below ~€64**, **Micronics Japan: Buy below ~¥9.3k**, and **Hainan Jinpan: Buy below ~CNY59**. Each remains a conditional research zone rather than a price target.
+- **Weebit Nano becomes `Small speculative position only` at current evidence.** A dilution-adjusted reverse screen shows that a 2x five-year share-price outcome at a 15x terminal revenue multiple requires roughly A$132m annual revenue, around 54% CAGR from FY26, and first recurring production royalties remain indispensable.
+- **Laifual remains a high-priority potential-unicorn company but not a conventional current-price buy.** A 2x five-year outcome at a 30x terminal P/E requires roughly RMB2.4bn revenue at 15% net margin, about 54% annual growth from the H1 annualized base; at 12% margin the hurdle rises to roughly RMB3.1bn / ~61% CAGR. The planned 800k-unit Zhejiang plant could support only roughly RMB0.4–0.54bn annual reducer revenue at observed H1/order-book unit economics, so the multi-bagger case still needs continued capacity expansion, richer humanoid mix, joint-module growth and strong margins.
+- **BlackBerry/QNX is `Wait for 24 Sep`; provisional conservative buy-below zone ~US$6.7.** A pre-Q2 SOTP attributes roughly US$3.8bn of today's ~US$4.6bn BlackBerry equity value to QNX, around 12.5x FY27 QNX revenue midpoint. A five-year 15% QNX revenue-growth / 10x terminal-revenue base implies a current 12%-return value near US$6.7/share; today's price works only if growth and the premium platform multiple both persist.
+- **FORT remains `Wait for S-4 / transaction evidence`; Centrus remains `Wait for funded-capacity evidence`; Harmonic Drive becomes `Avoid at current valuation / wait for reset`.**
+- JEM capacity evidence strengthened materially. The 25-Feb-2026 equity-issuance announcement explicitly says proceeds are intended for the new factory to expand **memory-oriented M-type probe-card capacity in response to increasing demand accompanying AI-related semiconductor-market growth**. JEM separately says its DRAM share is increasing **centered on HBM used in generative AI**. This strengthens the AI/memory link behind the ~¥12.2bn equity-funded Amagasaki build, but does not yet quantify HBM4/HBM4E sockets, HBM revenue/share or realized incremental ROIC.
+- JEM's Amagasaki hurdle is now explicit: the ~¥12.2bn shareholder-funded build requires about **¥1.46bn incremental annual net income** to earn 12% on that new equity capital; at the current guided ~18.4% net margin this is roughly **¥8.0bn incremental annual revenue**.
+- `README.md` now links the Gate-D capital-allocation file. No `watchlist.md` status change is made solely from these capital labels; potential-unicorn ranking, watchlist status and capital allocation remain separate judgments.
+
 ### Top-10 common-basis underwriting starts; Laifual moves #7 → #4
 
 - Opened **#112** as the active common-basis underwriting sprint across all ten companies. Each name now requires a plausible 2–5x path, what is already priced in, downside, catalyst, thesis breaker, appropriate valuation method and explicit rank-change rule.
