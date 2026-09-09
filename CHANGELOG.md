@@ -2,6 +2,22 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-09
+
+### Cross-theme stock-aware Top-10 research queue established
+
+- Added `research/top10-unicorn-priority.md` and opened **#110** as the canonical cross-theme queue for the ten companies where a validated bottleneck could most plausibly transform the company from the current starting valuation.
+- The working order is now **JEM → SUSS → Weebit Nano → Micronics Japan → FORT Robotics → BlackBerry/QNX → Laifual Drive → Centrus Energy → Hainan Jinpan → Harmonic Drive Systems**.
+- The ranking explicitly separates **structural upside potential**, **evidence quality / operating capture**, and **stock attractiveness at the current price**. A company can be a stronger business but a weaker potential-unicorn stock if its market value or valuation already capitalises most of the theme.
+- **JEM moves to the front of the research queue, but is not promoted to `Watch`.** At the 9 September reference it is ~¥96bn at ~13x forward P/E with strong current earnings and HBM-centered DRAM-share evidence, but exact HBM production sockets remain unverified and current FCF is weak during an equity-funded capacity build.
+- **SUSS remains the preferred small-cap HBM equipment asymmetry**, with a ~€1.42bn market value and large 2027-visible backlog, but customer/process-of-record concentration means downside remains substantially wider than JEM or the larger memory-quality names.
+- **Weebit remains the highest architectural optionality name**, but recurring mass-production royalties are still the decisive missing proof; the stock is far below its 52-week high while still valuing the business at a very high revenue multiple.
+- **Micronics Japan ranks above most large-cap memory beneficiaries because operating capture is unusually strong**, but its larger starting size, rerating and ~71% Samsung + Micron Taiwan concentration reduce asymmetry relative to JEM.
+- **FORT and QNX become the two leading Physical-AI names on different risk profiles:** FORT is the purer horizontal safety-platform option but begins at a very demanding revenue multiple and requires S-4/final dilution evidence; QNX is the more mature, profitable runtime/safety platform and now needs a clean SOTP plus non-auto/robotics revenue sensitivity.
+- **Laifual, Centrus and Jinpan remain high-upside specialist lanes** with materially higher evidence, policy, funding, customer or governance risk. **Harmonic Drive remains a technical benchmark but falls to #10 on stock setup** because ~75x forward P/E and a >2x year-on-year market-cap rerating already assume substantial humanoid success.
+- Large high-quality beneficiaries such as Siemens Energy, Vertiv, Eaton, Advantest, Onto, Camtek and FormFactor remain important benchmarks but are deliberately excluded from the active Top-10 because their size and/or valuation makes a theme-driven multi-bagger less likely to transform the whole company.
+- No watchlist status changes are made from the cross-theme ranking alone. Existing company issues are reused where possible: **FORT #108, QNX #106/#109, Laifual #86, Harmonic Drive #85/#89**; JEM/MJC, SUSS, Weebit, Centrus and Jinpan use their canonical completed/monitoring work as the baseline under #110 rather than creating duplicate issues.
+
 ## 2026-09-08
 
 ### JEM / Micronics deep dive clarifies probe-card quality versus valuation trade-off
