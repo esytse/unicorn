@@ -5,132 +5,124 @@
 **Automation epic:** #120  
 **Portfolio epic:** #117  
 
-> GitHub issues are the authoritative execution backlog. Automation may research, monitor, update repository content and operate the governed PR workflow, but it must not place brokerage trades.
+> GitHub issues are the authoritative execution backlog. Automation may monitor, research, update repository content and operate the governed PR workflow, but it must not place brokerage trades.
 
 ## Objective
 
-Automate as much of the `unicorn` research and portfolio operating process as practical with the smallest scheduler footprint.
+Automate as much of the `unicorn` research and portfolio operating loop as practical with the smallest scheduler footprint, while ensuring the user is **notified promptly when attention or action is genuinely warranted**.
 
-The initial architecture uses **one scheduled Portfolio Ops Agent**. GitHub—not the scheduler—is the orchestration layer. The scheduler repeatedly reads the backlog, promotes triggered work, selects the highest-value executable item and processes one bounded unit of work.
+The initial architecture uses **one alert-first Portfolio Ops scheduler**. GitHub—not the scheduler—is the orchestration layer. The scheduler repeatedly reads the backlog, checks explicit triggers, promotes triggered work, selects bounded executable work and measures whether one scheduler remains sufficient.
 
-A second scheduler should be added only when measured queue pressure or latency shows that one worker is insufficient.
+The scheduler is deliberately **quiet by default**. Routine successful monitoring, unchanged triggers and ordinary backlog maintenance should not generate user notifications.
+
+## Initial frequency
+
+Run the single scheduler **hourly from 00:00 through 22:00 Europe/London**.
+
+Why this window:
+- the universe includes Japan/Hong Kong, Europe and US-listed names;
+- hourly is the highest supported scheduler frequency and gives materially better event responsiveness than a daily scan;
+- 00:00–22:00 London covers the economically useful part of the Asian, European and US trading/news cycle without requiring a separate scheduler per geography.
+
+This cadence is an initial operating choice, not a permanent rule. Measure alert latency, queue pressure and saturation and change the architecture only when the evidence warrants it.
+
+## Two modes inside one scheduler
+
+The same scheduled run performs two different workloads.
+
+### 1. Monitoring / alert pass — every run
+This is cheap and must happen first:
+- read explicit `WAITING` triggers and relevant active action conditions;
+- check only the minimum fresh public evidence needed to determine whether a trigger fired;
+- detect material new filings, earnings, qualification/royalty/funding/capital events, thesis-break evidence and defined price/valuation conditions;
+- deduplicate unchanged conditions;
+- notify only when the notification contract below is met.
+
+Do **not** redo a full company underwrite merely to test whether an event happened.
+
+### 2. Substantive research / backlog pass — bounded
+After monitoring, execute at most **one substantive backlog item per run**, and normally no more than **one non-triggered heavy research item per 24 hours**.
+
+Exceptions are allowed when:
+- a P0/P1 trigger has fired and a fresh underwrite is needed to make the alert decision-useful;
+- multiple tightly coupled administrative steps are required to complete one governed work item;
+- a material portfolio-risk event makes waiting until the next day unreasonable.
+
+The purpose of hourly scheduling is **fast detection and notification**, not to generate 20+ full research projects per day.
 
 ## Architecture
 
 ```text
-Scheduled Portfolio Ops Agent
+Hourly Portfolio Ops scheduler
         |
         v
 Read governance + portfolio + backlog
         |
         v
-Scan WAITING triggers cheaply
-        |
-        +---- trigger fires ----> promote to READY
+Resolve stale RUNNING claims
         |
         v
-Calculate queue health
+Cheap trigger/action scan
+        |
+        +---- material trigger ----> promote to READY / P0-P1
+        |                              |
+        |                              +--> decision-useful analysis if needed
+        |                              +--> notify if contract met
         |
         v
-Select highest-priority READY item
+Calculate queue + alert health
         |
         v
-Claim RUNNING
+If research budget permits:
+select highest-priority READY item
         |
         v
-Execute one bounded work item
+Claim RUNNING -> bounded work
         |
         v
 Branch -> PR -> Research governance -> merge
         |
         v
-Update issue state / next action / follow-up backlog
+Update issue state / next action / telemetry
 ```
 
-Monthly portfolio review is represented as a recurring/due backlog condition rather than a separate scheduler. Event monitoring is also part of the same run.
+Monthly portfolio review remains a recurring/due backlog condition rather than a separate scheduler.
 
 ## Source of truth
 
-The sources of truth are:
+1. `AGENTS.md` — mandatory repository governance.
+2. `PORTFOLIO.md` — portfolio objective and capital-allocation framework.
+3. `AUTOMATION.md` — orchestration, alerting and scheduler-capacity protocol.
+4. GitHub issues — live execution state, triggers and dependencies.
+5. Canonical research files — evidence and conclusions.
+6. Pull requests / Git history — audit record.
 
-1. `AGENTS.md` — mandatory repository governance;
-2. `PORTFOLIO.md` — portfolio objective and capital-allocation framework;
-3. this file — automation orchestration protocol;
-4. GitHub issues — live execution state and dependencies;
-5. canonical research files — research evidence and conclusions;
-6. pull requests / Git history — audit record.
-
-Chat history is not an authoritative workflow state.
+Chat history is not authoritative workflow state.
 
 ## Queue states
 
-Every automation-relevant issue should be classifiable into exactly one execution state.
+Every automation-relevant issue must be classifiable into one execution state.
 
-### `EPIC`
-Coordination or programme item. Never selected directly for substantive execution.
-
-Examples: Gate-E portfolio programme, cross-theme Top-10 maintenance, automation orchestration.
-
-### `READY`
-Executable now. Required inputs are available and no dependency or external event blocks the next action.
-
-### `RUNNING`
-Claimed by a worker. A scheduler must mark an item `RUNNING` before substantive work so another worker does not duplicate it.
-
-The issue should record enough run context to determine whether the claim is still live, for example start time and associated branch/PR once created.
-
-### `WAITING`
-Blocked on an external event, date or evidence trigger such as:
-
-- earnings release;
-- regulatory filing;
-- S-4;
-- production qualification;
-- royalty announcement;
-- capital raise;
-- major price/evidence threshold.
-
-The trigger must be explicit and testable.
-
-### `BLOCKED`
-Blocked on another backlog item or missing prerequisite that is internal to the research process.
-
-### `PARKED`
-Intentionally deprioritized. The work may remain useful but should not consume scheduler capacity until explicitly promoted.
-
-### `DONE`
-Completion gate met. Normally represented by closing the GitHub issue after final state / links are recorded.
+- **`EPIC`** — coordination/programme item; never directly selected for substantive execution.
+- **`READY`** — executable now; required inputs exist and no dependency/event blocks it.
+- **`RUNNING`** — claimed by a worker; record start context and branch/PR when applicable.
+- **`WAITING`** — blocked on an explicit external event/date/evidence/price trigger.
+- **`BLOCKED`** — blocked on an internal prerequisite or another backlog item.
+- **`PARKED`** — intentionally deprioritized; not executable until promoted.
+- **`DONE`** — completion gate met; normally close the issue after final links/state are recorded.
 
 ## Priority model
 
-Priority applies within the execution state.
-
-- **P0 — immediate decision / orchestration:** could change a current capital decision in roughly 30 days, or is critical work required to make the automation system safe/reliable.
-- **P1 — direct 18-month underwrite:** serious portfolio candidate, material catalyst, or evidence that can change the current ranking/allocation.
+- **P0 — action / immediate orchestration:** could change a current capital decision or materially threaten the portfolio/research process now.
+- **P1 — direct 18-month underwrite:** serious candidate, material catalyst or evidence that can change current allocation/ranking.
 - **P2 — discovery / bottleneck migration:** could surface a superior candidate or invalidate an important structural assumption.
-- **P3 — background:** useful research without near-term capital consequence.
+- **P3 — background:** useful work without near-term capital consequence.
 
-The worker selects the highest-priority `READY` item. If multiple items share a priority, use catalyst proximity, age and potential portfolio impact as tie-breakers.
-
-Do not choose an intellectually interesting P2/P3 item over an actionable P0/P1 item.
+Within `READY`, select highest priority first; use catalyst proximity, age and potential portfolio impact as tie-breakers.
 
 ## Machine-readable issue contract
 
-Automation-relevant issues should contain an `## Automation metadata` section using this structure:
-
-```markdown
-## Automation metadata
-- **State:** READY
-- **Priority:** P1
-- **Type:** RESEARCH
-- **Trigger:** NONE
-- **Dependencies:** NONE
-- **Parent:** #117
-- **Next action:** Re-underwrite ExampleCo against the March-2028 hurdle.
-- **Completion gate:** role + catalyst + downside + entry/add/trim/sell rules recorded.
-```
-
-For event-dependent work:
+Automation-relevant issues should contain:
 
 ```markdown
 ## Automation metadata
@@ -144,132 +136,143 @@ For event-dependent work:
 - **Completion gate:** dilution, recurring economics and 18-month return cases updated.
 ```
 
-The metadata block is the scheduler contract. The rest of the issue remains human-readable context.
+The trigger must be explicit and testable. Do not invent a price threshold, thesis condition or action condition merely so automation has something to monitor.
 
-Labels may be added later for convenience, but automation must not rely on labels as the sole source of truth unless that migration is explicitly documented.
+Labels may be added for convenience, but the metadata block remains the scheduler contract unless a later migration is explicitly documented.
+
+## Notification contract
+
+The scheduler should notify the user when there is a **new or materially changed** condition that plausibly requires attention or a decision.
+
+### Notify: `ACTION`
+Use when source-backed evidence indicates a defined research-level **Buy / Add / Trim / Sell** condition is met or a capital-allocation decision is now ripe for the user.
+
+The notification should include, where supported:
+- company / instrument;
+- what changed;
+- current research signal;
+- current price/evidence versus the governed condition;
+- proposed initial/max size or affected allocation if already defined in the underwrite;
+- main downside / thesis breaker;
+- next catalyst;
+- explicit statement that **no brokerage trade was placed**.
+
+### Notify: `REASSESS`
+Use when a major catalyst, price move, valuation change, competitor development or bottleneck migration materially changes expected 18-month attractiveness but the correct action still needs a fresh underwrite.
+
+### Notify: `THESIS BREAK`
+Use when credible evidence satisfies or materially approaches a documented thesis-break condition.
+
+### Notify: `CATALYST`
+Use when an awaited event fires and is sufficiently material that the user should know even before the full underwrite is finished, for example an S-4, earnings surprise, production royalty, qualification, financing or major dilution event.
+
+Avoid sending a separate catalyst alert if the same run can immediately produce a more useful `ACTION` or `REASSESS` notification.
+
+### Notify: `SYSTEM DEGRADED`
+Use when automation failure creates a meaningful risk of missing decision-relevant triggers or when scheduler capacity metrics indicate the alert/research loop is no longer keeping up.
+
+### Stay quiet
+Do not notify merely because:
+- an hourly scan completed successfully;
+- nothing material changed;
+- a trigger remains false;
+- a routine P2/P3 research item advanced without changing a conclusion;
+- the same unchanged alert condition was already surfaced;
+- a PR merged with no decision impact.
+
+GitHub should retain the operational/audit evidence even when the user notification remains quiet.
+
+## Notification quality
+
+Notifications are decision surfaces, not news digests. Prefer:
+
+```text
+ACTION — ExampleCo
+What changed: ...
+Why it matters: ...
+Research signal: Add / Trim / etc.
+Current condition: ...
+Main risk / thesis breaker: ...
+Next catalyst: ...
+Your decision: ...
+No trade has been placed.
+```
+
+Do not overstate confidence. If evidence is incomplete, say `REASSESS` rather than manufacturing an `ACTION` signal.
+
+## Deduplication
+
+Before notifying, compare the new finding with the most recent persisted issue/automation state.
+
+Do not repeatedly alert on the same unchanged trigger. Re-alert only if there is a material change such as:
+- new evidence;
+- action state changes;
+- price/evidence crosses back through a governed condition;
+- severity increases;
+- the prior condition resolves and later recurs;
+- a new user decision is genuinely required.
 
 ## Scheduler run algorithm
 
-Each run should follow this order.
-
-### 1. Load context
-Read:
-
-- `AGENTS.md`;
-- `AUTOMATION.md`;
-- `PORTFOLIO.md`;
-- relevant active issues;
-- relevant canonical research before substantive work.
-
-### 2. Resolve stale claims
-Before claiming new work, check `RUNNING` items.
-
-Do not duplicate work if an active branch/PR or recent live claim exists. A stale claim may be returned to `READY` only after verifying that no active work is still in flight.
-
-### 3. Scan triggers cheaply
-Check explicit `WAITING` triggers. Do not redo full company research merely to see whether a trigger fired.
-
-If a material trigger fires:
-
-- add the evidence/date/source to the issue;
-- change the state to `READY`;
-- reprioritize if the event can change a near-term capital decision.
-
-### 4. Calculate queue health
-Record or derive the scheduler-sufficiency indicators defined below.
-
-### 5. Select work
-Choose the highest-priority executable `READY` item.
-
-Do not select:
-
-- `EPIC`;
-- `WAITING` whose trigger has not fired;
-- `BLOCKED` with unresolved dependencies;
-- `PARKED`;
-- a `RUNNING` item already claimed elsewhere.
-
-### 6. Claim before execution
-Change state to `RUNNING` before substantive work and record start/run context.
-
-### 7. Execute one bounded substantive unit
-The default is **one substantive backlog item per scheduler run**.
-
-Short administrative actions may be batched, but the scheduler should avoid opening many simultaneous research threads that produce partially completed work.
-
-### 8. Use repository governance
-For substantive repository updates:
-
-- use a branch;
-- update canonical files, sources and changelog where required;
-- open a PR with the required audit summary;
-- never bypass `Research governance`;
-- merge only after required checks pass unless manual review was requested.
-
-### 9. Close or specify the next action
-After work:
-
-- mark `DONE` / close the issue if its completion gate is met; or
-- set `READY`, `WAITING`, `BLOCKED` or `PARKED` with a concrete next action and trigger/dependency.
+1. Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md`, active automation-relevant issues and relevant canonical research.
+2. Check `RUNNING` items and avoid duplicate work; reclaim only after verifying no active branch/PR/work remains.
+3. Perform the cheap trigger/action scan.
+4. Promote fired triggers to `READY` and reprioritize to P0/P1 when justified.
+5. Perform enough fresh analysis to determine whether a notification contract is met.
+6. Notify only for new/material `ACTION`, `REASSESS`, `THESIS BREAK`, `CATALYST` or `SYSTEM DEGRADED` conditions.
+7. Calculate alert and queue health.
+8. If the substantive-work budget permits, select the highest-priority valid `READY` item.
+9. Mark it `RUNNING` before substantive work.
+10. Execute one bounded work item using canonical files and source-backed evidence.
+11. For repo changes use branch -> PR -> required `Research governance` -> merge; never bypass required checks.
+12. Set a truthful resulting state and a concrete next action/trigger/dependency.
+13. Create follow-up backlog only when it can materially change allocation, ranking, bottleneck, evidence confidence, catalyst probability/timing or an important thesis breaker.
 
 Avoid vague states such as “more research needed.”
 
-### 10. Create follow-up backlog selectively
-An agent may create a new issue when the new work could materially change:
+## Trigger examples
 
-- portfolio allocation;
-- Top-10 ranking;
-- bottleneck location/direction;
-- evidence confidence;
-- catalyst probability/timing;
-- an important thesis breaker.
-
-Do not create self-perpetuating research tasks merely because another adjacent question exists.
-
-## Trigger monitoring
-
-A single scheduler can monitor many companies because triggers live in issues, not in separate scheduled tasks.
-
-Examples:
-
+A single scheduler can monitor many companies because triggers live in issues:
 - QNX results published;
 - FORT/Newbury Street II S-4 filed;
 - Weebit recurring production royalty disclosed;
 - JEM/MJC HBM4 production qualification evidence;
 - Centrus commercial capacity financing completed;
 - candidate enters a defined valuation/price zone;
-- bottleneck evidence changes after a standard/architecture/capacity event.
+- dilution/capital raise exceeds a documented tolerance;
+- standards/architecture/capacity evidence changes a bottleneck thesis.
 
-Trigger checks should focus on primary/regulatory/company evidence where practical.
+Prefer primary/regulatory/company evidence where practical.
 
 ## Portfolio review as backlog
 
-Do not require a separate monthly scheduler initially.
+A full portfolio re-rank becomes `READY` when the documented monthly review is due. It competes normally for execution; it does not require another scheduler initially.
 
-The Portfolio Ops Agent should treat a full portfolio re-rank as due when the last completed monthly review is sufficiently old. The due review becomes or is promoted to a `READY` P0/P1 backlog item and competes normally for execution.
-
-This keeps cadence logic inside the backlog rather than multiplying schedulers.
+A monthly re-rank should notify only when it identifies a material allocation/action/reassessment change. A routine unchanged re-rank stays quiet.
 
 ## Scheduler sufficiency metrics
 
-The system must measure whether one scheduler is enough.
+The system must measure both **alert responsiveness** and **research throughput**.
 
-### 1. READY backlog depth
-Number of substantive executable `READY` items currently waiting.
+### 1. Alert detection-to-notification latency
+Elapsed time from a material external trigger becoming publicly observable to a decision-useful notification or explicit `REASSESS` alert.
 
-Initial healthy range: usually **0–3**. More than five substantive READY items is a capacity warning, not an automatic scale decision.
+Initial target during the scheduled 00:00–22:00 London window: **<=2 hours** for P0/P1 events where the trigger time is reasonably knowable.
 
-### 2. Oldest P0/P1 READY age
-Elapsed time since the oldest executable high-priority item became READY.
+Events becoming public outside the monitoring window should be assessed at the next scheduled run and reported separately from in-window latency.
 
+### 2. Trigger-to-substantive-action latency
+Elapsed time from a material trigger to the first substantive governed underwrite/update when one is required.
+
+Initial target: **<=24 hours** for P0/P1.
+
+### 3. READY backlog depth
+Number of substantive executable items waiting. Initial healthy range: usually **0–3**; >5 is a capacity warning.
+
+### 4. Oldest P0/P1 READY age
 Initial target: **<=48 hours**.
 
-### 3. Trigger-to-action latency
-Elapsed time from a material external trigger occurring to the first substantive action on the associated issue.
-
-Initial target: **<=24 hours** for P0/P1 triggers.
-
-### 4. Backlog Pressure Ratio
+### 5. Backlog Pressure Ratio
 
 ```text
 Pressure Ratio = new executable work created/promoted over 7 days
@@ -278,113 +281,96 @@ Pressure Ratio = new executable work created/promoted over 7 days
 ```
 
 Interpretation:
+- **<0.8** spare capacity;
+- **0.8–1.0** healthy/busy;
+- **1.0–1.25** accumulating; monitor;
+- **>1.25** meaningful pressure;
+- **>1.5 for two consecutive weeks** strong evidence that more worker capacity may be justified.
 
-- **<0.8** — spare capacity;
-- **0.8–1.0** — healthy but busy;
-- **1.0–1.25** — backlog accumulating; monitor;
-- **>1.25** — meaningful capacity pressure;
-- **>1.5 for two consecutive weeks** — strong evidence that a second worker may be justified.
+If completed work is zero, report the denominator failure rather than a misleading finite ratio.
 
-If completed work is zero, do not report a misleading finite ratio; report the denominator failure and assess queue age/saturation directly.
-
-### 5. Run saturation
-Share of scheduler runs that finish while higher-priority executable work still remains.
-
-A run is “saturated” when it completed its allowed substantive work but another P0/P1 READY item still waits.
-
-Initial warning threshold: **>80% of runs**.
+### 6. Run saturation
+Share of substantive-work opportunities that finish while another P0/P1 executable item still waits. Initial warning threshold: **>80%**.
 
 ## Scale-up rule
 
 Start with **one scheduler**.
 
-Add a second scheduler only if **any two** of these conditions persist for **two weeks**:
+Consider a second scheduler when **any two** of these persist for **two weeks**:
+1. in-window P0/P1 alert latency >2h;
+2. P0/P1 trigger-to-substantive-action latency >24h;
+3. oldest P0/P1 READY age >48h;
+4. Pressure Ratio >1.25;
+5. >5 substantive READY issues;
+6. >80% substantive-work saturation.
 
-1. P0/P1 READY age >48h;
-2. material trigger-to-action latency >24h;
-3. Pressure Ratio >1.25;
-4. >5 substantive READY issues;
-5. >80% run saturation.
+Do not redesign the architecture because one exceptional event temporarily breaches a threshold.
 
-Use judgement for a single exceptional market event; do not redesign the architecture because one unusually busy day temporarily breaches a threshold.
+### Default split if scaling is justified
 
-### Default two-scheduler split
-
-If evidence supports scaling:
-
-**Scheduler A — Trigger/Triage**
-- scans external triggers;
-- promotes/ reprioritizes issues;
-- computes queue health;
-- maintains orchestration state.
+**Scheduler A — Alert / Trigger / Triage**
+- hourly event and action-condition checks;
+- notifications;
+- issue promotion/reprioritization;
+- alert-health telemetry.
 
 **Scheduler B — Research Worker**
-- claims and executes the highest-value READY substantive item;
-- performs governed repo updates.
+- substantive P0/P1 underwrites and highest-value READY work;
+- governed repository updates.
 
-Do not split by company or theme unless later evidence shows that is operationally superior.
+Do not split by company/theme unless later evidence supports it.
 
 ## Automation health record
 
-Each meaningful scheduler run should make queue-health observations recoverable, preferably in the automation epic or a future dedicated machine-maintained status surface.
-
-Minimum observations:
-
+Persist enough evidence to calculate:
 - run date/time;
+- trigger items checked / fired;
+- notifications emitted and class;
+- estimated in-window alert latency;
 - READY substantive count;
 - oldest P0/P1 READY age;
-- triggers fired and estimated trigger latency;
-- 7-day new executable count;
-- 7-day completed executable count;
-- Pressure Ratio or denominator warning;
+- 7-day new/completed executable counts and Pressure Ratio;
 - saturation yes/no;
-- item selected;
-- item completed / resulting state;
-- scheduler-scale recommendation: `ONE SUFFICIENT`, `WATCH`, or `SPLIT CANDIDATE`.
+- item selected/completed/resulting state;
+- scheduler recommendation: `ONE SUFFICIENT`, `WATCH`, or `SPLIT CANDIDATE`.
 
-The exact storage surface can evolve, but the definitions above should remain stable enough to compare over time.
+The storage surface may evolve, but the metric definitions should remain stable enough for trend comparison.
 
 ## Failure handling
 
-If a run cannot complete its item:
+If a required tool/source is unavailable:
+- do not fabricate completion;
+- record the exact dependency/failure;
+- preserve truthful issue state;
+- emit `SYSTEM DEGRADED` only when the failure materially threatens decision coverage or alert reliability.
 
-- preserve partial factual work only if source-backed and useful;
-- record the failure/blocker in the issue;
-- set a truthful state (`READY`, `WAITING`, `BLOCKED` or `PARKED`);
-- never mark `DONE` because a run ended;
-- never bypass governance to clear the queue.
-
-If a required tool, website or source is unavailable, record the missing dependency rather than fabricating completion.
+Never mark an issue `DONE` merely because a scheduler run ended.
 
 ## Boundaries
 
 Automation may:
-
 - search fresh public information;
 - inspect filings/company sources;
-- compare evidence;
-- update research and portfolio analysis;
+- compare evidence and valuation conditions;
+- update research/portfolio analysis;
 - create and maintain backlog issues;
-- create branches and PRs;
-- merge after required checks pass;
-- produce research-level Buy/Add/Trim/Sell signals and thesis-break alerts.
+- create branches/PRs and merge after required checks pass;
+- produce research-level Buy/Add/Trim/Sell signals, catalyst alerts and thesis-break alerts.
 
 Automation must not:
-
 - place brokerage orders;
 - fabricate market data/evidence;
 - lower evidence standards to hit the March-2028 objective;
+- invent action thresholds;
 - force-push protected history;
 - bypass required checks;
 - silently change watchlist/research conclusions;
-- keep creating backlog simply to stay busy.
+- generate backlog or notifications merely to stay busy.
 
 ## Initial rollout
 
-The rollout is governed by #120.
+1. **#121 — normalize active backlog**, including explicit event/action triggers.
+2. **#122 — deploy one hourly alert-first Portfolio Ops scheduler and measure alert + research capacity** after normalization is sufficient.
+3. Run the single-scheduler architecture until telemetry supports keeping it single or splitting alert/triage from substantive research.
 
-1. **#121 — normalize active backlog** into the machine-readable queue contract.
-2. **#122 — deploy one Portfolio Ops scheduler and measure capacity** after normalization is sufficient.
-3. Run the single-scheduler architecture until the scale-up rule provides evidence for or against splitting.
-
-The design goal is not maximum automation complexity. It is the **minimum reliable orchestration needed to keep the research and portfolio decision loop current**.
+The goal is the **minimum reliable orchestration that keeps the user informed when a decision may be needed, without drowning them in routine monitoring noise**.
