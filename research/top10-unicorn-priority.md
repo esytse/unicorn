@@ -39,6 +39,31 @@ A high-quality company can rank below a smaller, riskier company if the validate
 - **Micronics Japan:** current market value is approximated from the 9 Sep close × the latest disclosed shares because some structured market-cap pages lag the current close.
 - Drawdown from a 52-week or post-listing high is **not a valuation argument** by itself. It is included only to expose how much expectations have already moved.
 
+## 2.1 Existing return-hurdle screen
+
+Several companies already have normalized return frameworks in the repo. The table below deliberately does **not** force P/E-style valuation onto milestone or transaction-driven names.
+
+| Company | Current reference | Existing ~12% base-return zone / hurdle | Gap | Interpretation |
+|---|---:|---:|---:|---|
+| **JEM** | ¥6,570 | **~¥5,640** | **~16.5% above** | Closest combination of valuation and small-company asymmetry, but the return zone assumes current earnings quality survives the capex/dilution cycle |
+| **SUSS** | €73.50 | **~€64** | **~14.8% above** | Also close enough to monitor actively; operating risk is much wider because backlog/process-of-record can move quickly |
+| **Micronics Japan** | ¥12,710 | **~¥9,270** | **~37.1% above** | Strong business, but current price is materially ahead of the normalized base-case hurdle |
+| **Centrus** | $185.53 | **~$147** base-value zone | **~26.2% above** | Event-driven model; the key variable is probability/funding/dilution rather than ordinary EPS compounding |
+| **Jinpan** | CNY68.01 | **~CNY59** | **~15.3% above** | Numerically close to a 12% zone, but evidence quality is lower than JEM/SUSS because qualification and cash conversion remain unresolved |
+| **Weebit** | A$3.43 | No conventional P/E zone | n/a | Existing reverse screen requires roughly **5–7x FY26 revenue by end-2030 plus a material shift to royalties** for an attractive normalized outcome |
+| **FORT** | NTWO $10.98 | Defer until S-4 / final dilution | n/a | Current transaction multiple is too sensitive to redemptions, warrants, final shares and actual recurring software mix |
+| **QNX / BB** | $7.87 | SOTP not yet complete | n/a | The next useful hurdle is standalone QNX value + Secure Communications + net cash/corporate-cost treatment, not group P/E alone |
+| **Laifual** | HK$58.00 | Gate-B normalization incomplete | n/a | Current ~16x sales / loss-making base means stock value depends on rapid scale; build scenario only after 2026 mix/customer evidence is reconciled |
+| **Harmonic Drive** | ¥5,820 | Gate-B normalization incomplete | n/a | ~75x forward P/E itself signals a demanding hurdle; quantify humanoid profit contribution before assigning a monitoring zone |
+
+**INTERPRETATION:** The existing scenario work suggests three different research lanes:
+
+1. **Measurable near-zone candidates:** JEM, SUSS and Jinpan are within ~15–17% of existing 12% base-return zones, but evidence quality differs materially.
+2. **Quality / valuation-reset candidates:** MJC is strong operationally but ~37% above its existing 12% zone; HDS is even more valuation-dependent and lacks a completed Gate-C scenario.
+3. **Milestone / event / platform candidates:** Weebit, FORT, QNX, Laifual and Centrus require specific commercialization, transaction, SOTP, scaling or funding evidence rather than a simple multiple screen.
+
+This is the most useful first common-basis result from the stock overlay: **do not research all ten with the same valuation tool.**
+
 ## 3. What has changed after adding the stock layer
 
 ### 3.1 JEM moves to the front of the research queue
