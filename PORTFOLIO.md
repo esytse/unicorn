@@ -1,7 +1,8 @@
-# Dynamic Portfolio Strategy — Gate E
+# Aggressive Dynamic Portfolio Strategy — Gate E
 
 **Status:** Active  
 **Reference date:** 2026-09-09  
+**Target date:** March 2028  
 **Backlog:** #117  
 **Upstream research:** #110 / #114  
 
@@ -9,59 +10,89 @@
 
 ## Objective
 
-Manage a starting capital pool of **£40,000** over **four years**, targeting:
+Manage a starting capital pool of **£40,000** over **18 months**, targeting:
 
-- **minimum objective: 2x → £80,000 by September 2030**;
+- **minimum objective: 2x → £80,000 by March 2028**;
 - **intermediate milestones: 3x → £120,000; 4x → £160,000**;
 - **stretch objective: 5x → £200,000**.
 
 The mathematically implied annualized portfolio hurdles are approximately:
 
-- **2x in four years: 18.9% CAGR**;
-- **3x: 31.6% CAGR**;
-- **4x: 41.4% CAGR**;
-- **5x: 49.5% CAGR**.
+- **2x in 18 months: 58.7% annualized**;
+- **3x: 108.0% annualized**;
+- **4x: 152.0% annualized**;
+- **5x: 192.4% annualized**.
 
-The 5x outcome is a stretch objective, not a base-case forecast. The portfolio should not lower evidence standards or force risk merely to manufacture a 5x narrative.
+The **2x objective is the primary design target**. The 5x outcome is a stretch objective, not a base-case forecast. The shorter horizon deliberately increases risk tolerance, concentration and turnover, but it does **not** justify lowering evidence standards or inventing unsupported upside.
 
 ## Core interpretation
 
 The target applies to the **portfolio**, not to every security bought today.
 
-This is explicitly a **dynamic portfolio**. Expect:
+This is explicitly a **dynamic, concentrated portfolio**. Expect:
 
-- buys and staged entries;
-- additions when evidence and forward return improve;
+- staged entries rather than all-at-once deployment;
+- additions when evidence, catalyst probability and forward return improve;
 - trims when valuation outruns evidence or concentration becomes excessive;
-- exits when the thesis breaks, the return is harvested, or a better use of capital emerges;
-- capital rotation between themes and bottlenecks;
-- periods of cash when no opportunity clears the hurdle.
+- exits when a thesis breaks, a catalyst is harvested or a superior opportunity emerges;
+- active capital rotation between companies, themes and migrating bottlenecks;
+- tactical cash when no setup clears the hurdle.
 
-Cost basis is not the decision anchor after purchase. Every holding must continue to compete for capital based on **forward expected return from the current price**.
+Cost basis is not the decision anchor after purchase. Every holding must continuously compete for capital based on **forward expected return from the current price and the remaining 18-month window**.
+
+## What “more aggressive” means
+
+The aggressive mandate changes portfolio construction in five ways:
+
+1. **Concentration:** favour **4–7 meaningful positions** over a diluted ten-name basket once evidence supports deployment.
+2. **Catalyst speed:** prefer situations with a material **3–12 month catalyst path** that can affect earnings, cash flow, qualification, royalties, utilization, funding or rerating inside the 18-month window.
+3. **Asymmetry:** prioritise candidates where a successful catalyst can materially transform per-share economics or market expectations.
+4. **Rotation:** be willing to recycle capital quickly when forward return falls or a stronger bottleneck/catalyst emerges.
+5. **Risk acceptance:** tolerate wider volatility and higher company-specific risk in exchange for genuine upside asymmetry, while retaining explicit thesis-break and dilution controls.
+
+Aggressive does **not** mean indiscriminate leverage, averaging down without evidence, or holding broken theses.
 
 ## Relationship to Gate D
 
-`research/top10-capital-allocation.md` remains the dated Gate-D valuation layer. Its 10/12/15% normalized-return work remains useful for valuation discipline, downside comparison and identifying attractive entry prices.
+`research/top10-capital-allocation.md` remains the dated Gate-D valuation layer. Its 10/12/15% normalized-return work remains useful for downside analysis, valuation discipline and understanding what is already priced in.
 
-However, a ~12% expected return does **not** by itself satisfy the new portfolio objective. Gate E adds a stronger test:
+However, those return hurdles are far below the new portfolio requirement. Gate E now asks:
 
-1. Can the proposed entry plausibly contribute to a **2x portfolio outcome within four years**?
-2. Is there a defensible **3–5x upside path** for asymmetric positions without unsupported TAM assumptions?
-3. What probability, evidence and catalyst sequence are required?
-4. What is the permanent-capital-loss case?
-5. Is this still the best available use of capital versus cash and alternative candidates?
+1. Can this position plausibly contribute to a **2x portfolio outcome by March 2028**?
+2. What specific catalyst sequence could create that return inside 18 months?
+3. Is there a defensible **3–5x path** for the highest-asymmetry positions without unsupported TAM assumptions?
+4. What probability and evidence are required?
+5. What is the bear/permanent-capital-loss case?
+6. Is this still the best use of capital versus the other active candidates?
+
+A strong long-duration business with no near-term rerating or earnings catalyst may be a good investment generally but a poor fit for this mandate.
 
 ## Position roles
 
 Every active candidate or holding should be assigned one role:
 
-- **Core** — higher-confidence business/economic capture with a credible four-year return path and tolerable downside.
-- **Asymmetric growth** — stronger upside sensitivity with meaningful operating/valuation risk.
-- **Speculative option** — small position where payoff can be large but commercialization, funding or architecture evidence remains incomplete.
-- **Watch** — research is interesting but price/evidence does not currently justify capital.
-- **Avoid** — current expected return, downside or thesis quality is inadequate.
+- **Core asymmetric** — relatively stronger evidence with a credible near-term earnings/rerating path and meaningful upside.
+- **Catalyst asymmetric** — higher-risk position where a defined 3–12 month catalyst can materially change valuation or economics.
+- **Speculative option** — small position with potentially very large payoff but unresolved commercialization, funding, architecture or execution evidence.
+- **Watch** — structurally interesting but the current price, catalyst timing or evidence does not justify capital.
+- **Avoid** — current return potential, timing, downside or thesis quality is inadequate for the mandate.
 
 Role and position size are separate from the cross-theme `watchlist.md` research status.
+
+## Concentration framework
+
+The portfolio should not be equal weighted by default.
+
+Working design principles for the initial portfolio:
+
+- **4–7 active positions** once deployable opportunities exist;
+- the highest-confidence/highest-asymmetry names may receive materially larger weights than lower-confidence options;
+- speculative positions should remain smaller than evidence-backed catalyst positions;
+- position ceilings must reflect liquidity, dilution risk, downside and evidence confidence;
+- thematic duplication should be counted as correlated exposure even when securities are different;
+- cash can remain available for event-driven entries, but should not become a permanent default when qualifying setups exist.
+
+Exact initial and maximum weights will be set only after the 18-month re-underwrite of the current Top 10.
 
 ## Transaction rules
 
@@ -71,8 +102,9 @@ Every deployable position must define:
 - evidence threshold;
 - valuation / price zone;
 - intended initial size;
-- expected four-year return at entry;
-- catalyst timing.
+- expected 18-month return at entry;
+- catalyst sequence and timing;
+- downside if the catalyst fails.
 
 ### Add
 Add only when at least one of the following improves without a compensating deterioration:
@@ -80,34 +112,34 @@ Add only when at least one of the following improves without a compensating dete
 - operating capture;
 - valuation / forward return;
 - bottleneck strength;
-- probability of the catalyst path.
+- probability or timing of the catalyst path.
 
 Do not add solely because price fell below cost basis.
 
 ### Trim
 Consider trimming when:
-- price rises materially faster than normalized earnings / evidence;
+- price rises materially faster than normalized earnings or evidence;
+- a major catalyst is substantially priced before realization;
 - forward expected return falls below competing uses of capital;
 - position concentration becomes disproportionate to evidence confidence;
-- the catalyst is substantially priced in before realization;
-- bottleneck strength begins to weaken or migrate.
+- bottleneck strength weakens or begins to migrate.
 
 ### Sell
 Sell or materially reduce when:
 - a defined thesis breaker occurs;
+- a catalyst fails and the remaining 18-month return no longer clears the portfolio hurdle;
 - the structural bottleneck is being commoditized or bypassed;
 - company capture deteriorates even if the broader theme remains correct;
-- dilution/capital intensity destroys per-share economics;
-- the four-year forward return becomes inadequate;
+- dilution or capital intensity destroys per-share economics;
 - a materially superior risk-adjusted opportunity emerges.
 
-A successful original thesis is **not** a reason to keep holding if the forward bottleneck or forward return has migrated elsewhere.
+A successful original thesis is **not** a reason to keep holding if the forward bottleneck, catalyst or expected return has migrated elsewhere.
 
 ## Bottleneck-migration framework
 
-Assume that bottlenecks **move as technology and supply chains mature**.
+Assume bottlenecks **move as technology and supply chains mature**.
 
-For each theme, re-test the full value chain rather than extrapolating the original scarcity indefinitely.
+For each theme, re-test the full value chain rather than extrapolating current scarcity indefinitely.
 
 Track whether each important bottleneck is:
 
@@ -128,7 +160,7 @@ Track whether each important bottleneck is:
 - regulatory or policy changes that create/remove scarcity;
 - capital-market funding that accelerates supply response.
 
-The research universe must be allowed to change. The current Top 10 is a **live ranked hunting universe, not a permanent portfolio list**.
+The current Top 10 is a **live ranked hunting universe, not a permanent portfolio list**. New names should enter when bottleneck migration or new evidence creates better 18-month asymmetry than the weakest incumbent.
 
 ## Review cadence
 
@@ -143,64 +175,72 @@ Refresh affected holdings/candidates after:
 - major policy or regulatory changes.
 
 ### Material price move
-Recalculate forward return. Do not anchor to the original purchase price or prior high.
+Recalculate expected return immediately. Do not anchor to the original purchase price or prior high.
 
-### Quarterly
+### Monthly portfolio re-rank
+Rank all holdings and the highest-priority candidates on:
+1. remaining 18-month forward return;
+2. catalyst timing/probability;
+3. downside/permanent-loss risk;
+4. bottleneck direction;
+5. best alternative use of capital.
+
+### Quarterly full-universe refresh
 Re-rank:
 1. current holdings;
 2. Top-10 candidates;
 3. important benchmark companies;
 4. newly surfaced companies from migrating bottlenecks.
 
-The quarterly question is: **where is the best four-year forward return now, given current evidence and current price?**
+The recurring question is: **where is the best risk-adjusted asymmetry for the remaining time to March 2028?**
 
 ## Initial Gate-E work programme
 
-### Phase 1 — re-underwrite the current Top 10 for four years
+### Phase 1 — re-underwrite the current Top 10 for 18 months
 For every current Top-10 name add:
 - portfolio role;
-- explicit four-year 2x hurdle;
-- realistic 3–5x stretch case where supported;
+- explicit 18-month 2x path or reason it cannot clear the hurdle;
+- realistic 3–5x stretch case only where supported;
 - bear/permanent-loss case;
+- catalyst sequence and expected timing;
 - entry/add/trim/sell rules;
 - initial size range and maximum size ceiling;
-- catalyst calendar;
 - current bottleneck direction;
 - best alternative use of capital.
 
-### Phase 2 — construct candidate £40k portfolios
-Build at least three versions:
+### Phase 2 — construct aggressive £40k portfolios
+Build three versions:
 
-1. **Conservative asymmetric** — greater evidence quality and meaningful cash.
-2. **Balanced** — mixture of higher-confidence compounders and asymmetric specialists.
-3. **Aggressive** — greater concentration in high-upside names with stricter loss/rotation rules.
+1. **Aggressive baseline** — 4–7 concentrated asymmetric positions with strict catalyst/rotation discipline.
+2. **Aggressive + tactical cash** — same hurdle but preserves more capital for specific price/evidence triggers.
+3. **Maximum-asymmetry stress case** — tests what would need to happen to reach 3–5x; this is a scenario boundary, not the default recommended portfolio.
 
-For each portfolio, model the combinations of winners, partial winners and losers required to reach £80k, £120k and £200k.
+For each portfolio, model the combinations of winners, partial winners and losers required to reach **£80k, £120k and £200k by March 2028**.
 
 ### Phase 3 — live decision surface
 Track:
 - holdings and cash;
 - cost basis;
 - current value;
-- forward expected return from current price;
+- remaining-window expected return from current price;
 - position role and size ceiling;
 - bottleneck score/direction;
 - entry/add/trim/sell trigger status;
-- next catalyst;
+- next dated catalyst and time to resolution;
 - best alternative use of capital;
 - portfolio value versus £80k / £120k / £160k / £200k milestones.
 
 ## Current conclusion
 
-**INTERPRETATION:** The research programme has enough structure to move from broad discovery into portfolio construction, but the current Top 10 should not be assumed to fill the £40k immediately. Gate D currently contains no full-size `Buy now` candidate at the dated reference prices.
+**INTERPRETATION:** The move from four years to 18 months makes the mandate substantially more demanding. Ordinary compounding is unlikely to be sufficient; portfolio success will depend more heavily on asymmetric starting valuations, identifiable near-term catalysts, concentration in the best evidence-backed opportunities and active capital rotation.
 
-**HYPOTHESIS:** A dynamic process that combines disciplined entry prices, asymmetric exposures, bottleneck migration and active capital rotation has a better chance of meeting the four-year objective than a static equal-weight Top-10 basket.
+**HYPOTHESIS:** A concentrated, catalyst-aware process that follows migrating bottlenecks and continually reallocates toward the best remaining 18-month asymmetry offers a better chance of reaching £80,000 than a static diversified basket.
 
-**OPEN QUESTION:** Which current Top-10 combination—and what initial cash level—provides the strongest credible path to at least £80,000 by September 2030 without requiring the stretch assumptions of the 5x case?
+**OPEN QUESTION:** Which 4–7 names — and what tactical cash level — provide the strongest evidence-backed path to at least £80,000 by March 2028 without requiring the 5x stretch assumptions?
 
 ## Governance
 
-- #117 is the active Gate-E backlog.
+- #117 is the active Gate-E backlog and reflects the 18-month aggressive mandate.
 - Gate D (#114) remains the company-level valuation/evidence layer.
 - #110 remains the cross-theme hunting-universe ranking.
 - `watchlist.md` remains a separate research-prioritisation surface.
