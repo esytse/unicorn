@@ -15,7 +15,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 ## Key files
 
 - `AGENTS.md` — mandatory operating instructions for any AI agent working in this repository
-- `AUTOMATION.md` — canonical backlog-driven automation protocol, queue-state contract and scheduler-capacity rules
+- `AUTOMATION.md` — canonical backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — active stock-aware cross-theme top-10 hunting queue; separates structural upside, evidence quality and current stock attractiveness
@@ -43,21 +43,32 @@ If someone prefers not to formulate an agent prompt directly, GitHub's **Researc
 
 The preferred automation architecture is documented in `AUTOMATION.md` and tracked by **#120**.
 
-GitHub issues are the execution queue. The initial design uses **one scheduled Portfolio Ops Agent** that:
+GitHub issues are the execution queue. The initial design uses **one hourly, alert-first Portfolio Ops scheduler** rather than one scheduler per company, theme, geography or review cadence.
 
-1. scans explicit `WAITING` triggers;
-2. calculates queue-health / scheduler-sufficiency indicators;
-3. selects the highest-priority `READY` issue;
-4. marks it `RUNNING` before substantive work;
-5. executes one bounded work item;
-6. uses the normal branch → PR → `Research governance` → merge workflow;
-7. updates the issue to `DONE`, `READY`, `WAITING`, `BLOCKED` or `PARKED` with a concrete next action.
+Initial cadence: **hourly from 00:00 through 22:00 Europe/London**, providing useful coverage across Japan/Hong Kong, Europe and the US.
 
-Epics are coordination surfaces and are not selected directly. Monthly portfolio reviews are backlog conditions rather than separate schedulers at the initial stage.
+Every run first performs a cheap monitoring pass:
+1. scans explicit `WAITING` and action-condition triggers;
+2. checks only the minimum fresh evidence needed to determine whether something material changed;
+3. promotes fired triggers to `READY` and P0/P1 where justified;
+4. emits a user notification only for a new/material `ACTION`, `REASSESS`, `THESIS BREAK`, `CATALYST` or `SYSTEM DEGRADED` condition;
+5. deduplicates unchanged conditions so routine monitoring stays quiet.
 
-The single-scheduler design is measured using READY depth, P0/P1 queue age, trigger-to-action latency, a 7-day Backlog Pressure Ratio and run saturation. A second scheduler is added only when the documented scale-up thresholds persist, rather than by default.
+The same scheduler can also execute backlog work, but substantive research is deliberately bounded. The hourly cadence exists primarily for fast detection and useful alerts, not to launch a full underwrite every hour. Normally no more than one non-triggered heavy research item should be started per 24 hours; P0/P1 trigger-driven analysis can override that limit when needed to make an alert decision-useful.
 
-Automation may produce research-level Buy/Add/Trim/Sell signals and maintain the repository, but actual brokerage execution remains manual.
+A useful notification should state what changed, why it matters, the research-level signal or reassessment need, the relevant governed condition, the main downside/thesis breaker, the next catalyst and what decision the user needs to make. Actual brokerage execution remains manual.
+
+Epics are coordination surfaces and are not selected directly. Monthly portfolio reviews remain backlog-due conditions rather than separate schedulers initially.
+
+Scheduler sufficiency is measured rather than assumed. Key indicators include:
+- in-window P0/P1 alert detection-to-notification latency, target **<=2h**;
+- P0/P1 trigger-to-substantive-action latency, target **<=24h**;
+- READY backlog depth;
+- oldest P0/P1 READY age;
+- 7-day Backlog Pressure Ratio;
+- substantive-work saturation.
+
+A second scheduler is added only when the documented scale-up thresholds persist. The default split would separate **Alert/Trigger/Triage** from the **Research Worker**, not create one scheduler per stock.
 
 ## Example instruction to an agent
 
@@ -65,7 +76,7 @@ Automation may produce research-level Buy/Add/Trim/Sell signals and maintain the
 
 For backlog-driven work:
 
-> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md` and the active GitHub backlog. Select only a valid `READY` issue, claim it as `RUNNING`, execute one bounded work item, follow repository governance, then update the issue with its truthful resulting state and next action.
+> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md` and the active GitHub backlog. Scan explicit triggers first, notify only when the notification contract is met, then select only a valid `READY` issue, claim it as `RUNNING`, execute bounded work, follow repository governance, and update the issue with its truthful resulting state and next action.
 
 ## When to request manual review
 
@@ -82,4 +93,5 @@ Manual review is optional. Ask for it when you specifically want a second pair o
 - Portfolio capital is dynamic: holdings must continue to earn their place on remaining-window forward return and evidence, not on cost basis or past conviction
 - The active Gate-E mandate is aggressive and catalyst-aware: favour concentrated, evidence-backed setups capable of resolving materially inside the 18-month window
 - Bottlenecks are expected to migrate as technology, capacity and supply chains mature; the research universe and portfolio must be re-ranked accordingly
-- Automation capacity should be scaled from measured queue pressure and latency, not intuition
+- Automation should be quiet when nothing changed and explicit when a decision may be required
+- Automation capacity should be scaled from measured alert latency, queue pressure and throughput, not intuition
