@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-09
 
+### JEM Gate-E 18-month underwrite completed; current action remains wait
+
+- Completed **#125** and converted Japan Electronic Materials from the prior long-duration / Gate-D framing into a current **March-2028 Gate-E** decision surface.
+- At the **9 September close of ¥6,570**, JEM is approximately **¥96.4bn market cap**, ~14.36x FY2027 guided EPS, with a simple June net-cash estimate of roughly **¥17.9bn**. Q1 operating momentum remains strong, but exact HBM4/HBM4E production sockets/share are still unverified.
+- **Amagasaki is explicitly removed from the March-2028 earnings bridge.** The ~¥12.5bn factory is scheduled for completion in August 2028 and is funded largely by ~¥12.2bn of public-equity proceeds, so the 18-month case must be won by existing capacity, high-value mix, advanced-DRAM/HBM share, earnings upgrades and cash conversion.
+- Gate-E portfolio role becomes **`Watch / pre-entry catalyst asymmetric`** while the research watchlist remains **`Investigating`**. The Top-10 rank remains #1; this is a capital-timing conclusion, not a ranking promotion.
+- A scenario boundary anchored to FY2027 guidance gives illustrative March-2028 values of roughly **¥4,180 bear / ¥8,250 base / ¥12,240 upside / ¥15,200 stretch**. These are hypotheses, not forecasts or price targets. The base case is not strong enough for the aggressive portfolio hurdle; a 2x outcome from today's price requires the stretch case.
+- A new **Gate-E price-led entry condition of ~¥6,100** is documented only if FY2027 guidance remains intact and there is no material thesis deterioration. This is derived from the 18-month upside scenario and is **not** a reuse of the historical ~¥5,640 Gate-D 12% return zone. An evidence-led entry can occur above ¥6,100 after credible HBM4/HBM4E production/share proof materially improves the remaining-window return case.
+- Research-level sizing is **6–8% initial** if an entry condition is met, with **12–14% maximum only after HBM production evidence and cash conversion improve**. No brokerage execution is authorized or performed.
+- Current alert state is **NO ACTION**. Reassess on the new price-led condition, credible HBM4/HBM4E evidence, material FY2028 earnings/FCF visibility changes or a new dilution/capital event. The next non-triggered Gate-E company underwrite is **SUSS #126**.
+
 ### Top-10 Gate D opens; research converts into explicit capital-allocation decisions
 
 - Opened **#114 — Top-10 Gate D: convert research into capital-allocation decisions** and added `research/top10-capital-allocation.md` as the canonical decision layer above the Top-10 research ranking.
@@ -40,7 +51,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - **FORT and QNX become the two leading Physical-AI names on different risk profiles:** FORT is the purer horizontal safety-platform option but begins at a very demanding revenue multiple and requires S-4/final dilution evidence; QNX is the more mature, profitable runtime/safety platform and now needs a clean SOTP plus non-auto/robotics revenue sensitivity.
 - **Laifual, Centrus and Jinpan remain high-upside specialist lanes** with materially higher evidence, policy, funding, customer or governance risk. **Harmonic Drive remains a technical benchmark but falls to #10 on stock setup** because ~75x forward P/E and a >2x year-on-year market-cap rerating already assume substantial humanoid success.
 - Large high-quality beneficiaries such as Siemens Energy, Vertiv, Eaton, Advantest, Onto, Camtek and FormFactor remain important benchmarks but are deliberately excluded from the active Top-10 because their size and/or valuation makes a theme-driven multi-bagger less likely to transform the whole company.
-- No watchlist status changes are made from the cross-theme ranking alone. Existing company issues are reused where possible: **FORT #108, QNX #106/#109, Laifual #86, Harmonic Drive #85/#89**; JEM/MJC, SUSS, Weebit, Centrus and Jinpan use their canonical completed/monitoring work as the baseline under #110 rather than creating duplicate issues.
+- No watchlist status changes are made from the cross-theme ranking alone. Existing company issues are reused where possible: **FORT #108, QNX #106/#109, Laifual Drive #86, Harmonic Drive #85/#89**; JEM/MJC, SUSS, Weebit, Centrus and Jinpan use their canonical completed/monitoring work as the baseline under #110 rather than creating duplicate issues.
 
 ## 2026-09-08
 
@@ -243,7 +254,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - **The strongest revealed-preference evidence is speed-to-power:** Hitachi Energy air-freighted >80-tonne large transformers from Europe to a U.S. hyperscale data-centre project, showing that schedule value can dominate logistics cost.
 - Supplier economics are already visible: GE Vernova's data-centre Electrification orders exceeded $5bn YTD by Q2 2026; Eaton's Electrical order/backlog growth remained very strong; leading suppliers are expanding capacity while maintaining attractive electrical margins.
 - **Falsification is material but does not overturn the thesis.** Hitachi Energy's >$9bn global investment program, GE Vernova / Prolec expansion, Eaton capacity additions and DOE standardisation should reduce scarcity gradually through 2027–2030. The conclusion is **structural scarcity through the late 2020s, not permanent shortage**.
-- No energy supplier is promoted to `Watch`. The next validation priority is **large-load interconnection / transmission**, followed by dispatchable generation equipment, before company-level Investment Capture begins.
+- No company is promoted to `Watch`. The next validation priority is **large-load interconnection / transmission**, followed by dispatchable generation equipment, before company-level Investment Capture begins.
 
 ### AI energy / power-delivery value chain opened
 
