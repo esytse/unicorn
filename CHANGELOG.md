@@ -51,7 +51,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - **FORT and QNX become the two leading Physical-AI names on different risk profiles:** FORT is the purer horizontal safety-platform option but begins at a very demanding revenue multiple and requires S-4/final dilution evidence; QNX is the more mature, profitable runtime/safety platform and now needs a clean SOTP plus non-auto/robotics revenue sensitivity.
 - **Laifual, Centrus and Jinpan remain high-upside specialist lanes** with materially higher evidence, policy, funding, customer or governance risk. **Harmonic Drive remains a technical benchmark but falls to #10 on stock setup** because ~75x forward P/E and a >2x year-on-year market-cap rerating already assume substantial humanoid success.
 - Large high-quality beneficiaries such as Siemens Energy, Vertiv, Eaton, Advantest, Onto, Camtek and FormFactor remain important benchmarks but are deliberately excluded from the active Top-10 because their size and/or valuation makes a theme-driven multi-bagger less likely to transform the whole company.
-- No watchlist status changes are made from the cross-theme ranking alone. Existing company issues are reused where possible: **FORT #108, QNX #106/#109, Laifual #86, Harmonic Drive #85/#89**; JEM/MJC, SUSS, Weebit, Centrus and Jinpan use their canonical completed/monitoring work as the baseline under #110 rather than creating duplicate issues.
+- No watchlist status changes are made from the cross-theme ranking alone. Existing company issues are reused where possible: **FORT #108, QNX #106/#109, Laifual Drive #86, Harmonic Drive #85/#89**; JEM/MJC, SUSS, Weebit, Centrus and Jinpan use their canonical completed/monitoring work as the baseline under #110 rather than creating duplicate issues.
 
 ## 2026-09-08
 
@@ -138,7 +138,123 @@ This file records substantive changes to research conclusions, confidence, prior
 - Energy confidence is now aligned to the downstream evidence: **High** on the coupled speed-to-power / speed-to-usable-compute thesis, **Medium-High** on leading supplier capture, and **Medium** on normalized valuation scenarios.
 - No new external evidence or company promotion was introduced; this change synchronizes the canonical thesis summaries with source-backed research already present in the repository and the current `watchlist.md`.
 - Both mature streams now default to monitoring for valuation / earnings / evidence changes. The next substantive cross-theme discovery stream remains **robotics actuators (#3)**.
-- No company is promoted to `Watch` or high conviction. The next validation priority is **large-load interconnection / transmission**, followed by dispatchable generation equipment, before company-level Investment Capture begins.
+
+### Energy capital allocation completed; no Gate C candidate at current prices
+
+- Completed **#54** and added `research/energy/capital-allocation.md` with dated valuation inputs, normalized bear/base/bull scenarios, reverse 10/12/15% return tests and margin-of-safety price zones.
+- **No energy company passes strict Gate C at the September 2026 reference prices.** The operational thesis is strong, but the obvious AI-power beneficiaries have already rerated materially.
+- **Siemens Energy becomes the preferred capital-allocation monitor.** The normalized base case is ~11.2% annualized at ~€148.48, with a ~12% return zone around **€144**. Gas Services / Grid capture remains strong; Gamesa is the main quality risk.
+- **nVent ranks second.** The normalized base case is ~10.5% at $156.03, with a ~12% zone around **$147**. Smaller size and electrical + cooling exposure create better sensitivity than the large diversified platforms, but standardisation and capacity expansion remain material risks.
+- **Vertiv remains the direct AI-infrastructure quality leader but is valuation-bound:** base ~8.5% at $280.53; ~12% zone **~$245**. Eaton and HD Hyundai Electric also remain strong `Watch` names but require materially lower prices or stronger normalized earnings.
+- **GE Vernova illustrates the distinction between Gate B and Gate C most clearly.** It leads operating capture, but a normalized forward-EPS approach gives only ~4.6% base annualized return at ~$942 and a ~12% zone around **$702**. Current customer-advance / backlog-driven FCF is not capitalized as permanent cash margin.
+- **The specialist lane remains active but not capital-ready.** Hainan Jinpan base ~8.4% / ~CNY59 12% zone; Modine ~7.7% / ~$165; Centrus uses event-driven values of ~$75 bear / $240 base / $560 bull and a ~12% base-value zone around **$147**.
+- The energy programme now shifts from broad discovery to **valuation / earnings monitoring**. Re-open substantive work when a company crosses a return zone without thesis deterioration, or when earnings / FCF materially move the zone higher. No company is promoted to `High-conviction research candidate`.
+
+### Energy supplier Investment Capture completed; Gate C shortlist established
+
+- Completed **#53** and added `research/energy/investment-capture.md` plus canonical company files for the leading immediate, specialist and nuclear-comparator candidates.
+- **GE Vernova and Vertiv lead Gate B at 4.4/5.** GE Vernova has the clearest scarcity → reservation/backlog → margin/FCF → long-service model; Vertiv has the highest direct AI-infrastructure sensitivity and spans electrical, thermal and BTM architecture.
+- **Eaton and Siemens Energy score 4.3/5; HD Hyundai Electric and nVent 4.2/5.** Eaton/Vertiv move up at company level because they span multiple validated bottlenecks, while HD Hyundai Electric and nVent provide greater total-company sensitivity than the largest diversified platforms.
+- **Mitsubishi Heavy Industries, Quanta Services and Cameco score 4.1/5 as important benchmarks.** MHI validates the third advanced-class turbine supplier; Quanta captures transmission execution rather than proprietary equipment scarcity; Cameco provides diversified nuclear fuel/services exposure.
+- **Centrus Energy and Hainan Jinpan score 4.0/5 and remain `Investigating`; Modine scores 3.9/5 and remains `Investigating`.** These names offer greater potential asymmetry but materially higher policy, qualification, customer-concentration, capital or execution risk.
+- **Modine is the clearest warning that revenue growth is not equivalent to economic capture:** Data Centers sales rose 90% and a customer pre-funded capacity, yet expansion / supply-chain effects materially pressured margins.
+- **The nuclear lane bifurcates:** Cameco offers diversified durability while Centrus offers much purer Western enrichment / HALEU exposure and greater asymmetry, with correspondingly greater policy / funding / execution risk.
+- No company passes Gate C yet. The active programme now moves to **#54 capital allocation**, using dated valuation, normalized cycle earnings/FCF, bear/base/bull scenarios, reverse 10/12/15% return hurdles and margin-of-safety price zones.
+
+## 2026-09-07
+
+### Energy bottlenecks ranked on common economic-capture basis
+
+- Completed **#52** and created `research/energy/synthesis-ranking.md` to stop treating Bottleneck Strength as equivalent to investment attractiveness.
+- The current supplier-underwriting order is **(1) large gas turbines / slots / service, (2) transformers + MV/HV switchgear, (3) integrated thermal systems / qualified cooling capacity, (4) integrated data-centre electrical infrastructure + BTM orchestration**. **Western LEU enrichment / UF6 conversion** remains a separate strategic nuclear lane.
+- **Large gas turbines rank first despite a 4.6/5 structural score below 4.7/5 transmission / transformers** because concentrated OEM supply, multi-year reservations, favorable pricing and decades of service economics provide the clearest merchant capture.
+- **Transformers / switchgear rank second** because architecture resilience is exceptional: gas, nuclear, renewables, grid and BTM architectures all continue to require transformation, switching and protection. Company research must deliberately search smaller qualified specialists rather than defaulting to large electrical platforms.
+- **Integrated thermal ranks third** because AI sensitivity is exceptionally direct and customer capacity prepayment is real, but OCP standardisation and rapid multi-vendor expansion weaken generic component scarcity. The target is architecture-resilient thermal-system capacity / qualification / service.
+- **Integrated electrical / BTM ranks fourth** as a platform lane where potential value sits in reference architecture, protection, controls, commissioning and lifecycle service rather than individual commodity components.
+- **Physical transmission remains 4.7/5 structurally but is a selective company lane** because the profit pool is dispersed across utilities, EPC, conductors, GETs, substations and already-ranked electrical equipment; project execution / capital intensity can absorb returns.
+- **HALEU, nuclear forgings and nuclear EPC remain longer-duration optionality despite high technical scarcity.** Timing, policy dependence and 2030s deployment reduce their immediate AI underwriting priority.
+- The programme now moves to **#53 supplier Investment Capture**, with Gate B requiring evidence that the bottleneck changes total-company earnings / margins / service economics. Capital allocation remains separate in #54.
+
+### Canonical E2E AI-energy chain synthesized; bottleneck migration becomes core thesis
+
+- Completed **#51** and comprehensively rebuilt `research/energy/value-chain.md` from the completed Gate-A work rather than the original preliminary scores. `research/energy/thesis.md` and the active research plan were aligned to the same canonical state.
+- **The central thesis strengthens from “speed-to-power” to “speed-to-power + speed-to-usable-compute.”** AI infrastructure is a serial constrained system: site / fuel / generation → transmission → transformers / switchgear → BTM / electrical backbone → rack conversion → compute, with cooling / heat rejection as a coupled capacity path.
+- Added a common E2E table covering structural scarcity, AI sensitivity, substitutability, architecture resilience, evidence quality, likely economic-capture mechanism and timing. The strongest immediate physical functions remain **transformers 4.7, physical transmission 4.7, gas turbines 4.6, integrated thermal chain 4.4, MV/HV switchgear 4.4 and integrated electrical backbone 4.3**.
+- Integrated nuclear explicitly rather than treating it as a generic generation source. The map now separates **2026–2030 existing-fleet / restart / uprate / LEU support** from the **2030s HALEU / advanced-reactor / forgings / nuclear EPC industrial buildout**.
+- Added explicit **bottleneck-migration maps**: queue reform → physical network scarcity; grid delay → BTM → turbine / gas / permit / electrical constraints; new generation → transformers / transmission; advanced nuclear → fuel / forgings / EPC before downstream grid constraints; 54 VDC → 800 VDC → value migration to conversion / protection; higher rack density → DTC → architecture-resilient heat rejection.
+- Reversed the stale initial conclusion that interconnection-process friction itself is the highest durable bottleneck. Process friction is material but reformable; **physical network / equipment / engineering** is the durable layer after speculative queue demand is screened out.
+- Reconciled growth layers that do not currently pass the scarcity test: generic BESS **3.4**, gensets **3.6**, broad 800 VDC supplier scarcity **~3.6**, generic cold-plate / CDU scarcity **~3.8**, and uranium mining **3.5**.
+- Broad structural discovery is now closed by default. The programme proceeds to **#52 common-basis bottleneck ranking → #53 supplier Investment Capture → #54 capital allocation**. No company is promoted from the E2E synthesis alone.
+
+### Nuclear supply chain decomposed; downstream fuel and qualified manufacturing bottlenecks validated
+
+- Completed **#50** and added `research/energy/deep-dives/nuclear-supply-chain.md`.
+- **Nuclear is now separated into near-term and 2030s pathways.** Through 2030, the most credible AI-power route is existing licensed output → life extension / contracted generation → selected restarts → uprates. New large reactors and most advanced-reactor fleets are primarily a 2030s industrial buildout rather than a solution to the 2026–2029 power gap.
+- **The strongest nuclear bottlenecks are downstream of uranium:** HALEU enrichment / deconversion **4.7/5**, Western LEU enrichment **4.6/5**, large nuclear forgings / long-lead heavy components **4.5/5**, nuclear EPC / QA / qualified workforce **4.4/5**, and UF6 conversion **4.3/5**. Uranium mining itself scores only **3.5/5**.
+- Hyperscaler demand is already commercial: Microsoft supports the 835 MW Crane restart; Meta agreements preserve / contract operating nuclear output and support uprates while also backing TerraPower / Oklo; Google / Kairos and Amazon / X-energy provide additional advanced-reactor demand signals. These projects must still be separated by delivery timing and execution certainty.
+- **Existing operating nuclear assets have high strategic scarcity but are not treated as a supplier Gate-A layer.** Restarts are valuable but rare / non-scalable; uprates are attractive brownfield additions but NRC's expected schedule totals only about 2.42 GW electric through 2032.
+- Fuel-cycle scarcity is reinforced by a small Western conversion / enrichment footprint, multi-year centrifuge expansions, DOE enrichment awards and limited commercial HALEU supply. Manufacturing scarcity is reinforced by DOE evidence that the U.S. lacks capacity for the largest nuclear forgings and by X-energy / Doosan reservation agreements for future forgings.
+- Nuclear does **not** remove the already validated grid / electrical / cooling constraints. New nuclear output still flows through turbine-generator, transformers / switchgear, transmission, data-centre electrical infrastructure and heat rejection; the E2E synthesis must avoid double counting these shared layers.
+- No nuclear company is promoted on theme exposure. The programme now moves to **canonical E2E synthesis #51**, common-basis bottleneck ranking #52, supplier Investment Capture #53 and capital allocation #54.
+
+### Integrated thermal chain validated as AI usable-compute bottleneck
+
+- Completed **#49** and added `research/energy/deep-dives/cooling-heat-rejection.md`.
+- **Integrated thermal chain / qualified cooling capacity passes Gate A at 4.4/5 with Medium-High confidence.** Cooling is part of the capacity path: essentially every compute MW becomes heat that must be captured, transported and rejected before electrical capacity becomes usable AI compute.
+- **Direct-to-chip liquid cooling and facility heat rejection each pass at 4.2/5 as technical functions**, but generic cold-plate / CDU / manifold supplier scarcity is only about **3.8/5** because OCP standardisation, multi-sourcing and rapid capacity additions weaken component-level lock-in.
+- **The strongest revealed-preference evidence is Modine's >$4bn 2027–2029 cooling-capacity agreement and $165m upfront customer payment** to fund supply expansion. Subsequent Data Centers revenue grew 90% y/y while expansion / supply-chain costs pressured margins, showing both real scarcity and real execution risk.
+- Eaton's ~$9.5bn Boyd Thermal acquisition and Schneider / Vertiv thermal-platform expansion support the strategic value of owning the chip-to-ambient thermal chain, but demanding M&A valuations are evidence against assuming easy investment asymmetry.
+- **Heat rejection is architecture-resilient; chillers are not.** Warm-water DTC can shift facilities toward dry / hybrid cooling and reduce conventional chiller or water dependence, so later underwriting should favour suppliers that span thermal functions across architectures.
+- Broad non-nuclear bottleneck discovery is now complete. The programme proceeds to **nuclear supply-chain decomposition #50**, then the canonical **E2E bottleneck-migration refresh #51**, common-basis ranking #52, supplier Investment Capture #53 and capital allocation #54.
+
+### Behind-the-meter integration validated as moderate speed-to-power bottleneck
+
+- Completed **#47** and added `research/energy/deep-dives/behind-the-meter-microgrids.md`.
+- **Integrated BTM power / microgrid architecture passes Gate A narrowly at 4.1/5, Medium confidence.** The durable function is site-specific power architecture, controls, protection, orchestration and execution that can bring an AI campus online before or beyond a conventional grid connection — not generic onsite generation.
+- **Strategic revealed preference is now strong.** Vertiv agreed to acquire UtilityInnovation Group for about **$1.45bn upfront plus up to $1.15bn contingent consideration**, explicitly to add microgrid controls, BTM architecture, generation/storage orchestration and microgrid switchgear to its grid-to-rack portfolio.
+- Commercial alternatives are real: Siemens Energy + Eaton offer a standardized 500 MW onsite architecture; Mitsubishi Power's Cheyenne Power Hub targets ~1.15 GW of dedicated data-centre power; Bloom/Brookfield expanded an AI-power financing framework to **$25bn**.
+- **Falsification materially narrows the thesis.** IEA analysis says reliable onsite gas for variable critical loads can require **30–70% overbuild**, turbine supply remains constrained and only a minority of announced onsite-gas projects have entered physical construction. BTM therefore often **moves** scarcity into turbine slots, gas pipelines, permitting, land, redundancy, electrical equipment and controls rather than eliminating it.
+- **Generic BESS / battery hardware scores 3.4/5 and does not pass Gate A; gensets remain 3.6/5; fuel cells are a credible commercial alternative but not a validated scarce broad function.** Large gas turbines retain their prior 4.6/5 Gate-A result inside many BTM architectures.
+- No BTM supplier is promoted before common-basis Investment Capture. The only remaining broad bottleneck validation is **cooling / heat rejection**, after which the energy programme should synthesize the frontier and move to supplier underwriting.
+
+### Data-centre electrical backbone validated; 800 VDC supplier scarcity not yet proven
+
+- Completed **#45** and added `research/energy/deep-dives/electrical-backbone-800vdc.md`.
+- **The integrated data-centre electrical backbone passes Gate A at 4.3/5 with Medium-High confidence.** Eaton, Schneider Electric and Vertiv show strong 2026 order / backlog growth alongside attractive or expanding electrical / critical-infrastructure margins, while ABB confirms investment across MV distribution, UPS and next-generation source-to-rack architecture.
+- **800 VDC is now a validated architecture transition but not a validated broad supplier bottleneck.** Google, Microsoft and NVIDIA are standardising 800 VDC through OCP; the technical need is strong as rack power moves toward MW scale, but more than 80 ecosystem participants and explicit interoperability goals reduce broad supplier scarcity to roughly **3.6/5** today.
+- The likely future 800 VDC profit pools are narrower: **MW-scale MVAC-to-DC conversion / transformer-rectifier or SST power blocks, DC fault protection / solid-state breakers, high-power DC busway / connectors, high-density DC/DC conversion and DC-native storage / UPS integration**. None is promoted without direct qualification / pricing evidence.
+- The architecture is likely to **redistribute rather than eliminate** electrical value. MV equipment, protection, transformation / conversion, busway and integrated power-system engineering remain relatively architecture-resilient; some legacy AC PDU / rack-PSU / repeated-conversion layers face bypass risk.
+- No Eaton, Schneider, Vertiv, ABB or other supplier is promoted before common-basis Investment Capture and valuation work. The next validation priority is **behind-the-meter / microgrid + storage**, then **cooling / heat rejection**, followed by an interim energy synthesis.
+
+### Large gas-turbine equipment bottleneck validated
+
+- Completed **#41** and added `research/energy/deep-dives/dispatchable-generation.md`.
+- **Large gas-turbine equipment / manufacturing slots pass Gate A at 4.6/5 with High confidence on current scarcity.** GE Vernova reported 116 GW of gas-power backlog / slot reservations at Q2 2026 versus roughly 20 GW of 2026 annual output; Siemens Energy is sold out through FY2028 with FY2029 filling rapidly and identifies blades / vanes as a principal production bottleneck.
+- **Economic-capture evidence is unusually direct.** Multi-year reservations, favorable new-unit pricing, concentrated advanced-class OEM supply, gradual capacity expansion and long-lived aftermarket / service economics make this the strongest concentrated merchant profit-pool candidate in the energy work so far.
+- Mitsubishi Power provides a third credible advanced-class supplier and direct dedicated data-centre deployment evidence, preventing a duopoly conclusion while preserving high supplier concentration.
+- **Reciprocating gensets / distributed generation score 3.6/5 and do not pass Gate A.** Data-centre demand is strong, but modularity, broader supplier choice and substitution make supply more elastic.
+- AI is treated as an **important marginal accelerator rather than the sole cause** of the turbine cycle; grid reliability, replacement generation, industrial growth and regional power demand also matter.
+- No turbine OEM is promoted to `Watch` before common-basis Investment Capture and valuation work. The next validation priority moves closer to the data centre: **electrical backbone / grid-to-rack architecture**, followed by 800 VDC, behind-the-meter integration and cooling.
+
+### Physical transmission deliverability validated; queue friction separated
+
+- Completed **#38** and added `research/energy/deep-dives/transmission-large-load.md`.
+- **Physical transmission deliverability passes Gate A at 4.7/5 with High confidence.** DOE's 2026 National Transmission Needs Study identifies pressing transmission needs driven partly by data centres and other large loads, while major regions are approving some of their largest transmission portfolios.
+- **Large-load interconnection-process friction is deliberately separated from physical scarcity.** FERC's June 2026 reforms, flexible / non-firm service, co-location and electrically proximate generation can reduce study delays and network upgrades; SPP and ERCOT are already redesigning large-load processes.
+- **Ghost demand materially weakens raw queue forecasts.** U.S. large-load requests reportedly exceed 700 GW, and stronger deposits / project-maturity requirements are removing speculative requests. Queue MW is therefore not treated as a credible demand forecast by itself.
+- Advanced reconductoring, dynamic line rating and power-flow control can unlock existing corridors faster than greenfield lines. This is evidence against a simplistic "more transmission lines" thesis but supports a broader **speed-to-power** profit pool in physical network upgrades.
+- The likely investable layers are **EPC / engineering, grid equipment, advanced conductors / GETs, substations and onsite alternatives**, not the interconnection queue itself. Quanta's Q2 2026 backlog of ~$53.4bn is an early signal of construction / execution demand, but no company is promoted before common-basis Investment Capture.
+- The next validation priority becomes **dispatchable generation equipment**, followed by data-centre electrical backbone / 800 VDC / behind-the-meter power.
+
+### Transformer and MV/HV switchgear bottlenecks validated
+
+- Completed **#36** and added `research/energy/deep-dives/transformers-grid-equipment.md`.
+- **Transformers pass Gate A at 4.7/5 with High confidence.** DOE still reports roughly 1–2+ year distribution-transformer and 3–4 year large-transformer lead times; custom engineering, factory/test capacity, utility qualification, heavy transport, GOES/component dependence and regional manufacturing make qualified capacity slow to expand.
+- **MV/HV switchgear passes Gate A at 4.4/5 with Medium-High confidence.** The function is architecture-resilient and 2026 order/backlog evidence is strong, but the global qualified supplier base is broader and capacity can expand somewhat faster than for large transformers.
+- **The strongest revealed-preference evidence is speed-to-power:** Hitachi Energy air-freighted >80-tonne large transformers from Europe to a U.S. hyperscale data-centre project, showing that schedule value can dominate logistics cost.
+- Supplier economics are already visible: GE Vernova's data-centre Electrification orders exceeded $5bn YTD by Q2 2026; Eaton's Electrical order/backlog growth remained very strong; leading suppliers are expanding capacity while maintaining attractive electrical margins.
+- **Falsification is material but does not overturn the thesis.** Hitachi Energy's >$9bn global investment program, GE Vernova / Prolec expansion, Eaton capacity additions and DOE standardisation should reduce scarcity gradually through 2027–2030. The conclusion is **structural scarcity through the late 2020s, not permanent shortage**.
+- No company is promoted to `Watch`. The next validation priority is **large-load interconnection / transmission**, followed by dispatchable generation equipment, before company-level Investment Capture begins.
 
 ### AI energy / power-delivery value chain opened
 
