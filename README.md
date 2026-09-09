@@ -15,11 +15,11 @@ Git history is the authoritative version record. Do not create duplicate files s
 ## Key files
 
 - `AGENTS.md` — mandatory operating instructions for any AI agent working in this repository
-- `AUTOMATION.md` — canonical backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
+- `AUTOMATION.md` — canonical live backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — active stock-aware cross-theme top-10 hunting queue; separates structural upside, evidence quality and current stock attractiveness
-- `research/top10-capital-allocation.md` — Gate-D decision layer for the Top 10; converts research into dated Buy-below / speculative / wait / avoid conclusions with explicit valuation hurdles
+- `research/top10-capital-allocation.md` — historical Gate-D valuation/downside layer; useful context but not the current 18-month action framework
 - `PORTFOLIO.md` — Gate-E aggressive dynamic portfolio strategy for the £40k / 18-month objective through March 2028; defines concentration, catalyst timing, buy/add/trim/sell/rotation rules and bottleneck migration
 - `sources/source-register.md` — source provenance register
 - `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
@@ -39,26 +39,43 @@ Pull requests are primarily an audit trail and safety boundary, not a manual app
 
 If someone prefers not to formulate an agent prompt directly, GitHub's **Research request** issue template can capture the question and starting context in a structured way.
 
-## Backlog-driven automation
+## Live backlog-driven automation
 
-The preferred automation architecture is documented in `AUTOMATION.md` and tracked by **#120**.
+The live automation architecture is documented in `AUTOMATION.md` and tracked by **#120**.
 
-GitHub issues are the execution queue. The initial design uses **one hourly, alert-first Portfolio Ops scheduler** rather than one scheduler per company, theme, geography or review cadence.
+**Status:** one hourly alert-first **Unicorn Portfolio Ops** scheduler is enabled.  
+**Cadence:** hourly from **00:00 through 22:00 Europe/London**.  
+**Deployment backlog:** #121 and #122 are complete.  
 
-Initial cadence: **hourly from 00:00 through 22:00 Europe/London**, providing useful coverage across Japan/Hong Kong, Europe and the US.
+GitHub issues are the execution queue. The scheduler does not carry one fixed stock list inside its prompt; it reads the current machine-readable issue state at runtime.
 
 Every run first performs a cheap monitoring pass:
-1. scans explicit `WAITING` and action-condition triggers;
+1. scans explicit `WAITING` / evidence / action-condition triggers;
 2. checks only the minimum fresh evidence needed to determine whether something material changed;
 3. promotes fired triggers to `READY` and P0/P1 where justified;
 4. emits a user notification only for a new/material `ACTION`, `REASSESS`, `THESIS BREAK`, `CATALYST` or `SYSTEM DEGRADED` condition;
 5. deduplicates unchanged conditions so routine monitoring stays quiet.
 
-The same scheduler can also execute backlog work, but substantive research is deliberately bounded. The hourly cadence exists primarily for fast detection and useful alerts, not to launch a full underwrite every hour. Normally no more than one non-triggered heavy research item should be started per 24 hours; P0/P1 trigger-driven analysis can override that limit when needed to make an alert decision-useful.
+The hourly cadence exists primarily for **fast detection and useful alerts**, not to launch a full underwrite every hour. Normally no more than one non-triggered heavy research item should be started per rolling 24 hours; P0/P1 trigger-driven analysis can override that limit when needed to make an alert decision-useful.
 
-A useful notification should state what changed, why it matters, the research-level signal or reassessment need, the relevant governed condition, the main downside/thesis breaker, the next catalyst and what decision the user needs to make. Actual brokerage execution remains manual.
+A useful notification should state what changed, why it matters, the current research-level signal or reassessment need, the relevant current Gate-E condition, the main downside/thesis breaker, the next catalyst and what decision the user needs to make. Actual brokerage execution remains manual.
 
-Epics are coordination surfaces and are not selected directly. Monthly portfolio reviews remain backlog-due conditions rather than separate schedulers initially.
+Epics are coordination surfaces and are not selected directly. Monthly and quarterly reviews are represented as due backlog items (#132 / #133) rather than separate schedulers.
+
+Current Gate-E company work includes:
+- #125 JEM
+- #126 SUSS MicroTec
+- #127 Weebit Nano
+- #86 Laifual Drive
+- #128 Micronics Japan
+- #106 BlackBerry/QNX
+- #108 FORT Robotics
+- #129 Centrus
+- #130 Jinpan
+- #85 Harmonic Drive
+- #109 QNX vs FORT comparison
+
+The initial portfolio-construction work is #131 and becomes executable when enough current company underwrites exist.
 
 Scheduler sufficiency is measured rather than assumed. Key indicators include:
 - in-window P0/P1 alert detection-to-notification latency, target **<=2h**;
@@ -68,15 +85,15 @@ Scheduler sufficiency is measured rather than assumed. Key indicators include:
 - 7-day Backlog Pressure Ratio;
 - substantive-work saturation.
 
-A second scheduler is added only when the documented scale-up thresholds persist. The default split would separate **Alert/Trigger/Triage** from the **Research Worker**, not create one scheduler per stock.
+A second scheduler is added only when the documented scale-up thresholds persist. The default split would separate **Alert / Trigger / Triage** from the **Research Worker**, not create one scheduler per stock.
 
 ## Example instruction to an agent
 
-> Read `AGENTS.md` and the relevant existing research first. Research the requested Physical AI bottleneck, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
+> Read `AGENTS.md` and the relevant existing research first. Research the requested bottleneck/company, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
 
 For backlog-driven work:
 
-> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md` and the active GitHub backlog. Scan explicit triggers first, notify only when the notification contract is met, then select only a valid `READY` issue, claim it as `RUNNING`, execute bounded work, follow repository governance, and update the issue with its truthful resulting state and next action.
+> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md`, #120 and the active automation-relevant GitHub backlog. Scan explicit triggers first, notify only when the notification contract is met, then select only a valid `READY` issue, claim it as `RUNNING`, execute bounded work, follow repository governance, and update the issue with its truthful resulting state and next action.
 
 ## When to request manual review
 
@@ -92,6 +109,7 @@ Manual review is optional. Ask for it when you specifically want a second pair o
 - Sources should be attributable and recoverable
 - Portfolio capital is dynamic: holdings must continue to earn their place on remaining-window forward return and evidence, not on cost basis or past conviction
 - The active Gate-E mandate is aggressive and catalyst-aware: favour concentrated, evidence-backed setups capable of resolving materially inside the 18-month window
+- Historical Gate-D / old Gate-C normalized-return zones are context, not current action rules unless explicitly re-adopted by current Gate-E work
 - Bottlenecks are expected to migrate as technology, capacity and supply chains mature; the research universe and portfolio must be re-ranked accordingly
 - Automation should be quiet when nothing changed and explicit when a decision may be required
 - Automation capacity should be scaled from measured alert latency, queue pressure and throughput, not intuition
