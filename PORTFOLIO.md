@@ -4,8 +4,8 @@
 **Reference date:** 2026-09-09  
 **Target date:** March 2028  
 **Backlog:** #117  
-**Automation:** #120 / `AUTOMATION.md`  
-**Upstream research:** #110 / #114  
+**Automation:** LIVE — #120 / `AUTOMATION.md`  
+**Upstream research:** #110; historical Gate-D baseline #114  
 
 > This is a research and portfolio-management framework, not automatic trading instructions.
 
@@ -55,9 +55,11 @@ Aggressive does **not** mean indiscriminate leverage, averaging down without evi
 
 ## Relationship to Gate D
 
-`research/top10-capital-allocation.md` remains the dated Gate-D valuation layer. Its 10/12/15% normalized-return work remains useful for downside analysis, valuation discipline and understanding what is already priced in.
+`research/top10-capital-allocation.md` and closed issue **#114** preserve the dated Gate-D valuation baseline. Their 10/12/15% normalized-return work remains useful for downside analysis, valuation discipline and understanding what was priced in on the reference date.
 
-However, those return hurdles are far below the new portfolio requirement. Gate E now asks:
+Gate D is now **historical context, not the active action framework**. Old four-year or normalized-return price zones must not be treated as current Buy/Add/Trim/Sell triggers unless a current Gate-E company underwrite explicitly re-adopts an evidence-supported condition.
+
+Gate E asks:
 
 1. Can this position plausibly contribute to a **2x portfolio outcome by March 2028**?
 2. What specific catalyst sequence could create that return inside 18 months?
@@ -93,7 +95,7 @@ Working design principles for the initial portfolio:
 - thematic duplication should be counted as correlated exposure even when securities are different;
 - cash can remain available for event-driven entries, but should not become a permanent default when qualifying setups exist.
 
-Exact initial and maximum weights will be set only after the 18-month re-underwrite of the current Top 10.
+Exact initial and maximum weights will be set only after enough current 18-month company underwrites exist to support an evidence-backed portfolio. Portfolio construction is tracked in **#131**; do not force deployment merely to fill 4–7 slots.
 
 ## Transaction rules
 
@@ -165,6 +167,18 @@ The current Top 10 is a **live ranked hunting universe, not a permanent portfoli
 
 ## Review cadence
 
+### Hourly alert-first monitoring
+The live **Unicorn Portfolio Ops** scheduler runs hourly from **00:00 through 22:00 Europe/London** under `AUTOMATION.md`.
+
+Every run performs a cheap trigger/action scan first. User notifications are quiet by default and are emitted only for a new/material:
+- `ACTION`;
+- `REASSESS`;
+- `THESIS BREAK`;
+- `CATALYST`;
+- `SYSTEM DEGRADED`.
+
+Hourly monitoring does **not** imply hourly full research. Normally no more than one non-triggered heavy research item is started per rolling 24 hours; P0/P1 trigger-driven work may override that when needed for a decision-useful alert.
+
 ### Event-driven
 Refresh affected holdings/candidates after:
 - earnings and regulatory filings;
@@ -176,18 +190,20 @@ Refresh affected holdings/candidates after:
 - major policy or regulatory changes.
 
 ### Material price move
-Recalculate expected return immediately. Do not anchor to the original purchase price or prior high.
+Recalculate expected return when a current Gate-E underwrite defines a relevant price/valuation condition or a move materially changes the remaining-window case. Do not anchor to the original purchase price or prior high.
 
 ### Monthly portfolio re-rank
-Rank all holdings and the highest-priority candidates on:
+Issue **#132** becomes executable when the monthly review is due. Rank all holdings and highest-priority candidates on:
 1. remaining 18-month forward return;
 2. catalyst timing/probability;
 3. downside/permanent-loss risk;
 4. bottleneck direction;
 5. best alternative use of capital.
 
-### Quarterly full-universe refresh
-Re-rank:
+Stay quiet if the re-rank is materially unchanged; notify only if it creates an `ACTION` or `REASSESS` condition.
+
+### Quarterly full-universe challenge
+Issue **#133** becomes executable when the quarterly challenge is due. Re-test:
 1. current holdings;
 2. Top-10 candidates;
 3. important benchmark companies;
@@ -195,32 +211,52 @@ Re-rank:
 
 The recurring question is: **where is the best risk-adjusted asymmetry for the remaining time to March 2028?**
 
-## Automation and backlog execution
+## Live automation and backlog execution
 
-Gate E should be operated through the backlog protocol in `AUTOMATION.md` and automation epic **#120**.
+Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 
-The initial design uses **one scheduled Portfolio Ops Agent** rather than one scheduler per company, theme or review cadence. The scheduler should:
+**Deployment status:**
+- #121 backlog normalization — completed;
+- #122 hourly Portfolio Ops deployment — completed;
+- one live scheduler is enabled;
+- actual brokerage execution remains manual.
 
-1. scan explicit event/price/evidence triggers on `WAITING` issues;
-2. calculate queue-health indicators;
-3. execute the highest-priority valid `READY` issue;
-4. use the existing governed branch/PR/merge workflow;
-5. update the issue state and next action;
-6. create follow-up work only when it can change the portfolio, ranking, bottleneck or evidence decision.
+### Current company decision surface
+- **#125 JEM — READY P1**
+- **#126 SUSS — READY P1**
+- **#127 Weebit — READY P1**
+- **#86 Laifual — READY P1**
+- **#128 Micronics Japan — READY P1**
+- **#106 BlackBerry/QNX — WAITING P0** on Q2 FY2027 / material non-auto evidence
+- **#108 FORT — WAITING P1** on S-4/equivalent / transaction change
+- **#129 Centrus — WAITING P1** on funded-capacity / financing inflection
+- **#130 Jinpan — READY P1**
+- **#85 Harmonic Drive — PARKED P2**
+- **#109 QNX vs FORT — BLOCKED P1** until both fresh event-driven underwrites exist
 
-Monthly portfolio review is a backlog-due condition, not a separate scheduler at the initial stage.
+### Portfolio / recurring work
+- **#131 — BLOCKED P0:** construct the initial aggressive £40k portfolio once enough current company underwrites exist;
+- **#132 — WAITING P1:** monthly portfolio re-rank;
+- **#133 — WAITING P2:** quarterly full-universe challenge.
+
+The scheduler must select only valid `READY` work, mark it `RUNNING` before substantive execution, and use branch → PR → required `Research governance` → merge for substantive repository changes.
+
+## Scheduler sufficiency
 
 Whether one scheduler remains sufficient must be measured rather than assumed. Track:
 
-- substantive `READY` backlog depth;
-- oldest P0/P1 READY age;
-- material trigger-to-action latency;
+- in-window P0/P1 alert detection-to-notification latency — target **<=2h**;
+- P0/P1 trigger-to-substantive-action latency — target **<=24h**;
+- substantive `READY` backlog depth — healthy range usually **0–3**; >5 is a warning;
+- oldest P0/P1 READY age — target **<=48h**;
 - 7-day Backlog Pressure Ratio (new executable work / completed executable work);
-- run saturation.
+- substantive-work saturation — warning if >80%.
 
-The default scale-up rule is to add a second scheduler only when **any two** documented capacity/latency thresholds persist for **two weeks**. If scaling is required, split into a Trigger/Triage worker and a Research Worker before considering company/theme-specific schedulers.
+Keep one scheduler unless **any two** documented capacity/latency thresholds persist for **two weeks**. If scaling is required, split into:
+1. **Alert / Trigger / Triage**;
+2. **Research Worker**.
 
-Actual brokerage execution remains manual. Automated agents may produce research-level Buy/Add/Trim/Sell signals, but they do not place securities orders.
+Do not create one scheduler per company/theme by default.
 
 ## Initial Gate-E work programme
 
@@ -234,10 +270,11 @@ For every current Top-10 name add:
 - entry/add/trim/sell rules;
 - initial size range and maximum size ceiling;
 - current bottleneck direction;
-- best alternative use of capital.
+- best alternative use of capital;
+- explicit monitorable alert triggers where evidence supports them.
 
 ### Phase 2 — construct aggressive £40k portfolios
-Build three versions:
+Tracked in #131. Build three versions:
 
 1. **Aggressive baseline** — 4–7 concentrated asymmetric positions with strict catalyst/rotation discipline.
 2. **Aggressive + tactical cash** — same hurdle but preserves more capital for specific price/evidence triggers.
@@ -268,10 +305,13 @@ Track:
 
 ## Governance
 
-- #117 is the active Gate-E backlog and reflects the 18-month aggressive mandate.
-- #120 is the automation/orchestration epic; `AUTOMATION.md` defines machine-readable queue state and scheduler-sufficiency rules.
-- Gate D (#114) remains the company-level valuation/evidence layer, but stale four-year execution instructions must be reconciled before automation treats it as executable under Gate E.
-- #110 remains the cross-theme hunting-universe ranking.
+- #117 is the active Gate-E portfolio epic.
+- #120 is the live automation/orchestration epic; `AUTOMATION.md` defines machine-readable queue state, alerts and scheduler-sufficiency rules.
+- #121 and #122 are completed deployment work.
+- #114 / `research/top10-capital-allocation.md` are **historical Gate-D baseline/context**, not current action rules.
+- #110 remains the cross-theme hunting-universe epic.
+- #131 is the initial portfolio-construction gate; #132/#133 provide recurring monthly/quarterly work without extra schedulers.
 - `watchlist.md` remains a separate research-prioritisation surface.
 - No company receives a watchlist promotion solely from portfolio-role assignment.
 - New factual investment evidence must continue to follow `AGENTS.md` source and confidence rules.
+- Actual brokerage orders remain manual; automation may produce research-level signals but must not execute trades.
