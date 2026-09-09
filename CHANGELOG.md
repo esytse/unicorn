@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-09
 
+### Top-10 common-basis underwriting starts; Laifual moves #7 → #4
+
+- Opened **#112** as the active common-basis underwriting sprint across all ten companies. Each name now requires a plausible 2–5x path, what is already priced in, downside, catalyst, thesis breaker, appropriate valuation method and explicit rank-change rule.
+- **Laifual Drive moves #7 → #4** after its 28 August H1 2026 regulatory filing materially upgraded operating-capture evidence: revenue **RMB142.2m (+80.1%)**, adjusted EBITDA **RMB12.4m**, harmonic-reducer shipments **239.5k (+112.0%)**, reducer gross margin **29.6% vs 20.7%**, and 95.1% H1 capacity utilization. Management says humanoid customers are progressing from validation to **bulk procurement**. This is now direct evidence that humanoid/collaborative demand is affecting volume, mix, unit cost and adjusted profitability.
+- Laifual remains high risk rather than a `Watch` promotion: current equity value is still high relative to revenue, top-five customers are 55.8% of sales, customer identities / lifetime qualification remain incomplete, and China price competition plus alternate joint architectures can erode the profit pool.
+- **Centrus evidence strengthens but does not change rank.** A definitive Radiant HALEU contract adds another customer-prepayment source for domestic enrichment build-out following X-energy. The counter-evidence remains material: the current DOE FY2027 budget does not fund operation of the legacy demonstration cascade and DOE has said it does not currently intend to exercise further options under that operation contract. The thesis is improving from “strategic demand” toward “customer-supported financing,” but full commercial capacity is not yet funded.
+- **Jinpan's AI-power sensitivity strengthens.** H1 data-centre orders were RMB3.869bn (+336.3%), data-centre revenue RMB1.265bn (+122.6%) and data-centre backlog RMB5.092bn (+179.1%); overseas orders were RMB4.190bn (+270.7%). Jinpan remains #9 because named global qualification, margin durability and cash conversion are lower-confidence than the growth figures.
+- **FORT remains transaction-dependent.** No Form S-4 was found through 9 September; SEC materials continue to say Newbury Street II intends to file it. Do not advance FORT's fully diluted / recurring-software valuation before the filing.
+- Updated `research/top10-unicorn-priority.md` with a common decision surface for all ten companies and a first stock-aware work-lane split: near measurable return zones (JEM/SUSS/Jinpan), quality/valuation reset (MJC/HDS), and milestone/platform/event cases (Weebit/Laifual/QNX/FORT/Centrus).
+- No company status changes are made in `watchlist.md` from this pass. The ranking is a research-priority judgment, not an investment recommendation.
+
 ### Cross-theme stock-aware Top-10 research queue established
 
 - Added `research/top10-unicorn-priority.md` and opened **#110** as the canonical cross-theme queue for the ten companies where a validated bottleneck could most plausibly transform the company from the current starting valuation.

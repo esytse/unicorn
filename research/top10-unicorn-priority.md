@@ -3,234 +3,193 @@
 **Status:** Active cross-theme research queue  
 **Reference date:** 2026-09-09  
 **Parent backlog:** #110  
-**Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality with the stock setup.
+**Active sprint:** #112  
+**Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality, company-level capture and the stock setup.
 
-> This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point. It does not mean the company is private or literally worth US$1bn.
+> This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
 ## 1. Ranking method
 
-The ranking deliberately separates three questions:
+The ranking separates three questions:
 
 1. **Structural upside potential** — is the company exposed to a real bottleneck or dependency that could become much more valuable?
-2. **Evidence quality / capture** — is there direct evidence that the company is actually winning customers, orders, production sockets, royalties or margins?
+2. **Evidence quality / capture** — is there direct evidence that the company is winning customers, orders, production sockets, royalties or margins?
 3. **Stock attractiveness now** — how demanding is the current market value / valuation relative to what is already proven?
 
-A high-quality company can rank below a smaller, riskier company if the validated theme is unlikely to transform the larger company. Conversely, a tiny company does not rank highly just because it is small.
+The active #112 sprint adds a common decision surface for every company:
 
-## 2. Current top 10 — stock-aware
+- plausible **2–5x path** over 5–10 years;
+- what the stock already prices in;
+- downside if the theme is right but company capture disappoints;
+- strongest catalyst / evidence checkpoint;
+- strongest thesis breaker;
+- current stock-attractiveness label;
+- explicit rule for moving up or down the ranking.
 
-| Rank | Company | Theme | Dated stock reference | Approx. market value | Valuation framing | Drawdown / rerating | Current research view |
-|---:|---|---|---|---:|---|---|---|
-| **1** | **Japan Electronic Materials (6855)** | HBM / memory probe cards | **¥6,570** (9 Sep) | **~¥96bn** | ~**13.0x forward P/E** | ~36% below 52w high; market cap ~2.6x y/y | Best current mix of small starting size, real earnings and valuation asymmetry; exact HBM sockets and FCF remain the gate |
-| **2** | **SUSS MicroTec (SMHN)** | HBM stacking / advanced packaging | **€73.50** (9 Sep) | **~€1.42bn** | ~**25.2x forward P/E** | ~38% below 52w high; market cap ~2.9x y/y | Strong small-cap sensitivity and 2027 backlog; process-of-record/customer concentration can create severe downside |
-| **3** | **Weebit Nano (WBT)** | ReRAM / emerging NVM | **A$3.43** (9 Sep) | **~A$0.83bn** | ~**44x EV/FY26 revenue** using latest available EV anchor | ~61% below 52w high | Highest architectural optionality; Tier-1 licensing is real but mass-production royalties remain unproven and dilution is material |
-| **4** | **Micronics Japan (6871)** | HBM / memory probe cards | **¥12,710** close (9 Sep) | **~¥0.49tn** | ~**20–21x forward P/E** | ~30% below 52w high; market cap has roughly tripled y/y | Stronger operating franchise than JEM; valuation and Samsung/Micron concentration reduce current asymmetry |
-| **5** | **FORT Robotics / NTWO→FROB** | Physical-AI safety/control | **NTWO $10.98** (9 Sep) | **~US$0.81bn implied FORT pro-forma equity** at price-scaled transaction terms | ~**54x 2025 revenue** on rough price-scaled EV | NTWO ~10% above $10 transaction reference; SPAC price is not an operating-company 52w signal | Purest near-public horizontal safety-platform candidate; S-4, software mix and dilution are gating evidence |
-| **6** | **BlackBerry / QNX (BB)** | Physical-AI deterministic runtime / safety | **US$7.87** (8 Sep close) | **~US$4.6bn** | ~**41x group forward P/E**; SOTP required | ~42% below 52w high; market cap ~2x y/y | Best risk-adjusted Physical-AI runtime lead because QNX economics already exist; robotics materiality is not yet disclosed |
-| **7** | **Laifual Drive (3952.HK)** | Robotics precision transmission | **HK$58.00** (8 Sep) | **~HK$6.0bn** | ~**16x trailing sales**; loss-making / >100x forward P/E screen | ~52% below post-listing high | Tiny pure play with actual humanoid reducer evidence; current economics still do not justify the story without rapid scale |
-| **8** | **Centrus Energy (LEU)** | LEU / HALEU enrichment | **US$185.53** (8 Sep close) | **~US$3.7bn** | ~**76x forward P/E**; event-driven valuation is more appropriate | ~60% below 52w high; shares outstanding +~31% y/y | Strategic US enrichment optionality can transform the company, but funding, policy and dilution dominate the stock thesis |
-| **9** | **Hainan Jinpan Smart Technology (688676)** | AI power / transformers / modular power | **CNY68.01** (9 Sep) | **~CNY30.2bn** | ~**32.1x forward P/E** | ~39% below 52w high | Smaller direct AI-power specialist with strong data-centre order evidence; overseas qualification and cash conversion remain weak points |
-| **10** | **Harmonic Drive Systems (6324)** | Robotics precision transmission | **¥5,820** close (9 Sep) | **~¥551bn** | ~**75x forward P/E** | ~36% below 52w high; market cap >2x y/y | Strongest technical heritage among reducer names, but current valuation already capitalises substantial humanoid success |
+The valuation method must match the business. Do not force P/E analysis onto royalty, SPAC, SOTP or funded-capacity cases.
 
-### Important caveats on the table
+## 2. Current Top 10 — first #112 common-basis pass
 
-- **FORT:** NTWO is a SPAC shell. The ~US$0.81bn figure is a rough scaling of the announced pro-forma FORT equity value from the $10 transaction reference to the current NTWO price; it is **not** NTWO's own market cap and will change with redemptions, PIPE/NRA funding, warrants, earnouts, final share count and transaction costs.
-- **Weebit:** current market value is calculated from the 9 Sep close and current shares; the EV/revenue multiple uses the latest available structured EV anchor and is therefore approximate.
-- **Micronics Japan:** current market value is approximated from the 9 Sep close × the latest disclosed shares because some structured market-cap pages lag the current close.
-- Drawdown from a 52-week or post-listing high is **not a valuation argument** by itself. It is included only to expose how much expectations have already moved.
+| Rank | Company | Theme | 9 Sep stock / value framing | Current label | Why it ranks here |
+|---:|---|---|---|---|---|
+| **1** | **Japan Electronic Materials (6855)** | HBM / memory probe cards | **¥6,570; ~¥96bn; ~13x forward P/E** | **Near zone / investigate** | Best current mix of small starting size, real earnings and HBM asymmetry; HBM sockets and FCF remain unproven |
+| **2** | **SUSS MicroTec (SMHN)** | HBM stacking / advanced packaging | **€73.50; ~€1.42bn; ~25x forward P/E** | **Near zone / watch** | Record €473.7m order book and ~€220m 2027 delivery visibility give real small-cap sensitivity; process-of-record concentration is the risk |
+| **3** | **Weebit Nano (WBT)** | ReRAM / emerging NVM | **A$3.43; ~A$0.83bn; ~44x EV/FY26 revenue** | **Too early / high optionality** | Tier-1 licensing and tape-outs are real; recurring mass-production royalties are still the decisive missing proof |
+| **4** | **Laifual Drive (3952.HK)** | Robotics precision transmission | **HK$58.50; ~HK$6.1bn** | **Watch / high risk** | H1 2026 materially upgrades the thesis: +80% revenue, +112% reducer shipments, positive adjusted EBITDA and direct humanoid bulk-procurement evidence |
+| **5** | **Micronics Japan (6871)** | HBM / memory probe cards | **¥12,710; ~¥0.49tn; ~20–21x forward P/E** | **Quality / valuation reset** | Strongest operating probe-card franchise in the Top 10, but valuation and ~71% Samsung + Micron Taiwan concentration reduce asymmetry |
+| **6** | **BlackBerry / QNX (BB)** | Physical-AI deterministic runtime / safety | **US$7.87; ~US$4.6bn; SOTP required** | **Watch pending SOTP** | QNX already has profitable safety-runtime economics; Physical AI only needs to become a second growth engine rather than create the business |
+| **7** | **FORT Robotics / NTWO→FROB** | Physical-AI safety/control | **NTWO ~$10.98; ~US$0.81bn price-scaled implied FORT equity** | **Too early / transaction-dependent** | Pure horizontal safety-platform exposure, but ~50x+ 2025 revenue and no S-4 yet make recurring software economics and dilution the gate |
+| **8** | **Centrus Energy (LEU)** | LEU / HALEU enrichment | **US$185.53; ~US$3.7bn; event-driven** | **Watch / event-driven** | Customer prepayments from X-energy and now Radiant strengthen commercial funding, but DOE funding and dilution remain decisive |
+| **9** | **Hainan Jinpan (688676)** | AI power / transformers / modular power | **CNY68.01; ~CNY30.2bn; ~32x forward P/E** | **Near zone / lower evidence** | H1 AIDC and overseas orders are accelerating sharply; named global qualification and cash conversion remain weaker than the headline growth |
+| **10** | **Harmonic Drive Systems (6324)** | Robotics precision transmission | **¥5,820; ~¥551bn; ~75x forward P/E** | **Too expensive / benchmark** | Excellent technical heritage and humanoid evidence, but the stock already capitalises substantial humanoid success and China competition is increasing |
 
-## 2.1 Existing return-hurdle screen
+### Ranking change in this pass
 
-Several companies already have normalized return frameworks in the repo. The table below deliberately does **not** force P/E-style valuation onto milestone or transaction-driven names.
+**Laifual moves #7 → #4.**
 
-| Company | Current reference | Existing ~12% base-return zone / hurdle | Gap | Interpretation |
-|---|---:|---:|---:|---|
-| **JEM** | ¥6,570 | **~¥5,640** | **~16.5% above** | Closest combination of valuation and small-company asymmetry, but the return zone assumes current earnings quality survives the capex/dilution cycle |
-| **SUSS** | €73.50 | **~€64** | **~14.8% above** | Also close enough to monitor actively; operating risk is much wider because backlog/process-of-record can move quickly |
-| **Micronics Japan** | ¥12,710 | **~¥9,270** | **~37.1% above** | Strong business, but current price is materially ahead of the normalized base-case hurdle |
-| **Centrus** | $185.53 | **~$147** base-value zone | **~26.2% above** | Event-driven model; the key variable is probability/funding/dilution rather than ordinary EPS compounding |
-| **Jinpan** | CNY68.01 | **~CNY59** | **~15.3% above** | Numerically close to a 12% zone, but evidence quality is lower than JEM/SUSS because qualification and cash conversion remain unresolved |
-| **Weebit** | A$3.43 | No conventional P/E zone | n/a | Existing reverse screen requires roughly **5–7x FY26 revenue by end-2030 plus a material shift to royalties** for an attractive normalized outcome |
-| **FORT** | NTWO $10.98 | Defer until S-4 / final dilution | n/a | Current transaction multiple is too sensitive to redemptions, warrants, final shares and actual recurring software mix |
-| **QNX / BB** | $7.87 | SOTP not yet complete | n/a | The next useful hurdle is standalone QNX value + Secure Communications + net cash/corporate-cost treatment, not group P/E alone |
-| **Laifual** | HK$58.00 | Gate-B normalization incomplete | n/a | Current ~16x sales / loss-making base means stock value depends on rapid scale; build scenario only after 2026 mix/customer evidence is reconciled |
-| **Harmonic Drive** | ¥5,820 | Gate-B normalization incomplete | n/a | ~75x forward P/E itself signals a demanding hurdle; quantify humanoid profit contribution before assigning a monitoring zone |
+**Previous conclusion:** interesting small humanoid-motion pure play, but still mainly a story requiring future scale.
 
-**INTERPRETATION:** The existing scenario work suggests three different research lanes:
+**New evidence:** the 28 Aug 2026 H1 filing shows:
 
-1. **Measurable near-zone candidates:** JEM, SUSS and Jinpan are within ~15–17% of existing 12% base-return zones, but evidence quality differs materially.
-2. **Quality / valuation-reset candidates:** MJC is strong operationally but ~37% above its existing 12% zone; HDS is even more valuation-dependent and lacks a completed Gate-C scenario.
-3. **Milestone / event / platform candidates:** Weebit, FORT, QNX, Laifual and Centrus require specific commercialization, transaction, SOTP, scaling or funding evidence rather than a simple multiple screen.
+- revenue **RMB142.2m, +80.1% y/y**;
+- gross profit **RMB38.8m, +148.3%** and group gross margin **27.3%** versus 19.8%;
+- adjusted EBITDA **RMB12.4m**, versus RMB0.3m a year earlier;
+- harmonic reducers / precision components **RMB119.4m / 83.9% of revenue**;
+- harmonic-reducer shipments **239.5k units, +112.0%**;
+- small reducers, which management links particularly to humanoid applications, increased to **10.6% of shipment volume** from 5.1%;
+- harmonic-reducer unit cost fell from **RMB482 to RMB351** and segment gross margin rose **20.7% → 29.6%**;
+- management says humanoid customers are progressing from validation to **bulk procurement**;
+- H1 designed capacity was 270k units versus 256.9k production, **95.1% utilization**; July monthly designed capacity reached 64.8k units;
+- top five customers were **55.8%** of revenue; largest customer 17.2%.
 
-This is the most useful first common-basis result from the stock overlay: **do not research all ten with the same valuation tool.**
+**INTERPRETATION:** Laifual now has direct operating evidence that humanoid/collaborative demand is affecting volume, mix, utilization, unit costs and adjusted profitability. It remains expensive relative to current revenue, but the operating proof is stronger than FORT's current revenue base and much more company-transformative than QNX's robotics exposure today.
 
-## 3. What has changed after adding the stock layer
+**Confidence:** Medium on operating capture; Low-Medium on long-run moat / stock return because customer identity, lifetime qualification, price competition and architecture share remain uncertain.
 
-### 3.1 JEM moves to the front of the research queue
+## 3. Common decision surface
 
-**FACT:** At ¥6,570, JEM is a sub-¥100bn company with TTM revenue growth of ~38%, net-income growth of ~86% and a ~13x forward P/E.
+The “2–5x path” below is a **HYPOTHESIS / hurdle**, not a price target or forecast.
 
-**FACT:** Existing repo work verifies an HBM-centered DRAM-share statement and major Micron Japan/Taiwan relationships, but exact HBM4/HBM4E production sockets and market share are not disclosed.
+| Company | Plausible 2–5x path | What is already priced in / downside | Strongest next catalyst | Strongest breaker | Move-up rule |
+|---|---|---|---|---|---|
+| **JEM** | HBM/advanced-DRAM sockets become material; new capacity earns high ROIC; EPS and FCF compound while valuation stays ordinary | ~13x forward P/E looks modest, but current FCF is weak and shareholders already funded major capacity through dilution | Investor-grade HBM4/HBM4E socket/share proof + Amagasaki ROIC evidence | Growth proves conventional memory-cycle utilization rather than durable HBM share | Named HBM production evidence plus improving FCF without another material raise |
+| **SUSS** | 2027 backlog converts, temporary bonding stays process-of-record, hybrid/advanced backend adds a second growth leg and EBIT margins normalize >13–15% | Existing ~€64 12% return zone is below €73.50; a process/share loss can collapse the earnings bridge | 2027 backlog conversion + hybrid-bond production qualification | Major HBM customer changes process/tool supplier and backlog proves non-repeatable | Multi-customer advanced-backend wins plus sustained margin recovery |
+| **Weebit** | Licenses convert into multiple high-volume royalty streams at TI/onsemi/foundry customers; royalties become the dominant high-margin model | >A$0.8bn value still assumes a large future royalty business; another long qualification cycle means dilution/time risk | First material customer mass production and disclosed royalties | Qualified platforms fail to create meaningful production royalties | First recurring royalty stream with visible repeatability across customers |
+| **Laifual** | Humanoid/cobot reducer volumes keep scaling, joint modules become meaningful, margins improve through utilization and in-house manufacturing | Starting valuation remains high versus current sales; China price competition and alternate joint architectures can compress both share and multiple | Repeat bulk humanoid procurement, named/repeat customers and sustained positive adjusted profit | Volume growth is bought with price cuts or harmonic-reducer architecture loses share | H2/FY evidence of continued >50% growth with durable ~30% reducer GM and positive cash/adjusted earnings |
+| **MJC** | HBM4/HBM4E leadership persists across major memory makers, margins stay structurally high and customer concentration falls | Existing ~¥9,270 12% zone is ~37% below current price; customer loss creates very high operating leverage in reverse | Next-gen HBM share / customer diversification | Samsung/Micron share loss or margin normalization reveals cyclical peak | New HBM production share plus either price reset or normalized earnings upgrade |
+| **QNX** | QNX grows from ~US$300m toward a much larger high-margin embedded platform as robotics/industrial/medical become a material second royalty engine | BB group has rerated and QNX robotics revenue is undisclosed; valuation can compress if growth stays automotive-led | 24 Sep results + clean QNX SOTP + named non-auto production economics | Linux/ROS/vendor stacks dominate robotics with no paid QNX layer | Non-auto revenue mix and design-ins show robotics/industrial growth can move group earnings |
+| **FORT** | Revenue scales >5–10x with recurring software/subscription attach and certified safety becomes a cross-OEM control layer | ~50x+ 2025 revenue already assumes major growth; redemptions/warrants/final share count can worsen economics | S-4 and actual hardware/software/subscription revenue split | Safety stays mainly hardware/project revenue or platform is commoditized by NVIDIA/QNX/industrial incumbents | S-4 proves recurring economics, acceptable dilution and retention/customer concentration |
+| **Centrus** | Customer/government prepayments fund commercial enrichment capacity with limited new equity; contingent backlog becomes operating capacity and recurring SWU economics | Current stock already carries a large strategic premium; project is multi-billion-dollar and DOE has said it does not currently intend to exercise further legacy cascade options | Definitive funded expansion milestones / customer prepayments / construction financing | Funding gap forces major dilution or reactor/HALEU schedules slip | Material portion of capacity becomes contractually funded without large per-share dilution |
+| **Jinpan** | AIDC/overseas backlog converts at good margins, international qualification broadens and earnings compound ~20–30% while cash conversion catches up | Existing ~CNY59 12% zone is below current price and H1 operating cash conversion has been weak | Named overseas/hyperscaler qualification + AIDC backlog conversion | Order growth absorbs working capital and margin/FCF fail to follow | Repeat international qualification plus positive OCF/FCF while AIDC revenue scales |
+| **HDS** | Humanoid revenue becomes a major profit pool while process/lifetime differentiation survives China competition and architecture diversification | ~75x forward P/E means very large success is already required; weak FCF magnifies de-rating risk | Quantified humanoid revenue/profit and repeat mass-production customers | China reducer quality catches up or humanoids shift materially toward other actuator types | Either valuation resets sharply or humanoid earnings become large enough to normalize the multiple |
 
-**FACT:** Current cash conversion is much weaker than the P/E implies because the company is funding a large capacity build. The planned ~¥12.5bn Amagasaki factory is essentially financed by a ~¥12.2bn public equity raise.
+## 4. Stock-aware work lanes
 
-**INTERPRETATION:** JEM is currently the most interesting mismatch between **company size + earnings momentum + HBM possibility + non-extreme headline valuation**. It is not yet a `Watch` promotion because a low P/E can be misleading if HBM participation is less durable than assumed or the new capacity earns a poor per-share return.
+### Lane A — near measurable return zones
 
-**Next evidence checkpoint:** verify HBM production sockets/share and calculate Amagasaki incremental ROIC / FCF after dilution.
+- **JEM:** current ¥6,570 versus existing ~¥5,640 12% base-return zone.
+- **SUSS:** €73.50 versus existing ~€64 zone.
+- **Jinpan:** CNY68.01 versus existing ~CNY59 zone, but evidence quality is lower.
 
-### 3.2 SUSS remains the best small-cap HBM equipment asymmetry
+These deserve active monitoring because price or earnings evidence can plausibly move them across the hurdle without a total thesis rewrite.
 
-**FACT:** SUSS is ~€1.4bn and the existing repo work shows a record €473.7m H1 2026 order book, including substantial 2027 visibility.
+### Lane B — quality / valuation reset
 
-**FACT:** Current forward P/E is ~25x and the stock is still ~38% below the 52-week high.
+- **MJC:** excellent operating business, but ~37% above its existing normalized 12% zone.
+- **HDS:** current ~75x forward P/E requires a much larger operating proof before normal valuation work becomes attractive.
 
-**INTERPRETATION:** The company is small enough that HBM/advanced-backend success can transform earnings, but the stock already assumes meaningful 2027 recovery. Its prior ~€64 12% base-return zone remains a useful valuation discipline unless normalized earnings rise.
+### Lane C — milestone / platform / event cases
 
-**Next evidence checkpoint:** 2027 backlog conversion, temporary-bonding process-of-record at contested customers, and hybrid-bond production qualification.
+- **Weebit:** royalty inflection.
+- **Laifual:** scale + margin + qualification.
+- **QNX:** SOTP + non-auto/Physical-AI materiality.
+- **FORT:** S-4 + recurring economics + dilution.
+- **Centrus:** funded capacity + dilution.
 
-### 3.3 Weebit remains the highest pure optionality, not the best proven economics
+## 5. Fresh evidence checkpoints from the 9 Sep pass
 
-**FACT:** Weebit now has qualified SkyWater/DB HiTek platforms, licences with onsemi and Texas Instruments and multiple product-customer tape-outs. FY26 revenue was ~A$15.3m.
+### Centrus — commercial funding improves, policy risk remains
 
-**FACT:** The stock is ~61% below its 52-week high but still values the company at more than A$0.8bn, while recurring mass-production royalties remain unproven.
+**FACT:** Centrus announced a definitive multi-year HALEU supply contract with Radiant on 9 Sep. The agreement includes **Radiant prepayments** supporting Centrus's domestic commercial enrichment capacity programme. This follows the Aug 2026 X-energy LEU/HALEU agreement, which also includes prepayments.
 
-**INTERPRETATION:** A first meaningful royalty stream could change the whole business model. Failure to reach production would expose how much option value is still embedded in the current equity value.
+**FACT:** Q2 2026 company results reported a **$3.0bn contingent LEU/HALEU enrichment backlog** and a signed $900m DOE HALEU expansion award contract.
 
-**Next evidence checkpoint:** first customer mass production, recurring royalty disclosure, TI/onsemi qualification progress and dilution.
+**FACT / FALSIFICATION:** Centrus's Q2 filing says the current DOE FY2027 budget does not include funding for operation of the legacy demonstration cascade and DOE has communicated it does not currently intend to exercise further options under that HALEU Operation Contract. The company is working toward private commercial operation.
 
-### 3.4 Micronics is the strongest operating probe-card franchise in the top 10
+**INTERPRETATION:** The thesis is improving specifically because customer capital is beginning to share the build-out burden. It is not yet a funded-capacity proof: the scale of the commercial plant still requires a credible full capital stack.
 
-**FACT:** Existing repo work shows H1 2026 sales +48.6%, operating profit +105.5% and ~31.6% operating margin; HBM is directly cited as a DRAM probe-card growth driver.
+### Jinpan — AIDC growth is stronger than the stock summary implied
 
-**FACT:** Samsung Electronics + Micron Memory Taiwan represented ~71% of FY2025 group sales.
+**FACT:** H1 2026 new orders were **RMB7.493bn, +69.3%**; ending backlog **RMB10.697bn, +41.9%**.
 
-**INTERPRETATION:** MJC is a better proven business than JEM, but the larger starting market value, strong rerating and customer concentration leave less obvious multi-bagger asymmetry at the current price.
+**FACT:** Data-centre new orders were **RMB3.869bn, +336.3%**; data-centre revenue **RMB1.265bn, +122.6%**; data-centre backlog **RMB5.092bn, +179.1%**.
 
-**Next evidence checkpoint:** HBM4/HBM4E share, customer diversification and a valuation reset or earnings upgrade sufficient to lift the normalized return profile.
+**FACT:** Overseas new orders were **RMB4.190bn, +270.7%**, 55.9% of total orders; overseas backlog was **RMB6.239bn, +122.7%**.
 
-### 3.5 FORT is the purest Physical-AI platform candidate but the valuation starts aggressively
+**INTERPRETATION:** Jinpan's company-level AI-power sensitivity is now unmistakable. The reason it remains #9 is not lack of growth; it is lower confidence around named global qualification, margin durability, working-capital/FCF conversion and governance/investor-access risk.
 
-**FACT:** FORT reports 600+ customers, 19,500+ deployed units and 2025 audited revenue of $11.585m (+62%) at 66.2% gross margin.
+### FORT — S-4 still absent
 
-**FACT:** The announced transaction presentation shows ~$742.4m pro-forma equity value / ~$556.6m EV at $10/share, equivalent to ~48x 2025 revenue before the current NTWO premium.
+**FACT:** SEC materials found through 9 Sep remain Form 425 / merger materials stating that Newbury Street II **intends to file** a Form S-4. No S-4 was found in this pass.
 
-**INTERPRETATION:** FORT is unusually close to the repo's horizontal Physical-AI safety/platform thesis, but a large amount of future software economics may already be required to justify the starting valuation.
+**INTERPRETATION:** Do not advance FORT's valuation work beyond the rough transaction screen until the registration statement provides audited notes, dilution and revenue-mix detail.
 
-**Next evidence checkpoint:** Form S-4, fully diluted post-SPAC capitalization, actual hardware/software/subscription mix and customer concentration.
+## 6. Current research order
 
-### 3.6 QNX is the strongest quality-adjusted Physical-AI candidate
+The ranking is a decision priority, not a sequence that blocks work on the rest.
 
-**FACT:** QNX FY2026 revenue was $268m with 83% adjusted gross margin and $71m adjusted EBITDA; Q1 FY2027 revenue was $72.3m and FY2027 guidance is $295–312m. The royalty backlog is near $1bn.
+1. **JEM** — HBM socket/share + capacity ROIC.
+2. **SUSS** — backlog/process-of-record durability.
+3. **Weebit** — royalty inflection.
+4. **Laifual** — H2 scale, customer qualification, price/lifetime durability.
+5. **MJC** — next-gen HBM share + valuation/customer concentration.
+6. **QNX** — SOTP + 24 Sep results + non-auto economics.
+7. **FORT** — wait for S-4; monitor filings.
+8. **Centrus** — reconcile prepayments, DOE support and full capital stack.
+9. **Jinpan** — named overseas qualification + cash conversion.
+10. **HDS** — quantify humanoid profit; valuation reset monitor.
 
-**FACT:** Current BlackBerry equity value is ~US$4.6bn and the next estimated earnings release is 24 Sep 2026.
+## 7. Backlog mapping
 
-**INTERPRETATION:** QNX does not need robotics to create a business; Physical AI only needs to become a meaningful second growth market. This lowers execution risk versus FORT but also lowers pure upside.
+- **#110** — umbrella Top-10 stock-aware queue.
+- **#112** — active common-basis underwriting sprint.
+- **FORT:** #108; Physical-AI comparison #109.
+- **QNX:** #106; Physical-AI comparison #109.
+- **Laifual:** #86; actuator Gate C #89.
+- **Harmonic Drive:** #85; actuator Gate C #89.
+- **JEM / MJC:** completed #31 baseline; #112 now owns cross-theme refresh.
+- **Weebit:** completed #5 baseline; #112 owns current commercialization comparison.
+- **Centrus:** completed #66 baseline; #112 owns cross-theme funded-capacity comparison.
+- **Jinpan:** existing energy specialist monitoring remains the primary company evidence base; #112 is the cross-theme layer.
 
-**Next evidence checkpoint:** QNX SOTP, named non-auto/robotics production economics, and 24 Sep results.
+## 8. Sources added / refreshed in this pass
 
-### 3.7 Laifual is the small humanoid-motion pure play
+Primary / regulatory:
 
-**FACT:** Listing materials provide direct evidence of humanoid harmonic-reducer deliveries/mass production by end-2025 and a #2 China robotic harmonic-reducer shipment position in the prospectus's cited industry data.
+- Laifual H1 2026 results, HKEX, 28 Aug 2026: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802824.pdf
+- Centrus / Radiant HALEU agreement, 9 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-radiant-announce-long-term-partnership-domestic
+- Centrus Q2 2026 results: https://centrusenergy.gcs-web.com/node/21021
+- FORT / Newbury Street SEC transaction materials: https://www.sec.gov/Archives/edgar/data/2028027/000121390026090997/ea0301294-8k425_newbury2.htm
+- Weebit 2026 press-release index: https://www.weebit-nano.com/news/press-releases-2026/
+- BlackBerry investor calendar / results: https://investors.blackberry.com/
+- SUSS H1 2026 results: https://www.suss.com/de/news/corporate-news/2026/auftragsbestand-steigt-auf-rekordniveau-von-473-7-mio.-visibilitaet-fuer-2027-deutlich-gestiegen
+- Harmonic Drive FY2026 forecast: https://www.hds.co.jp/english/ir/achievements/forecast/
 
-**FACT:** The company is only ~HK$6bn but remains loss-making on ~HK$374m TTM revenue and trades around 16x sales.
-
-**INTERPRETATION:** The stock can work only if humanoid/joint-module scale rapidly changes the revenue and margin base. The smaller market cap is an advantage only if qualification and economics hold.
-
-**Next evidence checkpoint:** 2026 interim mix, named/repeat humanoid customers, capacity utilization, gross margin and competitor price/lifetime comparison.
-
-### 3.8 Centrus remains event-driven optionality rather than ordinary compounding
-
-**FACT:** Current equity value is ~US$3.7bn, forward P/E is ~76x and shares outstanding have increased ~31% y/y.
-
-**FACT:** Existing repo work gives Centrus a separate event-driven framework because future enrichment value depends on government/customer commitments, project financing, capacity build and dilution rather than near-term EPS alone.
-
-**INTERPRETATION:** Centrus can become much larger if US LEU/HALEU industrial policy converts to funded capacity, but the stock is a financing/policy/execution underwrite rather than a simple nuclear-demand bet.
-
-**Next evidence checkpoint:** funded capacity commitments, customer prepayments / government support, capital stack and dilution sensitivity.
-
-### 3.9 Jinpan is the smaller AI-power specialist
-
-**FACT:** Current market value is ~CNY30.2bn and forward P/E ~32x. Existing repo work validates rapidly rising data-centre orders and overseas backlog, but primary evidence for named North-American hyperscaler qualification remains incomplete.
-
-**INTERPRETATION:** Jinpan has far more company-level sensitivity than Eaton/GE Vernova/Siemens Energy, but evidence quality and cash conversion are weaker.
-
-**Next evidence checkpoint:** named international qualification, AIDC backlog conversion, overseas margin and operating cash-flow recovery.
-
-### 3.10 Harmonic Drive is a technical benchmark with a difficult stock setup
-
-**FACT:** The stock is ~¥5,820, market value ~¥551bn and forward P/E ~75x. Market value has more than doubled year on year.
-
-**FACT:** HDS has direct humanoid prototype/mass-production evidence and deep precision-transmission process knowledge, but Chinese mass production and competing actuator architectures are increasing.
-
-**INTERPRETATION:** HDS may be one of the strongest technical companies in the list while still being one of the least attractive current stock setups. It needs very large humanoid earnings contribution simply to grow into the existing valuation.
-
-**Next evidence checkpoint:** quantify humanoid revenue/profit contribution and normalize FCF/capex versus Laifual and alternative joint architectures.
-
-## 4. Current research tiers
-
-### Tier A — immediate common-basis work
-
-1. **JEM** — prove HBM socket economics and capacity returns.
-2. **SUSS** — prove backlog/process-of-record durability at the current valuation.
-3. **Weebit** — prove the royalty inflection.
-4. **Micronics Japan** — prove HBM leadership can outrun valuation/customer concentration.
-5. **QNX** — complete the SOTP and non-auto/robotics sensitivity.
-
-### Tier B — event / disclosure dependent
-
-6. **FORT** — full underwrite after S-4 / final capital structure.
-7. **Laifual** — complete Gate-B operating/valuation underwrite.
-8. **Centrus** — update when funding/capacity/dilution evidence changes.
-9. **Jinpan** — seek named overseas qualification and cash-conversion evidence.
-10. **Harmonic Drive** — technical monitor; require valuation reset or major earnings evidence.
-
-This tiering is a **work-order**, not a conviction ranking.
-
-## 5. Existing backlog mapping
-
-- **#110** — umbrella Top-10 stock-aware research queue.
-- **JEM / MJC** — completed #31 provides the current probe-card baseline; new evidence should be captured under #110 until a dedicated new evidence event warrants reopening company-specific work.
-- **SUSS** — existing canonical memory files / capital-allocation work; refresh under #110 before opening duplicate issues.
-- **Weebit** — canonical company file and completed #5 baseline; refresh under #110 at royalty/qualification milestones.
-- **FORT** — #108; common Physical-AI comparison #109.
-- **QNX** — #106; common Physical-AI comparison #109.
-- **Laifual** — #86; later actuator Gate C #89.
-- **Centrus / Jinpan** — existing energy specialist monitoring programme; #110 becomes the cross-theme priority layer.
-- **Harmonic Drive** — #85; later actuator Gate C #89.
-
-## 6. Decision rules for future ranking changes
-
-A company should move **up** when:
-
-- a speculative exposure becomes a named production socket/customer;
-- recurring revenue/royalty/service economics appear;
-- operating leverage and FCF validate the bottleneck;
-- dilution/capex risk improves;
-- valuation falls faster than normalized earnings evidence deteriorates;
-- a new bottleneck makes the theme more company-material.
-
-A company should move **down** when:
-
-- the stock rerates faster than the evidence;
-- customer/process concentration rises;
-- an architecture transition weakens the bottleneck;
-- a competitor / open standard makes switching easier;
-- current earnings prove cyclical rather than structural;
-- funding/dilution consumes too much of the enterprise upside.
-
-## 7. Stock-data sources
-
-Point-in-time secondary/structured stock data, checked 9 Sep 2026 unless noted:
+Secondary / structured stock data, point-in-time only:
 
 - JEM: https://stockanalysis.com/quote/tyo/6855/
 - SUSS: https://stockanalysis.com/quote/etr/SMHN/
-- Weebit: https://stockanalysis.com/quote/asx/WBT/ and https://stockanalysis.com/quote/asx/WBT/statistics/
-- Micronics Japan: https://stockanalysis.com/quote/tyo/6871/ and https://stockanalysis.com/quote/tyo/6871/history/
-- NTWO: https://stockanalysis.com/stocks/ntwo/
-- BlackBerry: https://stockanalysis.com/stocks/bb/ and https://stockanalysis.com/stocks/bb/statistics/
-- Laifual: https://stockanalysis.com/quote/hkg/3952/statistics/ and https://stockanalysis.com/quote/hkg/3952/history/
-- Centrus: https://stockanalysis.com/stocks/leu/ and https://stockanalysis.com/stocks/leu/statistics/
+- Weebit: https://stockanalysis.com/quote/asx/WBT/history/
+- MJC: https://stockanalysis.com/quote/tyo/6871/history/
+- NTWO: https://chartexchange.com/symbol/nasdaq-ntwo/historical/
+- BB: https://stockanalysis.com/stocks/bb/statistics/
+- Laifual: https://sa.investing.com/equities/zhejiang-laifual-drive-co-ltd-historical-data
+- Centrus: https://stockanalysis.com/stocks/leu/
 - Jinpan: https://stockanalysis.com/quote/sha/688676/
-- Harmonic Drive: https://stockanalysis.com/quote/tyo/6324/financials/ratios/
+- HDS: https://stockanalysis.com/quote/tyo/6324/financials/ratios/
 
-Primary operating/technical evidence remains in the relevant canonical company/theme files and backlog issues. Structured market-data pages are used only for dated price/valuation context.
+## 9. Decision rules for ranking changes
+
+Move a company **up** when a speculative exposure becomes a named/repeat production socket, recurring economics appear, operating leverage and FCF validate the bottleneck, funding/dilution improves, or valuation falls faster than normalized earnings evidence deteriorates.
+
+Move a company **down** when the stock rerates faster than evidence, customer/process concentration worsens, architecture change weakens the bottleneck, competition/open standards reduce switching cost, current earnings prove cyclical, or funding/dilution consumes too much of the enterprise upside.
