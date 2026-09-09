@@ -18,6 +18,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — active stock-aware cross-theme top-10 hunting queue; separates structural upside, evidence quality and current stock attractiveness
+- `research/top10-capital-allocation.md` — Gate-D decision layer for the Top 10; converts research into dated Buy-below / speculative / wait / avoid conclusions with explicit valuation hurdles
 - `sources/source-register.md` — source provenance register
 - `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
 - `research/_templates/` — reusable structures for new themes and company deep dives
