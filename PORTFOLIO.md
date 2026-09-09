@@ -4,6 +4,7 @@
 **Reference date:** 2026-09-09  
 **Target date:** March 2028  
 **Backlog:** #117  
+**Automation:** #120 / `AUTOMATION.md`  
 **Upstream research:** #110 / #114  
 
 > This is a research and portfolio-management framework, not automatic trading instructions.
@@ -194,6 +195,33 @@ Re-rank:
 
 The recurring question is: **where is the best risk-adjusted asymmetry for the remaining time to March 2028?**
 
+## Automation and backlog execution
+
+Gate E should be operated through the backlog protocol in `AUTOMATION.md` and automation epic **#120**.
+
+The initial design uses **one scheduled Portfolio Ops Agent** rather than one scheduler per company, theme or review cadence. The scheduler should:
+
+1. scan explicit event/price/evidence triggers on `WAITING` issues;
+2. calculate queue-health indicators;
+3. execute the highest-priority valid `READY` issue;
+4. use the existing governed branch/PR/merge workflow;
+5. update the issue state and next action;
+6. create follow-up work only when it can change the portfolio, ranking, bottleneck or evidence decision.
+
+Monthly portfolio review is a backlog-due condition, not a separate scheduler at the initial stage.
+
+Whether one scheduler remains sufficient must be measured rather than assumed. Track:
+
+- substantive `READY` backlog depth;
+- oldest P0/P1 READY age;
+- material trigger-to-action latency;
+- 7-day Backlog Pressure Ratio (new executable work / completed executable work);
+- run saturation.
+
+The default scale-up rule is to add a second scheduler only when **any two** documented capacity/latency thresholds persist for **two weeks**. If scaling is required, split into a Trigger/Triage worker and a Research Worker before considering company/theme-specific schedulers.
+
+Actual brokerage execution remains manual. Automated agents may produce research-level Buy/Add/Trim/Sell signals, but they do not place securities orders.
+
 ## Initial Gate-E work programme
 
 ### Phase 1 — re-underwrite the current Top 10 for 18 months
@@ -241,7 +269,8 @@ Track:
 ## Governance
 
 - #117 is the active Gate-E backlog and reflects the 18-month aggressive mandate.
-- Gate D (#114) remains the company-level valuation/evidence layer.
+- #120 is the automation/orchestration epic; `AUTOMATION.md` defines machine-readable queue state and scheduler-sufficiency rules.
+- Gate D (#114) remains the company-level valuation/evidence layer, but stale four-year execution instructions must be reconciled before automation treats it as executable under Gate E.
 - #110 remains the cross-theme hunting-universe ranking.
 - `watchlist.md` remains a separate research-prioritisation surface.
 - No company receives a watchlist promotion solely from portfolio-role assignment.

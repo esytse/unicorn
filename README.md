@@ -15,6 +15,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 ## Key files
 
 - `AGENTS.md` — mandatory operating instructions for any AI agent working in this repository
+- `AUTOMATION.md` — canonical backlog-driven automation protocol, queue-state contract and scheduler-capacity rules
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — active stock-aware cross-theme top-10 hunting queue; separates structural upside, evidence quality and current stock attractiveness
@@ -38,9 +39,33 @@ Pull requests are primarily an audit trail and safety boundary, not a manual app
 
 If someone prefers not to formulate an agent prompt directly, GitHub's **Research request** issue template can capture the question and starting context in a structured way.
 
+## Backlog-driven automation
+
+The preferred automation architecture is documented in `AUTOMATION.md` and tracked by **#120**.
+
+GitHub issues are the execution queue. The initial design uses **one scheduled Portfolio Ops Agent** that:
+
+1. scans explicit `WAITING` triggers;
+2. calculates queue-health / scheduler-sufficiency indicators;
+3. selects the highest-priority `READY` issue;
+4. marks it `RUNNING` before substantive work;
+5. executes one bounded work item;
+6. uses the normal branch → PR → `Research governance` → merge workflow;
+7. updates the issue to `DONE`, `READY`, `WAITING`, `BLOCKED` or `PARKED` with a concrete next action.
+
+Epics are coordination surfaces and are not selected directly. Monthly portfolio reviews are backlog conditions rather than separate schedulers at the initial stage.
+
+The single-scheduler design is measured using READY depth, P0/P1 queue age, trigger-to-action latency, a 7-day Backlog Pressure Ratio and run saturation. A second scheduler is added only when the documented scale-up thresholds persist, rather than by default.
+
+Automation may produce research-level Buy/Add/Trim/Sell signals and maintain the repository, but actual brokerage execution remains manual.
+
 ## Example instruction to an agent
 
 > Read `AGENTS.md` and the relevant existing research first. Research the requested Physical AI bottleneck, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
+
+For backlog-driven work:
+
+> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md` and the active GitHub backlog. Select only a valid `READY` issue, claim it as `RUNNING`, execute one bounded work item, follow repository governance, then update the issue with its truthful resulting state and next action.
 
 ## When to request manual review
 
@@ -57,3 +82,4 @@ Manual review is optional. Ask for it when you specifically want a second pair o
 - Portfolio capital is dynamic: holdings must continue to earn their place on remaining-window forward return and evidence, not on cost basis or past conviction
 - The active Gate-E mandate is aggressive and catalyst-aware: favour concentrated, evidence-backed setups capable of resolving materially inside the 18-month window
 - Bottlenecks are expected to migrate as technology, capacity and supply chains mature; the research universe and portfolio must be re-ranked accordingly
+- Automation capacity should be scaled from measured queue pressure and latency, not intuition

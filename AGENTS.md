@@ -14,10 +14,11 @@ Before making any substantive change:
 
 1. Read this file.
 2. Read `README.md`.
-3. Read the relevant theme's existing documents.
-4. Read `watchlist.md` if a company or investment conclusion is involved.
-5. Read `CHANGELOG.md` for recent changes.
-6. Inspect related company files and the source register where relevant.
+3. Read `AUTOMATION.md` when work is selected from a GitHub backlog item or scheduled automation.
+4. Read the relevant theme's existing documents.
+5. Read `watchlist.md` if a company or investment conclusion is involved.
+6. Read `CHANGELOG.md` for recent changes.
+7. Inspect related company files and the source register where relevant.
 
 For substantive research updates:
 
@@ -33,6 +34,25 @@ For substantive research updates:
 10. Once required checks pass, enable auto-merge where available. If auto-merge is unavailable and the user has not requested manual review, the agent may merge the PR after verifying the checks passed.
 
 If the user explicitly asks for review before merge, leave the PR open.
+
+## Backlog-driven automation rules
+
+When an agent is operating from a scheduler or GitHub backlog, `AUTOMATION.md` is mandatory operating context.
+
+GitHub issues are the authoritative execution state. Chat history is not a substitute for queue state.
+
+The agent must:
+
+1. Select only an issue whose automation state is `READY`.
+2. Never execute an `EPIC`, `WAITING`, `BLOCKED` or `PARKED` issue unless its state is explicitly changed first for a valid reason.
+3. Mark the selected item `RUNNING` before substantive work and record enough context to avoid duplicate execution.
+4. Check for an existing branch, PR or recent live claim before reclaiming a `RUNNING` item.
+5. Default to one bounded substantive backlog item per scheduler run; short administrative updates may be batched.
+6. After execution, set a truthful resulting state and a concrete next action, trigger or dependency. Do not leave vague statements such as “more research needed.”
+7. Create follow-up backlog only when the new question can materially change portfolio allocation, ranking, bottleneck direction, evidence confidence, catalyst timing/probability or a thesis breaker.
+8. Prefer the highest-priority actionable work. Do not displace P0/P1 decision work with lower-priority exploratory research.
+9. Measure scheduler sufficiency using the definitions in `AUTOMATION.md`; do not add workers merely because more automation feels desirable.
+10. Never allow scheduler pressure to justify weaker sourcing, incomplete governance or bypassing checks.
 
 ## Versioning rules
 
@@ -148,4 +168,6 @@ Every substantive research PR should include:
 
 ## Safety rule for automation
 
-Agents may automate research collection, comparison, document maintenance, PR creation and merging after required checks pass. They must not hide uncertainty, fabricate evidence, silently promote a company on the watchlist, bypass required checks, force-push protected history, or delete research history to make a thesis look cleaner.
+Agents may automate research collection, comparison, document maintenance, backlog maintenance, PR creation and merging after required checks pass. They must not hide uncertainty, fabricate evidence, silently promote a company on the watchlist, bypass required checks, force-push protected history, or delete research history to make a thesis look cleaner.
+
+Automation may generate research-level Buy/Add/Trim/Sell signals and thesis-break alerts, but it must **not place brokerage trades or securities orders**. Actual capital execution remains manual unless repository governance is explicitly changed by the user in the future.
