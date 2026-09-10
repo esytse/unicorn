@@ -127,27 +127,36 @@ This is a **stress boundary**, not a recommended live allocation. It assumes eac
 
 ---
 
-## 6. What is required to bridge the £80k gap?
+## 6. What is required to bridge the portfolio milestones?
 
-Under Portfolio C, the all-stretch value is about **£70.3k**, leaving roughly **£9.7k** to the £80k primary target.
+Under Portfolio C, the all-stretch value is about **£70.3k**.
 
-If a new candidate replaces cash and achieves the stated return from its eventual entry price, the approximate additional allocation required is:
+### Primary £80k objective
+
+The remaining gap is roughly **£9.7k**. If a new candidate replaces cash and achieves the stated return from its eventual entry price, the approximate additional allocation required is:
 
 | New candidate outcome | Allocation needed to bridge £70.3k → £80k |
 |---|---:|
-| 2x | ~24% of portfolio |
+| 2x | ~24% |
 | 3x | ~12% |
 | 4x | ~8% |
 | 5x | ~6% |
 
-From the more conservative **all-upside** Portfolio C value of ~£56.0k, bridging to £80k would require roughly:
+From the more conservative **all-upside** Portfolio C value of ~£56.0k, bridging to £80k would require roughly 60% allocation to a new 2x return engine, 30% to a 3x, 20% to a 4x, or 15% to a 5x.
 
-- ~60% allocation to a new 2x return engine;
-- ~30% allocation to a new 3x return engine;
-- ~20% allocation to a new 4x return engine;
-- ~15% allocation to a new 5x return engine.
+### Intermediate and stretch objectives
 
-**INTERPRETATION:** The primary portfolio problem is therefore **candidate quality and breadth**, not insufficient concentration in the current four.
+Starting from the same ~£70.3k all-stretch value of the current four:
+
+| Target | Gap | New 3x engine allocation required | New 4x engine | New 5x engine |
+|---|---:|---:|---:|---:|
+| £120k | ~£49.7k | ~62% | ~41% | ~31% |
+| £160k | ~£89.7k | >100% | ~75% | ~56% |
+| £200k | ~£129.7k | >100% | >100% | ~81% |
+
+**HYPOTHESIS:** With only the remaining 54% cash in Portfolio C, a one-shot bridge from ~£70.3k to £200k would require that undeployed capital to return roughly **7x**. Therefore the 5x portfolio objective is not credibly supported by the present static four-name construction; it would require either a genuinely exceptional new return engine, multiple independent multi-baggers, or successful sequential capital rotation/reinvestment.
+
+**INTERPRETATION:** The primary portfolio problem is therefore **candidate quality and breadth**, not insufficient concentration in the current four. £120k/£160k/£200k should be treated as increasingly demanding scenario boundaries rather than planning assumptions.
 
 ---
 
@@ -156,6 +165,8 @@ From the more conservative **all-upside** Portfolio C value of ~£56.0k, bridgin
 The portfolio should not assume all positions resolve together.
 
 **HYPOTHESIS — robust £80k path:** A plausible architecture eventually needs roughly **5–7 positions**, with at least two materially independent return engines capable of 2–4x outcomes, while losers are kept near defined initial-size limits and capital is rotated after failed catalysts.
+
+**HYPOTHESIS — £120k+ path:** Reaching £120k or more likely requires at least one 3–5x winner at meaningful size plus additional winners/rotation; a portfolio where every position merely reaches its base case cannot achieve the objective.
 
 **HYPOTHESIS — failure pattern:** If the memory cluster (JEM/SUSS/Weebit) disappoints together and no independent Physical-AI or energy winner emerges, the primary £80k objective becomes very unlikely even if Laifual performs well.
 
