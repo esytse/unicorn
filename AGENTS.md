@@ -51,8 +51,10 @@ The agent must:
 6. After execution, set a truthful resulting state and a concrete next action, trigger or dependency. Do not leave vague statements such as “more research needed.”
 7. Create follow-up backlog only when the new question can materially change portfolio allocation, ranking, bottleneck direction, evidence confidence, catalyst timing/probability or a thesis breaker.
 8. Prefer the highest-priority actionable work. Do not displace P0/P1 decision work with lower-priority exploratory research.
-9. Measure scheduler sufficiency using the definitions in `AUTOMATION.md`; do not add workers merely because more automation feels desirable.
-10. Never allow scheduler pressure to justify weaker sourcing, incomplete governance or bypassing checks.
+9. **Within the same priority, optimize for marginal portfolio contribution rather than standalone company attractiveness.** Prefer work that can materially improve the probability of the active portfolio objective after considering remaining-window upside, downside/permanent-loss risk, catalyst timing/probability, evidence confidence, responsible position-size ceiling, thematic/catalyst correlation with existing candidates, and the best alternative use of capital. A highly correlated candidate should not outrank an independent candidate merely because its standalone business quality is higher; it should either offer clearly superior asymmetry to the incumbent exposure or remain lower priority.
+10. Treat **decisions as upstream of issues**: portfolio gaps and decision uncertainty should create research questions; research questions should create or reprioritize issues. Do not let queue order substitute for strategy.
+11. Measure scheduler sufficiency using the definitions in `AUTOMATION.md`; do not add workers merely because more automation feels desirable.
+12. Never allow scheduler pressure to justify weaker sourcing, incomplete governance or bypassing checks.
 
 ## Versioning rules
 
