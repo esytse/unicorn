@@ -4,6 +4,18 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-10
 
+### Hainan Jinpan Gate-E underwrite completed; AI-power diversification improves but does not yet trigger entry
+
+- Completed **#130** and converted Hainan Jinpan into a current **March-2028 Gate-E** decision surface after #131 identified independent return engines as the binding portfolio gap.
+- At the **10 September reference price of about CNY65.5**, the stock remains a demanding setup despite exceptional H1 growth: data-centre orders **+336.3%**, data-centre revenue **+122.6%**, data-centre backlog **+179.1%**, and overseas orders **+270.7%**.
+- The central falsification remains cash conversion. H1 operating cash flow was negative as inventory and receivables expanded, so the research does not capitalize headline order growth as earnings or free cash flow.
+- Named current North-American hyperscaler attribution remains insufficiently verified in primary public evidence. Qualification risk is lower than for an unproven exporter, but repeated multi-site global AIDC qualification is still a key missing proof point.
+- Illustrative March-2028 scenario boundaries are roughly **CNY40–48 bear / CNY75–90 base / CNY115–135 upside / CNY160–190 stretch**. These are hypotheses, not forecasts or price targets.
+- Gate-E portfolio role becomes **`Catalyst asymmetric / AI-power diversification candidate`**. Current signal is **REASSESS — not ACTION**. A price-led reassessment becomes more attractive around **CNY54–57** with the thesis intact; an evidence-led entry may occur earlier if named/repeat global AIDC qualification, cash conversion and margin durability materially improve.
+- Research sizing if an entry condition is confirmed is roughly **5–7% initial**, about **8% maximum before stronger cash/qualification proof**, and **10–12% maximum only after both improve**. No brokerage execution is authorized or performed.
+- Confidence remains **Medium-Low overall**: demand evidence is strong, but global qualification, cash conversion, A-share access/governance and geopolitical risk remain material uncertainties.
+- Portfolio implication: Jinpan improves thematic diversification versus another memory name, but at the current reference it does **not** by itself close the #131 path to £80k. The next portfolio step is to compare its conditional sleeve against other independent candidates rather than force deployment.
+
 ### Initial Gate-E portfolio construction completed; candidate breadth is now the binding gap
 
 - Completed the first substantive **#131** construction using current Gate-E underwrites for **JEM, SUSS, Weebit Nano and Laifual Drive**.
