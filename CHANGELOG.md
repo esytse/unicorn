@@ -2,6 +2,19 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-10
+
+### SUSS Gate-E 18-month underwrite completed; current action remains wait
+
+- Completed the substantive research for **#126**, converting SUSS from the prior Gate-D / long-duration framing into a current **March-2028 Gate-E** decision surface.
+- At the **9 September reference price of €73.60**, SUSS is about **€1.41bn market cap / €1.34bn enterprise value**. Company-compiled consensus points to a sharp 2027 earnings recovery, but the current price already discounts much of that improvement.
+- The H1 2026 order book of **€473.7m**, including about **€220m scheduled for 2027**, gives unusually strong forward visibility. However, the backlog is not pure HBM temporary bonding and customer/process-of-record competition remains material.
+- Illustrative March-2028 scenario boundaries are roughly **€59 bear / €96 base / €131 upside / €168 stretch**. These are hypotheses rather than forecasts or price targets. A 2x outcome from €73.60 requires something close to the stretch case.
+- Gate-E portfolio role becomes **`Watch / pre-entry catalyst asymmetric`**. Current signal is **NO ACTION**. A fresh price-led reassessment becomes interesting around **€60–62** only if backlog, HBM participation, process durability and balance-sheet evidence remain intact; this is not the historical ~€64 Gate-D zone.
+- Evidence-led reassessment can occur above that range if 2027 margin/backlog conversion materially improves, SUSS gains stronger HBM4/HBM4E process-of-record evidence, or a meaningful HBM hybrid-bond production qualification appears.
+- Research sizing if an entry condition is confirmed is roughly **6–8% initial**, with **10–12% maximum** only after stronger conversion/process evidence. No brokerage execution is authorized or performed.
+- Research watchlist status remains **`Watch`** and confidence remains **Medium**. The key unresolved issues are exact HBM share of Bonding revenue/orders, customer-level production share, 12-high→16-high TBDB tool intensity, 2027 EBIT-margin conversion and first meaningful HBM hybrid-bond production qualification.
+
 ## 2026-09-09
 
 ### JEM Gate-E 18-month underwrite completed; current action remains wait
@@ -69,7 +82,7 @@ This file records substantive changes to research conclusions, confidence, prior
 ### Physical AI umbrella opened; feedback / evaluation loops outrank actuator-only framing
 
 - Opened **#91–#99** and created `research/physical-ai/` as the umbrella above the existing robotics-actuator substream. Physical AI is now modeled as a **closed learning/deployment loop**: real deployment → state/action/failure data → curation/replay → calibrated simulation → training/post-training → embodied policy → edge runtime → physical action → safety/evaluation → fleet operations → new field experience. `README.md` now reflects this structure.
-- Completed the initial **#92–#99 Gate-A programme**. The highest cross-embodiment structural scores are **real deployment feedback / rare failure data 4.7**, **closed-loop safety/policy evaluation 4.7**, **domain-calibrated sim-to-real / digital twins 4.6**, **data-engine curation/replay 4.6**, and **safety validation/certification evidence 4.6**. These layers outrank the previously validated humanoid precision-actuation functions because they compound across multiple embodiments and deployments.
+- Completed the initial **#92–#99 Gate-A programme**. The highest cross-embodiment structural scores are **real deployment feedback / rare failure data 4.7**, **closed-loop safety/policy evaluation 4.7**, **domain-calibrated sim-to-real/digital twins 4.6**, **data-engine curation/replay 4.6**, and **safety validation/certification evidence 4.6**. These layers outrank the previously validated humanoid precision-actuation functions because they compound across multiple embodiments and deployments.
 - **#92 data engine:** raw data volume is not the moat. Figure, Tesla, Waymo, Amazon and Skild support a stronger thesis around state/action/outcome feedback, rare failures, active selection, replay and deployment-driven learning. Synthetic data materially weakens ordinary real-trajectory scarcity but increases the value of real calibration anchors, interventions and failure data. The key investment problem is that the strongest data loops are often captive inside operators/OEMs.
 - **#93 simulation/evaluation:** generic physics engines/world models do not lead the ranking. **Closed-loop evaluation scores 4.7 and domain-calibrated sim-to-real/digital twins 4.6** because action changes the next state and production deployment depends on reality correlation. Waymo and ABB provide direct evidence; NVIDIA open tooling is important falsification against generic-simulator scarcity.
 - **#94 edge compute:** local performance-per-watt / latency is a **4.5/5 system constraint**, and deterministic mixed-criticality runtime is **4.3**, but **merchant accelerator concentration is only ~3.9**. NVIDIA, Qualcomm and custom-silicon strategies from large operators prevent a one-chip-supplier conclusion. Physical-AI training demand reinforces existing memory/energy work rather than creating a separate GPU thesis.
