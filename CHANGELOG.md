@@ -4,6 +4,18 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-10
 
+### Laifual Gate-E underwrite completed; operating inflection makes it portfolio-relevant
+
+- Completed **#86** and created the canonical Laifual company underwrite for the current **March-2028 Gate-E** decision surface.
+- At the **10 September delayed price of ~HK$54.40**, approximately 104.1m shares imply an equity value around **HK$5.66bn**. The stock is well below its post-listing speculative highs, while H1 operating evidence has strengthened.
+- H1 2026 revenue was **RMB142.2m (+80.1%)**, reducer shipments **239.5k (+112%)**, reducer gross margin **29.6% vs 20.7%**, adjusted EBITDA **RMB12.4m**, and adjusted net loss narrowed to **RMB4.1m**. H1 capacity utilization was ~95% and management says humanoid customers are progressing toward bulk procurement.
+- The operating case is materially stronger than a top-down humanoid TAM story: volume, small-reducer mix, unit cost, utilization and gross margin are improving together. However, top-five customers remain 55.8% of revenue, adjusted profit/cash conversion are not yet established, and alternate joint architectures / Chinese price competition remain material risks.
+- The planned **800k-unit/year Zhejiang facility** is a meaningful 2027 capacity step but does not alone solve the valuation hurdle. At observed unit-economics proxies it could add roughly **RMB0.4–0.54bn annual reducer revenue** at full utilization, so a 2x case still requires high utilization, preserved margin, richer mix and/or material joint-module economics.
+- Illustrative March-2028 scenario boundaries are roughly **HK$25–35 bear / HK$55–75 base / HK$95–125 upside / HK$150–200+ stretch**. These are hypotheses, not forecasts or price targets.
+- Gate-E portfolio role becomes **`Catalyst asymmetric / small pre-profit growth candidate`**. Current signal is **REASSESS — not ACTION**. A stronger price-led setup begins around **HK$45–48** with the thesis intact; an evidence-led entry can occur above that after repeat humanoid bulk orders, durable ~28–30%+ reducer margins, positive adjusted profit/cash conversion and/or similarly strong evidence supporting roughly 60%+ remaining-window upside.
+- Research sizing if an entry condition is confirmed is roughly **5–7% initial**, **8% maximum before positive cash/profit conversion and repeat humanoid evidence**, and **10–12% maximum after repeat customer evidence plus durable profit/cash conversion**. No brokerage execution is authorized or performed.
+- Research watchlist status remains **`Investigating`**. Confidence is **Medium on current operating capture / Low-Medium on March-2028 stock return** because customer identity/repeatability, cash conversion and architecture durability remain unresolved.
+
 ### Weebit Gate-E underwrite completed; remains a pre-royalty speculative watch
 
 - Completed **#127** and converted Weebit Nano into a current **March-2028 Gate-E** decision surface.
@@ -296,7 +308,7 @@ This file records substantive changes to research conclusions, confidence, prior
 - FY26 revenue reached **A$15.3m** versus A$4.4m in FY25, but revenue is still licensing/NRE rather than recurring royalties. First customer mass production is hoped for in CY27, so the decisive economics remain unproven.
 - **Valuation remains the binding investment risk.** At the 4 September reference WBT was ~A$3.53, market cap ~A$849m and EV ~A$681m, about **45x FY26 revenue**. FY26 also recorded a ~A$54.9m net loss, operating cash burn, material stock-based compensation and roughly A$102m of equity funding.
 - A reverse commercialization screen indicates the business likely needs roughly **5–7x FY26 revenue by end-2030 plus a material shift to royalty economics** to support an attractive return under illustrative normalized revenue multiples.
-- AI / compute-in-memory remains **upside optionality**, not the current commercial base case. The base thesis is embedded non-volatile-memory replacement in analog, power, automotive, industrial/security and embedded applications.
+- AI / compute-in-memory remains **upside optionality, not the current commercial base case**. The base thesis is embedded non-volatile-memory replacement in analog, power, automotive, industrial/security and embedded applications.
 - Weebit does **not** enter the current HBM Bottleneck × Investment Capture or Gate-C ranking. The next substantive discovery stream is **robotics actuators (#3)**.
 
 ### Probe-card capital allocation normalized; JEM remains an investigation
