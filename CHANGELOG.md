@@ -4,6 +4,17 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-10
 
+### Weebit Gate-E underwrite completed; remains a pre-royalty speculative watch
+
+- Completed **#127** and converted Weebit Nano into a current **March-2028 Gate-E** decision surface.
+- At the **9 September close of A$3.43**, Weebit is approximately **A$824m basic equity value / A$656m simple pre-burn enterprise value**, around **43x FY26 revenue**. For Gate-E scenario work, a conservative **~255–260m diluted share-equivalent** planning denominator is used rather than assuming the current basic share count is permanent.
+- Commercial adoption is real: SkyWater and DB HiTek provide qualified foundry platforms, onsemi and Texas Instruments are Tier-1 licensees, **three customer chip designs had taped out by July 2026**, and at least one returned prototype was functional. The decisive missing evidence remains **meaningful recurring royalties and repeat mass-production adoption**.
+- Illustrative March-2028 scenario boundaries are roughly **A$1.25–1.75 bear / A$2.9–4.1 base / A$5.2–7.0 upside / A$8.5–11.5 stretch**. These are hypotheses, not forecasts or price targets. A 2x outcome from A$3.43 requires actual royalty conversion, not merely additional licences or tape-outs.
+- Gate-E portfolio role becomes **`Speculative option / pre-royalty watch`**. Current signal is **NO ACTION**. A fresh price-led reassessment becomes more interesting around **A$2.5–2.7** only if qualification, customer progress, cash runway and technical evidence remain intact.
+- Evidence-led reassessment can occur at any price after a meaningful production royalty, product mass-production start, repeat production adoption, material onsemi/TI commercialization milestone, observable royalty economics or material dilution event.
+- Research sizing if an entry condition is confirmed is roughly **3–4% initial**, **5% maximum before proven recurring royalties**, and **7–8% maximum after meaningful recurring royalties plus repeat production adoption**. No brokerage execution is authorized or performed.
+- Research watchlist status remains **`Watch`** and confidence remains **Medium**. The risk has migrated from basic technology viability toward commercialization speed, royalty economics and dilution.
+
 ### SUSS Gate-E 18-month underwrite completed; current action remains wait
 
 - Completed the substantive research for **#126**, converting SUSS from the prior Gate-D / long-duration framing into a current **March-2028 Gate-E** decision surface.
