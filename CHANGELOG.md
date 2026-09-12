@@ -2,6 +2,19 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-12
+
+### Modine Gate-E underwrite completed; strong independent cooling exposure remains pre-entry
+
+- Completed substantive work for **#146** after #144 nominated Modine as the highest-value fresh independent-return-engine underwrite.
+- At the latest reliably verified **10 September close of $179.26**, the current Gate-E state is **REASSESS / WAIT — not ACTION**. Tactical cash remains competitive until either valuation improves or post-separation margin/FCF evidence strengthens.
+- FY2026 adjusted EBITDA was **$471m**; FY2027 guidance is **$650–680m**; Q1 FY2027 Data Centers sales were **$348.6m (+90%)**; and the strategic-customer capacity agreement exceeds **$4bn through 2029** with **$165m upfront**.
+- The key falsification is economic conversion: Q1 Data Centers gross margin fell to **20.2%**, operating margin to about **13.3%**, and simple OCF-minus-capex was about **-$5m** during the capacity ramp. Forward demand is also concentrated in two hyperscalers and one large neocloud customer.
+- Gentherm shareholders approved the Performance Technologies transaction on **10 September 2026**; closing is expected **1 October 2026**, subject to conditions. Modine shareholders are expected to own about **40%** of the combined Gentherm / Performance Technologies business, while continuing Modine receives about **$210m cash** and plans to rebrand as Modexus Solutions while retaining ticker MOD.
+- Illustrative March-2028 combined-value boundaries for continuing MOD plus the distributed Gentherm stake are **$115–145 bear / $225–270 base / $320–380 upside / $440–520 stretch**. These are hypotheses, not forecasts or targets. The base case does not clear the portfolio 2x hurdle; the upside case is the first scenario that can make Modine a meaningful 2x contributor.
+- A Gate-E **price-led reassessment zone of approximately $155–165** is documented only while demand, separation and margin-recovery evidence remain intact. Evidence-led reassessment can occur above that range after a clean separation, materially stronger continuing-company guidance, Data Centers EBITDA-margin recovery toward ~19–20%+, stronger normalized FCF and broader customer qualification.
+- If a current entry condition is later confirmed, research sizing is approximately **7–9% initial**, **10–12% maximum before post-spin margin/FCF proof**, and **12–15% maximum only after clean separation plus strong margin/FCF and multi-customer evidence**. No brokerage execution is authorized or performed.
+
 ## 2026-09-10
 
 ### Hainan Jinpan Gate-E underwrite completed; AI-power diversification improves but does not yet trigger entry
