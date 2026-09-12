@@ -226,6 +226,18 @@ The current ranking can be wrong in both directions.
 - current consensus EPS already assumes unusually strong AI infrastructure spending.
 - technology transitions can redistribute value among suppliers faster than the model assumes.
 
+### Cross-theme AI-infrastructure financing evidence — Oracle, 12 September 2026
+
+**FACT:** Oracle's disclosures show both exceptionally strong AI-cloud demand and a capital-intensive build-out. FY2026 free cash flow was **negative $23.7bn**; Oracle raised **$43bn of debt and $5bn of equity** in FY2026 and expected about **$40bn** more debt/equity financing in FY2027. It also said **$75bn** of hardware in large AI contracts was customer-prepaid or customer-supplied. Q1 FY2027 then reported **$664bn RPO**, more than **$30bn of additional AI-cloud contracts**, **850MW** of additional datacentre capacity delivered and completion of a **$20bn** at-the-market common-equity sale. [SRC-AIINF-001][SRC-AIINF-002]
+
+**FACT (secondary):** The Financial Times reported permit/regulatory hurdles in Oracle's OpenAI build-out and investor concern about margin compression associated with the AI datacentre investment. [SRC-AIINF-003]
+
+**INTERPRETATION:** Strong compute demand does not guarantee that every planned AI deployment is financed and built on the expected timetable. This strengthens the existing downside case that 2026–2027 HBM / advanced-packaging equipment orders may include pull-forward and that a later infrastructure-capex digestion could slow HBM, packaging, probe-card, bonding, inspection and test demand.
+
+**WATCH:** Treat hyperscaler / neocloud financing stress, project or permitting deferrals, GPU deployment slippage and reduced HBM procurement as cross-theme signals that could raise the probability of the memory-cycle bear case.
+
+**CONCLUSION:** Supporting downside evidence only. It does **not** change the current Memory ranking, valuation zones or Gate C decisions.
+
 ---
 
 ## 11. Gate C decision

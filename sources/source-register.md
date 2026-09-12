@@ -74,6 +74,11 @@ Use this register for sources that support multiple research files or are import
 | SRC-CAP-006 | SUSS H1 2026 report: https://www.suss.com/en/content/download/3429/62779?version=3 | Company financial | 2026-H1 | 2026-09-07 | Capital allocation | Order book €473.7m, net cash €63.6m, free cash flow +€16.4m; supports downside and balance-sheet assessment. |
 | SRC-CAP-007 | ASMPT market/forecast: https://stockanalysis.com/quote/hkg/0522/ and https://stockanalysis.com/quote/hkg/0522/forecast/ | Secondary market / consensus | 2026-09-07 | 2026-09-07 | Capital-allocation comparator | Price HK$167.70, market cap ~$66.5bn, forward P/E ~28.2x and 2027 consensus EPS ~HK$5.84. |
 
+
+| SRC-AIINF-001 | Oracle FY2026 Q4 / full-year results: https://www.oracle.com/news/announcement/q4fy26-earnings-release-2026-06-10/ | Company financial / primary | 2026-06-10 | 2026-09-12 | Cross-theme AI infrastructure financing / demand quality | FY2026 FCF -$23.7bn during OCI investment; $43bn debt + $5bn equity raised in FY2026; ~ $40bn debt/equity expected in FY2027; $75bn of hardware in large AI contracts customer-prepaid or customer-supplied. |
+| SRC-AIINF-002 | Oracle Q1 FY2027 results: https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/ | Company financial / primary | 2026-09-10 | 2026-09-12 | Cross-theme AI infrastructure demand / funding | RPO $664bn; >$30bn additional AI-cloud contracts; 850MW additional datacentre capacity delivered; $20bn ATM common-equity sale completed. |
+| SRC-AIINF-003 | Financial Times — Larry Ellison cancels $7.5bn Oracle share sale: https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506 | Reputable journalism / secondary | 2026-09-12 | 2026-09-12 | Cross-theme project-delay / margin-risk context | Reports permit/regulatory hurdles in Oracle's OpenAI build-out and investor concern over margin compression from the AI infrastructure push; Ellison share-sale reversal is contextual, not the research signal. |
+
 ## Source quality notes
 
 Prefer, roughly in this order:
