@@ -144,6 +144,16 @@ new nuclear demand
 → open standards reduce broad supplier lock-in
 ```
 
+## Cross-theme evidence: financing is part of speed-to-power
+
+**FACT:** Oracle's FY2026 results showed very strong contracted AI demand alongside unusually large infrastructure funding needs. FY2026 free cash flow was **negative $23.7bn** as Oracle invested in Cloud Infrastructure; Oracle raised **$43bn of debt and $5bn of equity** in FY2026 and said it expected to raise about **$40bn of debt and equity in FY2027**. Oracle also said **$75bn** of hardware in large AI contracts was prepaid by customers or supplied by them, reducing Oracle's own capital requirement. In Q1 FY2027, Oracle reported **$664bn RPO**, more than **$30bn of additional AI-cloud contracts**, delivery of **850MW** of additional datacentre capacity and completion of a **$20bn at-the-market common-equity sale**. [SRC-AIINF-001][SRC-AIINF-002]
+
+**FACT (secondary):** The Financial Times reported on 12 September 2026 that Oracle's OpenAI datacentre build-out had faced permit and regulatory hurdles and that investors were concerned about margin compression associated with the company's all-in AI infrastructure investment. [SRC-AIINF-003]
+
+**INTERPRETATION:** Funding and customer creditworthiness are upstream gating conditions on physical AI-infrastructure demand. Announced GW, contract value or capex should not automatically be treated as equally secure demand; stronger evidence is customer prepayment, firm financing, equipment reservations, permits and visible construction progress.
+
+**IMPLICATION:** This does **not** weaken the validated power-equipment bottlenecks by itself and does **not** change the current company ranking. It raises the evidentiary weight on funded / contracted backlog and diversified demand, and makes financing failure or project delay an explicit demand-quality monitor.
+
 ## What would strengthen the thesis further?
 
 - customers continuing to reserve or prepay qualified capacity;
