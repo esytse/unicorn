@@ -4,6 +4,16 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-12
 
+### Oracle AI-infrastructure financing evidence added across Energy and Memory
+
+- Added primary Oracle evidence showing exceptionally strong AI-cloud demand alongside very large capital requirements: FY2026 free cash flow of **-$23.7bn**, **$43bn debt + $5bn equity** raised in FY2026, about **$40bn** further debt/equity expected in FY2027, and **$75bn** of customer-prepaid or customer-supplied hardware in large AI contracts.
+- Added Q1 FY2027 evidence of **$664bn RPO**, **>$30bn** of new AI-cloud contracts, **850MW** of additional datacentre capacity delivered and completion of a **$20bn ATM common-equity sale**.
+- Added the 12 September Financial Times report as secondary context for permit/regulatory delays and investor concern about AI-infrastructure margin compression. Larry Ellison's cancelled personal share sale is not treated as the research signal.
+- **Energy:** made financing / customer creditworthiness an explicit upstream demand-quality gate inside the speed-to-power thesis. Announced GW/capex is not treated as equivalent to funded, permitted construction.
+- **Memory:** recorded the same evidence as support for the existing capex pull-forward / later digestion bear case for HBM, advanced packaging, probe-card, bonding, inspection and test suppliers.
+- **No ranking, watchlist status, valuation zone, confidence rating or Gate C decision changed.**
+
+
 ### Modine Gate-E underwrite completed; strong independent cooling exposure remains pre-entry
 
 - Completed substantive work for **#146** after #144 nominated Modine as the highest-value fresh independent-return-engine underwrite.
