@@ -2,6 +2,19 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-13
+
+### Micronics Japan Gate-E underwrite completed; operating quality remains pre-entry and correlated
+
+- Completed the current **#128** March-2028 Gate-E decision surface for **Micronics Japan (MJC)**. At the latest verified **11 September 2026 close of ¥12,680**, the current research state is **REASSESS / WAIT — not ACTION**.
+- Operating evidence remains unusually strong: H1 2026 sales were **¥49.206bn (+48.6%)**, operating profit **¥15.557bn (+105.5%)** and operating margin about **31.6%**; FY2026 guidance is **¥103.8bn revenue / ¥31.4bn operating profit / ¥23.0bn net income / ¥593.31 EPS**. A simple H1 operating-cash-flow-minus-capex proxy remained positive at roughly **¥4.7bn**.
+- The principal Gate-E falsification is concentration and durability: **Samsung Electronics + Micron Memory Taiwan were about 71% of FY2025 group sales**, while exact HBM4/HBM4E production share by customer/generation remains undisclosed. The latest close is roughly **21.4x guided EPS**, leaving limited margin for memory-cycle normalization without stronger HBM/share evidence.
+- Illustrative March-2028 scenario boundaries are approximately **¥7,200 bear / ¥14,000 base / ¥19,800 upside / ¥26,250 stretch**. These are **HYPOTHESES**, not forecasts or price targets. The base case does not clear the aggressive portfolio hurdle and a 2x outcome requires the stretch case.
+- A new Gate-E **price-led reassessment range of approximately ¥10,000–10,800** is documented only while the operating/HBM thesis remains intact. This is a March-2028 scenario-derived range and is explicitly separate from the historical ~¥9.3k Gate-D zone. Evidence-led reassessment above that range requires credible HBM4/HBM4E production/share evidence, customer diversification and/or materially stronger normalized FCF such that the refreshed case supports roughly 60%+ remaining-window upside and superior marginal portfolio contribution.
+- If a future entry condition is confirmed, research sizing is approximately **5–7% initial**, **8–10% maximum before stronger diversification/HBM4 proof**, and **10–12% maximum only after stronger HBM4/HBM4E share + customer diversification + durable FCF evidence**.
+- MJC remains **`Investigating`** and a high-quality HBM/probe-card benchmark, but it adds memory-cycle correlation rather than solving the portfolio's independent-return-engine gap. Tactical cash and independent candidates can therefore remain superior marginal uses of capital at the current price.
+- No brokerage execution is authorized or performed.
+
 ## 2026-09-12
 
 ### Oracle AI-infrastructure financing evidence added across Energy and Memory
