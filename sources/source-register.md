@@ -79,6 +79,8 @@ Use this register for sources that support multiple research files or are import
 | SRC-AIINF-002 | Oracle Q1 FY2027 results: https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/ | Company financial / primary | 2026-09-10 | 2026-09-12 | Cross-theme AI infrastructure demand / funding | RPO $664bn; >$30bn additional AI-cloud contracts; 850MW additional datacentre capacity delivered; $20bn ATM common-equity sale completed. |
 | SRC-AIINF-003 | Financial Times — Larry Ellison cancels $7.5bn Oracle share sale: https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506 | Reputable journalism / secondary | 2026-09-12 | 2026-09-12 | Cross-theme project-delay / margin-risk context | Reports permit/regulatory hurdles in Oracle's OpenAI build-out and investor concern over margin compression from the AI infrastructure push; Ellison share-sale reversal is contextual, not the research signal. |
 
+| SRC-ENERGY-001 | Rolls-Royce SMR — Steam turbine components for Rolls-Royce SMR to be manufactured in the UK: https://www.rolls-royce-smr.com/press/steam-turbine-components-for-rolls-royce-smr-to-be-manufactured-in-the-uk | Company / project primary | 2026-09-03 | 2026-09-13 | Siemens Energy SMR turbine + service optionality | Confirms Newcastle manufacture of high-pressure turbines and valve casings for the first three Gwyndod SMRs; >550 jobs; planned UK fleet service hub; Siemens Energy named global turbine-systems partner with export-market intent. |
+
 ## Source quality notes
 
 Prefer, roughly in this order:
