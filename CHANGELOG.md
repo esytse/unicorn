@@ -2,6 +2,20 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-15
+
+### Centrus Gate-E post-financing underwrite refreshed; price reset improves asymmetry but funded-capacity proof is still missing
+
+- Refreshed **#129** after the 9 September financing and subsequent share-price reset. LEU closed **$146.25 on 14 September**, about 21% below the 8 September $185.53 reference.
+- The offering adds **500,000 common shares**, **2,005,513 pre-funded warrants** and common warrants for up to **6,992,382** additional shares. Estimated net proceeds are about **$489m** before common-warrant exercise; all common warrants could add roughly **$2bn** further gross cash if exercised.
+- Treating the pre-funded warrants as economic share equivalents increases the 4 September common-share count by about **13%** to roughly **21.739m** common equivalents. Full common-warrant exercise would take that to roughly **28.732m** before convertible dilution, but would also bring in substantial cash.
+- A simple pro-forma enterprise-value comparison using June cash/debt and the net offering proceeds falls from roughly **$2.9bn pre-financing** at the 8 September share price to about **$2.0bn** at the 14 September price. This is a decision-useful reset, not merely mechanical dilution.
+- Funding evidence also strengthened: X-energy and Radiant definitive contracts include customer prepayments, while the signed **$900m DOE HALEU expansion task order** is milestone-based. However, the multi-billion-dollar commercial build still lacks a disclosed full capital stack and dated March-2028 capacity bridge.
+- New illustrative March-2028 boundaries are **$85–110 bear / $175–220 base / $275–340 upside / $425–525 stretch**. These are hypotheses, not forecasts or targets. The current price can clear 2x only in the upside/stretch cases; the base case still does not meet the active portfolio hurdle.
+- Current signal remains **REASSESS / WAIT — not ACTION**. A price-led reassessment becomes more attractive around **$120–130** with thesis intact, while an evidence-led entry above that range requires specific funded-capacity timing, better non-equity funding visibility and dilution-adjusted remaining-window upside.
+- Research sizing if a future entry condition is confirmed is approximately **5–7% initial**, **8% maximum before specific funded-capacity/construction proof**, and **10–12% maximum after substantial funding and milestone de-risking**.
+- Centrus is promoted conceptually from a generic event-driven nuclear option to a **high-priority independent return-engine candidate**, but remains `Investigating`. No brokerage execution is authorized or performed.
+
 ## 2026-09-13
 
 ### Micronics Japan Gate-E underwrite completed; operating quality remains pre-entry and correlated
