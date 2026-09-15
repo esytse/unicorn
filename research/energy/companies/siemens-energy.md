@@ -19,6 +19,18 @@
 
 **FACT:** Q3 2026 company / Reuters reporting showed another record quarter driven by U.S. data-centre and Middle East gas-turbine demand; those two customer groups represented roughly half of quarterly gas-turbine orders.
 
+## New evidence — Rolls-Royce SMR turbine / service-hub optionality (2026-09-03)
+
+**FACT:** Rolls-Royce SMR says Siemens Energy's Newcastle site will manufacture high-pressure turbines and valve casings for the first three Gwyndod SMRs on Anglesey. The announcement says these will be the first such components manufactured for an SMR in Europe and will support more than 550 jobs.
+
+**FACT:** The Newcastle site is planned to become the service hub for Siemens Energy's key components across the Rolls-Royce SMR UK fleet. Rolls-Royce SMR selected Siemens Energy as its global turbine systems partner in February 2025 and says the Newcastle site is intended to support both the UK programme and the growing SMR export market.
+
+**INTERPRETATION:** This broadens Siemens Energy's turbine + lifecycle-service optionality beyond gas generation into nuclear SMRs. The strategically interesting element is not the first three units alone, but the possibility of an installed-base service stream if Rolls-Royce SMR deployments scale.
+
+**INTERPRETATION:** The announcement is stronger evidence of industrial commitment than a design-stage partnership because it specifies manufacturing location, components and service-hub intent. It does **not** yet establish material earnings impact for Siemens Energy: contract value, margins, delivery timing, firm fleet volume beyond the initial three UK units and service economics are not disclosed.
+
+**Decision impact:** No change to **Watch**, Investment Capture Score **4.3/5** or current valuation discipline. Treat as confirmatory evidence for long-duration turbine/service economics and nuclear optionality, not as a standalone Gate-C trigger.
+
 ## Why capture can persist
 
 - advanced-class turbine supplier concentration;
@@ -49,3 +61,4 @@ How does normalized Gas Services + Grid value compare with GE Vernova after assi
 - Siemens Energy Q2 FY2026: https://www.siemens-energy.com/global/en/home/press-releases/earnings-release-q2-fy-2026.html
 - Siemens Energy Q3 FY2026 portal: https://www.siemens-energy.com/global/en/home/press-releases/third-quarter-results-fy-2026.html
 - Reuters, 2026-08-05: https://www.reuters.com/business/energy/siemens-energy-posts-forecast-beating-results-ai-data-centre-boom-middle-east-2026-08-05/
+- Rolls-Royce SMR, 2026-09-03 — Steam turbine components for Rolls-Royce SMR to be manufactured in the UK: https://www.rolls-royce-smr.com/press/steam-turbine-components-for-rolls-royce-smr-to-be-manufactured-in-the-uk

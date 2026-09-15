@@ -15,6 +15,14 @@ This file records substantive changes to research conclusions, confidence, prior
 - MJC remains **`Investigating`** and a high-quality HBM/probe-card benchmark, but it adds memory-cycle correlation rather than solving the portfolio's independent-return-engine gap. Tactical cash and independent candidates can therefore remain superior marginal uses of capital at the current price.
 - No brokerage execution is authorized or performed.
 
+
+### Siemens Energy Rolls-Royce SMR turbine evidence captured
+
+- Added the 3 September Rolls-Royce SMR announcement that Siemens Energy's Newcastle site will manufacture high-pressure turbines and valve casings for the first three Gwyndod SMRs on Anglesey and is planned as the service hub for Siemens Energy components across the UK Rolls-Royce SMR fleet.
+- This strengthens the long-duration turbine + lifecycle-service thesis and adds nuclear/SMR optionality beyond Siemens Energy's existing gas-turbine and grid exposure.
+- The evidence is confirmatory rather than a Gate-C trigger: contract value, margin, delivery timing, firm fleet volume beyond the initial three UK units and service economics are not disclosed.
+- **No watchlist status, Investment Capture Score, confidence rating or valuation conclusion changed.** Siemens Energy remains **Watch**, ICS **4.3/5**, confidence **Medium-High**.
+
 ## 2026-09-12
 
 ### Oracle AI-infrastructure financing evidence added across Energy and Memory
