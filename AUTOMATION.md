@@ -88,26 +88,30 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 ### Programme / recurring
 - #117 — `EPIC` P0: aggressive £40k / 18-month portfolio.
-- #110 — `EPIC` P1: cross-theme Top-10 hunting universe.
+- #110 — `EPIC` P1: cross-theme hunting universe.
 - #120 — `EPIC` P0: automation/orchestration and capacity telemetry.
-- #131 — `BLOCKED` P0: construct initial aggressive portfolio after enough company underwrites are current.
-- #132 — `WAITING` P1: monthly portfolio re-rank when due.
+- #131 — `DONE` P0: initial £40k portfolio construction completed; retained as the canonical baseline.
+- #132 — `WAITING` P1 after the 15 Sep early re-rank; next normal monthly review due around **15 Oct 2026**, or earlier on a material portfolio-wide event.
 - #133 — `WAITING` P2: quarterly full-universe challenge when due.
 
-### Current Top-10 company work
-- #125 JEM — `READY` P1.
-- #126 SUSS MicroTec — `READY` P1.
-- #127 Weebit Nano — `READY` P1.
-- #86 Laifual Drive — `READY` P1.
-- #128 Micronics Japan — `READY` P1.
-- #106 BlackBerry/QNX — `WAITING` P0 on Q2 FY2027 / material non-auto evidence.
+### Current company work
+- #86 Laifual Drive — `WAITING` P1 on ~HK$45–48 with thesis intact or material operating/order/cash evidence.
+- #125 JEM — `WAITING` P1 on <=~¥6,100 with thesis intact or material HBM4/HBM4E / earnings / cash evidence.
+- #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
+- #127 Weebit Nano — `WAITING` P1 on ~A$2.5–2.7 with thesis intact or meaningful production royalty/adoption/capital evidence.
+- #128 Micronics Japan — `WAITING` P1 on ~¥10,000–10,800 with thesis intact or material HBM4/HBM4E / customer / FCF evidence.
+- #106 BlackBerry/QNX — `WAITING` P0 on **24 Sep 2026 Q2 FY2027 results** or earlier material non-auto production-economics evidence.
 - #108 FORT Robotics — `WAITING` P1 on S-4/equivalent / transaction change.
-- #129 Centrus — `WAITING` P1 on funded-capacity / financing inflection.
-- #130 Jinpan — `READY` P1.
-- #85 Harmonic Drive — `PARKED` P2.
-- #109 QNX vs FORT — `BLOCKED` P1 until both fresh event-driven underwrites exist.
+- #129 Centrus — `WAITING` P1 on ~US$120–130 with thesis intact or specific funded-capacity / DOE / customer / construction evidence.
+- #130 Jinpan — `WAITING` P1 on ~CNY54–57 with thesis intact or named/repeat global AIDC / margin / FCF evidence.
+- #146 Modine / Modexus — `WAITING` P1 on ~US$155–165 with thesis intact, the expected **1 Oct 2026** transaction close, or material post-separation guidance/margin/FCF evidence.
+- #85 Harmonic Drive — `PARKED` P2 pending major valuation or humanoid-profit evidence.
+- #109 QNX vs FORT — `BLOCKED` P1 until both event-driven underwrites are fresh.
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
+
+**Current portfolio interpretation (15 Sep 2026):** no company has a governed `ACTION` entry signal. Tactical cash remains the executable default. The closest current price-led monitors are Laifual, JEM and SUSS; Centrus, Modine and Jinpan are the main independent return-engine candidates; QNX is the next dated P0 information event.
+
 
 ## Two modes inside one scheduler
 
