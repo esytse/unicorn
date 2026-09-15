@@ -24,6 +24,47 @@ The current evidence set is:
 
 ---
 
+## Early portfolio re-rank — 15 September 2026
+
+**Status:** completed under recurring issue #132 after the Centrus financing/repricing trigger.
+
+**FACT:** since the initial four-name construction, governed current Gate-E underwrites have been completed for **Hainan Jinpan, Modine, Micronics Japan and Centrus**. This materially improves candidate breadth and gives the portfolio several independent return-engine candidates beyond memory/HBM.
+
+**FACT:** none of the live candidates currently has a governed research-level `ACTION` entry signal. Therefore the executable portfolio remains **tactical cash plus conditional sleeves**.
+
+### Current marginal portfolio ranking
+
+| Rank | Candidate | Why it matters now | Governed condition / next evidence |
+|---:|---|---|---|
+| **1** | **Laifual Drive** | independent Physical-AI operating inflection; closest independent price setup | ~HK$45–48 with thesis intact, or repeat humanoid orders + durable margin/profit/cash evidence |
+| **2** | **Centrus Energy** | independent nuclear-fuel bottleneck; September financing + price reset materially improved asymmetry | ~US$120–130 with thesis intact, or specific funded commercial-capacity / construction / customer / DOE evidence |
+| **3** | **Modine / Modexus** | independent cooling engine; clear near-term corporate catalyst | ~US$155–165 with thesis intact, or 1 Oct separation / stronger post-spin margin and FCF evidence |
+| **4** | **JEM** | strongest current HBM/probe-card valuation/evidence mix | fresh/recurrent <=~¥6,100 with thesis intact or credible HBM4/HBM4E production/share proof |
+| **5** | **SUSS MicroTec** | close to price zone with strong 2027 backlog visibility | ~€60–62 with thesis intact or stronger backlog/process/hybrid-bond evidence |
+| **6** | **Hainan Jinpan** | independent AI-power sensitivity and very strong order growth | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
+| **7** | **Weebit Nano** | high optionality, but still pre-recurring-royalty | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
+| **8** | **BlackBerry/QNX** | diversified software/safety exposure; imminent information event | Q2 FY2027 on 24 Sep 2026 or material non-auto economics |
+| **9** | **Micronics Japan** | best operating probe-card quality but correlated and not cheap enough | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
+| **10** | **FORT Robotics** | pure Physical-AI safety optionality, but transaction economics incomplete | S-4/equivalent with fully diluted and recurring-economics evidence |
+
+**INTERPRETATION:** the ranking intentionally differs from the old structural Top-10 order. Under Gate E, an independent candidate can outrank a higher-quality correlated memory name when it has greater marginal contribution to the £40k→£80k objective.
+
+### What changed versus the initial #131 construction
+
+- **Candidate breadth improved.** Centrus, Modine and Jinpan provide independent nuclear/cooling/electrical return engines; MJC adds a high-quality but correlated memory comparator.
+- **The portfolio objective is still not solved.** None of those new underwrites currently authorizes entry, and their base cases do not by themselves create a robust £80k path.
+- **No evidence-based reason exists to breach the original company position ceilings.** Concentration should increase only after trigger confirmation, not because the portfolio target is difficult.
+- **Cash remains an active position.** It protects the ability to enter near-trigger setups or rotate after dated catalysts rather than forcing capital into base cases that do not clear the hurdle.
+
+### Next dated portfolio events
+
+1. **24 Sep 2026 — BlackBerry/QNX Q2 FY2027:** refresh QNX SOTP and non-auto/Physical-AI economics.
+2. **1 Oct 2026 — expected Modine Performance Technologies / Gentherm close:** refresh the combined continuing-MOD + distributed-Gentherm value and post-spin guidance.
+3. Price/evidence triggers remain active for Laifual, JEM, SUSS, Centrus, Jinpan, Weebit and MJC.
+
+**CONCLUSION:** tactical cash remains the best current executable use of capital. The portfolio should move only when a governed trigger is confirmed and the refreshed company case beats cash and competing conditional sleeves on remaining-window expected return, catalyst timing, downside and correlation.
+
+---
 ## 1. Current candidate decision surface
 
 | Candidate | Reference | Gate-E role | Current state | Initial size if condition confirms | Current max ceiling | Key trigger |

@@ -72,10 +72,11 @@ Current Gate-E company work includes:
 - #108 FORT Robotics
 - #129 Centrus
 - #130 Jinpan
+- #146 Modine / Modexus transition
 - #85 Harmonic Drive
 - #109 QNX vs FORT comparison
 
-The initial portfolio-construction work is #131 and becomes executable when enough current company underwrites exist.
+Initial portfolio construction **#131 is complete**. The live allocation loop now runs through event-driven company monitors plus **#132** for monthly or material-event portfolio re-ranking; #132 was refreshed early on 15 Sep 2026 after the Centrus financing/repricing and is next due on the normal cadence around 15 Oct 2026 unless another material portfolio-wide event fires first.
 
 Scheduler sufficiency is measured rather than assumed. Key indicators include:
 - in-window P0/P1 alert detection-to-notification latency, target **<=2h**;

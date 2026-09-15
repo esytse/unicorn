@@ -4,6 +4,18 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-15
 
+### Early Gate-E portfolio re-rank completed after Centrus and MJC refresh
+
+- Completed an early **#132** portfolio re-rank after the fresh Centrus post-financing underwrite and governed Micronics Japan merge.
+- **No company currently has a governed `ACTION` entry signal.** Tactical cash remains the executable default; the portfolio continues to use conditional sleeves rather than forced deployment.
+- Candidate breadth is materially better than the original #131 four-name construction: current governed underwrites now include **Jinpan, Modine, Micronics Japan and Centrus** in addition to JEM, SUSS, Weebit and Laifual.
+- The live marginal portfolio order is now **Laifual → Centrus → Modine → JEM → SUSS → Jinpan → Weebit → QNX → Micronics Japan → FORT**. This is a Gate-E allocation/research order, not a structural-quality ranking.
+- Harmonic Drive falls out of the active Top 10 and remains **PARKED P2**; Modine enters because independent cooling exposure and the 1 October separation catalyst have higher marginal portfolio value.
+- The ranking deliberately promotes independent return engines ahead of some higher-quality correlated memory names, consistent with the repository rule to optimize marginal portfolio contribution rather than standalone company attractiveness.
+- Next dated decision events are **BlackBerry/QNX Q2 FY2027 on 24 Sep 2026** and the expected **Modine Performance Technologies / Gentherm close on 1 Oct 2026**.
+- Updated `PORTFOLIO.md`, `research/gate-e-portfolio-construction.md`, `research/top10-unicorn-priority.md`, `README.md` and `AUTOMATION.md` so the canonical docs and scheduler surface reflect the same live queue.
+- No brokerage execution was authorized or performed.
+
 ### Centrus Gate-E post-financing underwrite refreshed; price reset improves asymmetry but funded-capacity proof is still missing
 
 - Refreshed **#129** after the 9 September financing and subsequent share-price reset. LEU closed **$146.25 on 14 September**, about 21% below the 8 September $185.53 reference.

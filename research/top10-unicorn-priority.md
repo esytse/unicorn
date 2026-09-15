@@ -1,13 +1,38 @@
 # Cross-theme Top-10 Potential-Unicorn Research Priority
 
 **Status:** Active cross-theme research queue  
-**Reference date:** 2026-09-09  
+**Common-basis reference:** 2026-09-09  
+**Live Gate-E overlay refreshed:** 2026-09-15  
 **Parent backlog:** #110  
 **Active sprint:** #112  
 **Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality, company-level capture and the stock setup.
 
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
+## Live Gate-E decision overlay — 15 September 2026
+
+> This section is the **authoritative current work/portfolio-priority overlay**. The detailed 9 September common-basis ranking below remains useful evidence context, but it is no longer the execution order. Gate E now optimizes for marginal portfolio contribution, current catalysts and governed transaction conditions.
+
+| Live rank | Company | Current Gate-E state | Why it ranks here now | Next governed trigger |
+|---:|---|---|---|---|
+| **1** | **Laifual Drive** | WAITING P1 | independent Physical-AI return engine; operating inflection already visible and price is near the governed zone | ~HK$45–48 with thesis intact or repeat order + profit/cash evidence |
+| **2** | **Centrus Energy** | WAITING P1 | September financing + price reset created a materially better independent strategic-fuel setup; funded-capacity proof remains missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
+| **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine with a dated structural catalyst and strong customer demand | ~US$155–165 or expected 1 Oct separation / stronger post-spin margin/FCF |
+| **4** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance and close to its governed price condition | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
+| **5** | **SUSS MicroTec** | WAITING P1 | strong 2027 visibility and near its governed zone, offset by process/customer risk and memory correlation | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
+| **6** | **Hainan Jinpan** | WAITING P1 | independent AI-power sensitivity and exceptional order growth, but cash/global qualification remain weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
+| **7** | **Weebit Nano** | WAITING P1 | high venture-style optionality, still pre-recurring royalty | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
+| **8** | **BlackBerry / QNX** | WAITING P0 | strong diversification quality; next dated information event is close, but current 2x path remains unproven | Q2 FY2027 on 24 Sep 2026 or earlier non-auto production economics |
+| **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but current valuation/concentration and HBM correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
+| **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics are still incomplete | S-4/equivalent filing |
+
+**Dropped from the active Top 10:** Harmonic Drive Systems remains a technically important benchmark but is **PARKED P2** at the current valuation/evidence setup. Modine enters because its independent cooling economics and near-term separation catalyst have greater marginal portfolio value.
+
+**Current research/event priority:** QNX automatically becomes the highest executable P0 when 24 September results publish; otherwise company work remains event/price-driven rather than routine heavy research.
+
+**Current allocation conclusion:** no current candidate has a governed `ACTION` signal. Tactical cash remains the best executable use of capital until a trigger is freshly confirmed.
+
+---
 ## 1. Ranking method
 
 The ranking separates three questions:

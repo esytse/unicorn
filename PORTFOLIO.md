@@ -1,7 +1,8 @@
 # Aggressive Dynamic Portfolio Strategy — Gate E
 
 **Status:** Active  
-**Reference date:** 2026-09-09  
+**Strategy reference:** 2026-09-09  
+**Live decision surface refreshed:** 2026-09-15  
 **Target date:** March 2028  
 **Backlog:** #117  
 **Automation:** LIVE — #120 / `AUTOMATION.md`  
@@ -95,7 +96,7 @@ Working design principles for the initial portfolio:
 - thematic duplication should be counted as correlated exposure even when securities are different;
 - cash can remain available for event-driven entries, but should not become a permanent default when qualifying setups exist.
 
-Exact initial and maximum weights will be set only after enough current 18-month company underwrites exist to support an evidence-backed portfolio. Portfolio construction is tracked in **#131**; do not force deployment merely to fill 4–7 slots.
+Initial evidence-backed portfolio construction was completed in **#131**. The live portfolio remains conditional rather than fully deployed: position weights are activated only when governed company-level entry conditions are met, and **#132** re-ranks candidates as prices, evidence and catalysts change. Do not force deployment merely to fill 4–7 slots.
 
 ## Transaction rules
 
@@ -221,25 +222,47 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 - one live scheduler is enabled;
 - actual brokerage execution remains manual.
 
-### Current company decision surface
-- **#125 JEM — READY P1**
-- **#126 SUSS — READY P1**
-- **#127 Weebit — READY P1**
-- **#86 Laifual — READY P1**
-- **#128 Micronics Japan — READY P1**
-- **#106 BlackBerry/QNX — WAITING P0** on Q2 FY2027 / material non-auto evidence
-- **#108 FORT — WAITING P1** on S-4/equivalent / transaction change
-- **#129 Centrus — WAITING P1** on funded-capacity / financing inflection
-- **#130 Jinpan — READY P1**
-- **#85 Harmonic Drive — PARKED P2**
-- **#109 QNX vs FORT — BLOCKED P1** until both fresh event-driven underwrites exist
+### Current company decision surface — 15 Sep 2026
+- **#86 Laifual — WAITING P1:** near the governed HK$45–48 price-led reassessment zone; independent Physical-AI return engine.
+- **#125 JEM — WAITING P1:** fresh/recurrent <=~¥6,100 condition or stronger HBM4/HBM4E / cash evidence.
+- **#126 SUSS — WAITING P1:** ~€60–62 condition or stronger backlog/process/hybrid-bond evidence.
+- **#127 Weebit — WAITING P1:** ~A$2.5–2.7 or recurring production royalty/adoption evidence.
+- **#128 Micronics Japan — WAITING P1:** ~¥10,000–10,800 or stronger HBM4/HBM4E/customer/FCF evidence; high quality but correlated.
+- **#106 BlackBerry/QNX — WAITING P0:** Q2 FY2027 due 24 Sep 2026 or earlier material non-auto economics.
+- **#108 FORT — WAITING P1:** S-4/equivalent / transaction disclosure.
+- **#129 Centrus — WAITING P1:** ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence after the September financing reset.
+- **#130 Jinpan — WAITING P1:** ~CNY54–57 or stronger global AIDC qualification/cash evidence.
+- **#146 Modine / Modexus — WAITING P1:** ~US$155–165 or 1 Oct 2026 separation close / material post-spin evidence.
+- **#85 Harmonic Drive — PARKED P2.**
+- **#109 QNX vs FORT — BLOCKED P1** until both event-driven underwrites are fresh.
 
 ### Portfolio / recurring work
-- **#131 — BLOCKED P0:** construct the initial aggressive £40k portfolio once enough current company underwrites exist;
-- **#132 — WAITING P1:** monthly portfolio re-rank;
+- **#131 — DONE P0:** initial construction baseline completed.
+- **#132 — WAITING P1 after early 15 Sep re-rank:** next normal monthly review around 15 Oct 2026, or earlier on a material portfolio-wide trigger.
 - **#133 — WAITING P2:** quarterly full-universe challenge.
 
-The scheduler must select only valid `READY` work, mark it `RUNNING` before substantive execution, and use branch → PR → required `Research governance` → merge for substantive repository changes.
+### Early re-rank conclusion — 15 Sep 2026
+
+**FACT:** the candidate set is broader than the original four-name #131 construction: current governed Gate-E underwrites now also exist for Jinpan, Modine, Micronics Japan and Centrus.
+
+**CONCLUSION:** breadth has improved, but **no current company has a governed `ACTION` entry signal**. The executable portfolio therefore remains **tactical cash plus conditional sleeves** rather than forced deployment.
+
+**INTERPRETATION:** marginal portfolio contribution now matters more than the old static Top-10 order. Independent-return-engine candidates — especially Laifual, Centrus, Modine and Jinpan — deserve capital/research priority when their conditions fire because the original portfolio already carries substantial memory/HBM correlation.
+
+Current conditional allocation priority, assuming each company's documented trigger is freshly confirmed:
+1. **Laifual** — closest independent operating setup; price is near the governed zone, but profit/cash and repeat-customer evidence still matter.
+2. **Centrus** — independent strategic-fuel optionality after a major financing/enterprise-value reset; base case still does not clear 2x, so funded-capacity proof remains decisive.
+3. **Modine / Modexus** — independent data-centre cooling engine with a dated 1 Oct structural catalyst; base case still below the 2x hurdle at the latest underwrite.
+4. **JEM** — strongest current memory valuation/evidence balance; close to its governed price condition, but portfolio correlation caps its marginal priority.
+5. **SUSS** — similarly close to its governed zone with strong backlog visibility, offset by process/customer concentration and memory-cycle correlation.
+6. **Jinpan** — independent AI-power sensitivity and exceptional order growth, but weaker cash conversion/global qualification evidence.
+7. **Weebit Nano** — highest venture-style memory optionality, still gated by recurring production royalties and dilution.
+8. **BlackBerry/QNX** — attractive diversification quality but a 2x path still needs evidence; 24 Sep results are the next P0 information event.
+9. **Micronics Japan** — strongest probe-card operating quality but current valuation/customer concentration and memory correlation reduce marginal portfolio value.
+10. **FORT Robotics** — high Physical-AI purity and optionality, but final transaction/dilution/recurring economics remain unavailable until the filing.
+
+**Best alternative use of capital today:** tactical cash. A candidate should displace cash only after its current governed condition fires and a fresh check confirms better remaining-window asymmetry than the alternatives.
+
 
 ## Scheduler sufficiency
 
