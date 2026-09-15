@@ -85,6 +85,11 @@ Use this register for sources that support multiple research files or are import
 | SRC-NUCLEAR-LEU-002 | Centrus / Radiant definitive HALEU agreement: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-radiant-announce-long-term-partnership-domestic | Company / customer agreement primary | 2026-09-09 | 2026-09-15 | Commercial HALEU funding | Definitive multi-year HALEU supply agreement; customer prepayments support domestic enrichment capacity; delivery before end of decade. |
 | SRC-NUCLEAR-LEU-003 | Centrus historical price data: https://uk.investing.com/equities/centrus-energy-historical-data | Secondary market data | 2026-09-14 | 2026-09-15 | Gate-E valuation reference | LEU closed $146.25 on 14 Sep 2026 versus $185.53 on 8 Sep. |
 
+| SRC-ACT-LAI-001 | Laifual H1 2026 interim results: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802824.pdf | Company / regulatory primary | 2026-08-28 | 2026-09-15 | Laifual operating/cash/capacity evidence | Revenue RMB142.2m +80.1%; reducer GM 29.6%; adjusted EBITDA RMB12.4m; OCF -RMB20.9m; 95.1% utilization; July capacity 64.8k/month; >400k reducer orders at 31 July. |
+| SRC-ACT-LAI-002 | Laifual proposed credit facilities: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802890.pdf | Company / regulatory primary | 2026-08-28 | 2026-09-15 | Laifual financing / leverage monitor | Proposed facilities up to RMB1.5bn for working capital, fixed assets and other banking uses; facilities had not yet been entered into. |
+| SRC-ACT-LAI-003 | Laifual withdrawal of registered-address resolution: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090302397.pdf | Company / regulatory primary | 2026-09-03 | 2026-09-15 | Laifual governance / non-operating update | Board withdrew only the proposed registered-address change after further assessment; no operating deterioration disclosed. |
+| SRC-ACT-LAI-004 | Laifual HKEX title-search surface: https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748 | Regulatory listing index | Current to 2026-09-15 | 2026-09-15 | Laifual disclosure completeness check | No newer material operating filing found after 3 Sep in the HKEX issuer index used for the trigger refresh. |
+
 ## Source quality notes
 
 Prefer, roughly in this order:
