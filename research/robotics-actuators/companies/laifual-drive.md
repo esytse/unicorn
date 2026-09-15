@@ -4,7 +4,7 @@
 **Ticker:** HKEX: 03952  
 **Status:** Investigating  
 **Confidence:** Medium on current operating capture; Low-Medium on March-2028 stock return  
-**Last substantive update:** 2026-09-10  
+**Last substantive update:** 2026-09-15  
 **Backlog:** #86
 
 ## Snapshot
@@ -20,8 +20,8 @@
 **CONCLUSION:** Laifual has crossed from a prospectus-era humanoid narrative into **real operating capture**: volume, small-reducer mix, unit cost, utilization, gross margin and adjusted profitability are all moving in the right direction. The remaining Gate-E problem is whether those gains convert into sufficient cash earnings per share by March 2028 without price competition, architecture substitution or capacity-driven capital needs absorbing the economics.
 
 **Gate-E portfolio role:** **Catalyst asymmetric / small pre-profit growth candidate**.  
-**Current research signal:** **REASSESS — not yet ACTION** at the 10 September 2026 reference.  
-**Research watchlist:** remains **Investigating** pending durable profit/cash and repeat humanoid-customer evidence.
+**Current research signal:** **ACTION — starter sleeve only at an executable price <=HK$48**, after the 15 September price trigger fired and a fresh thesis check remained intact.  
+**Research watchlist:** remains **Investigating**. The action is deliberately small because durable profit/cash conversion and named repeat humanoid-customer evidence are still incomplete.
 
 ---
 
@@ -141,53 +141,77 @@ These are **scenario boundaries, not forecasts or price targets**. They are tied
 
 ---
 
-## 8. Gate-E action framework
+## 8. Price-triggered Gate-E refresh — 15 September 2026
 
-### Current state — REASSESS, not ACTION
+### Trigger
 
-The fall from the earlier ~HK$58–63 range to ~HK$54.40 improves expected asymmetry while H1 operating evidence has strengthened. That makes Laifual more interesting for #131, but **not yet sufficient for a research-level Buy signal** because adjusted net profit and cash conversion are not yet established and customer identities/repeatability remain incomplete.
+**FACT:** A user-supplied IBKR watchlist quote showed Laifual at **HK$47.28**, inside the governed **HK$45–48** price-led reassessment zone.
 
-### Price-led reassessment
+**FACT / DATA-QUALITY NOTE:** public delayed feeds observed on the same date were not perfectly aligned: one Hong Kong quote feed showed approximately **HK$48.72**, while another historical-data feed showed **HK$50.00**. The research action condition is therefore tied to the **executable broker quote**, not to a single delayed public print.
 
-A stronger price-led setup begins around **HK$45–48** provided:
+### Fresh thesis check
 
-- H1 growth/margin evidence has not deteriorated;
-- no material customer loss or price war appears;
-- planned capacity remains funded without new material dilution;
-- repeat humanoid validation/order evidence remains credible;
-- balance-sheet liquidity remains strong.
+The four conditions attached to the original price-led reassessment remain broadly intact:
 
-This is a new Gate-E return/risk zone, not the IPO price or an old Gate-D threshold.
+1. **Growth / margin:** no newer company results contradict H1 2026. Revenue was RMB142.2m (+80.1%), reducer gross margin 29.6%, unit cost fell to RMB351, and adjusted EBITDA was positive RMB12.4m.
+2. **Demand / customer trajectory:** H1 management reported humanoid customers progressing from validation toward bulk procurement; outstanding harmonic-reducer orders exceeded **400k units at 31 July 2026**, versus July designed capacity of 64.8k units/month.
+3. **Capacity economics:** H1 utilization was 95.1%; management targeted monthly capacity of 80k units by end-2026. No material public disclosure found through 15 September indicated customer loss, price war or capacity cancellation.
+4. **Liquidity:** cash and cash equivalents were RMB980.1m at 30 June, with total cash plus FVTPL financial assets of RMB1.015bn against RMB300.8m borrowings. This remains a strong liquidity position.
 
-### Evidence-led entry condition
+### Important counter-evidence
 
-An entry can become supportable above HK$45–48 if fresh evidence shows several of:
+**FACT:** H1 operating cash flow was still **negative RMB20.9m** and capex was **RMB77.8m**. Adjusted net income had not yet turned positive.
 
-1. repeat/bulk humanoid orders from identifiable or clearly recurring customers;
-2. reducer gross margin sustained around **28–30%+** through higher volume;
-3. adjusted net income turns positive and begins scaling;
-4. operating cash conversion improves materially despite expansion;
-5. new capacity is contracted / utilized without large ASP concessions;
-6. joint modules become a material, attractive-margin revenue stream;
-7. a fresh underwrite supports roughly **60%+ remaining-window upside** without requiring the stretch case.
+**FACT:** on 28 August the company proposed credit facilities of up to **RMB1.5bn** for working capital, fixed assets and other banking uses. The facilities had **not yet been entered into** at the announcement date. This is not equity dilution, but it creates a material leverage/capital-allocation monitor if drawn substantially.
 
-### Research sizing if confirmed
+**FACT:** the latest HKEX announcement after the interim results, dated 3 September, only withdrew a proposed registered-address change after further assessment; it did not disclose an operating deterioration.
 
-- **Initial:** ~5–7% of the £40k research portfolio.
-- **Maximum before positive cash/profit conversion and repeat humanoid evidence:** ~8%.
-- **Maximum after repeat customer evidence + durable profit/cash conversion:** ~10–12%.
+### Return geometry from HK$47.28
+
+Using the existing governed March-2028 scenario boundaries:
+
+| Scenario | Existing boundary | Return from HK$47.28 |
+|---|---:|---:|
+| Bear | HK$25–35 | about **-47% to -26%** |
+| Base | HK$55–75 | about **+16% to +59%** |
+| Upside | HK$95–125 | about **+101% to +164%** |
+| Stretch | HK$150–200+ | about **+217% to +323%+** |
+
+**INTERPRETATION:** the price decline materially improves asymmetry versus the 10 September reference. The base case still does not robustly clear the portfolio's 60% remaining-window hurdle, so this is **not** a full-size entry. However, the upside case now begins above 2x while the original operating thesis remains intact, and Laifual is currently the portfolio's highest-ranked independent near-trigger candidate.
+
+### Current action state
+
+**ACTION — initiate only a starter research sleeve at an executable price <=HK$48.**
+
+- **Initial size:** **5% of the £40k Gate-E capital pool (~£2,000)**.
+- **Maximum before positive profit/cash + repeat humanoid proof:** **8%**.
+- **Maximum after repeat customer evidence + durable profit/cash conversion:** **10–12%**.
+- **Do not chase above HK$48 under the current evidence set.** Above the governed price condition, revert to REASSESS unless operating evidence improves enough to support a higher entry value.
+- Actual brokerage execution remains manual.
+
+This is the first live Gate-E ACTION in the current portfolio cycle, but it is intentionally a **starter**, not a conviction-sized position.
 
 ### Add
 
-Add only when repeat orders, utilization, margins and cash conversion improve faster than valuation or when a price decline improves expected return without thesis deterioration.
+Do not add merely because the price falls. Re-underwrite before moving above 5%. Evidence that can support an increase toward the 8% pre-proof ceiling includes:
 
-### Trim
+- adjusted net income turning positive and beginning to scale;
+- operating cash conversion improving despite capex;
+- repeat/bulk humanoid orders with better evidence of recurring customers;
+- reducer margin sustaining around 28–30%+ as monthly capacity expands;
+- >400k order backlog converting without material ASP concessions;
+- evidence that joint modules raise rather than dilute economic capture.
 
-Trim if the share price rerates materially ahead of disclosed profit/cash conversion or if humanoid enthusiasm becomes the dominant valuation driver without customer evidence.
+### Trim / cancel the action
 
-### Sell / reject
+Cancel or trim the starter condition if:
 
-Reduce or reject if a major customer is lost, reducer gross margin falls structurally below the mid-20s, the new plant requires price-led utilization, operating cash remains persistently poor despite scale, or alternate joint architectures materially reduce harmonic-reducer content.
+- executable price rises above the governed <=HK$48 condition without stronger evidence;
+- reducer margin deteriorates materially toward/below the mid-20s;
+- order/customer evidence weakens;
+- the RMB1.5bn credit envelope turns into material leverage without a clear high-return capacity bridge;
+- operating cash consumption worsens materially relative to scale;
+- a thesis breaker elsewhere in this file occurs.
 
 ---
 
@@ -257,10 +281,10 @@ The decisive question is whether Laifual has become a **profitable, cash-generat
 **Current Gate-E conclusion:** Laifual remains **Investigating**, but is more portfolio-relevant at ~HK$54 than the earlier Gate-D framing suggested. Its March-2028 upside can be earned through observable operational levers—repeat orders, ~30% reducer margins, high utilization, positive adjusted profit/cash and successful capacity ramp—rather than requiring a wholly new business model.
 
 **Portfolio role:** **Catalyst asymmetric / small pre-profit growth candidate**.  
-**Current signal:** **REASSESS — not ACTION**.  
-**Price-led reassessment:** ~**HK$45–48** with thesis intact.  
-**Evidence-led entry:** repeat humanoid bulk orders + durable margin + positive profit/cash conversion, or equivalent evidence supporting ~60%+ remaining-window upside.  
-**Research sizing if confirmed:** **5–7% initial; 8% pre-proof max; 10–12% after repeat customer + cash/profit evidence**.
+**Current signal:** **ACTION — starter 5% sleeve only at an executable price <=HK$48**.  
+**Price condition:** the 15 September broker quote of HK$47.28 fired the governed zone; delayed public feeds were inconsistent, so confirm the executable broker quote before any manual order.  
+**Evidence-led add:** positive profit/cash conversion, repeat humanoid bulk orders, durable ~28–30%+ reducer margin and successful capacity/order conversion.  
+**Research sizing:** **5% initial; 8% pre-proof max; 10–12% after repeat customer + cash/profit evidence**.
 
 ## Sources
 
