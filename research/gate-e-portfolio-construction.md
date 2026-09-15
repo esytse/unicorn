@@ -30,13 +30,13 @@ The current evidence set is:
 
 **FACT:** since the initial four-name construction, governed current Gate-E underwrites have been completed for **Hainan Jinpan, Modine, Micronics Japan and Centrus**. This materially improves candidate breadth and gives the portfolio several independent return-engine candidates beyond memory/HBM.
 
-**FACT:** none of the live candidates currently has a governed research-level `ACTION` entry signal. Therefore the executable portfolio remains **tactical cash plus conditional sleeves**.
+**FACT:** Laifual now has the first governed research-level `ACTION` entry signal in the current cycle: a **starter 5% sleeve at executable <=HK$48**. Actual brokerage execution remains manual, so this is a research allocation signal rather than a recorded holding.
 
 ### Current marginal portfolio ranking
 
 | Rank | Candidate | Why it matters now | Governed condition / next evidence |
 |---:|---|---|---|
-| **1** | **Laifual Drive** | independent Physical-AI operating inflection; closest independent price setup | ~HK$45–48 with thesis intact, or repeat humanoid orders + durable margin/profit/cash evidence |
+| **1** | **Laifual Drive** | **ACTION:** first live independent Physical-AI entry signal; only a starter because cash/profit proof remains incomplete | executable <=HK$48 with thesis intact; 5% starter, re-underwrite before any add |
 | **2** | **Centrus Energy** | independent nuclear-fuel bottleneck; September financing + price reset materially improved asymmetry | ~US$120–130 with thesis intact, or specific funded commercial-capacity / construction / customer / DOE evidence |
 | **3** | **Modine / Modexus** | independent cooling engine; clear near-term corporate catalyst | ~US$155–165 with thesis intact, or 1 Oct separation / stronger post-spin margin and FCF evidence |
 | **4** | **JEM** | strongest current HBM/probe-card valuation/evidence mix | fresh/recurrent <=~¥6,100 with thesis intact or credible HBM4/HBM4E production/share proof |
@@ -62,7 +62,7 @@ The current evidence set is:
 2. **1 Oct 2026 — expected Modine Performance Technologies / Gentherm close:** refresh the combined continuing-MOD + distributed-Gentherm value and post-spin guidance.
 3. Price/evidence triggers remain active for Laifual, JEM, SUSS, Centrus, Jinpan, Weebit and MJC.
 
-**CONCLUSION:** tactical cash remains the best current executable use of capital. The portfolio should move only when a governed trigger is confirmed and the refreshed company case beats cash and competing conditional sleeves on remaining-window expected return, catalyst timing, downside and correlation.
+**CONCLUSION:** the research portfolio now has one governed starter action: **5% Laifual / 95% tactical cash**, conditional on manual execution at <=HK$48. The remaining portfolio should move only when another governed trigger is confirmed and the refreshed company case beats cash and competing sleeves on remaining-window expected return, catalyst timing, downside and correlation.
 
 ---
 ## 1. Current candidate decision surface
