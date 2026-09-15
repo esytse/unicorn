@@ -95,7 +95,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 - #133 — `WAITING` P2: quarterly full-universe challenge when due.
 
 ### Current company work
-- #86 Laifual Drive — `WAITING` P1 on ~HK$45–48 with thesis intact or material operating/order/cash evidence.
+- #86 Laifual Drive — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve is supported only at an executable price <=HK$48 with thesis intact; revert to REASSESS above the price condition unless evidence improves.
 - #125 JEM — `WAITING` P1 on <=~¥6,100 with thesis intact or material HBM4/HBM4E / earnings / cash evidence.
 - #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
 - #127 Weebit Nano — `WAITING` P1 on ~A$2.5–2.7 with thesis intact or meaningful production royalty/adoption/capital evidence.
@@ -110,7 +110,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
 
-**Current portfolio interpretation (15 Sep 2026):** no company has a governed `ACTION` entry signal. Tactical cash remains the executable default. The closest current price-led monitors are Laifual, JEM and SUSS; Centrus, Modine and Jinpan are the main independent return-engine candidates; QNX is the next dated P0 information event.
+**Current portfolio interpretation (15 Sep 2026):** Laifual is the first governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual, so cash remains uncommitted until the user acts. The remaining 95% of the research capital stays tactical cash / conditional sleeves; Centrus and Modine remain the next independent-return-engine priorities, while QNX is the next dated P0 information event.
 
 
 ## Two modes inside one scheduler

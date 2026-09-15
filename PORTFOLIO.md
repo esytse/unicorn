@@ -223,7 +223,7 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 - actual brokerage execution remains manual.
 
 ### Current company decision surface — 15 Sep 2026
-- **#86 Laifual — WAITING P1:** near the governed HK$45–48 price-led reassessment zone; independent Physical-AI return engine.
+- **#86 Laifual — WAITING P0 ACTION monitor:** governed starter **5% research sleeve (~£2,000)** at executable <=HK$48 with thesis intact; 8% pre-proof ceiling. Brokerage execution remains manual.
 - **#125 JEM — WAITING P1:** fresh/recurrent <=~¥6,100 condition or stronger HBM4/HBM4E / cash evidence.
 - **#126 SUSS — WAITING P1:** ~€60–62 condition or stronger backlog/process/hybrid-bond evidence.
 - **#127 Weebit — WAITING P1:** ~A$2.5–2.7 or recurring production royalty/adoption evidence.
@@ -245,12 +245,12 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 
 **FACT:** the candidate set is broader than the original four-name #131 construction: current governed Gate-E underwrites now also exist for Jinpan, Modine, Micronics Japan and Centrus.
 
-**CONCLUSION:** breadth has improved, but **no current company has a governed `ACTION` entry signal**. The executable portfolio therefore remains **tactical cash plus conditional sleeves** rather than forced deployment.
+**CONCLUSION:** Laifual is now the first governed **`ACTION`** in the current Gate-E cycle: a **starter 5% research allocation signal only at an executable price <=HK$48**. No brokerage order has been placed, so the actual brokerage portfolio remains unchanged until manual execution. The other 95% of the research capital remains tactical cash plus conditional sleeves.
 
 **INTERPRETATION:** marginal portfolio contribution now matters more than the old static Top-10 order. Independent-return-engine candidates — especially Laifual, Centrus, Modine and Jinpan — deserve capital/research priority when their conditions fire because the original portfolio already carries substantial memory/HBM correlation.
 
 Current conditional allocation priority, assuming each company's documented trigger is freshly confirmed:
-1. **Laifual** — closest independent operating setup; price is near the governed zone, but profit/cash and repeat-customer evidence still matter.
+1. **Laifual — ACTION:** starter 5% research sleeve at executable <=HK$48. Do not chase above the governed price condition; re-underwrite before any add above 5%.
 2. **Centrus** — independent strategic-fuel optionality after a major financing/enterprise-value reset; base case still does not clear 2x, so funded-capacity proof remains decisive.
 3. **Modine / Modexus** — independent data-centre cooling engine with a dated 1 Oct structural catalyst; base case still below the 2x hurdle at the latest underwrite.
 4. **JEM** — strongest current memory valuation/evidence balance; close to its governed price condition, but portfolio correlation caps its marginal priority.
@@ -261,7 +261,7 @@ Current conditional allocation priority, assuming each company's documented trig
 9. **Micronics Japan** — strongest probe-card operating quality but current valuation/customer concentration and memory correlation reduce marginal portfolio value.
 10. **FORT Robotics** — high Physical-AI purity and optionality, but final transaction/dilution/recurring economics remain unavailable until the filing.
 
-**Best alternative use of capital today:** tactical cash. A candidate should displace cash only after its current governed condition fires and a fresh check confirms better remaining-window asymmetry than the alternatives.
+**Best alternative use of capital today:** after the Laifual starter signal, **95% tactical cash** remains the best research allocation for undeployed capital. Any further candidate should displace cash only after its governed condition fires and a fresh check confirms better remaining-window asymmetry than the alternatives.
 
 
 ## Scheduler sufficiency
