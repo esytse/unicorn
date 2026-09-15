@@ -15,7 +15,7 @@
 
 | Live rank | Company | Current Gate-E state | Why it ranks here now | Next governed trigger |
 |---:|---|---|---|---|
-| **1** | **Laifual Drive** | WAITING P1 | independent Physical-AI return engine; operating inflection already visible and price is near the governed zone | ~HK$45–48 with thesis intact or repeat order + profit/cash evidence |
+| **1** | **Laifual Drive** | **WAITING P0 / ACTION monitor** | first live Gate-E starter action after the broker quote entered the governed zone; independent Physical-AI return engine | starter 5% only at executable <=HK$48; re-underwrite before any add |
 | **2** | **Centrus Energy** | WAITING P1 | September financing + price reset created a materially better independent strategic-fuel setup; funded-capacity proof remains missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
 | **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine with a dated structural catalyst and strong customer demand | ~US$155–165 or expected 1 Oct separation / stronger post-spin margin/FCF |
 | **4** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance and close to its governed price condition | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
@@ -30,7 +30,7 @@
 
 **Current research/event priority:** QNX automatically becomes the highest executable P0 when 24 September results publish; otherwise company work remains event/price-driven rather than routine heavy research.
 
-**Current allocation conclusion:** no current candidate has a governed `ACTION` signal. Tactical cash remains the best executable use of capital until a trigger is freshly confirmed.
+**Current allocation conclusion:** Laifual now has the first governed `ACTION` signal: **starter 5% at executable <=HK$48**. Brokerage execution is manual, so the actual holding is not assumed. The remaining 95% stays tactical cash / conditional sleeves.
 
 ---
 ## 1. Ranking method
