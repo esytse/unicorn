@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-15
 
+### Portfolio surface refreshed for first live Gate-E ACTION
+
+- #86 Laifual is now the first governed **ACTION** in the current Gate-E cycle after PR #153 passed Research governance.
+- The action is deliberately limited to a **5% starter research sleeve (~£2,000 of £40k)** at an executable price **<=HK$48**; the existing **8% pre-proof** and **10–12% post-proof** ceilings remain unchanged.
+- No brokerage trade has been placed. Until manual execution, the actual brokerage portfolio is unchanged; the research allocation signal is **5% Laifual / 95% tactical cash**.
+- Laifual remains ranked #1 in the live Top-10. The order of the remaining candidates is unchanged.
+- Updated PORTFOLIO, Gate-E construction, Top-10 live overlay and AUTOMATION so the canonical portfolio surface no longer states that there are zero ACTION signals.
+
+
 ### Laifual price trigger fired; starter Gate-E ACTION established
 
 - Freshened **#86** after a user-supplied IBKR quote of **HK$47.28** entered the governed **HK$45–48** reassessment zone.
