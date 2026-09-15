@@ -1,133 +1,262 @@
-# Centrus Energy — AI Energy Investment Capture
+# Centrus Energy — Gate-E Post-Financing Underwrite
 
+**Research stream:** AI/data-centre energy — Western enrichment / HALEU  
+**Ticker:** NYSE: LEU  
 **Status:** Investigating  
 **Investment Capture Score:** **4.0 / 5**  
-**Confidence:** Medium-Low  
-**Primary lanes:** Western LEU enrichment; HALEU enrichment / deconversion optionality  
-**Last evidence refresh:** 2026-09-08  
-**Backlog:** issue #66
+**Gate-E portfolio role:** Catalyst asymmetric / strategic nuclear-fuel option  
+**Confidence:** Medium on strategic scarcity and financing access; Medium-Low on March-2028 per-share deployability  
+**Last substantive update:** 2026-09-15  
+**Backlog:** #129
 
-## Current conclusion
+## Executive conclusion
 
-**INTERPRETATION:** Centrus remains the cleanest listed small-company exposure in this programme to the validated Western enrichment / HALEU bottleneck. The September funding refresh strengthens the conclusion that the expansion is no longer only conceptual: Centrus has a signed **$900m DOE HALEU expansion contract**, roughly **$1.9bn of cash**, active centrifuge manufacturing / construction work, and definitive commercial contracts that can include customer prepayments.
+**CONCLUSION:** Centrus is materially more interesting after the September 2026 financing and subsequent share-price reset, but the current evidence still supports **REASSESS / WAIT — not ACTION** rather than a research-level Buy.
 
-But the same evidence also prevents treating the current backlog as funded earnings. The planned enrichment expansion is explicitly **multi-billion-dollar**, most of the $3.0bn future LEU/HALEU sales commitments remain contingent on operational milestones, DOE payments are milestone-based rather than an upfront $900m cash grant, and Centrus retains a large ATM programme alongside substantial convertible notes.
+The change is real:
 
-Centrus therefore remains `Investigating`. The thesis is increasingly a **capital-stack / per-share economics** question rather than a demand-discovery question.
+- the 9 September financing raises about **$500m gross / ~$489m estimated net** before any common-warrant exercise;
+- the package includes **500,000 common shares**, **2,005,513 pre-funded warrants** with a $0.10 exercise price, and four series of common warrants covering up to **6,992,382 additional shares**;
+- LEU closed at **$146.25 on 14 September**, down about **21% from $185.53 on 8 September**;
+- X-energy and Radiant have now both signed definitive supply agreements that include customer prepayments supporting domestic commercial enrichment capacity;
+- the **$900m DOE HALEU expansion task order** is signed and milestone-based, and industrial work is under way.
 
-## What is actually funded or committed today?
+The offset is that the financing still does **not** disclose how much commercial enrichment capacity will be fully funded, commissioned and economically visible by **March 2028**. Net proceeds are for broad corporate purposes, including technology deployment, capex, debt actions and potential acquisitions. The final prospectus also discloses advanced discussions to acquire a domestic manufacturing supplier for roughly **$115–125m**, which could strengthen the supply chain but would consume part of the new liquidity.
 
-### DOE HALEU expansion award
+**Current Gate-E signal:** **REASSESS / WAIT — not ACTION.**
 
-**FACT:** on June 30, 2026 Centrus signed a firm-fixed-price **$900m DOE task order** to establish new domestic commercial HALEU enrichment capacity at Piketon. Payments are incremental and performance-milestone based. The contract requires deployment of specified enrichment capacity and delivery of one metric ton of HALEU UF6 by March 2032; DOE also has two discretionary five-MTU delivery options priced at $85m each.
+**Why not ACTION at ~$146:** the current price now offers much better optionality than the pre-financing setup, but a plausible base March-2028 outcome still falls short of the portfolio's 2x objective. A 2x contribution requires an upside case in which Centrus converts today's financing capacity into a specific, largely funded commercial expansion with visible construction/manufacturing milestones and acceptable per-share economics.
 
-**INTERPRETATION:** the $900m contract materially de-risks the initial industrial build, but it is not equivalent to $900m of unrestricted upfront financing. Centrus must execute milestones and finance activity between payments.
+---
 
-### Commercial LEU / HALEU commitments
+## 1. What changed in September 2026
 
-**FACT:** total backlog was **$4.5bn** at June 30, 2026 and extends to 2040. LEU-segment backlog was about **$3.7bn**.
+### Financing package
 
-**FACT:** approximately **$3.0bn** of the LEU backlog represents contingent LEU / HALEU sales contracts and commitments supporting potential new production capacity; approximately **$2.4bn** of that amount is under definitive agreements. The company explicitly states that these commitments generally depend on achievement of operational milestones.
+**FACT:** Centrus priced an underwritten offering at **$199.64 per common share plus accompanying common warrants** and **$199.54 per pre-funded warrant plus accompanying common warrants**.
 
-**FACT:** Centrus signed a definitive LEU / HALEU supply agreement with X-energy in August 2026 under which **X-energy will provide prepayments** to support domestic commercial enrichment capacity. The disclosed contract does not provide the prepayment amount.
+**FACT:** the package comprises:
 
-**FACT:** the June 2026 Oklo arrangement was a **letter of intent**, with potential prepayments and deliveries proposed to begin in 2029; it should not be treated on the same certainty basis as a definitive funded contract.
+- **500,000** newly issued Class A shares;
+- pre-funded warrants for **2,005,513** shares, immediately exercisable at **$0.10**;
+- common warrants for up to **6,992,382** shares across four series;
+- common-warrant exercise prices of **$226.8625, $272.2350, $317.6075 and $362.9800**;
+- approximately **$500.0m gross proceeds** and approximately **$489m estimated net proceeds** before common-warrant exercises;
+- up to roughly **$2.0bn additional gross cash** if all common warrants are eventually exercised for cash.
 
-**INTERPRETATION:** demand is strong enough to support a real buildout, but `definitive` does not mean `fully funded`. The investment case depends on the timing and size of customer prepayments, public funding, national-security work and other capital sources relative to construction spend.
+**INTERPRETATION:** the pre-funded warrants should be treated as near-common economic exposure because almost the entire purchase price was paid upfront and the exercise price is nominal. The common warrants are different: they create contingent dilution only if the stock appreciates materially, while also bringing in substantial incremental cash.
 
-## Industrial build / timing
+### Share-count impact
 
-**FACT:** Centrus describes the Piketon programme as a **multi-billion-dollar expansion** adding thousands of AC100M centrifuges and targeting an initial build sufficient for the contracted LEU programme plus roughly **12 metric tons per year of HALEU capacity**.
+**FACT:** Centrus reported **19,233,908 Class A shares outstanding as of 4 September 2026**.
 
-**FACT:** Centrus committed **more than $560m** to transition its Oak Ridge centrifuge factory toward high-rate manufacturing. It selected Fluor and Geiger Brothers for engineering / construction work and expects the first newly manufactured centrifuge from the current programme by year-end 2026.
+**FACT / CALCULATION:** adding the 500,000 issued shares gives about **19.734m reported common shares** immediately after the offering, before warrant exercises.
 
-**FACT:** 2026 company guidance calls for **$350m–$500m of capital deployment**, driven largely by the industrial buildout.
+**INTERPRETATION / CALCULATION:** treating the 2.006m pre-funded warrants as economic share equivalents gives about **21.739m common-equivalent shares**, approximately **13.0% higher** than the 4 September common-share count.
 
-**INTERPRETATION:** the project has moved beyond paper development, but full commercial enrichment economics are still years away. The DOE contract runs through 2032, and the 12-MTU HALEU target is an early-2030s capacity outcome rather than current earnings.
+**FACT:** the Q2 2026 diluted-EPS calculation included roughly **1.97m potentially dilutive shares** associated with the 2.25% convertible notes.
 
-## Liquidity, debt and dilution
+**HYPOTHESIS / DECISION CONTEXT:** adding that historical convertible dilution reference to current common-equivalent shares gives roughly **23.7m** diluted-share context before the new common warrants. Actual future note dilution depends on stock price and settlement mechanics.
 
-**FACT:** Centrus had approximately **$1.869bn of cash and cash equivalents** at June 30, 2026.
+**FACT / CALCULATION:** if every new common warrant were exercised, the package could add another **6.992m shares**, taking common-equivalent shares to about **28.732m** before considering convertible dilution — roughly **49% above** the 4 September common-share count. This should not be treated as pure dilution because full exercise would also deliver about $2bn of cash.
 
-**FACT:** the company had approximately **$402.5m principal of 2.25% convertible notes due 2030** and **$805m principal of 0% convertible notes due 2032**. The notes require cash settlement of principal, while the in-the-money conversion value can create share dilution. In Q2 2026 the 2.25% notes contributed roughly **1.97m potentially dilutive shares** to diluted EPS.
+---
 
-**FACT:** basic average shares were **19.879m in Q2 2026**, versus 17.703m in Q2 2025. Diluted average shares were **21.891m**.
+## 2. The price reset improves enterprise-value asymmetry
 
-**FACT:** Centrus sold **278,114 shares for $55m** through its ATM in H1 2026, receiving $54.2m net. The company retains an ATM / shelf framework allowing up to **$1.0bn** of equity sales in aggregate and explicitly warns that future issuance can dilute holders.
+**FACT:** LEU closed at **$185.53 on 8 September** and **$146.25 on 14 September**.
 
-**INTERPRETATION:** Centrus has unusual financing capacity for a company of its size, but existing cash should not be treated as all available for expansion because the company also has procurement / inventory requirements, operating needs and cash-settled convertible principal. Equity dilution is not a hypothetical risk: the ATM has been used in both 2025 and 2026.
+**CALCULATION:** at $146.25, the ~21.739m common-equivalent share count implies an equity value of about **$3.18bn** before considering convertible dilution.
 
-## Illustrative capital-stack / share-count stress test
+**FACT:** Centrus had approximately **$1.869bn cash and cash equivalents** at 30 June 2026 and roughly **$1.208bn principal** across the 2030 and 2032 convertible notes.
 
-The final project cost and customer/government funding mix are not yet disclosed with enough precision for a conventional project-finance model. The following is therefore a **HYPOTHESIS / sensitivity framework**, not a forecast.
+**HYPOTHESIS / SIMPLE PRO-FORMA:** adding ~$489m estimated net offering proceeds to the June cash balance, with no adjustment for post-June operating cash use, acquisitions, pre-funded warrant exercise cash or other balance-sheet movement, gives a simple pro-forma enterprise value around **$2.0bn** at the 14 September share price. The equivalent simple enterprise value at the 8 September pre-financing price using the June balance sheet was roughly **$2.9bn**.
 
-| Scenario | Funding interpretation | Illustrative new common equity | Illustrative basic shares | Approx. diluted-share context* | Thesis implication |
-|---|---|---:|---:|---:|---|
-| **Bull / low dilution** | DOE milestone funding + meaningful customer / national-security prepayments + internal cash cover most build needs | little beyond already-issued H1 2026 ATM | ~20m | ~22m | per-share asymmetry survives if execution / HALEU timing holds |
-| **Base / mixed funding** | public funding and prepayments are meaningful, but Centrus raises another ~$500m of equity around ~$180/share | ~2.8m shares | ~22.7m | ~24.7m | ~14% basic-share dilution versus current; acceptable only if funded capacity materially raises terminal value |
-| **Bear / equity-heavy** | cost / milestone timing creates funding gap; roughly remaining ~$945m ATM capacity is used around ~$150/share | ~6.3m shares | ~26.3m | ~28.3m | >30% basic-share dilution can consume a large part of project-level upside before execution risk is resolved |
+**INTERPRETATION:** this ~30% simple enterprise-value compression is economically meaningful. The market has not merely divided the old value by a larger share count; it has also marked down the value assigned to the operating/strategic franchise despite the added financing capacity.
 
-\*Uses the current roughly 2m-share convertible dilution effect only as a reference. Actual future dilution from the notes depends on stock price and settlement mechanics; principal is cash-settled.
+This is the strongest reason to refresh the Gate-E underwrite now.
 
-**INTERPRETATION:** the key question is no longer whether Centrus can raise capital. It probably can. The investment question is **how much future enrichment value accrues per current share after that capital is raised**.
+---
 
-## Existing-business / policy counterweight
+## 3. Funding evidence is stronger — but not yet a complete capital stack
 
-**FACT:** Q2 2026 revenue was **$176.1m** and LEU-segment revenue was $153.4m. Existing-fleet LEU activity provides a nearer-term commercial base independent of advanced-reactor HALEU deployment.
+### DOE
 
-**FACT:** six-month operating cash flow was **-$16.7m**, reflecting inventory / operating disbursements during the current transition rather than a self-funding industrial expansion.
+**FACT:** the signed DOE HALEU expansion task order is a **$900m firm-fixed-price contract** paid through performance milestones. It calls for specified enrichment capacity and delivery of one metric ton of HALEU UF6 by March 2032, with DOE options for additional material.
 
-**FACT:** the existing DOE HALEU Operation Contract is a separate programme from the new $900m expansion task order. The proposed FY2027 DOE budget does not include further funding for operation of the legacy HALEU cascade under that contract, and DOE has said it does not currently intend to exercise further options. Roughly $0.8bn of Technical Solutions backlog is exposed to that distinction.
+**INTERPRETATION:** this is genuine industrial funding support, but not a $900m unrestricted cash grant. Centrus must finance execution between milestone payments and meet performance requirements.
 
-**INTERPRETATION:** government support is both a moat and a concentration risk. The new expansion award is meaningful, but investors should not merge all DOE-related backlog into one guaranteed stream.
+### Commercial customers
 
-## Why capture can persist
+**FACT:** Centrus reported roughly **$3.0bn of contingent LEU/HALEU enrichment backlog/commitments** supporting potential new capacity at Q2 2026, including approximately **$2.4bn under definitive agreements**.
 
-- Western enrichment supplier concentration is exceptionally high;
-- Centrus has operating American centrifuge technology rather than a pre-commercial concept;
-- domestic U.S. qualified capacity is strategically valuable for utilities and national-security missions;
-- multi-year fuel contracts can create recurring / contracted economics;
-- company size gives much greater earnings sensitivity than diversified nuclear suppliers;
-- the signed DOE task order, X-energy prepayment structure and existing cash make financing more credible than it was at the start of the research programme;
-- LEU demand from the existing fleet provides a nearer-term demand base than HALEU alone.
+**FACT:** X-energy's August 2026 definitive LEU/HALEU agreement includes customer prepayments supporting domestic commercial enrichment capacity.
 
-## Counter-evidence / risks
+**FACT:** the September 2026 Radiant definitive multi-year HALEU contract also includes prepayments supporting domestic enrichment capacity, with deliveries scheduled to begin before the end of the decade.
 
-- the expansion is multi-billion-dollar and the precise all-in capital requirement is not disclosed;
-- most future LEU/HALEU sales commitments are contingent on operational milestones;
-- DOE milestone payments are earned through performance rather than received entirely upfront;
-- customer / government concentration is severe;
-- the company continues to use equity markets and maintains a large ATM capacity;
-- convertible-note economics can dilute upside and require future cash settlement of principal;
-- HALEU demand depends heavily on advanced-reactor projects reaching commercial deployment;
-- capital deployment is already large relative to current operating cash generation;
-- legacy DOE HALEU-operation funding illustrates policy / budget sensitivity.
+**INTERPRETATION:** the direction is positive: customers are beginning to contribute capital before delivery. But neither X-energy nor Radiant disclosed the amount/timing of those prepayments, so the repo cannot yet bridge them quantitatively into a funded March-2028 plant schedule.
 
-## Thesis breakers
+### Industrial build
 
-- commercial LEU/HALEU commitments fail to become funded plant capacity;
-- public / customer funding arrives too slowly and equity issuance becomes the dominant capital source;
-- per-share dilution grows materially faster than funded enrichment value;
-- DOE / federal policy support weakens materially;
-- X-energy / Oklo / other advanced-reactor schedules slip substantially beyond current windows;
-- centrifuge manufacturing or Piketon construction misses major milestones;
-- expansion costs overwhelm future enrichment margins / cash generation;
-- allied enrichment capacity expands faster than expected and reduces strategic scarcity.
+**FACT:** Centrus has described the full expansion as **multi-billion-dollar**, involving thousands of AC100M centrifuges and a target of roughly 12 MTU/year of HALEU capacity in the longer-term build.
 
-## Gate-C state
+**FACT:** more than **$560m** has been committed to the Oak Ridge high-rate centrifuge manufacturing transition, and management expects the first newly manufactured centrifuge from the current programme by year-end 2026.
 
-Issue #54 modeled Centrus as event-driven optionality rather than conventional EPS compounding, with a **~$147 12% base-value zone** from the $173.89 September 4 reference. On September 8 the shares traded materially **above** that reference during the session, so valuation has moved away from Gate C rather than toward it.
+**FACT:** Geiger Brothers has been selected for major construction work at Piketon.
 
-The funding evidence added here raises confidence that a real industrial programme exists, but it does **not yet justify increasing the probability-weighted terminal value** because project cost, milestone cash timing and per-share financing are still too uncertain.
+**INTERPRETATION:** the project is no longer conceptual. The Gate-E question is narrower: what milestones can be reached and recognized by March 2028, and what fraction of the required capital is non-dilutive or self-financing?
 
-**OPEN QUESTION:** can Centrus disclose / demonstrate a capital stack in which DOE, customer prepayments, national-security work and other non-equity capital fund enough of the multi-billion-dollar build to preserve attractive per-share economics?
+---
+
+## 4. Cash is not the same as funded capacity
+
+**FACT:** the final 424B5 says proceeds can be used for general working capital and corporate purposes, including technology development/deployment, debt repayment or repurchase, capex, acquisitions and other opportunities.
+
+**FACT:** the prospectus discloses advanced, non-binding discussions to acquire a domestic manufacturing supplier for approximately **$115–125m**.
+
+**INTERPRETATION:** the offering materially improves Centrus's ability to execute, but assigning all ~$489m net proceeds to new enrichment capacity would be false precision. Some capital may support acquisitions, working capital, inventory, debt or manufacturing integration.
+
+**OPEN QUESTION:** after the offering and any acquisition, what cash is explicitly committed to centrifuge manufacturing, Piketon construction and near-window commercial capacity?
+
+---
+
+## 5. March-2028 scenario boundaries
+
+These are **HYPOTHESES / decision boundaries, not forecasts or price targets**. They deliberately incorporate the new common-equivalent share count, warrant overhang and the fact that commercial capacity economics extend beyond March 2028.
+
+| Scenario | Illustrative March-2028 share-price boundary | Return from $146.25 | What must be true |
+|---|---:|---:|---|
+| **Bear** | **$85–110** | about **-42% to -25%** | capacity/funding milestones slip, customer/reactor timelines move right, cash is consumed without enough funded capacity, or further dilution/policy risk overwhelms strategic scarcity |
+| **Base** | **$175–220** | about **+20% to +50%** | DOE execution remains on track, customer prepayments and offering liquidity support manufacturing/construction, but the full commercial capital stack is still incomplete and market does not capitalize a mature domestic franchise |
+| **Upside** | **$275–340** | about **+88% to +132%** | a substantial commercial LEU/HALEU build becomes specifically funded, centrifuge manufacturing/construction milestones de-risk schedule, contingent backlog converts toward executable contracts and warrant dilution is offset by additional cash/funded value |
+| **Stretch** | **$425–525** | about **+191% to +259%** | funded capacity, customer schedules and federal/national-security support all strengthen materially; Centrus is valued as a durable domestic enrichment franchise and high-strike warrant exercise finances further expansion |
+
+**INTERPRETATION:** today's price has moved into a zone where the upside case can clear 2x, but the **base case still cannot**. That distinction keeps the signal at REASSESS rather than ACTION.
+
+The old Gate-D ~$147 normalized-return zone is now a useful historical reference only; it is not the active 18-month entry rule.
+
+---
+
+## 6. Gate-E transaction rules — research level only
+
+### Current signal
+
+**REASSESS / WAIT — not ACTION.**
+
+A lower price alone should not convert Centrus into a Buy because the key uncertainty is project finance and timing, not ordinary valuation.
+
+### Price-led reassessment
+
+A fresh price-led reassessment becomes materially more attractive around approximately **$120–130**, provided:
+
+- the $900m DOE task order remains on track;
+- no major negative reactor/customer schedule change occurs;
+- centrifuge manufacturing and Piketon construction remain credible;
+- no new capital action materially worsens per-share economics.
+
+This range is a Gate-E risk/reward checkpoint, not a mechanical Buy trigger.
+
+### Evidence-led entry above the range
+
+An evidence-led entry can occur above $120–130 if fresh primary evidence establishes enough of the following:
+
+1. a specific commercial-capacity tranche is funded with disclosed timing;
+2. customer prepayments / DOE / national-security funding cover a material portion of capital needs;
+3. centrifuge manufacturing milestones are met on schedule;
+4. Piketon construction milestones make capacity available or economically visible inside/near the March-2028 window;
+5. the refreshed diluted-share scenario supports at least roughly **60%+ remaining-window upside without requiring the stretch case**;
+6. the per-share value created by funding exceeds dilution and cash-consumption risk.
+
+### Sizing if an entry condition is confirmed
+
+- **Initial research size:** approximately **5–7%**.
+- **Maximum before specific commercial-capacity funding + construction proof:** approximately **8%**.
+- **Maximum after substantial funded-capacity proof and on-schedule manufacturing/construction:** approximately **10–12%**.
+
+The ceiling reflects policy, project-finance, reactor-timing and dilution risk even though thematic correlation with the current memory-heavy candidate set is low.
+
+### Add
+
+Add only when at least one improves without a compensating deterioration:
+
+- funded-capacity visibility;
+- non-equity funding/prepayment share;
+- manufacturing/construction milestone execution;
+- reactor/customer delivery timing;
+- remaining-window valuation;
+- dilution-adjusted per-share economics.
+
+### Trim
+
+Consider trimming when:
+
+- price capitalizes the upside/stretch case before funded-capacity evidence is delivered;
+- warrant/convertible dilution rises faster than funded enterprise value;
+- advanced-reactor/customer schedules slip while valuation remains strategic-premium heavy;
+- policy support weakens or capital needs rise materially.
+
+### Sell / thesis break
+
+Reject or materially reduce the Gate-E thesis if:
+
+1. commercial capacity remains unfunded or too late to matter to the portfolio window;
+2. DOE/customer support weakens materially;
+3. manufacturing or Piketon construction misses major milestones;
+4. new equity issuance becomes the dominant funding source without proportionate per-share value creation;
+5. reactor/customer schedules move far enough right to strand near-window capacity;
+6. expansion cost or execution risk materially overwhelms expected enrichment economics;
+7. allied enrichment capacity reduces U.S. scarcity faster than expected.
+
+---
+
+## 7. Portfolio fit
+
+**Bottleneck direction:** **Strengthening strategically; execution-dependent economically.**
+
+Centrus is valuable to Gate E because its catalyst set is largely independent of HBM/memory, Chinese robotics and data-centre cooling. It can therefore improve portfolio breadth if funded-capacity evidence arrives.
+
+**Best alternative use of capital today:** tactical cash, Modine after the 1 October separation evidence, or a triggered Laifual/SUSS/JEM setup. Centrus can outrank those alternatives only when its financing/capacity evidence makes the per-share upside sufficiently concrete.
+
+**Current conclusion:** Centrus has moved from a generic event-driven nuclear option to a **high-priority independent return-engine candidate**, but the financing itself is not the catalyst completion. The next decisive evidence is a bridge from new liquidity + DOE/customer funding to specific commercial capacity and dated milestones.
+
+---
+
+## 8. Open questions
+
+1. How much of the ~$489m net offering proceeds will be deployed specifically to enrichment capacity versus acquisitions, debt, working capital or other uses?
+2. What are the amounts and timing of X-energy and Radiant customer prepayments?
+3. What construction/manufacturing milestones are expected by March 2028?
+4. What portion of the multi-billion-dollar build is funded today on a committed basis?
+5. What additional DOE / national-security / customer funding is likely inside the active portfolio window?
+6. How should the four new common-warrant series interact with future project financing decisions?
+7. How much dilution from the 2030/2032 converts should be expected under the upside case?
+8. Does the potential domestic manufacturing-supplier acquisition improve centrifuge economics/schedule enough to justify the cash use?
+9. Which contingent enrichment commitments become unconditional once specific milestones are met?
+10. Can Centrus demonstrate value creation per diluted share before large-scale HALEU deliveries begin?
+
+---
 
 ## Sources
 
+Primary / regulatory:
+
+- Centrus final 9-Sep-2026 424B5 / offering terms (filed 11 Sep): https://www.sec.gov/Archives/edgar/data/1065059/000110465926106829/tm2625019d3_424b5.htm
+- Centrus pricing release, 9 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-announces-pricing-500-million-underwritten-public
+- Centrus / Radiant definitive HALEU agreement, 9 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-radiant-announce-long-term-partnership-domestic
 - Centrus Q2 2026 results: https://investors.centrusenergy.com/node/21021
 - Centrus Q2 2026 Form 10-Q: https://www.sec.gov/Archives/edgar/data/1065059/000162828026053863/leu-20260630.htm
 - DOE HALEU expansion contract / 8-K: https://www.sec.gov/Archives/edgar/data/1065059/000162828026046801/leu-20260630.htm
-- Centrus DOE expansion announcement / funding framework: https://www.centrusenergy.com/news/centrus-signs-contract-with-department-of-energy-for-900-million-award-intends-to-transition-haleu-production-cascade-to-commercial-operation/
-- Centrus / X-energy definitive supply and prepayment agreement: https://www.centrusenergy.com/news/centrus-energy-signs-leu-and-haleu-supply-agreement-with-x-energy/
-- Centrus / Oklo HALEU letter of intent: https://www.sec.gov/Archives/edgar/data/1065059/000162828026044360/ex991_oklocentrusfinalpr.htm
-- Centrus Oak Ridge high-rate manufacturing investment / expansion: https://www.sec.gov/Archives/edgar/data/1065059/000162828026007110/ex991_centrusfluorreleas.htm
+- Centrus / X-energy definitive supply/prepayment agreement: https://www.centrusenergy.com/news/centrus-energy-signs-leu-and-haleu-supply-agreement-with-x-energy/
+- Centrus Oak Ridge high-rate manufacturing programme: https://www.sec.gov/Archives/edgar/data/1065059/000162828026007110/ex991_centrusfluorreleas.htm
+
+Point-in-time market data:
+
+- LEU historical data: https://uk.investing.com/equities/centrus-energy-historical-data — 14-Sep-2026 close $146.25.
+
+## Change history
+
+2026-09-08 — Funding refresh strengthened the industrial-build thesis but retained Investigating; capital stack/per-share economics became the central research question.
+
+2026-09-10 — September offering terms quantified; issue #129 classified REASSESS / NO ACTION pending clearer funded-capacity timing/value.
+
+2026-09-15 — Added current Gate-E post-financing underwrite after LEU fell to $146.25. Financing plus repricing materially improves asymmetry, but current signal remains REASSESS / WAIT because base-case March-2028 value does not reach the portfolio 2x hurdle and the commercial-capacity funding bridge remains incomplete.

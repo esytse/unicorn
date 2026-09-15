@@ -81,6 +81,10 @@ Use this register for sources that support multiple research files or are import
 
 | SRC-ENERGY-001 | Rolls-Royce SMR — Steam turbine components for Rolls-Royce SMR to be manufactured in the UK: https://www.rolls-royce-smr.com/press/steam-turbine-components-for-rolls-royce-smr-to-be-manufactured-in-the-uk | Company / project primary | 2026-09-03 | 2026-09-13 | Siemens Energy SMR turbine + service optionality | Confirms Newcastle manufacture of high-pressure turbines and valve casings for the first three Gwyndod SMRs; >550 jobs; planned UK fleet service hub; Siemens Energy named global turbine-systems partner with export-market intent. |
 
+| SRC-NUCLEAR-LEU-001 | Centrus final 424B5 / September 2026 financing: https://www.sec.gov/Archives/edgar/data/1065059/000110465926106829/tm2625019d3_424b5.htm | Regulatory filing / primary | 2026-09-11 | 2026-09-15 | Centrus capital stack / dilution | 500k common shares, 2.006m pre-funded warrants, 6.992m common-warrant shares, ~$489m estimated net proceeds and up to ~$2bn additional warrant cash; proceeds have broad corporate uses. |
+| SRC-NUCLEAR-LEU-002 | Centrus / Radiant definitive HALEU agreement: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-radiant-announce-long-term-partnership-domestic | Company / customer agreement primary | 2026-09-09 | 2026-09-15 | Commercial HALEU funding | Definitive multi-year HALEU supply agreement; customer prepayments support domestic enrichment capacity; delivery before end of decade. |
+| SRC-NUCLEAR-LEU-003 | Centrus historical price data: https://uk.investing.com/equities/centrus-energy-historical-data | Secondary market data | 2026-09-14 | 2026-09-15 | Gate-E valuation reference | LEU closed $146.25 on 14 Sep 2026 versus $185.53 on 8 Sep. |
+
 ## Source quality notes
 
 Prefer, roughly in this order:
