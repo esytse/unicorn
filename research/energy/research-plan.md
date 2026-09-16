@@ -2,7 +2,7 @@
 
 **Status:** Gate A/B/C programme complete — valuation monitoring / selective evidence refresh  
 **Created:** 2026-09-07  
-**Last reprioritised:** 2026-09-08  
+**Last reprioritised:** 2026-09-16  
 **Purpose:** Maintain an evidence-backed map of AI-energy bottlenecks and act only when company capture and valuation jointly create enough asymmetry.
 
 ## Three gates
@@ -25,6 +25,27 @@ Broad structural discovery is complete. The core thesis is:
 > **AI energy is a serial speed-to-power + speed-to-usable-compute problem. Bottlenecks migrate across generation, grid, electrical delivery and thermal rejection rather than disappearing when one layer is bypassed.**
 
 The strongest immediate physical functions remain transformers / transmission, large gas turbines, integrated thermal systems, MV/HV switchgear and integrated data-centre electrical infrastructure. Nuclear adds strategically scarce Western enrichment / HALEU and qualified manufacturing layers, but most new-build demand is a 2030s pathway.
+
+## Fusion enabling infrastructure discovery lane (#155)
+
+**Status:** bounded P2 discovery opened 2026-09-16. This is an enabling-infrastructure hypothesis, not a fusion-developer investment thesis.
+
+**Starting observation (FACT, source to be registered):** the 16 Sep 2026 FT article *Nuclear fusion’s moment of truth* documents a large gap between scientific fusion milestones and demonstrated net-electric, reliable, economic power plants. It highlights unresolved engineering around radiation/heat damage, maintenance, tritium breeding, recirculating power and plant economics, while private developers are raising capital against materially faster commercialization timelines.
+
+**INTERPRETATION:** this qualifies as a possible new physical-bottleneck branch under the existing energy programme. The investable question is not which fusion architecture wins; it is whether scarce enabling technologies can capture spending across multiple fusion programmes while already monetizing in other structural markets.
+
+**Research scope:** HTS/superconducting magnets and cryogenics; pulsed/high-power electronics; vacuum systems; extreme thermal management; neutron/radiation-resistant materials; remote handling/robotics; diagnostics/control; and supporting grid/electrical infrastructure.
+
+**Cross-theme requirement:** explicitly test overlap with AI power delivery, fission/SMR, Physical AI/robotics, semiconductors, aerospace and electrification. Prefer suppliers whose economics do not require commercial fusion on developer-promised timelines.
+
+**Falsification / guardrails:**
+- do not treat developer commercialization dates or projected LCOE as established facts;
+- do not value 2030s/2040s fusion optionality as current earnings;
+- thematic adjacency is insufficient without evidence of technical necessity, qualification/scarcity and company-level capture;
+- penalize suppliers where fusion exposure is immaterial and creates no credible 18-month catalyst or evidence path;
+- park the branch if enabling technologies prove commoditized, readily substitutable, or too small to affect public-company economics.
+
+**OPEN QUESTION:** which publicly investable suppliers have direct evidence of fusion qualification/orders/partnerships plus meaningful non-fusion revenue support? Issue #155 is the authoritative backlog item and completion gate.
 
 ## Gate B supplier result (#53)
 
@@ -82,13 +103,14 @@ The ordering deliberately differs from Gate B: **best business / strongest bottl
 - **Modine:** prove Data Centers margin and FCF recovery after expansion.
 - **Hainan Jinpan:** verify repeated overseas / hyperscaler qualification and cash conversion.
 - **Centrus:** convert contingent LEU/HALEU commitments into funded capacity without excessive dilution.
+- **Fusion enabling infrastructure (#155):** map scarce enabling technologies and public suppliers; promote only evidence-backed names with plausible company-level capture and non-fusion support.
 
 ## Re-open research only when evidence changes
 
 A new substantive energy workstream should normally require one of:
 
 - a new physical bottleneck not represented in the E2E map;
-- direct qualification / pricing evidence that a narrow 800 VDC or nuclear sub-layer has become concentrated;
+- direct qualification / pricing evidence that a narrow 800 VDC, nuclear or fusion-enabling sub-layer has become concentrated;
 - a material change in capacity expansion, regulation or architecture that invalidates an existing score;
 - a company crossing a valuation monitoring zone while the operating thesis remains intact;
 - earnings / FCF evidence that materially moves a company's normalized 12% return zone.
@@ -103,9 +125,9 @@ Penalise:
 - capex / working capital that absorbs apparent pricing power;
 - AI exposure too small to move total-company earnings;
 - customer advances mistaken for permanent FCF margins;
-- 2030s nuclear optionality valued as current earnings;
+- 2030s nuclear or fusion optionality valued as current earnings;
 - premium valuation already discounting the infrastructure boom.
 
 ## Current state
 
-**Energy is now a monitoring system, not a broad-discovery programme.** No company is promoted to `High-conviction research candidate` until Gate C is met with sufficient downside protection.
+**Energy remains primarily a monitoring system, with bounded discovery reopened only where new bottleneck evidence justifies it.** Fusion enabling infrastructure is one such bounded P2 test under #155; it does not alter current company rankings or portfolio conclusions until evidence supports a change.
