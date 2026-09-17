@@ -1,0 +1,3 @@
+# Fusion Enabling Infrastructure — Next Research Prompt
+
+> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md`, the fusion canonical research and the Furukawa company stub. Underwrite Furukawa Electric / SuperPower under the current Gate-E framework. Quantify HTS revenue/capacity/competition and funded demand; distinguish STEP/Tokamak forecasts from orders; identify current 18-month catalysts and downside; assess valuation and total-company sensitivity; compare marginal portfolio contribution against active candidates. Do not promote based on fusion relevance alone. Update canonical files, sources, backlog state and CHANGELOG only if conclusions materially change.
