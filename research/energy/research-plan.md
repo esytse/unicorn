@@ -2,7 +2,7 @@
 
 **Status:** Gate A/B/C programme complete — valuation monitoring / selective evidence refresh  
 **Created:** 2026-09-07  
-**Last reprioritised:** 2026-09-16  
+**Last reprioritised:** 2026-09-17  
 **Purpose:** Maintain an evidence-backed map of AI-energy bottlenecks and act only when company capture and valuation jointly create enough asymmetry.
 
 ## Three gates
@@ -17,6 +17,7 @@ Canonical documents:
 - Cross-layer ranking: `research/energy/synthesis-ranking.md`
 - Supplier capture: `research/energy/investment-capture.md`
 - Capital allocation: `research/energy/capital-allocation.md`
+- Fusion enabling infrastructure: `research/energy/fusion-enabling-infrastructure.md`
 
 ## Programme conclusion
 
@@ -28,24 +29,34 @@ The strongest immediate physical functions remain transformers / transmission, l
 
 ## Fusion enabling infrastructure discovery lane (#155)
 
-**Status:** bounded P2 discovery opened 2026-09-16. This is an enabling-infrastructure hypothesis, not a fusion-developer investment thesis.
+**Status:** first-pass discovery complete 2026-09-17; targeted Gate-E follow-up justified, but no portfolio promotion.
 
-**Starting observation (FACT, source to be registered):** the 16 Sep 2026 FT article *Nuclear fusion’s moment of truth* documents a large gap between scientific fusion milestones and demonstrated net-electric, reliable, economic power plants. It highlights unresolved engineering around radiation/heat damage, maintenance, tritium breeding, recirculating power and plant economics, while private developers are raising capital against materially faster commercialization timelines.
+The detailed evidence and supplier map now live in `research/energy/fusion-enabling-infrastructure.md` with source notes in `sources/fusion-enabling-infrastructure.md`.
 
-**INTERPRETATION:** this qualifies as a possible new physical-bottleneck branch under the existing energy programme. The investable question is not which fusion architecture wins; it is whether scarce enabling technologies can capture spending across multiple fusion programmes while already monetizing in other structural markets.
+**FACT:** the 2026 Fusion Industry Association supplier survey reports growing fusion supply-chain spending and capacity investment, while the UK STEP programme explicitly identifies HTS magnets, remote robotics, diagnostics, fuel cycle and hardened materials as required industrial capabilities. ITER evidence independently establishes severe requirements in remote maintenance, diagnostics, vacuum and superconducting systems.
 
-**Research scope:** HTS/superconducting magnets and cryogenics; pulsed/high-power electronics; vacuum systems; extreme thermal management; neutron/radiation-resistant materials; remote handling/robotics; diagnostics/control; and supporting grid/electrical infrastructure.
+**INTERPRETATION:** fusion qualifies as a genuine new physical-bottleneck branch, but it does **not** yet qualify as a broad public-equity portfolio theme. Current fusion spend is generally too small to drive the earnings of diversified listed suppliers. The investable structure to hunt is a scarce fusion-qualified capability whose economics already work in semiconductors, grid/power, medical/scientific equipment, nuclear or industrial automation.
 
-**Cross-theme requirement:** explicitly test overlap with AI power delivery, fission/SMR, Physical AI/robotics, semiconductors, aerospace and electrification. Prefer suppliers whose economics do not require commercial fusion on developer-promised timelines.
+**First-pass bottleneck order:**
+1. HTS/superconducting conductors + integrated magnets/cryogenics — strongest direct evidence.
+2. Extreme-condition materials / thermal / fuel systems — likely long-term bottlenecks, public capture still unclear.
+3. High-vacuum valves — technically validated; public comparator exists.
+4. Remote handling/robotics — necessary but fragmented supplier capture.
+5. High-voltage power, diagnostics and controls — necessary, financial materiality unclear.
+
+**Public-company signal:**
+- **Furukawa Electric / SuperPower:** strongest bounded follow-up. Direct HTS supply into Tokamak Energy, strategic investment/collaboration, and non-fusion end markets. Requires a fresh Gate-E underwrite before any ranking/watchlist promotion.
+- **VAT Group:** strong technical comparator through ITER-specific extreme-environment vacuum valves and a resilient semiconductor-vacuum core; fusion materiality not yet demonstrated.
+- **Oxford Instruments:** historical ITER superconducting-wire qualification is insufficient to infer current exposure; ownership/product mix must be re-validated.
 
 **Falsification / guardrails:**
 - do not treat developer commercialization dates or projected LCOE as established facts;
 - do not value 2030s/2040s fusion optionality as current earnings;
-- thematic adjacency is insufficient without evidence of technical necessity, qualification/scarcity and company-level capture;
-- penalize suppliers where fusion exposure is immaterial and creates no credible 18-month catalyst or evidence path;
-- park the branch if enabling technologies prove commoditized, readily substitutable, or too small to affect public-company economics.
-
-**OPEN QUESTION:** which publicly investable suppliers have direct evidence of fusion qualification/orders/partnerships plus meaningful non-fusion revenue support? Issue #155 is the authoritative backlog item and completion gate.
+- partnerships/MOUs/investments are not revenue unless supported by funded procurement;
+- penalize suppliers where fusion cannot affect total-company economics inside the remaining portfolio window;
+- prefer suppliers with non-fusion demand that survives a 10–20 year commercialization delay;
+- re-test scarcity as capacity expands;
+- do not double-count conventional balance-of-plant exposure already captured by the energy thesis.
 
 ## Gate B supplier result (#53)
 
@@ -103,7 +114,7 @@ The ordering deliberately differs from Gate B: **best business / strongest bottl
 - **Modine:** prove Data Centers margin and FCF recovery after expansion.
 - **Hainan Jinpan:** verify repeated overseas / hyperscaler qualification and cash conversion.
 - **Centrus:** convert contingent LEU/HALEU commitments into funded capacity without excessive dilution.
-- **Fusion enabling infrastructure (#155):** map scarce enabling technologies and public suppliers; promote only evidence-backed names with plausible company-level capture and non-fusion support.
+- **Furukawa Electric / SuperPower:** bounded Gate-E follow-up on HTS economics, capacity/scarcity, 18-month catalysts and marginal portfolio contribution; fusion relevance alone is insufficient.
 
 ## Re-open research only when evidence changes
 
@@ -123,11 +134,11 @@ Penalise:
 - factory expansion that can destroy scarcity before demand converts;
 - open-standard volume growth without supplier concentration;
 - capex / working capital that absorbs apparent pricing power;
-- AI exposure too small to move total-company earnings;
+- thematic exposure too small to move total-company earnings;
 - customer advances mistaken for permanent FCF margins;
 - 2030s nuclear or fusion optionality valued as current earnings;
 - premium valuation already discounting the infrastructure boom.
 
 ## Current state
 
-**Energy remains primarily a monitoring system, with bounded discovery reopened only where new bottleneck evidence justifies it.** Fusion enabling infrastructure is one such bounded P2 test under #155; it does not alter current company rankings or portfolio conclusions until evidence supports a change.
+**Energy remains primarily a monitoring system, with bounded discovery reopened only where new bottleneck evidence justifies it.** Fusion enabling infrastructure passed the bottleneck-existence test but not the broad public-equity materiality test. The next valid work is a bounded Furukawa/SuperPower Gate-E underwrite; no existing company ranking or portfolio allocation changes from the fusion discovery pass alone.
