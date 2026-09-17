@@ -2,7 +2,7 @@
 
 **Status:** Gate A/B/C programme complete — valuation monitoring / selective evidence refresh  
 **Created:** 2026-09-07  
-**Last reprioritised:** 2026-09-08  
+**Last reprioritised:** 2026-09-17  
 **Purpose:** Maintain an evidence-backed map of AI-energy bottlenecks and act only when company capture and valuation jointly create enough asymmetry.
 
 ## Three gates
@@ -17,6 +17,7 @@ Canonical documents:
 - Cross-layer ranking: `research/energy/synthesis-ranking.md`
 - Supplier capture: `research/energy/investment-capture.md`
 - Capital allocation: `research/energy/capital-allocation.md`
+- Fusion enabling infrastructure: `research/energy/fusion-enabling-infrastructure.md`
 
 ## Programme conclusion
 
@@ -25,6 +26,16 @@ Broad structural discovery is complete. The core thesis is:
 > **AI energy is a serial speed-to-power + speed-to-usable-compute problem. Bottlenecks migrate across generation, grid, electrical delivery and thermal rejection rather than disappearing when one layer is bypassed.**
 
 The strongest immediate physical functions remain transformers / transmission, large gas turbines, integrated thermal systems, MV/HV switchgear and integrated data-centre electrical infrastructure. Nuclear adds strategically scarce Western enrichment / HALEU and qualified manufacturing layers, but most new-build demand is a 2030s pathway.
+
+## Fusion enabling infrastructure (#155)
+
+**First-pass discovery completed 2026-09-17.** Current evidence supports fusion as a real but bounded industrial bottleneck branch, not yet a broad public-equity thesis.
+
+The strongest evidence is in **HTS/superconducting conductors and integrated magnet systems**. Vacuum, remote maintenance, diagnostics, high-voltage power and extreme-condition materials/fuel systems are also technically real, but public-company financial capture is less clear.
+
+**Public-company handoff:** Furukawa Electric / SuperPower warrants a bounded Gate-E underwrite because direct HTS supply and strategic fusion relationships are evidenced alongside non-fusion businesses. VAT Group is retained as a comparator/monitor through direct ITER vacuum-valve engineering. No portfolio/top-10 change is made from fusion discovery alone.
+
+**Guardrail:** do not value developer timelines or long-dated fusion optionality as current earnings; require funded demand, supplier scarcity, company-level materiality, current valuation and an 18-month evidence/catalyst path before promotion.
 
 ## Gate B supplier result (#53)
 
@@ -82,13 +93,14 @@ The ordering deliberately differs from Gate B: **best business / strongest bottl
 - **Modine:** prove Data Centers margin and FCF recovery after expansion.
 - **Hainan Jinpan:** verify repeated overseas / hyperscaler qualification and cash conversion.
 - **Centrus:** convert contingent LEU/HALEU commitments into funded capacity without excessive dilution.
+- **Furukawa Electric / SuperPower:** bounded Gate-E follow-up on HTS economics, capacity/scarcity, funded demand, valuation and 18-month catalysts; fusion relevance alone is insufficient.
 
 ## Re-open research only when evidence changes
 
 A new substantive energy workstream should normally require one of:
 
 - a new physical bottleneck not represented in the E2E map;
-- direct qualification / pricing evidence that a narrow 800 VDC or nuclear sub-layer has become concentrated;
+- direct qualification / pricing evidence that a narrow 800 VDC, nuclear or fusion-enabling sub-layer has become concentrated;
 - a material change in capacity expansion, regulation or architecture that invalidates an existing score;
 - a company crossing a valuation monitoring zone while the operating thesis remains intact;
 - earnings / FCF evidence that materially moves a company's normalized 12% return zone.
@@ -101,11 +113,11 @@ Penalise:
 - factory expansion that can destroy scarcity before demand converts;
 - open-standard volume growth without supplier concentration;
 - capex / working capital that absorbs apparent pricing power;
-- AI exposure too small to move total-company earnings;
+- thematic exposure too small to move total-company earnings;
 - customer advances mistaken for permanent FCF margins;
-- 2030s nuclear optionality valued as current earnings;
+- 2030s nuclear or fusion optionality valued as current earnings;
 - premium valuation already discounting the infrastructure boom.
 
 ## Current state
 
-**Energy is now a monitoring system, not a broad-discovery programme.** No company is promoted to `High-conviction research candidate` until Gate C is met with sufficient downside protection.
+**Energy remains primarily a monitoring system, with bounded discovery reopened only where new bottleneck evidence justifies it.** Fusion passed the bottleneck-existence test but not the broad public-equity materiality test. The next valid fusion work is a bounded Furukawa/SuperPower Gate-E underwrite; no existing company ranking or portfolio allocation changes from the fusion discovery pass alone.
