@@ -2,6 +2,13 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-18
+
+### Agent changelog rule aligned with Research governance CI
+
+- Clarified AGENTS.md so every change under `research/` or to `watchlist.md` must include a same-PR `CHANGELOG.md` update, matching the enforced Research governance check.
+- This removes the prior ambiguity where agent instructions required a changelog only for changed conclusions while CI required one for every substantive research/watchlist change.
+
 ## 2026-09-15
 
 ### Portfolio surface refreshed for first live Gate-E ACTION
