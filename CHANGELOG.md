@@ -2,6 +2,15 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-17
+
+### Fusion enabling-infrastructure discovery completed
+
+- Added the canonical fusion enabling-infrastructure bottleneck map, source provenance, candidate register, screening rules, monitoring triggers and research-plan handoff.
+- First-pass evidence indicates HTS/integrated magnet systems have the strongest direct bottleneck evidence; vacuum, remote maintenance, diagnostics, power and extreme materials remain technically relevant areas for bounded monitoring.
+- Added focused research stubs for Furukawa Electric / SuperPower and VAT Group. Furukawa/SuperPower advances only to a bounded Gate-E follow-up; VAT remains a comparator/monitor.
+- No portfolio or Top-10 change is made. Developer timelines and LCOE are not treated as established facts; company-level capture, funded demand, qualification/scarcity, valuation/downside and an 18-month evidence path remain required before any promotion.
+
 ## 2026-09-15
 
 ### Portfolio surface refreshed for first live Gate-E ACTION
