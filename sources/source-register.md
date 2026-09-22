@@ -103,3 +103,59 @@ Prefer, roughly in this order:
 5. Secondary summaries and community discussion for hypothesis generation only
 
 Record disagreements between credible sources rather than deleting inconvenient evidence.
+
+
+### SRC-SCI-AI-001 — Nature Reviews Chemistry: self-driving laboratories (2026)
+- URL: https://www.nature.com/articles/s41570-026-00847-2
+- Type: peer-reviewed review
+- Use: SDL architecture; scalability, generalizability and provenance-complete experimentation.
+
+### SRC-SCI-AI-002 — npj Robotics: robotics in self-driving labs (2026)
+- URL: https://www.nature.com/articles/s44182-026-00094-z
+- Type: peer-reviewed perspective
+- Use: closed-loop design–make–test–analyze architecture and robotics constraints.
+
+### SRC-SCI-AI-003 — npj Computational Materials: AI agents operating scientific instruments (2026)
+- URL: https://www.nature.com/articles/s41524-026-02005-0
+- Type: peer-reviewed research
+- Use: human-in-the-loop agent control of advanced instrumentation and robotic stations.
+
+### SRC-SCI-AI-004 — European Commission RAISE automated scientific discovery programme
+- URL: https://cordis.europa.eu/programme/id/HORIZON_HORIZON-RAISE-2027-01-01
+- Type: government programme
+- Use: closed-loop AI + laboratory automation + data infrastructure requirements.
+
+### SRC-SCI-AI-005 — Reuters: Anthropic biology lab (2026-09-18)
+- URL: https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/
+- Type: high-quality news
+- Use: frontier-model lab moving into physical biology experimentation and robotic execution.
+
+### SRC-SCI-AI-006 — Reuters: Anthropic Model Hardware Standard (2026-08-27)
+- URL: https://www.reuters.com/technology/anthropic-unveils-new-framework-allowing-ai-agents-operate-physical-devices-2026-08-27/
+- Type: high-quality news
+- Use: agent-to-instrument interoperability / programmable physical-device interface.
+
+### SRC-SCI-AI-007 — Bruker: Chemspeed + SciY self-driving laboratory platform (2026-02-09)
+- URL: https://ir.bruker.com/press-releases/press-release-details/2026/Chemspeed-and-SciY-Announce-SelfDriving-Laboratory-Platform-Integrating-Automation-Analytics-and-AI-Orchestration/default.aspx
+- Type: company primary
+- Use: vendor-agnostic automation + measurement + FAIR data + AI orchestration.
+
+### SRC-SCI-AI-008 — Bruker: Chemspeed acquisition announcement (2024-01-25)
+- URL: https://ir.bruker.com/press-releases/press-release-details/2024/Bruker-Announces-Agreement-to-Acquire-Chemspeed/default.aspx
+- Type: company primary
+- Use: Chemspeed >$50m 2023 revenue/profitability at announcement and strategic automation rationale.
+
+### SRC-SCI-AI-009 — Thermo Fisher + NVIDIA laboratory AI collaboration (2026-01-12)
+- URL: https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Announces-Strategic-Collaboration-With-NVIDIA-Leveraging-AI-to-Advance-Scientific-Instrumentation-and-Accelerate-Laboratory-Performance/default.aspx
+- Type: company primary
+- Use: connected scientific instruments, lab infrastructure, data and AI.
+
+### SRC-SCI-AI-010 — Tecan agentic AI / Introspect (2026-06-24)
+- URL: https://www.tecan.com/customer-news/tecan-accelerates-data-driven-lab-journey-with-agentic-ai-developments-powered-by-nvidia-2412
+- Type: company primary
+- Use: agentic AI integrated into lab analytics/automation operations.
+
+### SRC-SCI-AI-011 — Danaher Chief Technology and AI Officer appointment (2025-06-27)
+- URL: https://investors.danaher.com/2025-06-27-Danaher-Appoints-Martin-Stumpe-as-Chief-Technology-and-AI-Officer
+- Type: company primary
+- Use: corporate AI integration direction; benchmark only, not proof of scientific-AI revenue capture.
