@@ -27,7 +27,7 @@ For substantive research updates:
 3. Add or update sources.
 4. Clearly distinguish **FACT**, **INTERPRETATION**, **HYPOTHESIS** and **OPEN QUESTION**.
 5. Update confidence when the evidence changes.
-6. Update `CHANGELOG.md` if the thesis, watchlist status, confidence, ranking or other material conclusion changes.
+6. Update `CHANGELOG.md` for every change under `research/`, because the required `Research governance` workflow enforces this mechanically. For non-`research/` changes, update the changelog when the thesis, watchlist status, confidence, ranking or another material conclusion changes.
 7. Open a pull request explaining what changed, the evidence, unresolved uncertainty and any changed conclusions.
 8. Treat the pull request as the audit record. Human approval is not required by default.
 9. Never merge while required checks are pending or failing.
