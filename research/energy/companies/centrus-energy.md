@@ -6,7 +6,7 @@
 **Investment Capture Score:** **4.0 / 5**  
 **Gate-E portfolio role:** Catalyst asymmetric / strategic nuclear-fuel option  
 **Confidence:** Medium on strategic scarcity and financing access; Medium-Low on March-2028 per-share deployability  
-**Last substantive update:** 2026-09-15  
+**Last substantive update:** 2026-09-22  
 **Backlog:** #129
 
 ## Executive conclusion
@@ -18,14 +18,15 @@ The change is real:
 - the 9 September financing raises about **$500m gross / ~$489m estimated net** before any common-warrant exercise;
 - the package includes **500,000 common shares**, **2,005,513 pre-funded warrants** with a $0.10 exercise price, and four series of common warrants covering up to **6,992,382 additional shares**;
 - LEU closed at **$146.25 on 14 September**, down about **21% from $185.53 on 8 September**;
-- X-energy and Radiant have now both signed definitive supply agreements that include customer prepayments supporting domestic commercial enrichment capacity;
+- X-energy, Radiant and Antares have now signed definitive supply agreements that include customer prepayments supporting domestic commercial enrichment capacity;
+- the **17 September Antares contract** adds another HALEU customer, with deliveries before end-decade and an explicit national-security/space use case for unobligated U.S.-origin material;
 - the **$900m DOE HALEU expansion task order** is signed and milestone-based, and industrial work is under way.
 
 The offset is that the financing still does **not** disclose how much commercial enrichment capacity will be fully funded, commissioned and economically visible by **March 2028**. Net proceeds are for broad corporate purposes, including technology deployment, capex, debt actions and potential acquisitions. The final prospectus also discloses advanced discussions to acquire a domestic manufacturing supplier for roughly **$115–125m**, which could strengthen the supply chain but would consume part of the new liquidity.
 
 **Current Gate-E signal:** **REASSESS / WAIT — not ACTION.**
 
-**Why not ACTION at ~$146:** the current price now offers much better optionality than the pre-financing setup, but a plausible base March-2028 outcome still falls short of the portfolio's 2x objective. A 2x contribution requires an upside case in which Centrus converts today's financing capacity into a specific, largely funded commercial expansion with visible construction/manufacturing milestones and acceptable per-share economics.
+**Why not ACTION after the Antares trigger:** the September repricing still offers materially better optionality than the pre-financing setup, but the 21 September close had rebounded to **$154.85** and but a plausible base March-2028 outcome still falls short of the portfolio's 2x objective. A 2x contribution requires an upside case in which Centrus converts today's financing capacity into a specific, largely funded commercial expansion with visible construction/manufacturing milestones and acceptable per-share economics.
 
 ---
 
@@ -94,7 +95,11 @@ This is the strongest reason to refresh the Gate-E underwrite now.
 
 **FACT:** the September 2026 Radiant definitive multi-year HALEU contract also includes prepayments supporting domestic enrichment capacity, with deliveries scheduled to begin before the end of the decade.
 
-**INTERPRETATION:** the direction is positive: customers are beginning to contribute capital before delivery. But neither X-energy nor Radiant disclosed the amount/timing of those prepayments, so the repo cannot yet bridge them quantitatively into a funded March-2028 plant schedule.
+**FACT:** on **17 September 2026**, Centrus and Antares Nuclear announced a definitive multi-year HALEU supply contract, with deliveries commencing before the end of the decade. Antares will make **prepayments supporting expanded HALEU capacity**. Centrus says the production will be **unobligated**, allowing use in national-security missions as well as Antares' space and advanced-reactor projects.
+
+**INTERPRETATION:** three named commercial customers now provide the same important signal: future reactor developers are willing to commit cash before delivery to help finance domestic enrichment. This strengthens confidence that customer capital is a repeatable component of the funding stack rather than a one-off feature of a single contract.
+
+**LIMITATION:** Centrus has not disclosed the amount or timing of the X-energy, Radiant or Antares prepayments. The Antares contract therefore improves the **quality and breadth** of funding evidence, but still does not provide the quantitative bridge from customer cash + DOE + balance-sheet liquidity to a specific capacity tranche available by March 2028.
 
 ### Industrial build
 
@@ -117,6 +122,16 @@ This is the strongest reason to refresh the Gate-E underwrite now.
 **INTERPRETATION:** the offering materially improves Centrus's ability to execute, but assigning all ~$489m net proceeds to new enrichment capacity would be false precision. Some capital may support acquisitions, working capital, inventory, debt or manufacturing integration.
 
 **OPEN QUESTION:** after the offering and any acquisition, what cash is explicitly committed to centrifuge manufacturing, Piketon construction and near-window commercial capacity?
+
+---
+
+## 4A. 22 September trigger assessment
+
+**FACT:** LEU closed at **$154.85 on 21 September**, after closing $145.23 on 18 September and $149.85 on 17 September. The stock has therefore rebounded from the 14 September $146.25 reference and remains above the governed **$120–130** price-led reassessment range.
+
+**INTERPRETATION:** Antares is a genuine positive evidence trigger, but not enough to change the current signal to ACTION. The missing variable is still disclosed funded capacity and timing, not evidence that customers want HALEU.
+
+**Gate-E change:** confidence in **commercial demand / customer willingness to pre-fund** increases modestly; confidence in **March-2028 per-share deployability** remains Medium-Low. Scenario boundaries and position-size ceilings remain unchanged. A future evidence-led ACTION above $120–130 still requires a disclosed capacity/funding bridge and dilution-adjusted 60%+ remaining-window upside without relying on the stretch case.
 
 ---
 
@@ -242,6 +257,7 @@ Primary / regulatory:
 
 - Centrus final 9-Sep-2026 424B5 / offering terms (filed 11 Sep): https://www.sec.gov/Archives/edgar/data/1065059/000110465926106829/tm2625019d3_424b5.htm
 - Centrus pricing release, 9 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-announces-pricing-500-million-underwritten-public
+- Centrus / Antares definitive HALEU agreement, 17 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-antares-sign-multi-year-haleu-supply-contract
 - Centrus / Radiant definitive HALEU agreement, 9 Sep 2026: https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-radiant-announce-long-term-partnership-domestic
 - Centrus Q2 2026 results: https://investors.centrusenergy.com/node/21021
 - Centrus Q2 2026 Form 10-Q: https://www.sec.gov/Archives/edgar/data/1065059/000162828026053863/leu-20260630.htm
@@ -251,7 +267,7 @@ Primary / regulatory:
 
 Point-in-time market data:
 
-- LEU historical data: https://uk.investing.com/equities/centrus-energy-historical-data — 14-Sep-2026 close $146.25.
+- LEU historical data: https://uk.investing.com/equities/centrus-energy-historical-data — 21-Sep-2026 close $154.85; 14-Sep-2026 close $146.25.
 
 ## Change history
 
@@ -260,3 +276,6 @@ Point-in-time market data:
 2026-09-10 — September offering terms quantified; issue #129 classified REASSESS / NO ACTION pending clearer funded-capacity timing/value.
 
 2026-09-15 — Added current Gate-E post-financing underwrite after LEU fell to $146.25. Financing plus repricing materially improves asymmetry, but current signal remains REASSESS / WAIT because base-case March-2028 value does not reach the portfolio 2x hurdle and the commercial-capacity funding bridge remains incomplete.
+
+
+2026-09-22 — Assessed the 17-Sep Antares HALEU contract and customer prepayment trigger. Repeat customer pre-funding strengthens commercial-demand/funding-stack evidence, but undisclosed prepayment amounts and capacity timing leave the Gate-E signal at REASSESS / WAIT. 21-Sep close $154.85 remains above the $120–130 price-led reassessment range.

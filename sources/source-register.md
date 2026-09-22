@@ -159,3 +159,10 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - URL: https://investors.danaher.com/2025-06-27-Danaher-Appoints-Martin-Stumpe-as-Chief-Technology-and-AI-Officer
 - Type: company primary
 - Use: corporate AI integration direction; benchmark only, not proof of scientific-AI revenue capture.
+
+
+### 2026-09-22 — Centrus / Antares HALEU funding trigger
+- **Primary:** Centrus Energy, “Centrus and Antares Sign Multi-Year HALEU Supply Contract,” 17 Sep 2026 — https://investors.centrusenergy.com/news-releases/news-release-details/centrus-and-antares-sign-multi-year-haleu-supply-contract
+  - Definitive multi-year HALEU contract; deliveries before end-decade; Antares prepayments support expanded domestic HALEU capacity; production described as unobligated and usable for national-security missions.
+- **Market reference:** Investing.com UK LEU historical data — https://uk.investing.com/equities/centrus-energy-historical-data
+  - 21 Sep 2026 close $154.85; used only as point-in-time price context.
