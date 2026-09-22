@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-22
 
+### Research universe remapped around scarce complements
+
+- Added the canonical scarce-complement coverage map linking current research streams and governed candidates to bottleneck, economic-capture and migration tests.
+- Identified memory/data movement as the most crowded current research lane and raised the marginal hurdle for additional correlated memory work.
+- Identified scientific-AI execution / automated labs as the clearest current blind spot, with simulation/evaluation/verification and sensing as weaker-covered downstream complements.
+- Reframed future discovery priority toward independent bottleneck exposures and missing scarce complements rather than adding names to already crowded themes.
+- No company ranking, Gate-E action threshold or portfolio allocation changed from this remap.
+
+
 ### Cross-theme scarce-complements framework formalised
 
 - Added a canonical cross-theme synthesis layer: **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Capital Allocation**.
