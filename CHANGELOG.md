@@ -4,6 +4,14 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-22
 
+### Cross-theme scarce-complements framework formalised
+
+- Added a canonical cross-theme synthesis layer: **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Capital Allocation**.
+- Moved the 22 Sep model-commoditisation work into the cross-theme framework rather than leaving a standalone root-level research note.
+- Mapped Physical AI, robotics/actuation, memory and energy into a shared bottleneck-migration lens while preserving theme files as the authoritative detailed evidence.
+- Added explicit tests for scarcity, substitution, economic capture, infrastructure concentration and bottleneck migration.
+- No watchlist, Top-10, Gate-E allocation or action-threshold changes.
+
 ### AI model commoditisation / scarce-complements hypothesis captured
 
 - Added a cross-theme research note from Steve Eisman's CNBC interview on open-weight competition, frontier-model economics and possible regulatory-moat effects.
