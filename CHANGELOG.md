@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-22
 
+### Scientific-AI execution / automated-lab bottleneck deep dive
+
+- Opened the scientific-AI execution lane identified by the scarce-complement remap and mapped the closed-loop experiment stack from hypothesis through physical execution, measurement, provenance/QC and feedback.
+- Current Medium-confidence conclusion: the stronger scarce complement is likely the **validated experimental system** — integrated physical handling, trusted measurement, orchestration, provenance and exception recovery — rather than generic laboratory robotics alone.
+- Bruker/Chemspeed/SciY and Tecan advance to bounded company screens; Thermo Fisher and Danaher remain broad economic-capture benchmarks.
+- Added migration/falsification indicators so the lane can be downgraded if experiment demand, utilisation or supplier capture fails to emerge.
+- No Gate-E portfolio action, allocation or existing company ranking changes.
+
+
 ### Research universe remapped around scarce complements
 
 - Added the canonical scarce-complement coverage map linking current research streams and governed candidates to bottleneck, economic-capture and migration tests.
