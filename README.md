@@ -6,7 +6,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 
 ## Research streams
 
-- `research/cross-theme/` — structural lenses shared across themes, including abundant intelligence, scarce complements and bottleneck migration
+- `research/cross-theme/` — structural lenses shared across themes, including abundant intelligence, scarce complements, bottleneck migration and the canonical cross-theme coverage map
 - `research/physical-ai/` — umbrella Physical AI value chain: data, simulation, embodied models, edge compute, sensing, deployment and cross-embodiment bottlenecks
 - `research/robotics-actuators/` — embodiment-specific actuator / precision-motion substream within Physical AI
 - `research/memory/` — AI memory, data movement, interfaces and related bottlenecks
