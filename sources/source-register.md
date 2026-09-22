@@ -159,3 +159,24 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - URL: https://investors.danaher.com/2025-06-27-Danaher-Appoints-Martin-Stumpe-as-Chief-Technology-and-AI-Officer
 - Type: company primary
 - Use: corporate AI integration direction; benchmark only, not proof of scientific-AI revenue capture.
+
+
+### SRC-SCI-AI-012 — Bruker Q1 2026 financial results
+- URL: https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Reports-First-Quarter-2026-Financial-Results/default.aspx
+- Type: company primary / financial
+- Use: BSI high-single-digit organic bookings, >1.0x book-to-bill, explicit AI-driven SciY software demand, group/BSI revenue and FY26 guidance.
+
+### SRC-SCI-AI-013 — Bruker ENC 2026 NMR automation workflows
+- URL: https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Unveils-New-NMR-Products-and-Workflow-Solutions-at-ENC-2026/default.aspx
+- Type: company primary
+- Use: Chemspeed unattended NMR automation and SciY instrument/automation/data integration.
+
+### SRC-SCI-AI-014 — Bruker Analytica 2026 automation / digitalization
+- URL: https://www.bruker.com/en/news-and-events/news/2026/bruker-showcases-analytical-automation-innovations-analytica.html
+- Type: company primary
+- Use: traceable Chemspeed routine automation and SciY AI-ready data integration.
+
+### SRC-SCI-AI-015 — Tecan Introspect product / adoption evidence
+- URL: https://lifesciences.tecan.com/introspect
+- Type: company primary / product
+- Use: >1,000 connected instruments; agentic-AI APIs; utilization, error and non-value-added-time case-study metrics.
