@@ -2,6 +2,16 @@
 
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
+## 2026-09-22
+
+### AI model commoditisation / scarce-complements hypothesis captured
+
+- Added a cross-theme research note from Steve Eisman's CNBC interview on open-weight competition, frontier-model economics and possible regulatory-moat effects.
+- Reframed the investable question as **what remains scarce when model intelligence becomes abundant**, connecting model commoditisation to the repository's existing bottleneck-migration and Physical AI framework.
+- Added frontier-lab concentration, infrastructure fungibility and scarce-complement ownership as research stress tests.
+- Eisman's claims about deliberate regulatory capture or ecosystem-protection motives are retained only as attributed hypotheses, not established facts.
+- No watchlist, Top-10, ranking or portfolio action changes.
+
 ## 2026-09-19
 
 ### Modine / Gentherm transaction economics refreshed

@@ -90,6 +90,8 @@ Use this register for sources that support multiple research files or are import
 | SRC-ACT-LAI-003 | Laifual withdrawal of registered-address resolution: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090302397.pdf | Company / regulatory primary | 2026-09-03 | 2026-09-15 | Laifual governance / non-operating update | Board withdrew only the proposed registered-address change after further assessment; no operating deterioration disclosed. |
 | SRC-ACT-LAI-004 | Laifual HKEX title-search surface: https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748 | Regulatory listing index | Current to 2026-09-15 | 2026-09-15 | Laifual disclosure completeness check | No newer material operating filing found after 3 Sep in the HKEX issuer index used for the trigger refresh. |
 
+| SRC-AI-COMMOD-001 | Steve Eisman CNBC interview transcript/video: https://www.youtube.com/watch/4qV5WWgFTS8 | Interview / attributed investor view | 2026-09 | 2026-09-22 | AI model commoditisation / regulatory-moat hypothesis | Eisman argues open-weight models are taking share, frontier labs lack durable moats, regulation could create incumbent protection, and AI infrastructure is unusually exposed to OpenAI/Anthropic health. Treat motive/ecosystem-protection claims as hypotheses, not established facts. |
+
 ## Source quality notes
 
 Prefer, roughly in this order:
