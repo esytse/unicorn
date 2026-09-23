@@ -166,3 +166,8 @@ Record disagreements between credible sources rather than deleting inconvenient 
   - Definitive multi-year HALEU contract; deliveries before end-decade; Antares prepayments support expanded domestic HALEU capacity; production described as unobligated and usable for national-security missions.
 - **Market reference:** Investing.com UK LEU historical data — https://uk.investing.com/equities/centrus-energy-historical-data
   - 21 Sep 2026 close $154.85; used only as point-in-time price context.
+
+### SRC-SCI-AI-012 — Bruker Q1 2026 financial results
+- URL: https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Reports-First-Quarter-2026-Financial-Results/default.aspx
+- Type: company primary / financial
+- Use: BSI high-single-digit organic bookings, >1.0x book-to-bill, explicit AI-driven SciY software demand, group/BSI revenue and FY26 guidance.

@@ -4,6 +4,15 @@ This file records substantive changes to research conclusions, confidence, prior
 
 ## 2026-09-22
 
+### Bruker / Chemspeed / SciY scientific-AI Gate-B underwrite
+
+- Deepened the scientific-AI execution lane with a Bruker underwrite across measurement, Chemspeed physical automation and SciY orchestration.
+- New primary evidence strengthens strategic fit: Bruker reported strong AI-driven demand in SciY laboratory software in Q1 2026 while BSI bookings grew high-single digits organically and book-to-bill remained above 1.0x.
+- Kept Bruker at **WATCH / evidence-building** rather than Gate-E: Chemspeed/SciY financial materiality and recurring economics remain insufficiently disclosed relative to Bruker's ~$3.6bn FY2026 revenue base.
+- Defined event-driven promotion tests around repeated AI-linked bookings, named multi-site SDL deployments, recurring software/service attach and consolidated earnings materiality.
+- Tecan remains the key comparative screen because Introspect provides a more automation-pure installed-fleet software/data loop.
+
+
 ### Centrus Antares trigger assessed and live Top-10 refreshed
 
 - Added the 17 September Centrus/Antares definitive HALEU contract and customer-prepayment evidence to the canonical Centrus Gate-E underwrite.
