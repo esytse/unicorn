@@ -197,3 +197,15 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - URL: https://stockanalysis.com/quote/swx/TECN/history/
 - Type: secondary market data
 - Use: CHF218.40 close on 22 Sep 2026 for bounded valuation reference; not an action trigger.
+
+
+### 2026-09-23 — Simulation / evaluation / verification economics
+- **SRC-EVAL-001 — Foretellix simulation trustworthiness (2026):** https://www.foretellix.com/unified-approach-to-simulation-trustworthiness-in-av-development/ — company primary; simulation fidelity, traceability and release-confidence workflow.
+- **SRC-EVAL-002 — Foretellix regression intent drift (2026):** https://www.foretellix.com/how-ai-helps-keeping-scenario-tests-aligned-with-their-true-purpose/ — company primary; persistent regression-test maintenance / release-gating evidence.
+- **SRC-EVAL-003 — Applied Intuition world foundation models (2026):** https://www.appliedintuition.com/engineering-blog/world-foundation-models-from-research-to-reality — company primary; production tooling around simulation/evaluation.
+- **SRC-EVAL-004 — Applied Intuition Digital Proving Grounds (2026):** https://www.appliedintuition.com/blog/digital-proving-grounds — company primary; continuous multi-vendor virtual testing.
+- **SRC-EVAL-005 — Applied Intuition Dana (2026):** https://www.appliedintuition.com/press-releases/applied-intuition-launches-dana — company primary; build/test/deploy/operate platform.
+- **SRC-EVAL-006 — Siemens executable digital twin:** https://www.siemens.com/en-gb/products/simcenter/integration-solutions/executable-digital-twin/ — company primary; lifecycle deployment and virtual PLC verification.
+- **SRC-EVAL-007 — Siemens / HELLER digital-twin reference (2026):** https://references.siemens.com/en/reference/cnc-digital-twin-heller — company/customer primary; one-to-one controller/machine validation and virtual prove-out.
+- **SRC-EVAL-008 — Synopsys completes Ansys acquisition (2025):** https://investors.ansys.com/news-releases/news-release-details/synopsys-completes-acquisition-ansys — company primary; silicon-to-systems simulation/verification benchmark.
+- **SRC-EVAL-009 — dSPACE simulation validation:** https://www.dspace.com/en/pub/home/learning-center/recordings/learningconnections/how-to-validate-simulations.cfm — company technical; simulation models themselves require V&V for safety argumentation.
