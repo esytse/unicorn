@@ -209,3 +209,12 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-EVAL-007 — Siemens / HELLER digital-twin reference (2026):** https://references.siemens.com/en/reference/cnc-digital-twin-heller — company/customer primary; one-to-one controller/machine validation and virtual prove-out.
 - **SRC-EVAL-008 — Synopsys completes Ansys acquisition (2025):** https://investors.ansys.com/news-releases/news-release-details/synopsys-completes-acquisition-ansys — company primary; silicon-to-systems simulation/verification benchmark.
 - **SRC-EVAL-009 — dSPACE simulation validation:** https://www.dspace.com/en/pub/home/learning-center/recordings/learningconnections/how-to-validate-simulations.cfm — company technical; simulation models themselves require V&V for safety argumentation.
+
+
+### 2026-09-23 — Laifual repeat ACTION trigger / deep check
+- **SRC-LAIFUAL-023 — HKEX issuer announcement index:** https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748 — primary regulatory index; used to establish the latest issuer disclosures and absence of a newer operating filing through 23 Sep.
+- **SRC-LAIFUAL-024 — Laifual H1 2026 results release:** https://markets.financialcontent.com/stocks/article/acnnewswire-2026-8-28-laifual-03952hk-announces-2026-interim-results — company-distributed results summary; revenue, shipments, margins, capacity, orders, cash and IPO-proceeds use.
+- **SRC-LAIFUAL-025 — 3952 market data / statistics:** https://stockanalysis.com/quote/hkg/3952/statistics/ — secondary market data; 23 Sep price, share count and valuation ratios.
+- **SRC-LAIFUAL-026 — 3952 historical market data:** https://stockanalysis.com/quote/hkg/3952/history/ — S&P Global Market Intelligence-derived secondary data; recent close/volume path.
+- **SRC-LAIFUAL-027 — Leaderdrive / China reducer capacity interpretation:** https://www.xxquant.com/en/institution/institutional-research/20aa7a2e10e3b4208a8cdf17b0cb633d — secondary interpretation of Deutsche Bank 17 Sep 2026 work; used only for competitive-capacity/ASP stress test, not as primary company fact.
+- **SRC-LAIFUAL-028 — Laifual IPO competitive economics:** https://autonews.gasgoo.com/articles/market-industry/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729 — secondary prospectus-based summary; 2025 shipment/revenue share and historical ASP decline.
