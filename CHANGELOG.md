@@ -2,6 +2,15 @@
 
 ## 2026-09-23
 
+### Laifual repeat ACTION trigger deepened
+
+- Re-underwrote #86 after an executable HK$46.10 quote re-fired the governed <=HK$48 action condition.
+- Fresh issuer scan found no new company-level operating or financing disclosure that breaks the H1 thesis; volume, utilization, unit-cost and margin evidence remain intact.
+- Added a stronger competition stress test: Laifual historically used lower ASPs to win share, while secondary industry work points to rapid Chinese harmonic-reducer capacity expansion through 2027. Reducer scarcity is therefore weakening even as Laifual's company-specific operating capture improves.
+- At HK$46.10 the existing scenario geometry improves to roughly -46% to -24% bear / +19% to +63% base / +106% to +171% upside; the current conclusion remains **ACTION — 5% starter only**, not an increase in conviction.
+- No add above 5% without fresh repeat-customer, margin durability, backlog-conversion and positive cash evidence. No brokerage trade was placed.
+
+
 ### Simulation / evaluation / verification economics
 
 - Completed #172 bottleneck/capture map across generic simulation, domain-calibrated digital twins, scenario/coverage assets and continuous release gating.
