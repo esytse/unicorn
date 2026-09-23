@@ -13,6 +13,16 @@ This file records substantive changes to research conclusions, confidence, prior
 - Tecan remains the key comparative screen because Introspect provides a more automation-pure installed-fleet software/data loop.
 
 
+### Centrus Antares trigger assessed and live Top-10 refreshed
+
+- Added the 17 September Centrus/Antares definitive HALEU contract and customer-prepayment evidence to the canonical Centrus Gate-E underwrite.
+- Repeat pre-funding across X-energy, Radiant and Antares strengthens the commercial-demand/funding-stack thesis, but amounts/timing remain undisclosed and do not yet establish a March-2028 funded-capacity bridge.
+- Centrus remains **REASSESS / WAIT — not ACTION**; the existing ~$120–130 price-led reassessment range and evidence-led entry tests are unchanged. LEU's 21 September close of $154.85 is above that range.
+- Refreshed the authoritative live Top-10 overlay: Laifual remains #1, Centrus #2, Modine #3, and QNX moves #8 → #4 ahead of its 24 September P0 results event. Memory candidates move down one place where applicable as the scarce-complements remap raises the marginal correlation hurdle.
+- No brokerage trade was placed.
+
+## 2026-09-22
+
 ### Scientific-AI execution / automated-lab bottleneck deep dive
 
 - Opened the scientific-AI execution lane identified by the scarce-complement remap and mapped the closed-loop experiment stack from hypothesis through physical execution, measurement, provenance/QC and feedback.
