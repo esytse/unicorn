@@ -1,5 +1,16 @@
 # Research Changelog
 
+## 2026-09-23
+
+### Tecan scientific-AI Gate-B screen
+
+- Added a bounded Tecan underwrite testing whether lab automation, installed-fleet telemetry, recurring consumables/service and agentic operations can capture the scientific-AI execution bottleneck.
+- H1 2026 Life Sciences recurring revenue from services, consumables and reagents reached **64.4%** of segment sales; Introspect has **>1,000 connected instruments**, providing stronger installed-fleet/recurring evidence than an AI feature announcement alone.
+- Tecan is the cleaner automation/operational-feedback exposure versus Bruker; Bruker retains broader measurement + orchestration breadth and the stronger direct AI-linked bookings signal.
+- Current conclusion is **WATCH / evidence-building — no Gate-E promotion and no Top-10 displacement** because Introspect/agentic-AI revenue, paid attach, incremental orders and consolidated earnings sensitivity remain undisclosed.
+- At the 22 Sep CHF218.40 reference, simplified equity value is ~CHF2.69bn and EV ~CHF2.62bn; this is ~20x annualized H1 adjusted EBITDA and ~13x management's 2028 CHF200m EBITDA ambition before cash generation/execution adjustments.
+- Next checkpoint is the 5 Nov 2026 Q3 update or earlier material disclosure of paid Introspect/AI adoption or AI-linked automation orders.
+
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
 ## 2026-09-22
