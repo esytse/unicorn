@@ -171,3 +171,29 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - URL: https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Reports-First-Quarter-2026-Financial-Results/default.aspx
 - Type: company primary / financial
 - Use: BSI high-single-digit organic bookings, >1.0x book-to-bill, explicit AI-driven SciY software demand, group/BSI revenue and FY26 guidance.
+
+
+### SRC-SCI-AI-013 — Tecan H1 2026 interim report
+- URL: https://www.tecanannualreport.com/interim-report-2026/letter-to-shareholders
+- Type: company primary / financial
+- Use: H1 group and Life Sciences growth, recurring revenue mix, EBITDA, cash conversion, 2026 guidance, 2028 targets and AI-lab strategy.
+
+### SRC-SCI-AI-014 — Tecan Introspect product / adoption evidence
+- URL: https://lifesciences.tecan.com/introspect
+- Type: company primary / product
+- Use: connected-instrument analytics, agentic-AI use cases, fleet productivity and customer ROI evidence.
+
+### SRC-SCI-AI-015 — Tecan 2025 annual report / digital automation
+- URL: https://www.tecanannualreport.com/annual-report-2025/sustainability/governance
+- Type: company primary / annual report
+- Use: Wako Automation / Director acquisition, FlowPilot orchestration and connected digital portfolio context.
+
+### SRC-SCI-AI-016 — Tecan shares outstanding / H1 2026
+- URL: https://www.tecanannualreport.com/interim-report-2026/notes-to-the-interim-condensed-consolidated-financial-statements/8-shareholders-equity-and-employee-participation-plans
+- Type: company primary / financial
+- Use: 12.322m shares outstanding at 30 June 2026 and buyback context.
+
+### SRC-SCI-AI-017 — Tecan historical market price
+- URL: https://stockanalysis.com/quote/swx/TECN/history/
+- Type: secondary market data
+- Use: CHF218.40 close on 22 Sep 2026 for bounded valuation reference; not an action trigger.
