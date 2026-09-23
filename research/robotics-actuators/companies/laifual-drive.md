@@ -4,7 +4,7 @@
 **Ticker:** HKEX: 03952  
 **Status:** Investigating  
 **Confidence:** Medium on current operating capture; Low-Medium on March-2028 stock return  
-**Last substantive update:** 2026-09-15  
+**Last substantive update:** 2026-09-23  
 **Backlog:** #86
 
 ## Snapshot
@@ -302,3 +302,76 @@ Secondary / market-data cross-checks:
 
 - 2026-09-09 — H1 evidence in #86 materially strengthened the Gate-B operating-capture case and moved Laifual #7 → #4 in the cross-theme research ranking; no watchlist promotion.
 - 2026-09-10 — completed current Gate-E underwrite. Added March-2028 scenario boundaries, explicit REASSESS state, price/evidence-led conditions, sizing and thesis-break rules; research status remains Investigating.
+
+## 10. Deep ACTION check — 23 September 2026
+
+### Trigger and market state
+
+**FACT:** Laifual closed at **HK$46.10 on 23 September**, down **5.84%** on the day. The session range was HK$45.50–48.00 and volume was 86.3k shares. This is below the governed <=HK$48 executable-price condition and follows closes of HK$48.96 on 22 September and HK$49.58 on 21 September.
+
+**FACT:** HKEX's issuer-announcement surface shows no new operating, financing or customer disclosure after the 16 September EGM/company-name/articles update. The last substantive operating/capital disclosures remain the 28 August interim results and proposed credit facilities. A fresh public-news pass therefore found **no disclosed company-specific thesis break explaining the 23 September decline**.
+
+**INTERPRETATION:** the price move is a valid repeat ACTION trigger, but absence of a filing is not evidence that fundamentals improved. The correct test is whether the existing starter asymmetry survives a more demanding competition, cash and valuation check.
+
+### Operating evidence remains strong
+
+**FACT:** H1 revenue was RMB142.2m (+80.1%), reducer shipments 239.5k (+112%), reducer gross margin 29.6%, adjusted EBITDA RMB12.4m and adjusted net loss RMB4.1m. Reducer unit cost fell from about RMB482 to RMB351.
+
+**FACT:** July designed capacity reached 64.8k units/month and outstanding reducer orders exceeded 400k units at 31 July. That order count is equivalent to roughly **6.2 months of July designed capacity** before allowing for subsequent capacity additions or delivery scheduling.
+
+**FACT:** small reducers <=52mm increased to **10.6% of shipment volume from 5.1%**, consistent with a real shift toward compact/humanoid applications rather than a purely narrative exposure. Joint modules and robotic arms generated RMB14.8m, or 10.4% of H1 revenue.
+
+**INTERPRETATION:** the strongest part of the thesis remains the simultaneous combination of volume growth, utilization, falling unit cost and rising reducer margin. This is genuine operating capture. It is stronger evidence than named-customer speculation.
+
+### Competition is the key new stress test
+
+**FACT:** Laifual's prospectus-era evidence shows it had **21.4% of China's robotic harmonic-reducer market by 2025 shipment volume but only 12.9% by revenue**. Its average reducer selling price fell from about RMB795 in 2023 to RMB571 in 2025 as it deliberately used price to gain share.
+
+**FACT / SECONDARY INDUSTRY EVIDENCE:** a 17 September Deutsche Bank interpretation on Leaderdrive estimates combined capacity across major Chinese reducer producers rising from about **1.5m units in 2025 to >4m in 2026 and ~6.5m in 2027**. The same work says Laifual reducer ASP is about 40% below Leaderdrive's and notes Leaderdrive's Q2 2026 gross margin fell to 31% amid lower ASPs and expansion costs.
+
+**INTERPRETATION:** harmonic reducers are **not currently a clean scarcity bottleneck**. Supply is expanding quickly and domestic price competition is already visible. Laifual's investment case therefore depends less on industry scarcity and more on company-specific manufacturing cost, qualification, delivery speed, mix and customer repeatability.
+
+**THESIS RISK:** if industry capacity reaches the cited 2027 scale before humanoid demand absorbs it, utilization and ASP can fall simultaneously. Laifual's current ~30% reducer margin could then compress even while unit shipments grow.
+
+### Capacity, liquidity and capital discipline
+
+**FACT:** post-listing cash was about RMB980.1m and gearing fell to 23.1%, materially reducing immediate financing risk. Approximately 55% of IPO net proceeds is intended for capacity expansion and management targets 80k units/month by end-2026.
+
+**FACT:** H1 operating cash flow remained **negative RMB20.9m** and capex was **RMB77.8m**. The company also proposed up to **RMB1.5bn of credit facilities** for working capital, fixed assets and other banking uses; as of the announcement those facilities had not yet been entered into.
+
+**INTERPRETATION:** liquidity is currently a strength, but the economic question is return on the new capacity, not simply ability to fund it. Large cash balances plus undrawn credit do not neutralize the risk of building capacity into falling ASPs.
+
+### Valuation and return geometry at HK$46.10
+
+**FACT:** public market data reports about **103.4m shares outstanding**. A simple price-times-share-count calculation gives approximately **HK$4.77bn** equity value at HK$46.10. The same market-data source reports a price/sales ratio around **13.5x**. The stock remains roughly 46% below its HK$85.50 IPO price, but the operating business is still valued aggressively relative to current revenue and near-breakeven earnings.
+
+Using the existing governed March-2028 scenario boundaries:
+
+| Scenario | Existing boundary | Return from HK$46.10 |
+|---|---:|---:|
+| Bear | HK$25–35 | about **-46% to -24%** |
+| Base | HK$55–75 | about **+19% to +63%** |
+| Upside | HK$95–125 | about **+106% to +171%** |
+| Stretch | HK$150–200+ | about **+225% to +334%+** |
+
+**INTERPRETATION:** the price decline improves the entry geometry materially. The top of the existing base range now just clears the portfolio's ~60% remaining-window hurdle, while the upside range starts above 2x. But the bear case remains severe and the valuation still requires rapid earnings conversion. This supports a small asymmetric starter, not a full-size position.
+
+### 23 September conclusion
+
+**CONCLUSION:** **ACTION remains valid — starter 5% research sleeve only at an executable price <=HK$48.** Confidence remains **Low-Medium on the March-2028 stock return**.
+
+The deeper pass did **not** find a new issuer-level thesis break. Operating evidence remains intact and the lower price improves asymmetry. However, the competitive-capacity evidence makes it inappropriate to raise conviction: reducer scarcity is weakening, ASP pressure is structural, cash conversion is not yet proven and the company is simultaneously funding a large capacity ramp.
+
+**Do not increase above the existing 5% starter solely because the price is lower.** A move toward the 8% pre-proof ceiling requires fresh evidence such as positive operating cash conversion, sustained ~28–30%+ reducer margin through the capacity ramp, repeat/bulk humanoid customer orders, or clear backlog conversion without material ASP concessions.
+
+### Near-term evidence checkpoints
+
+1. **H2/FY operating update:** shipment growth, reducer ASP/unit cost, gross margin and adjusted/statutory profit.
+2. **Backlog conversion:** whether the >400k July order book converts without price/margin deterioration.
+3. **80k/month end-2026 capacity target:** utilization after capacity comes online matters more than installed nameplate.
+4. **Humanoid repeatability:** named or repeat bulk procurement, not validation-stage customer counts.
+5. **Cash conversion:** operating cash flow and capex trajectory as growth scales.
+6. **Credit facilities:** actual drawdown, purpose and leverage if the RMB1.5bn envelope is used.
+7. **Competitive supply:** Leaderdrive/other Chinese capacity additions and ASP/margin behavior.
+
+**Execution boundary:** research signal only; no brokerage trade is placed by the repository or automation.
