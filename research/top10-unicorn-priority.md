@@ -2,36 +2,35 @@
 
 **Status:** Active cross-theme research queue  
 **Common-basis reference:** 2026-09-09  
-**Live Gate-E overlay refreshed:** 2026-09-15  
+**Live Gate-E overlay refreshed:** 2026-09-22  
 **Parent backlog:** #110  
 **Active sprint:** #112  
 **Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality, company-level capture and the stock setup.
 
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
-## Live Gate-E decision overlay — 15 September 2026
+## Live Gate-E decision overlay — 22 September 2026
 
-> This section is the **authoritative current work/portfolio-priority overlay**. The detailed 9 September common-basis ranking below remains useful evidence context, but it is no longer the execution order. Gate E now optimizes for marginal portfolio contribution, current catalysts and governed transaction conditions.
+> This section is the **authoritative current work/portfolio-priority overlay**. Gate E optimizes for marginal portfolio contribution, current catalysts, governed transaction conditions and correlation. The 22 September scarce-complements remap raises the hurdle for incremental correlated memory exposure but does not mechanically demote existing candidates.
 
 | Live rank | Company | Current Gate-E state | Why it ranks here now | Next governed trigger |
 |---:|---|---|---|---|
-| **1** | **Laifual Drive** | **WAITING P0 / ACTION monitor** | first live Gate-E starter action after the broker quote entered the governed zone; independent Physical-AI return engine | starter 5% only at executable <=HK$48; re-underwrite before any add |
-| **2** | **Centrus Energy** | WAITING P1 | September financing + price reset created a materially better independent strategic-fuel setup; funded-capacity proof remains missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
-| **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine with a dated structural catalyst and strong customer demand | ~US$155–165 or expected 1 Oct separation / stronger post-spin margin/FCF |
-| **4** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance and close to its governed price condition | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
-| **5** | **SUSS MicroTec** | WAITING P1 | strong 2027 visibility and near its governed zone, offset by process/customer risk and memory correlation | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
-| **6** | **Hainan Jinpan** | WAITING P1 | independent AI-power sensitivity and exceptional order growth, but cash/global qualification remain weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
-| **7** | **Weebit Nano** | WAITING P1 | high venture-style optionality, still pre-recurring royalty | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
-| **8** | **BlackBerry / QNX** | WAITING P0 | strong diversification quality; next dated information event is close, but current 2x path remains unproven | Q2 FY2027 on 24 Sep 2026 or earlier non-auto production economics |
-| **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but current valuation/concentration and HBM correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
-| **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics are still incomplete | S-4/equivalent filing |
+| **1** | **Laifual Drive** | **WAITING P0 / ACTION monitor** | only live governed starter action; independent Physical-AI return engine | starter 5% only at executable <=HK$48; re-underwrite before any add |
+| **2** | **Centrus Energy** | **WAITING P1 / REASSESS** | Antares joins X-energy and Radiant in customer pre-funding, strengthening independent strategic-fuel evidence; disclosed capacity/funding bridge still missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
+| **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine; 1 Oct separation is now the nearest structural catalyst after the 17 Sep RMT adjustment | ~US$155–165 or 1 Oct close / stronger post-spin margin/FCF |
+| **4** | **BlackBerry / QNX** | **WAITING P0** | 24 Sep results are the nearest dated P0 information event and can test non-auto/Physical-AI economics | Q2 FY2027 on 24 Sep 2026 or earlier material non-auto production economics |
+| **5** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance, but memory correlation lowers marginal portfolio priority | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
+| **6** | **SUSS MicroTec** | WAITING P1 | strong 2027 visibility; governed price zone remains below recent references and memory correlation matters | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
+| **7** | **Hainan Jinpan** | WAITING P1 | independent AI-power sensitivity and exceptional order growth, but cash/global qualification remain weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
+| **8** | **Weebit Nano** | WAITING P1 | high venture-style optionality, still pre-recurring royalty and correlated with the crowded memory lane | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
+| **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but valuation/concentration and memory correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
+| **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics remain incomplete | S-4/equivalent filing |
 
-**Dropped from the active Top 10:** Harmonic Drive Systems remains a technically important benchmark but is **PARKED P2** at the current valuation/evidence setup. Modine enters because its independent cooling economics and near-term separation catalyst have greater marginal portfolio value.
+**22 September ranking changes:** QNX moves **#8 → #4** because the 24 September result is the nearest executable P0 evidence event and offers an independent return engine. JEM, SUSS, Jinpan, Weebit and MJC each move down one place. Centrus remains #2: the Antares contract strengthens repeat customer pre-funding evidence but does not yet disclose enough capital-stack or capacity timing to displace Laifual's governed ACTION.
 
-**Current research/event priority:** QNX automatically becomes the highest executable P0 when 24 September results publish; otherwise company work remains event/price-driven rather than routine heavy research.
+**Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Brokerage execution is manual and no holding is assumed. Tactical cash remains the default for undeployed capital.
 
-**Current allocation conclusion:** Laifual now has the first governed `ACTION` signal: **starter 5% at executable <=HK$48**. Brokerage execution is manual, so the actual holding is not assumed. The remaining 95% stays tactical cash / conditional sleeves.
-
+**Research-universe implication:** the 22 September scarce-complements remap identifies memory as over-covered and scientific-AI execution, simulation/evaluation/verification and sensing as under-covered. New discovery candidates can enter future Top-10 revisions only after company-level capture and Gate-E evidence; no blind-spot candidate is promoted merely because its bottleneck is attractive.
 ---
 ## 1. Ranking method
 
