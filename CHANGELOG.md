@@ -2,6 +2,15 @@
 
 ## 2026-09-23
 
+### Simulation / evaluation / verification economics
+
+- Completed #172 bottleneck/capture map across generic simulation, domain-calibrated digital twins, scenario/coverage assets and continuous release gating.
+- Medium-confidence conclusion: **trusted recurring release/qualification evidence** is the stronger scarce-complement hypothesis; generic simulation alone is increasingly exposed to platform/open-tool substitution.
+- Foretellix and Applied Intuition are the cleanest private archetypes; Siemens and Synopsys/Ansys are listed benchmarks but currently too diversified for a focused portfolio promotion.
+- Defined migration indicators and explicit re-open triggers around recurring V&V economics, formal release requirements and investability.
+- No Gate-E, live Top-10 or portfolio allocation change.
+
+
 ### Tecan scientific-AI Gate-B screen
 
 - Added a bounded Tecan underwrite testing whether lab automation, installed-fleet telemetry, recurring consumables/service and agentic operations can capture the scientific-AI execution bottleneck.
