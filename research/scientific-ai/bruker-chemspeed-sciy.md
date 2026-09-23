@@ -123,3 +123,4 @@ Tecan's June 2026 Introspect agentic-AI launch is more operationally focused: mo
 **INTERPRETATION:** Tecan may offer a purer automation/installed-fleet software feedback loop, while Bruker offers the broader integrated execution + measurement + orchestration stack.
 
 This makes Tecan the correct comparative screen rather than simply another scientific-instrument name.
+
