@@ -110,7 +110,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
 
-**Current portfolio interpretation (24 Sep 2026):** Laifual remains the only governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual. Centrus and Modine remain the leading independent-return-engine alternatives. QNX's dated Q2 event has been assessed and is now `REASSESS / WAIT`; Ouster's sensing/Gate-E work has also completed and remains outside the Top 10 pending a materially better valuation/evidence setup.
+**Current portfolio interpretation (24 Sep 2026):** Laifual remains the only governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual. Centrus and Modine remain the leading independent-return-engine alternatives. QNX's dated Q2 event has been assessed and is now `REASSESS / WAIT`; Ouster's sensing/Gate-E work has also completed and remains ranked REASSESS / WAIT pending a materially better valuation/evidence setup.
 
 
 ## Research-quality priority — #207 / #193
@@ -397,3 +397,8 @@ The goal is the **minimum reliable orchestration that keeps the user informed wh
 ## Calibration outcome control — #207
 
 Use `research/prediction-calibration-ledger.md` as the immutable decision-time snapshot and append outcomes at governed checkpoints. Use `research/evidence-quality-audit.md` to prioritize research gaps by decision impact. Do not broaden the universe merely to create activity while higher-impact evidence gaps remain open.
+
+
+## Continuous ranked-universe rule — 24 Sep 2026
+
+The canonical research priority surface is the continuous ranked universe in `research/top10-unicorn-priority.md`. There is **no Top-10 admission gate**. Scheduler/backlog priority may consider any ranked company, subject to issue priority, trigger state, evidence freshness and marginal portfolio contribution. A rank crossing 10 has no special automation meaning and never creates a trade signal.
