@@ -28,6 +28,16 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** CNY65.51, ~459m shares and ~RMB30.1bn equity value. Mechanical hurdles are **~RMB90.3bn / CNY196.5 (3x), ~RMB150.5bn / CNY327.6 (5x), ~RMB301bn / CNY655.1 (10x)**. At 20x P/E those outcomes require roughly **CNY9.83, CNY16.38 and CNY32.76 EPS**, versus current 2028 consensus around **CNY3.54**.
+
+**Evidence test:** H1 data-centre orders +336% and total orders +69% demonstrate a genuine state change, but the starting valuation already capitalizes strong conversion. 3x needs a company-transforming AIDC/global-power earnings engine well beyond consensus; 5x/10x are not supported by current cash/margin/qualification evidence.
+
+**Unicorn state: POTENTIAL — retain for change-signal monitoring, but 3x is unvalidated and 5x/10x fail current evidence.** Named global qualification, repeat overseas orders, working-capital/FCF conversion and durable margins are decisive.
+
+
 ---
 
 ## Gate-E conclusion
