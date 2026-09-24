@@ -9,6 +9,19 @@
 
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
+
+## Evidence-chain calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> allocation implication:** this surface must distinguish evidence that a bottleneck or scarce complement exists from evidence that a specific listed company can capture durable incremental economics from it. A technically important layer can remain unattractive or uninvestable because competition, diversification, capital intensity, private-company capture or starting valuation absorbs the economics.
+
+**Evidence quality / freshness:** prefer primary operating/customer/technical evidence for company capture and use secondary market/industry material mainly to map the landscape. Observation freshness is independent of document edit date; live ranking/allocation conclusions require refreshed company and valuation evidence at their governed trigger.
+
+**Strongest counter-case:** bottlenecks migrate. Supply response, architectural substitution, vertical integration, qualification of alternatives or private-company capture can move the profit pool away from the initially identified scarce complement. Treat these as active falsifiers, not footnotes.
+
+**Calibration boundary:** cross-theme ranking is a research/allocation prioritization device, not proof of expected return. Do not promote a company solely because its bottleneck scores highly. Company capture, financial materiality, valuation and portfolio correlation must survive their own evidence chain.
+
+---
+
 ## Live Gate-E decision overlay — 24 September 2026
 
 > This section is the **authoritative current work/portfolio-priority overlay**. Gate E optimizes for marginal portfolio contribution, current catalysts, governed transaction conditions and correlation. The 22 September scarce-complements remap raises the hurdle for incremental correlated memory exposure but does not mechanically demote existing candidates.

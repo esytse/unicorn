@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #200 evidence-chain retrofit — Wave 3
+
+- Calibrated six cross-theme/capture/ranking surfaces under #193/#196.
+- Made the boundary explicit between technical scarcity and investable public-equity capture, added bottleneck-migration/substitution as active counter-evidence, and separated document freshness from observation freshness.
+- Cross-theme rank alone cannot promote a company; company capture, financial materiality, valuation and portfolio correlation require their own evidence chain.
+- No company state or brokerage trade changed from this retrofit.
+
+## 2026-09-24
+
 ### #198 evidence-chain retrofit — Wave 2
 
 - Applied the #193 calibration boundary to all 18 remaining canonical energy/memory company files after live Gate-E Wave 1.
