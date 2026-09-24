@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #249 first restored thesis-first discovery scan
+
+- Started from three recent architecture/state changes rather than existing company names: point-of-load AI power delivery, component-level liquid cooling, and humanoid supplier industrialisation.
+- Surfaced four outside-universe leads: **Vicor** (promote to bounded company underwrite), **Namuga** (bounded evidence pass), **Samhyun** (evidence build), and **LOTES** (evidence build).
+- Vicor is the strongest new signal because primary evidence links VPD licensing and royalties to raised Q3 guidance while existing fabrication approaches capacity and two additional fab sites are being acquired.
+- Recorded negative/coverage gaps rather than mechanically expanding the universe; HBM produced no sufficiently new architecture signal beyond existing work in this pass.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-24
+
 ### #247 restore thesis-first Unicorn discovery
 
 - Re-anchored the repository to the original upstream thesis: **world change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture**.
