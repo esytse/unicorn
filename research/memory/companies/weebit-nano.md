@@ -27,6 +27,16 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** A$3.43, ~240.2m basic shares and ~A$824m basic equity value; the existing diluted planning denominator (~255–260m) implies ~A$875–892m. On the basic reference the equity hurdles are **~A$2.47bn (3x), ~A$4.12bn (5x), ~A$8.24bn (10x)** before additional dilution.
+
+**Evidence test:** Weebit's royalty architecture creates the strongest theoretical operating leverage in the priority set, but FY26 A$15.3m revenue was still licensing/NRE and material recurring production royalties are not yet demonstrated. Therefore conventional earnings multiples would manufacture precision. The correct bridge is production wafer volume × royalty economics × diluted share count.
+
+**Unicorn state: UNDERWRITE — 3x/5x structurally plausible if Tier-1 licences become mass-production royalties; neither is validated; 10x is pure optionality today.** First material royalty, wafer-volume/royalty disclosure, production timing and dilution are mandatory proof points.
+
+
 ---
 
 ## Snapshot
