@@ -164,6 +164,69 @@ When new evidence arrives:
 
 **Allocation implication:** broaden research coverage rather than mechanically reallocating capital. AKAM and RPI enter the live challenger set; promotion still requires company-level normalized-return evidence.
 
+## First value-chain-first scan test — 24 September 2026
+
+**Scope:** bounded test of the discovery control introduced after RPI/AKAM. This is a coverage scan, not a valuation-complete company ranking.
+
+| Value-chain layer | Coverage | Test result / candidate signal |
+|---|---|---|
+| Models / intelligence | Intentionally excluded | Generic model-provider discovery is not the scarce-complement objective. |
+| Training / inference silicon | Well covered / crowded | No new discovery priority; direct accelerator exposure is already obvious and highly competed. |
+| Memory / data movement / test | Well covered | Existing JEM, MJC, SUSS, FormFactor, Camtek, Advantest/Teradyne work is extensive. |
+| Networking | Under-covered | Arm's near-100% share claim in DPU/SmartNIC CPU architecture is a useful cross-layer signal, but ARM is broad and valuation/capture need separate work. |
+| Distributed compute | Under-covered | AKAM now represents the live challenger; capital-return economics remain the gating issue. |
+| Edge compute / deployment | **Under-covered — strongest discovery gap** | RPI validated the gap. **Ambarella (AMBA)** and **Advantech (2395.TW)** surfaced as additional listed candidates with direct operating evidence rather than narrative exposure. |
+| Runtime / orchestration | Partly covered | QNX is covered. ZEDEDA evidence suggests fleet orchestration/security may be a real bottleneck, but the direct pure-play capture is private; Ambarella is an indirect listed beneficiary. |
+| Sensing / perception | Well covered / recently refreshed | Ouster and Cognex/RealSense work already identified the layer. Cognex's RealSense acquisition strengthens rather than changes the existing signal. |
+| Simulation / evaluation / verification | **Under-covered** | PTC surfaced as a misclassified industrial-software candidate; AI is being layered over CAD/PLM/ALM/SLM and asset data, but evidence of incremental AI economics is not yet sufficient for promotion. |
+| Control | Under-covered | Industrial automation incumbents such as Siemens/Advantech span control + edge AI, but direct incremental capture is not yet isolated. |
+| Actuation | Well covered | Laifual and broader actuator work already deep. |
+| Power / thermal | Well covered | Existing energy/Modine work covers the major scarcity thesis. |
+| Fleet operations / feedback | **Under-covered** | PTC Orbit and edge-orchestration evidence indicate an emerging closed-loop data/maintenance layer; listed economic capture remains unresolved. |
+
+### New candidate signals
+
+#### Ambarella — edge inference / Physical AI
+**FACT:** FY2026 revenue was $390.7m, +37.2%; management said edge-AI SoCs were 80% of revenue and came from Physical-AI applications. It reported more than 370 unique customer AI projects in production. The May 2026 Hanwha agreement represents >$800m of potential revenue over more than ten years across robotics, industrial automation and other applications. September's ZEDEDA partnership adds fleet deployment/orchestration optionality.
+
+**INTERPRETATION:** AMBA is the strongest genuinely new listed-company signal from this scan. Unlike a generic semiconductor screen, the value-chain lens exposes it as a bridge between perception silicon, edge inference and fleet deployment.
+
+**COUNTER-EVIDENCE:** FY2026 still produced a GAAP operating loss; long-term partnership values are not guaranteed revenue; edge-AI silicon remains competitive.
+
+**NEXT TEST:** Gate-D/Gate-E underwrite of normalized profitability, valuation, Hanwha conversion and competitive durability versus RPI/Jetson/Qualcomm-class alternatives.
+
+#### Advantech — industrial edge / control
+**FACT:** H1 2026 revenue reached NT$46.5bn (+32% YoY), operating profit NT$8.86bn (+66%), with management attributing record results partly to accelerating customer AI deployments. Its industrial portfolio explicitly combines sensing, edge compute, AI, functional safety and robotics.
+
+**INTERPRETATION:** Advantech is a classic misclassification candidate: conventional industrial-computing/IoT taxonomy can obscure its role as a picks-and-shovels deployment layer for Physical AI.
+
+**COUNTER-EVIDENCE:** AI-specific revenue and incremental margins are not isolated; much of the business may benefit from ordinary industrial/embedded cycles rather than scarce AI economics.
+
+**NEXT TEST:** quantify AI/edge design-win mix and determine whether incremental economics are material enough to beat existing Top-10 alternatives.
+
+#### Arm — architecture spanning cloud, edge and physical AI
+**FACT:** Arm reported FY2026 revenue of $4.92bn (+24%); its Q4 royalty discussion attributed growth to cloud AI and Physical AI, including ADAS/autonomous systems. FYE26 royalty mix presentation identifies Edge AI at 78%, Cloud AI 14% and Physical AI 8% (excluding AGI CPU family).
+
+**INTERPRETATION:** ARM is structurally important across multiple layers and a useful falsifier of narrow hardware taxonomies. It is not a new portfolio candidate from this scan because breadth, scale and starting valuation require a separate asymmetry test.
+
+#### PTC — verification / product-data / fleet feedback
+**FACT:** Q3 FY2026 constant-currency ARR excluding divested businesses grew 9.1%; PTC says AI demand is increasing the importance of product-data foundations across CAD/PLM/ALM/SLM. PTC Orbit connects PLM, ERP, CRM, IoT, EAM and FSM data into an AI-oriented maintained-asset record.
+
+**INTERPRETATION:** PTC is a plausible misclassified candidate for the under-covered verification/feedback layer, but current evidence demonstrates strategic relevance more clearly than incremental AI economic capture.
+
+### Negative / no-promotion screens
+
+- **Caterpillar:** strong Physical-AI deployment evidence with FieldAI, but AI is currently too small relative to the equipment franchise to treat CAT as a clean scarce-complement capture.
+- **Teradyne Robotics:** strategically relevant but Q2 robotics revenue of $100m is small beside $1.122bn semiconductor test revenue; the repository already captures TER primarily through test.
+- **Generic industrial automation majors:** strong adoption evidence, but broad conglomerate exposure and weak isolation of incremental AI rents prevent automatic promotion.
+- **Private edge/runtime companies:** important evidence for bottleneck existence, but no direct listed capture; use them as ecosystem evidence rather than forcing a public proxy.
+
+### Test conclusion
+
+**INTERPRETATION:** the protocol worked. It did not merely rediscover RPI/AKAM: it surfaced **Ambarella** as the strongest new company-specific challenger and **Advantech** as a credible industrial-edge candidate, while identifying **simulation/verification and fleet feedback** as genuine portfolio research gaps.
+
+**Allocation implication:** do not alter the Top 10 yet. Create bounded follow-up underwriting for AMBA first; Advantech second. ARM and PTC remain structural/misclassification observations unless valuation and financial-materiality evidence justify deeper work.
+
 ## Current synthesis
 
 **INTERPRETATION:** The repository's existing work increasingly points to a common pattern: generic intelligence may become more available faster than the physical, infrastructural, operational and proprietary-data systems needed to turn it into dependable outcomes.
