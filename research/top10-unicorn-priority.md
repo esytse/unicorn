@@ -39,6 +39,19 @@
 | **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but valuation/concentration and memory correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
 | **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics remain incomplete | S-4/equivalent filing |
 
+### 24 September RPI / AKAM challenger integration
+
+The completed #218/#219 deep dives add two **immediate Top-10 challengers**, but neither currently displaces the governed live Top 10.
+
+| Challenger | Gate-E state | Why it matters | Why not promoted now | Next governed trigger |
+|---|---|---|---|---|
+| **Raspberry Pi (RPI)** | **REASSESS / WATCH** | H1 2026 gives direct industrial/OEM evidence: 4.2m shipments (+17%), direct +26%, 2.6m backlog, and a credible low-cost edge-AI platform | 755p repricing plus temporary lower-cost memory economics make normalized FY27 earnings/valuation unresolved | post-results FY27-28 consensus reset; H2 backlog conversion and normalized gross margin |
+| **Akamai (AKAM)** | **REASSESS / WATCH** | $11.6bn Anthropic commitment validates distributed CPU/AI infrastructure at transformative scale; strengthens scarce-complements map | ~$5.5bn associated capex, up to ~5% warrant dilution, concentration and undisclosed contribution margins prevent a defensible incremental-ROIC case | deployment/revenue schedule; CIS margin/depreciation; capex funding/utilization evidence |
+
+**Ranking decision:** retain FORT at #10 for audit continuity and transaction optionality. RPI is the closer **company-specific** challenger because current operating capture is already visible; AKAM is the stronger **cross-theme evidence event** but requires more capital-return disclosure. Neither price spike is itself a promotion trigger.
+
+**Portfolio implication:** no new governed ACTION. The new evidence broadens the under-covered Physical-AI/edge and distributed-compute lanes without increasing the already-crowded memory allocation.
+
 **24 September QNX refresh:** QNX remains **#4** after FY27 Q2. Operating evidence improved materially (US$80.3m QNX revenue, 87% gross margin, US$29m adjusted EBITDA, raised FY27 guidance and backlog conversion), but the stock remains **REASSESS / WAIT** because ~US$8.3–8.5 already prices substantial QNX success. Re-underwrite at <=~US$7 or on new evidence that advances the US$500m+ revenue path. Centrus remains #2 and Modine #3.
 
 **Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Brokerage execution is manual and no holding is assumed. Tactical cash remains the default for undeployed capital.
