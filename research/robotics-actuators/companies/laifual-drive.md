@@ -303,6 +303,69 @@ Secondary / market-data cross-checks:
 - 2026-09-09 — H1 evidence in #86 materially strengthened the Gate-B operating-capture case and moved Laifual #7 → #4 in the cross-theme research ranking; no watchlist promotion.
 - 2026-09-10 — completed current Gate-E underwrite. Added March-2028 scenario boundaries, explicit REASSESS state, price/evidence-led conditions, sizing and thesis-break rules; research status remains Investigating.
 
+## Evidence-chain pilot — 24 September 2026
+
+This section pilots #193. It does not create a new price target or change the existing starter-size conclusion; it tests how much of that conclusion is directly evidenced versus inferred.
+
+### Decision chain
+
+| Claim | Evidence quality / freshness | Inference boundary | Action implication |
+|---|---|---|---|
+| Laifual has moved from narrative to real reducer operating capture | **High / fresh:** H1 2026 issuer financial and operating disclosures show +80.1% revenue, +112% reducer shipments, 29.6% reducer GM, positive adjusted EBITDA and ~95% H1 utilization | Establishes current operating scale and cost/margin improvement; does **not** establish durable scarcity or future cash returns | Supports keeping Laifual high in the live research queue |
+| Humanoid demand is becoming economically relevant | **Medium / fresh:** issuer commentary says customers are moving toward bulk procurement; <=52mm mix rose to 10.6%; >400k reducer orders at 31 July | Mix/order evidence is consistent with humanoid pull, but named repeat customers and humanoid-specific revenue remain insufficiently disclosed | Supports optionality, not conviction-size capital |
+| Reducer economics are defensible through the capacity ramp | **Low-Medium:** Laifual unit cost and margin improved, but secondary industry evidence points to rapid Chinese capacity expansion and ASP pressure | Company execution may offset industry commoditisation, but durable pricing power is **not proven** | Main reason to cap the current starter at 5% |
+| Balance sheet can fund near-term growth | **High / fresh:** ~RMB980m post-listing cash; much lower gearing | Establishes liquidity, not return on invested capital; RMB1.5bn credit envelope and heavy capex remain monitors | Reduces immediate financing risk but does not justify an add |
+| Current price region creates asymmetric March-2028 geometry | **Medium-Low:** scenario boundaries are internally modelled from operating/capacity assumptions; current earnings are near break-even | Upside is plausible but valuation outcomes depend heavily on future earnings conversion and rerating; boundaries are not intrinsic values | Treat <=HK$48 as the upper edge of an **approximate entry band**, not a precise fair-value point |
+| A larger position is justified today | **Low / contradicted by missing proof:** negative H1 operating cash flow, heavy capex, no durable repeat humanoid-customer economics yet | Current evidence does not support conviction sizing | No add above 5% without fresh profit/cash/customer evidence |
+
+### Layered confidence
+
+| Layer | Confidence | Reason |
+|---|---|---|
+| Structural demand for precision motion / reducers | **High** | robotics/humanoid deployment requires precision motion, and Laifual volumes are already scaling |
+| Laifual company capture | **Medium-High currently** | strong shipment/utilization/cost/margin evidence, offset by concentration and price competition |
+| Financial materiality / durable cash capture | **Medium-Low** | adjusted EBITDA positive but net result and operating cash conversion remain weak; capacity investment is large |
+| March-2028 equity case | **Low-Medium** | 2x path exists, but depends on a large earnings bridge and some valuation support |
+
+### Strongest disconfirming evidence
+
+The most important counter-evidence is **rapid Chinese reducer capacity expansion plus falling ASPs**. Laifual's own historical ASP declined as it gained share, while competitor/industry evidence indicates substantially more domestic capacity. This directly challenges the idea that harmonic reducers themselves remain a scarce complement.
+
+A second counterweight is **cash conversion**: H1 operating cash flow was negative while capex was high. Volume growth can therefore be economically real without yet producing attractive per-share cash returns.
+
+### Evidence freshness
+
+- **H1 2026 operating/financial evidence:** current; next required refresh is H2/FY.
+- **31 July order evidence:** current but aging; needs conversion evidence.
+- **23 Sep market reference:** current for the prior ACTION check, but price must be reconfirmed at any manual execution.
+- **Competitive-capacity evidence:** recent but partly secondary; prioritize company/regulatory capacity disclosures when refreshing.
+- **Humanoid customer repeatability:** incomplete regardless of document freshness.
+
+### Valuation sensitivity / precision test
+
+The existing **<=HK$48** rule should be read as the upper boundary of the current **HK$45–48 governed entry band**, not as a claim that HK$48 has special intrinsic precision.
+
+Within that band the investment logic is broadly unchanged relative to the uncertainty in the operating model. Above it, the evidence burden rises; below it, lower price alone does not justify adding beyond the 5% starter because competition and cash-conversion uncertainty remain.
+
+The scenario boundaries themselves are also broad ranges. They should remain sensitivity bands rather than point targets until sustainable earnings are visible.
+
+### 18-month return bridge
+
+The upside case requires **both**:
+
+1. **fundamental bridge:** much higher shipments/revenue, durable high-20s reducer margin, positive net income/cash conversion and successful capacity utilization; and
+2. **valuation bridge:** the market continuing to award a growth multiple once earnings become visible.
+
+At today's near-break-even earnings, the repo cannot cleanly attribute a 2x case primarily to earnings growth or primarily to rerating. That uncertainty is itself decision-relevant and keeps equity-case confidence Low-Medium.
+
+### Pilot result
+
+**The #193 framework passes its first practical test.** It preserves the existing 5% starter conclusion but makes the weak link explicit: the evidence for **current operating capture is substantially stronger than the evidence for durable cash capture and the March-2028 equity valuation**.
+
+No company-state change follows from this pilot. The next Laifual add decision should be driven by fresh cash/profit, repeat-customer, margin and backlog-conversion evidence rather than by price alone.
+
+---
+
 ## 10. Deep ACTION check — 23 September 2026
 
 ### Trigger and market state
