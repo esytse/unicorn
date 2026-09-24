@@ -32,7 +32,7 @@ The repository is strong at **source discipline, structural bottleneck mapping a
 - **Centrus:** strategic scarcity is strong; funded commercial capacity, construction timing, dilution, unit economics and per-share conversion remain incomplete.
 - **Weebit Nano:** technical/licensing progress is real; recurring production royalty economics are not.
 - **Ouster:** sensing demand and revenue growth are real, but normalized margin is materially weaker after removing the Q2 duty-refund benefit; recurring software economics and FCF remain unproven.
-- **FORT Robotics:** safety/control exposure is interesting, but transaction, dilution and recurring-economics evidence is not canonicalized. It is the least mature current Top-10 evidence package.
+- **FORT Robotics:** canonical transaction work now verifies real 2025 operating traction and customer expansion, but recurring software economics remain unproven. The disclosed software/subscription case is illustrative rather than observed, and final S-4 dilution/cash-flow evidence is still absent.
 - **Scientific-AI execution and simulation/V&V:** credible bottlenecks, insufficient listed economic capture to force a Top-10 name.
 
 ## Unchanged but better bounded
@@ -43,14 +43,14 @@ JEM, SUSS and Hainan Jinpan remain valid research candidates. Missing proof is n
 
 | Priority | Gap | Decision affected |
 |---:|---|---|
-| 1 | FORT canonical transaction / dilution / recurring-economics file | Top-10 #10 |
-| 2 | Centrus commercial-capacity funding/construction/per-share bridge | Top-10 #2 |
-| 3 | Laifual repeat named humanoid customer + cash conversion + competitive capacity/ASP | only current ACTION |
-| 4 | Modine post-separation standalone margins, FCF, backlog and valuation | Top-10 #3 |
-| 5 | QNX US$500m+ path: content/backlog/non-auto production conversion | Top-10 #4 |
-| 6 | JEM/SUSS/MJC HBM4/HBM4E share/process evidence | correlated memory cluster |
-| 7 | Jinpan named/repeat global AIDC + cash conversion | Top-10 #7 |
-| 8 | Weebit recurring production royalties | Top-10 #8 |
+| 1 | Centrus commercial-capacity funding/construction/per-share bridge | Top-10 #2 |
+| 2 | Laifual repeat named humanoid customer + cash conversion + competitive capacity/ASP | only current ACTION |
+| 3 | Modine post-separation standalone margins, FCF, backlog and valuation | Top-10 #3 |
+| 4 | QNX US$500m+ path: content/backlog/non-auto production conversion | Top-10 #4 |
+| 5 | JEM/SUSS/MJC HBM4/HBM4E share/process evidence | correlated memory cluster |
+| 6 | Jinpan named/repeat global AIDC + cash conversion | Top-10 #7 |
+| 7 | Weebit recurring production royalties | Top-10 #8 |
+| 8 | FORT S-4: actual recurring mix, cash burn, redemptions and final fully diluted cap table | Top-10 #10; event-gated |
 | 9 | Ouster normalized GM + repeat deployment + FCF | outside Top 10 |
 | 10 | Listed scientific-AI / V&V financial materiality | blind spots |
 
