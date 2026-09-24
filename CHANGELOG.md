@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #278 AI memory-capacity / CXL controller discovery
+
+- Continued #261 into memory-capacity/pooling/fabric bottlenecks driven by AI inference and KV-cache growth.
+- Fresh 2026 evidence validates CXL/fabric-attached memory: Astera design-win momentum, Montage industry-first CXL 3.2 MXC trial production, Kioxia sampling and Marvell/Intel infrastructure demonstrations.
+- No new company added. Instead, **Montage Technology** is reopened for a bounded evidence refresh because CXL 3.2 trial production and reported introduction into Samsung/SK hynix next-generation CXL products constitute a new qualification/production state change distinct from the old DDR5/MRDIMM thesis.
+- Astera retained as a recognized/late-stage architecture comparator; large memory/connectivity vendors remain comparators.
+- Next test: Samsung/SK hynix qualification → 2027 CXL volume → Montage controller revenue/materiality → valuation/asymmetry.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #276 industrial edge production-readiness discovery
 
 - Continued #261 into the deployment layer between AI modules and reliable factory operation: embedded OS/LTS, OT connectivity, fault recovery and fleet lifecycle.
