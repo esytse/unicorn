@@ -157,9 +157,37 @@ The next research priority is therefore **not to deepen all ten equally**. Evide
 | Huaming Power Equipment | specialist OLTC economics can ride transformer scarcity with aftermarket leverage | international qualification, service mix and achievable 3x/5x earnings bridge |
 | Ambarella | high-purity edge-AI silicon can compound if design wins convert to production | production revenue, profit conversion and required market share at 3x/5x |
 
-### Needs a bounded Unicorn screen
+### Bounded Unicorn screen — completed
 
-Raspberry Pi, Advantech, BlackBerry/QNX, Ouster, Onto Innovation, Micronics Japan, Camtek, FormFactor, Montage Technology, ASMPT, Technoprobe, Hanmi Semiconductor, Akamai, Schaeffler, MinebeaMitsumi, Furukawa/SuperPower, VAT Group, Cognex/RealSense and PTC have plausible structural mechanisms, but the repo should first establish whether starting scale, purity, valuation or financial transmission permits a credible multibagger bridge.
+This cohort has now been screened using the existing canonical evidence. **Promotion means only that a non-linear mechanism deserves deeper underwriting; it is not an investment recommendation.**
+
+| Company | Bounded result | Reason |
+|---|---|---|
+| Raspberry Pi | **POTENTIAL** | ~£1.3bn reference scale plus OEM/industrial penetration leaves a conceivable 3x mechanism, but H1 economics are memory-distorted and normalized earnings remain unresolved |
+| Advantech | **FAILED / PARKED for Unicorn screen** | excellent profitable AI-deployment exposure, but ~NT$609–627bn starting equity value and premium multiple make 3x require very large earnings expansion; better quality/compounder research than multibagger discovery |
+| BlackBerry/QNX | **POTENTIAL** | horizontal safety/runtime economics can be highly recurring and QNX can become more material; existing repo already flags price as embedding success, so the mechanism needs a bounded per-share bridge |
+| Ouster | **POTENTIAL** | small digital-lidar/software platform can have operating leverage if scale and software attach become real; current margins/scale still require explicit reverse-underwrite |
+| Onto Innovation | **FAILED / PARKED for Unicorn screen** | HBM/AP capture is excellent, but existing ~$13bn market-cap reference means a 3x outcome requires ~$39bn equity value; strong quality candidate, weak Unicorn asymmetry at current scale |
+| Micronics Japan | **POTENTIAL / bounded** | unusually pure probe-card exposure and strong earnings sensitivity survive the screen; valuation, Samsung/Micron concentration and HBM4 share remain decisive |
+| Camtek | **POTENTIAL / bounded** | high AP exposure and rising inspection content create convexity; aggressive rerating and strong competition mean the 3x bridge must come from earnings, not multiple expansion |
+| FormFactor | **POTENTIAL / bounded** | production-proven HBM probe share across all three manufacturers supports non-linear content; current valuation is the main constraint |
+| Montage Technology | **FAILED / PARKED for Unicorn screen** | excellent oligopoly/interface economics, but starting scale and already-high recognition make 3x/5x less credible than continued compounder returns |
+| ASMPT | **FAILED / PARKED for Unicorn screen** | architecture resilience is attractive, but HBM is diluted inside a broader group and group margins/purity weaken transformational per-share sensitivity |
+| Technoprobe | **POTENTIAL / evidence-build** | advanced probe complexity can create strong content growth, but the repo lacks a sufficiently complete canonical per-share/equity bridge to promote beyond POTENTIAL |
+| Hanmi Semiconductor | **POTENTIAL / bounded** | exceptional HBM earnings sensitivity and ~52% Q2 operating margin survive the screen; customer concentration, premium valuation and hybrid-bond transition are fatal-risk tests |
+| Akamai | **FAILED / PARKED for Unicorn screen** | Anthropic validates demand but ~$5.5bn associated capex, warrant dilution and unproven incremental ROIC make a 3x shareholder-value bridge too capital-intensive on current evidence |
+| Schaeffler | **POTENTIAL / evidence-build** | auto-scale actuator industrialization could become company-transforming only if humanoid content becomes financially material; evidence is not yet sufficient for numeric promotion |
+| MinebeaMitsumi | **POTENTIAL / evidence-build** | integrated motion/component content is plausible but group breadth dilutes purity; needs a quantified humanoid-content and earnings bridge |
+| Furukawa / SuperPower | **POTENTIAL / evidence-build** | fusion HTS scarcity could be highly convex from a small commercial base, but funded demand and listed-parent materiality are still too early |
+| VAT Group | **FAILED / PARKED for Unicorn screen** | vacuum is a real technical bottleneck, but fusion/AI incremental financial materiality is not isolated enough to support a company-transforming bridge |
+| Cognex / RealSense | **POTENTIAL / event-underwrite** | machine-vision/depth sensing can gain Physical-AI content, but transaction structure and incremental economics must be resolved before a clean listed-equity bridge |
+| PTC | **FAILED / PARKED for Unicorn screen** | digital-thread/fleet-feedback relevance is credible, but AI/Physical-AI economics are insufficiently isolated inside the scaled software franchise for a transformational 3x mechanism |
+
+**Promotion set for deeper reverse-underwrite:** Raspberry Pi, BlackBerry/QNX, Ouster, Micronics Japan, Camtek, FormFactor and Hanmi Semiconductor.
+
+**Evidence-build rather than numeric-underwrite:** Technoprobe, Schaeffler, MinebeaMitsumi, Furukawa/SuperPower and Cognex/RealSense. These should not receive manufactured 3x/5x arithmetic until canonical capitalization and financial-transmission evidence is complete.
+
+**Parked from the Unicorn funnel at the current setup:** Advantech, Onto Innovation, Montage Technology, ASMPT, Akamai, VAT Group and PTC. This does not remove them from the broad ranked universe or Gate-E research.
 
 ### Primarily benchmark / quality / scale-constrained until evidence changes
 
