@@ -1,5 +1,17 @@
 # Research Changelog
 
+## 2026-09-24
+
+### BlackBerry / QNX FY27 Q2 Gate-E refresh
+
+- Opened #183 and completed a P0 post-results underwrite separating QNX fundamentals from the 24 Sep event-trade outcome.
+- QNX Q2 evidence materially improves: US$80.3m revenue (+27% y/y), 87% gross margin, US$29m adjusted EBITDA (+41%), raised FY27 QNX guidance, royalty-backlog conversion and the first/largest Alloy Kore design win.
+- Added US$400m / US$500m / US$650m QNX revenue scenarios, explicit margin assumptions, backlog/content-per-vehicle guardrails and a BlackBerry SOTP sensitivity.
+- Current conclusion: **REASSESS / WAIT — not ACTION at ~US$8.3–8.5**. QNX quality is higher, but current equity value already requires substantial success; <=~US$7 is the first price-led re-underwrite trigger absent stronger evidence.
+- QNX remains #4 in the live Top-10 rather than being promoted solely on the earnings beat.
+- Recorded the event-trade lesson: fundamental evidence can improve while immediate price response remains weak; future event trades require both evidence surprise and mispricing.
+- No brokerage trade was placed by the repository.
+
 ## 2026-09-23
 
 ### Laifual repeat ACTION trigger deepened
