@@ -51,3 +51,15 @@ Testing disproved the assumption that companies + deep dives + six cross-theme s
 4. Seed the decision/outcome ledger from current live Gate-E decisions.
 5. Re-run the denominator test and require 94/94 accounted for before #196 closes.
 6. Sample-test source tier, evidence freshness, counter-evidence and fundamental-vs-rerating separation.
+
+## Residual classification — execution pass
+
+The 32-file residual class was classified rather than blindly given identical treatment.
+
+- **23 decision-bearing residual surfaces** were calibrated in this pass: allocation/ranking/thesis/value-chain surfaces, Gate-E portfolio construction, fusion decision surfaces, Physical-AI evaluation/verification economics, and scientific-AI company/theme work.
+- **7 research-plan / monitoring / screening files** are workflow-control surfaces rather than investment conclusions: energy research plan; fusion backlog; fusion monitoring triggers; fusion screening rules; memory research plan; Physical-AI research plan; robotics-actuators research plan. Their governing role is procedural; evidence-chain conclusions live in the linked research artifacts.
+- **2 templates** (`research/_templates/company.md`, `research/_templates/theme.md`) are structural authoring controls rather than evidence claims. The company template already carries the Gate-E evidence-chain standard; the theme template is an authoring scaffold and is N/A for decision calibration.
+
+**ACCOUNTING TEST: 94/94 structurally accounted for** = 26 company + 30 deep dives + 6 cross-theme surfaces + 23 calibrated residual decision surfaces + 7 procedural controls + 2 templates.
+
+This closes the structural-denominator gap found by the first Wave-5 test. It does **not** prove every factual claim is fresh or high quality; source-tier/freshness sampling and future outcome calibration remain ongoing controls.
