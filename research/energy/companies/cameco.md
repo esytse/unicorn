@@ -5,6 +5,19 @@
 **Confidence:** Medium  
 **Primary lanes:** uranium; conversion / fuel services; Westinghouse exposure
 
+
+## Evidence-chain calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> portfolio implication:** use the primary operating, customer, order/backlog and technical evidence already cited in this file to establish what is directly observed. Treat theme exposure or technical relevance as separate from proof that **Cameco — AI Energy Investment Capture** captures durable incremental economics. Portfolio relevance requires a further bridge from company capture to financial materiality and then to valuation/remaining-window return.
+
+**Evidence quality / freshness:** prioritize issuer/regulatory financial evidence, named customer evidence and technical primary sources over industry estimates. The file edit date is not a proxy for observation freshness; refresh material operating, customer, competitive and valuation evidence before any promotion or Gate-E action.
+
+**Strongest counter-evidence:** the default counter-case is that the structural theme can be correct while economics are competed away, diluted inside a diversified group, offset by capital intensity/cyclicality, or already reflected in valuation. The specific risks and substitutes documented below remain controlling.
+
+**Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Where a current Gate-E valuation is not already supported in this file, do not invent a point threshold. Any future underwrite should use a justified band/sensitivity and separate fundamental earnings/cash contribution from multiple/rerating contribution.
+
+---
+
 ## Current conclusion
 
 **INTERPRETATION:** Cameco is the more diversified and durable listed nuclear comparator. It participates across uranium, fuel services and Westinghouse rather than providing pure exposure to the highest-scoring enrichment / HALEU bottleneck.
