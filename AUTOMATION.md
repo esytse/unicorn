@@ -119,6 +119,8 @@ Issue **#193** is `READY P1` and is the highest-priority non-triggered methodolo
 
 Until its completion gate is met, avoid broad discovery merely to expand the universe. New discovery remains valid when a specific bottleneck-migration signal could materially change allocation. Otherwise prioritize claim/evidence/inference/action traceability, layered confidence, counter-evidence, evidence freshness, valuation sensitivity, earnings-versus-rerating decomposition and prediction/outcome calibration.
 
+When broad discovery is justified, use the canonical **value-chain-first discovery protocol** in `research/cross-theme/scarce-complements.md`: traverse every AI/Physical-AI layer, explicitly search for misclassified incumbents, and finish with a coverage-gap map. Do not rely on sector/taxonomy screens alone.
+
 This methodology work does not change existing company states by itself. Any company-state change still requires a governed company-level re-underwrite.
 
 ## Two modes inside one scheduler
