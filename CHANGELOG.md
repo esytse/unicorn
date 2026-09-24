@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #274 Grid Dynamics Physical-AI productization underwrite
+
+- Deepened #272's Grid Dynamics (NASDAQ: GDYN) discovery into company economics.
+- Q2 revenue was $108.2m (+7% y/y) and non-GAAP EBITDA $14.7m / 13.6%; 24 Sep share price $7.54 and secondary 23 Sep market cap reference ~$625m.
+- AI is already company-material (~30.7% of revenue), while Physical AI remains earlier: live commercial programs, Ekumen robotics/ROS depth, Doosan channel and GAIN simulation/deployment/fleet tooling.
+- Core finding: evidence currently supports a **high-value engineering-services model with reusable IP**, not proven recurring-software economics. FDE delivery remains central and Physical-AI revenue/ARR is not separately disclosed.
+- At ~$625m equity, 3x is economically plausible if EBITDA roughly doubles and business quality/multiple improves; 5x needs substantially larger and/or more software-like economics; 10x unsupported.
+- Classified **POTENTIAL / EVIDENCE BUILD**. Promotion requires separately material Physical-AI bookings/revenue, recurring platform economics, partner-scaled deployment or margin expansion without proportional headcount.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #272 Physical-AI simulation / validation / fleet-feedback discovery
 
 - Continued #261 into sim-to-real, synthetic-data, validation and fleet-feedback infrastructure using fresh 2026 architecture changes.
