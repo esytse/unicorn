@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #204 Wave 5 testing — corpus audit and calibration ledger
+
+- Performed a fail-closed structural coverage test after Waves 1–4 rather than assuming the retrofit was complete.
+- Test found 94 research markdown files: 26 company, 30 deep-dive, 6 cross-theme/capture/ranking and 32 residual files. Because residual files include decision-bearing scientific-AI, evaluation/verification, fusion, portfolio, thesis and allocation work, #196 remains open.
+- Added `research/evidence-quality-corpus-audit.md` with explicit PASS / PARTIAL PASS / FAIL-CLOSED tests.
+- Added `research/decision-outcome-calibration-ledger.md` and seeded the current live Top-10 decision states/triggers so later outcomes can be compared with frozen decision-date expectations.
+- Testing confirmed governance and reasoning-integrity controls, while exposing incomplete denominator coverage and residual false-precision/source-freshness work.
+- No company state or brokerage trade changed from testing.
+
+## 2026-09-24
+
 ### #202 evidence-chain retrofit — Wave 4
 
 - Applied the #193/#196 calibration boundary across the complete 30-file technical/deep-dive corpus: energy, memory, Physical AI and robotics/actuators.
