@@ -2,6 +2,16 @@
 
 ## 2026-09-24
 
+### #196 residual calibration coverage — 94/94 accounting
+
+- Recovered the verified residual-calibration work from superseded PR #206 onto current main after confirming all 23 target decision surfaces were unchanged since that PR's base, avoiding overwrite of newer research.
+- Calibrated 23 residual decision-bearing surfaces across energy/fusion, memory, Physical AI, robotics-actuators, Gate-E portfolio construction and scientific AI.
+- Classified 7 research-plan/monitoring/screening files as procedural controls and 2 templates as authoring controls with decision calibration N/A.
+- Re-ran structural accounting: **94/94 research markdown files are now accounted for**. This closes the denominator gap but does not claim all underlying evidence is equally fresh.
+- No company state or brokerage trade changed from the retrofit.
+
+## 2026-09-24
+
 ### #129 Centrus funded-capacity / per-share bridge audit
 
 - Completed the Wave-5 bounded evidence follow-up without treating the already-assessed Antares event as a new trigger.
