@@ -1,5 +1,16 @@
 # Research Changelog
 
+## 2026-09-24
+
+### Sensing / physical-world data bottleneck map
+
+- Executed #173 first-pass scarce-complement screen after the GitHub write path recovered.
+- Added `research/cross-theme/sensing-bottlenecks.md` and rejected generic "sensors benefit from Physical AI" as insufficient.
+- Identified 3D lidar/perception and industrial machine vision/depth as the first two economic-capture lanes to underwrite.
+- Ouster becomes the first P1 Gate-D candidate because Q2 2026 product revenue grew 51% y/y with >17,000 sensors shipped, but profitability, normalized margin, ASP/volume, switching costs and software capture still require proof.
+- Cognex/RealSense becomes the second P1 event underwrite after the 22 Sep definitive acquisition agreement.
+- No stock ranking or portfolio action changed; no brokerage trade was placed.
+
 ## 2026-09-23
 
 ### Laifual repeat ACTION trigger deepened
