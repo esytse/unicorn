@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #218 / #219 valuation and contract-economics execution
+
+- Executed Raspberry Pi scenario valuation rather than waiting for stale 1 Sep consensus to refresh. At 755p, a mechanical support case is roughly $90m normalized EBITDA at 20x; lower normalized earnings/multiples expose material downside.
+- Executed Akamai Anthropic capital-recovery stress test. The $11.6bn seven-year commitment averages ~$1.66bn/year against ~$5.5bn associated capex; simple recovery economics require very high contribution margins or meaningful residual/reuse value.
+- Incorporated Akamai's balance-sheet/FCF capacity, warrant dilution and customer-concentration implications.
+- Both remain REASSESS/WATCH; no new governed ACTION or brokerage trade.
+
+## 2026-09-24
+
 ### #218 / #219 RPI and AKAM portfolio integration
 
 - Re-ran the live Gate-E challenger comparison after completing the Raspberry Pi and Akamai deep dives.
