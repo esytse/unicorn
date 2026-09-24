@@ -97,6 +97,11 @@ Current Gate-E work should progressively expose **claim -> evidence -> inference
 
 Canonical controls: [evidence-quality audit](research/evidence-quality-audit.md) and [prediction/outcome ledger](research/prediction-calibration-ledger.md). Wave 5 (#207) freezes the 24 Sep live decisions and ranks residual evidence gaps by decision impact.
 
+### Calibration outputs
+
+- [Evidence-quality audit](research/evidence-quality-audit.md) — current strengths, weak links and ranked evidence-gap queue.
+- [Prediction/outcome calibration ledger](research/prediction-calibration-ledger.md) — frozen live decisions and future outcome checks; do not rewrite snapshots with hindsight.
+
 ## Research principles
 
 - Evidence before narrative
