@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #218 / #219 Raspberry Pi and Akamai event deep dives
+
+- Added canonical deep-dive surfaces for Raspberry Pi and Akamai following the 24 September RPI interim results and AKAM-Anthropic agreement.
+- Raspberry Pi: separated durable OEM/backlog/edge-compute evidence from temporary lower-cost memory inventory economics; retained valuation as unresolved pending post-results estimate reset.
+- Akamai: separated the $11.6bn demand signal from shareholder economics; quantified the ~$5.5bn associated capex, warrant dilution and operating-margin hurdle; raised confidence in distributed AI infrastructure demand while leaving company-level ROIC unresolved.
+- No automatic transaction instruction or portfolio promotion was authorized.
+
+## 2026-09-24
+
 ### #158 Furukawa Electric / SuperPower HTS Gate-E underwrite
 
 - Restored the bounded Furukawa/SuperPower HTS underwrite on a fresh branch based on current `main` so required Research Governance evaluates the actual head/base diff.
