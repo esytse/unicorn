@@ -61,3 +61,8 @@ This does not prove every factual claim is fresh or high quality; source-tier/fr
 4. Seed the decision/outcome ledger from current live Gate-E decisions.
 5. Re-run the denominator test and require 94/94 accounted for before #196 closes.
 6. Sample-test source tier, evidence freshness, counter-evidence and fundamental-vs-rerating separation.
+
+
+## Canonical role
+
+This is the **structural corpus/accounting audit**: use it to prove coverage/classification of the research tree and test governance/calibration completeness. Current company evidence strength and research-gap prioritisation belong in `evidence-quality-audit.md`.
