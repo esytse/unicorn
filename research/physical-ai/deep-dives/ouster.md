@@ -124,3 +124,60 @@ The operating evidence is strong enough that Ouster deserves a current valuation
 - Ouster 2026 investor presentations and deployment releases.
 
 No brokerage execution is authorized or performed by this research.
+
+
+## Gate-E valuation checkpoint — 24 Sep 2026
+
+### Critical normalization
+The reported Q2 GAAP gross profit was US$26.685m on US$54.626m revenue (48.9%). The 10-Q states cost of revenue included a **US$5.4m reduction from IEEPA import-duty refunds**. Removing that benefit mechanically lowers gross profit to ~US$21.3m and gross margin to ~39.0%. This is a deliberately conservative normalization: it shows that the headline 49% margin cannot be treated as the recurring economic baseline without a fuller bridge.
+
+### Capital structure / dilution
+Ouster reported **72,112,333 common shares outstanding at 31 Jul 2026**. In July it priced a **3,621,876-share offering at US$55.22**, raising ~US$200m gross before fees, with an option for up to 543,281 additional shares. The share count therefore embeds meaningful recent dilution but also materially strengthens liquidity. Stereolabs itself used ~US$35m cash plus ~1.8m Ouster shares.
+
+### Current valuation sensitivity
+Use **72.1m basic shares** as the minimum share-count anchor, then add options/RSUs and any underwriter exercise for diluted cases. Because OUST has recently traded across a very wide range, valuation should be expressed as a function of price rather than one stale quote:
+
+| OUST price | Basic equity value (72.1m shares) |
+|---:|---:|
+| US$25 | ~US$1.80bn |
+| US$30 | ~US$2.16bn |
+| US$35 | ~US$2.52bn |
+| US$40 | ~US$2.88bn |
+| US$45 | ~US$3.25bn |
+| US$55 | ~US$3.97bn |
+
+Net enterprise value should be recomputed from the next reported cash balance because Q2 liquidity and the July raise straddle the quarter-end and acquisition/working-capital cash movements matter.
+
+### Revenue / operating scenarios
+These are research sensitivities, not company guidance.
+
+| Scenario | 2027 revenue | normalized GM | EBITDA margin | Interpretation |
+|---|---:|---:|---:|---|
+| Bear | US$240m | 38–42% | -12% to -7% | growth fades; lidar/camera price competition; software capture weak |
+| Base | US$310m | 44–48% | -2% to +4% | repeat deployments + scale; Stereolabs helps mix; near breakeven |
+| Upside | US$400m | 49–53% | +8% to +14% | Rev8 + perception stack scales, qualification friction and software attach become visible |
+
+The key question is not whether revenue can grow; it is whether **normalized gross margin remains high enough after one-offs to create operating leverage**.
+
+### March-2028 valuation framework
+For a still-emerging hardware/perception company, revenue multiples are a sanity check rather than intrinsic value. Apply them only alongside margin/cash-conversion evidence:
+
+- **Bear:** US$240m forward revenue × 3–4x = US$0.72–0.96bn EV.
+- **Base:** US$310m × 5–7x = US$1.55–2.17bn EV.
+- **Upside:** US$400m × 8–10x = US$3.2–4.0bn EV.
+
+This immediately exposes the central risk: at multi-billion-dollar equity values, substantial Physical-AI success may already be capitalized. Ouster can be an excellent company and still fail the Unicorn 18-month asymmetry test.
+
+### Transaction framework
+**REASSESS / WAIT — not ACTION.**
+
+Price-led triggers, subject to thesis remaining intact:
+- **<= US$25:** reopen immediately; valuation begins to leave room for a base-case execution path.
+- **US$25–30:** active watch; require normalized GM evidence and credible breakeven trajectory.
+- **US$30–40:** WAIT unless estimates/evidence rise materially.
+- **> US$40:** require clear upside-case evidence (repeat scaled deployments, durable ~50% normalized GM, software/perception monetization and visible FCF path).
+
+Evidence can override price: repeated multi-site/customer deployments, disclosure of software/perception revenue or attach, sustained normalized margin without refunds, positive adjusted EBITDA/FCF, or a material increase in 2027 earnings expectations.
+
+### Current Gate-E conclusion
+**Do not promote Ouster into the Top-10 at current high-multiple valuation evidence.** Keep it as a high-priority REASSESS candidate. The company has unusually strong growth and a strategically interesting integrated sensing stack, but the July financing and recent share-price rerating mean the repo needs a much larger earnings/cash-flow outcome than the present evidence proves.
