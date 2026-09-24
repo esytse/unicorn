@@ -2,6 +2,14 @@
 
 ## 2026-09-24
 
+### #158 Furukawa Electric / SuperPower HTS Gate-E underwrite
+
+- Restored the bounded Furukawa/SuperPower HTS underwrite on a fresh branch based on current `main` so required Research Governance evaluates the actual head/base diff.
+- Conclusion remains **WATCH / research candidate**: direct HTS/fusion relevance is established, but SuperPower revenue, margin, backlog, annual capacity/utilisation and March-2028 financial materiality remain insufficiently disclosed.
+- Competing HTS capacity expansion remains material counter-evidence; no Top-10 promotion, ACTION or brokerage trade is authorized.
+
+## 2026-09-24
+
 ### #213 calibration/audit surface canonicalization
 
 - Clarified `evidence-quality-audit.md` as the live decision-quality audit and `evidence-quality-corpus-audit.md` as the structural 94-file accounting/governance audit.
