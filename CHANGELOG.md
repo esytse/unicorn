@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #198 evidence-chain retrofit — Wave 2
+
+- Applied the #193 calibration boundary to all 18 remaining canonical energy/memory company files after live Gate-E Wave 1.
+- Each file now distinguishes observed theme/company evidence from financial materiality and stock-level inference, requires evidence-freshness/source-quality discipline, and carries an explicit counter-case against assuming that a correct theme automatically produces attractive equity economics.
+- The retrofit does not create ACTION states or point valuation thresholds; future Gate-E promotion requires a governed underwrite with valuation bands/sensitivity and a fundamental-versus-rerating bridge.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### #196 evidence-chain retrofit — Wave 1
 
 - Extended the #193/#195 evidence-chain calibration from Laifual across eight additional live Gate-E research files: Centrus, Modine/Modexus, BlackBerry/QNX, JEM, SUSS, Hainan Jinpan, Weebit Nano and Micronics Japan.

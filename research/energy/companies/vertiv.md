@@ -5,6 +5,19 @@
 **Confidence:** Medium-High  
 **Primary lanes:** integrated electrical infrastructure; thermal chain; BTM / microgrid orchestration
 
+
+## Evidence-chain calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> portfolio implication:** use the primary operating, customer, order/backlog and technical evidence cited in this file to establish what is observed. Theme relevance is not proof that **Vertiv — AI Energy Investment Capture** captures durable incremental economics; portfolio relevance requires a further bridge to financial materiality and valuation/remaining-window return.
+
+**Evidence quality / freshness:** prioritize issuer/regulatory, named-customer and technical primary evidence over industry estimates. File edit date is not observation freshness; refresh material evidence before promotion or Gate-E action.
+
+**Strongest counter-evidence:** the structural theme can be correct while economics are competed away, diluted inside a diversified group, offset by capital intensity/cyclicality, or already reflected in valuation. The specific risks/substitutes below remain controlling.
+
+**Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
+
+---
+
 ## Current conclusion
 
 **INTERPRETATION:** Vertiv is the highest-direct-sensitivity platform in the shortlist. It sits across electrical distribution, thermal management, controls and increasingly behind-the-meter power architecture, so it can capture value as the bottleneck migrates from grid connection to facility power to heat rejection.
