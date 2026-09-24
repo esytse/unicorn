@@ -93,6 +93,16 @@ Capital-allocation layer. Answers: **does today's price/evidence/catalyst/downsi
 
 This is a **research triage, not a new stock ranking or investment recommendation**. It identifies where reverse-underwriting has the highest information value.
 
+### First completed reverse-underwrite: Laifual Drive
+
+**State: UNDERWRITE — 3x plausible; 5x not yet validated; 10x unsupported by current evidence.**
+
+The first application of this framework shows why Unicorn Potential must remain separate from Gate E. At the governed HK$48 reference and ~104.1m shares, a 3x equity value is ~HK$15bn and mechanically requires roughly HK$430–600m annual earnings at 35–25x P/E. A 5x value is ~HK$25bn and requires ~HK$714m–1.0bn. The currently visible ~1.58m-unit reducer capacity footprint (July run-rate plus planned 800k facility) does not by itself establish those earnings.
+
+**Key inference:** Laifual's volume, unit-cost and margin inflection makes 3x worth underwriting, but a validated 5x case needs evidence of a second scale step and/or materially higher content from joint modules, plus repeat humanoid customers and cash conversion. The 10x hurdle currently fails the evidence test.
+
+See `research/robotics-actuators/companies/laifual-drive.md` for the full dilution/capacity/earnings bridge.
+
 ### Priority reverse-underwrite
 
 | Company | Why the multibagger mechanism is plausible | Decisive test |
