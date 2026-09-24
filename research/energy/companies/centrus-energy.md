@@ -31,6 +31,72 @@
 
 ---
 
+## 4C. Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Purpose:** test whether Centrus has a credible **3x / 5x / 10x per-share equity mechanism** after the September financing. These are hurdles, not forecasts or price targets.
+
+### Starting capitalization
+
+**FACT:** The economically useful post-offering baseline is approximately **21.739m common-equivalent shares** (reported common plus new common plus pre-funded warrants). At the current ~**$151** public reference, that is roughly **$3.28bn equity value**.
+
+**FACT:** Full exercise of the 6.992m new common warrants would increase the baseline to ~**28.732m** shares/equivalents before convertible-note dilution, while delivering up to roughly **$2bn additional exercise cash**. A stress context including the historical ~1.97m convertible diluted-EPS reference is ~**30.70m** shares/equivalents.
+
+### Reverse equity hurdles
+
+Using the current ~$3.28bn baseline equity value:
+
+| Outcome | Required equity value | Per-share equivalent on 21.739m shares | Per-share equivalent on 28.732m shares | What must be true |
+|---|---:|---:|---:|---|
+| **1x** | ~$3.28bn | ~$151 | ~$114 | current strategic option value broadly persists |
+| **3x** | ~$9.85bn | ~$453 | ~$343 | market recognizes a largely funded, de-risked commercial enrichment franchise with credible 2029+ economics |
+| **5x** | ~$16.4bn | ~$755 | ~$571 | multiple capacity/customer tranches plus strong unit economics must support a very large future cash-earnings franchise |
+| **10x** | ~$32.8bn | ~$1,510 | ~$1,142 | Centrus must become a major scaled Western enrichment platform; current evidence is far short of validating this |
+
+**INTERPRETATION:** Centrus differs fundamentally from Laifual. The March-2028 portfolio window ends before management's stated **2029 first-new-capacity** date, so a 3x outcome inside that window would be primarily a **de-risking / funded-franchise rerating**, not earnings from the new capacity. A genuine long-horizon 5x/10x case must ultimately be supported by operating cash economics, not indefinitely rising option value.
+
+### Funding and dilution test
+
+**FACT:** mechanical pre-use liquidity is about **$2.358bn** (June cash plus estimated net September proceeds), but the company also has about **$1.208bn note principal**, broad capital uses and a multi-billion-dollar expansion.
+
+**FACT:** DOE provides a $900m milestone-based task order; X-energy, Radiant and Antares each provide customer-prepayment evidence, but amounts/timing are not publicly quantified.
+
+**INTERPRETATION:** the capital stack is credible but **not yet sufficiently disclosed to call a specific commercial capacity tranche fully funded**. Warrant exercise is potentially constructive financing at high share prices, but the correct Unicorn test is enterprise value created per diluted share.
+
+### Seven-gate Unicorn test
+
+| Gate | Current assessment | Evidence / missing proof |
+|---|---|---|
+| Bottleneck migration | **Pass / High** | Western LEU/HALEU capacity is strategically scarce; DOE and customer commitments directly validate demand |
+| Demand convexity | **Pass / Medium-High** | multiple advanced-reactor customers require domestic/unobligated enrichment; timing/volume still uncertain |
+| Company purity | **Pass / High** | enrichment/fuel-cycle scarcity is central to Centrus value |
+| Operating leverage | **Open / Medium-Low** | future enrichment economics can be powerful, but commercial-scale margin/FCF on new capacity is not yet observable |
+| Under-recognition | **Open** | financing reset improved setup, but market already capitalizes substantial strategic option value |
+| 3x feasibility | **Plausible but unvalidated** | requires funded capacity, construction/manufacturing milestones and backlog conversion sufficient to support ~$9.85bn equity value |
+| 5x feasibility | **Plausible only long horizon / weakly evidenced** | ~$16.4bn equity value requires a major scaled earnings franchise; current public capacity economics/funding are insufficient |
+| 10x feasibility | **Unsupported by current evidence** | ~$32.8bn equity value requires platform-scale Western enrichment dominance well beyond disclosed near-window economics |
+
+### What would validate 3x / strengthen 5x
+
+1. A **quantified funded commercial-capacity tranche**: capacity, capex, customer/prepayment amounts, DOE contribution and Centrus equity/debt requirement.
+2. Certified-for-construction and centrifuge manufacturing milestones arriving on schedule.
+3. Customer backlog converting from contingent commitments to firm delivery schedules and economically meaningful prepayments.
+4. Evidence that per-SWU / HALEU pricing and production costs can support strong normalized margins and FCF.
+5. A dilution-adjusted bridge showing warrant/convertible financing creates more enterprise value than per-share denominator growth.
+6. Additional customer diversification without dependence on one reactor programme.
+7. No material slip from the stated 2029 first-new-capacity schedule.
+
+### Strongest counter-case
+
+Centrus can be strategically essential while still delivering mediocre per-share returns if expansion consumes multi-billion-dollar capital, milestone/customer cash arrives later than required, commissioning slips, or warrants/convertibles expand the share count faster than funded enterprise value. The March-2028 window is especially vulnerable because new-capacity operating earnings are not expected yet.
+
+### Unicorn Potential state
+
+**UNDERWRITE — 3x strategically plausible but financing/timing dependent; 5x is a long-horizon possibility not validated by current disclosed economics; 10x unsupported today.**
+
+This state does not change Gate E: Centrus remains **REASSESS / WAIT**, with the existing ~$120–130 region a reassessment band rather than an automatic action.
+
+---
+
 ## Executive conclusion
 
 **CONCLUSION:** Centrus is materially more interesting after the September 2026 financing and subsequent share-price reset, but the current evidence still supports **REASSESS / WAIT — not ACTION** rather than a research-level Buy.
