@@ -8,6 +8,16 @@
 
 > GitHub issues are the authoritative execution backlog. Automation may monitor, research, update repository content and operate the governed PR workflow, but it must not place brokerage trades.
 
+## Thesis-first discovery rule — upstream of the ranked universe
+
+The primary Unicorn discovery loop is:
+
+**World change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture.**
+
+The ranked universe is a **known-opportunity inventory**, not a closed search space and not the default starting point for discovery. When a discovery/backlog item is selected, begin with the external change and resulting bottleneck, then search across the value chain for listed beneficiaries including companies not yet in the repository.
+
+Actively test for overlooked or misclassified small/mid-cap suppliers and document important coverage gaps or negative searches. Early inflection evidence can justify bounded research before mature revenue/FCF proof exists; this prevents evidence-maturity bias. It does **not** lower the evidence bar for capital deployment.
+
 ## Unicorn Potential discovery rule
 
 The continuous ranked universe is an inventory/research-priority surface, **not** the multibagger shortlist. When discovery work is valid under backlog priority, use `research/unicorn-potential.md`.
