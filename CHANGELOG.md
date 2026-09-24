@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### Portfolio canonical-surface cleanup
+
+- Removed the stale 15 Sep company decision surface and early re-rank from `PORTFOLIO.md`.
+- `PORTFOLIO.md` now defers live rank/trigger state to `research/top10-unicorn-priority.md`, `AUTOMATION.md` and live issue metadata, reducing future state drift.
+- Preserved only the current 24 Sep portfolio interpretation: Laifual conditional starter, Centrus/Modine as leading independent alternatives, QNX and Ouster in REASSESS / WAIT.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### Backlog and canonical-doc hygiene
 
 - Reconciled live issue metadata with merged work: QNX #106 moved from stale RUNNING to post-Q2 WAITING; MJC #128 stale PR-remediation text was removed; #110 now points to the canonical live ranking instead of carrying a drifting 9 Sep snapshot.
