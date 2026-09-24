@@ -102,7 +102,7 @@ Initial evidence-backed portfolio construction was completed in **#131**. The li
 
 The authoritative live ranking is `research/top10-unicorn-priority.md`; this strategy file defines the rules rather than duplicating a static ranking.
 
-Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT outside the Top 10**, with valuation/margin/FCF proof still the gating evidence.
+Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
 Laifual remains the only governed research-level ACTION in the current decision surface: a 5% starter only at executable <=HK$48 with thesis intact. No brokerage execution is assumed by the repository.
 
@@ -172,7 +172,7 @@ Track whether each important bottleneck is:
 - regulatory or policy changes that create/remove scarcity;
 - capital-market funding that accelerates supply response.
 
-The current Top 10 is a **live ranked hunting universe, not a permanent portfolio list**. New names should enter when bottleneck migration or new evidence creates better 18-month asymmetry than the weakest incumbent.
+The canonical research universe is **continuously ranked and not capped at ten**. Every company with sufficient evidence should be placed relative to the rest; a Top-10 view is only a derived display and has no admission/displacement semantics.
 
 ## Review cadence
 
@@ -214,7 +214,7 @@ Stay quiet if the re-rank is materially unchanged; notify only if it creates an 
 ### Quarterly full-universe challenge
 Issue **#133** becomes executable when the quarterly challenge is due. Re-test:
 1. current holdings;
-2. Top-10 candidates;
+2. the full continuously ranked research universe;
 3. important benchmark companies;
 4. newly surfaced companies from migrating bottlenecks.
 
@@ -261,8 +261,8 @@ Do not create one scheduler per company/theme by default.
 
 ## Initial Gate-E work programme
 
-### Phase 1 — re-underwrite the current Top 10 for 18 months
-For every current Top-10 name add:
+### Phase 1 — re-underwrite the highest-priority ranked universe for 18 months
+For every sufficiently mature ranked name add:
 - portfolio role;
 - explicit 18-month 2x path or reason it cannot clear the hurdle;
 - realistic 3–5x stretch case only where supported;
