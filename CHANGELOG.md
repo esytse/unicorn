@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #239 Centrus Unicorn Potential reverse-underwrite
+
+- Reverse-underwrote Centrus from the ~21.739m common-equivalent / ~$151 reference (~$3.28bn equity value) into 3x (~$9.85bn), 5x (~$16.4bn) and 10x (~$32.8bn) equity hurdles.
+- Explicitly modeled the new common-warrant dilution state (~28.732m shares/equivalents) alongside the potential ~$2bn exercise cash; value creation must be judged per diluted share rather than by gross project funding.
+- Made the 2029 first-new-capacity date the critical boundary: a March-2028 3x would be mainly funded-franchise/de-risking rerating, while a durable 5x must ultimately be supported by scaled enrichment earnings/FCF.
+- Current Unicorn state: **UNDERWRITE — 3x strategically plausible but financing/timing dependent; 5x long-horizon and unvalidated; 10x unsupported today**.
+- Gate-E state remains REASSESS / WAIT; no brokerage action changed.
+
+
+## 2026-09-24
+
 ### #237 Laifual Unicorn Potential reverse-underwrite
 
 - Executed the first full 1x/3x/5x/10x Unicorn Potential test using Laifual Drive.
