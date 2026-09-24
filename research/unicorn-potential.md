@@ -111,6 +111,37 @@ At the ~21.739m common-equivalent baseline and ~$151 reference, Centrus starts a
 
 The decisive boundary is timing: management's stated first new capacity is **2029**, after the March-2028 portfolio window. Near-window 3x therefore requires a large funded-franchise/de-risking rerating; a durable 5x case must ultimately be supported by scaled enrichment margins and FCF. See `research/energy/companies/centrus-energy.md`.
 
+### Priority reverse-underwrite programme — completed
+
+The initial ten-company priority set has now been reverse-underwritten. **These states are research classifications, not recommendations.**
+
+| Company | 3x hurdle | 5x hurdle | 10x hurdle | Unicorn Potential state |
+|---|---|---|---|---|
+| Laifual | plausible, unvalidated | not validated | unsupported | **UNDERWRITE** |
+| Centrus | strategically plausible; funding/timing dependent | long-horizon, unvalidated | unsupported | **UNDERWRITE** |
+| Modine / Modexus | existing base/stretch work does not establish it | heroic today | heroic today | **FAILED / PARKED for Unicorn screen**; remains Gate-E return-engine candidate |
+| Japan Electronic Materials | needs second earnings step + verified HBM share | unvalidated | unsupported | **POTENTIAL** |
+| SUSS MicroTec | needs major earnings outperformance | unvalidated | unsupported | **POTENTIAL / bounded** |
+| Hainan Jinpan | company-transforming AIDC/global engine required | fails current evidence | fails current evidence | **POTENTIAL** |
+| Weebit Nano | structurally plausible if royalties arrive | structurally plausible but unvalidated | optionality only | **UNDERWRITE** |
+| FORT / FROB | transaction + recurring economics must first be proven | unsupported | unsupported | **POTENTIAL / transaction-gated** |
+| Huaming | deserves international-scale earnings bridge | unvalidated | unsupported | **POTENTIAL** |
+| Ambarella | credible long-horizon question; profit conversion required | unsupported | unsupported | **POTENTIAL** |
+
+### What the first programme changed
+
+The reverse-underwrite removes a useful false positive: **Modine/Modexus is a strong AI-infrastructure return-engine candidate but does not currently qualify as a plausible 3x–10x Unicorn from the controlled reference.** It also identifies **Weebit** as the clearest theoretical 5x operating-leverage architecture, but only if production royalties become observable without destructive dilution.
+
+The next research priority is therefore **not to deepen all ten equally**. Evidence collection should focus on the smallest number of variables capable of changing state:
+- Laifual: repeat humanoid production + cash conversion + next scale step.
+- Centrus: quantified funded capacity + dilution-adjusted project economics.
+- JEM/SUSS: HBM production/process share and earnings step-up.
+- Jinpan: named global qualification + FCF.
+- Weebit: first material production royalty + royalty economics.
+- FORT: S-4 fully diluted capitalization + observed recurring software economics.
+- Huaming: repeat international qualification + service/aftermarket economics.
+- Ambarella: production growth → normalized profit/FCF conversion.
+
 ### Priority reverse-underwrite
 
 | Company | Why the multibagger mechanism is plausible | Decisive test |
