@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #262 humanoid sensing / perception discovery
+
+- Executed #261 on a different bottleneck from AI power: mass-production humanoid perception.
+- Mapped the stack from image/depth sensor through module/calibration, edge processing, fusion and platform qualification.
+- Promoted **Namuga (KOSDAQ:190510)** to bounded underwrite after a 7 Sep announcement reported PoC/technology verification followed by exclusive 3D stereo-camera supply and confirmed mass production for a next-generation humanoid programme at an unnamed large North American robot company.
+- Kept Ouster and Cognex/RealSense as known-inventory comparators rather than pretending they are new discoveries; large sensor incumbents fail the company-transforming purity test for this branch.
+- Recorded commoditisation, vertical integration, architecture uncertainty, programme-volume uncertainty and customer concentration as key falsifiers.
+- Next bounded step is Namuga programme-units × content × share → consolidated financial materiality; do not expand the sensing universe first.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #259 pre-inflection AI power-integrity scan
 
 - Searched the left-hand side of the Vicor/AP Memory/TAI-TECH pattern rather than forcing another mature winner.
