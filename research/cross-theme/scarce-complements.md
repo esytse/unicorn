@@ -105,6 +105,40 @@ For AI-linked infrastructure, explicitly test:
 - whether aggregate demand survives provider substitution;
 - whether capacity itself is becoming commoditised.
 
+## Value-chain-first discovery protocol
+
+**PROCESS FIX — 24 September 2026:** the RPI and AKAM events exposed a discovery blind spot. Prior scans were too taxonomy-led: they searched known bottleneck categories well, but could miss companies whose conventional sector label hides a new role in the AI/Physical-AI value chain.
+
+Every broad universe scan must therefore traverse the value chain before applying sector labels:
+
+> **models/intelligence → training/inference → memory/data movement → networking → distributed compute → edge compute/deployment → runtime/orchestration → sensing → simulation/evaluation/verification → control → actuation → power/thermal → fleet operations/feedback**
+
+For each layer:
+
+1. Identify the scarce function before searching for companies.
+2. Search both obvious suppliers **and misclassified incumbents** whose legacy sector label may obscure emerging exposure.
+3. Look for direct evidence of changing mix: customer design-ins, backlog, contracts, product launches, capex, utilization, margins or disclosed end-market exposure.
+4. Separate **bottleneck evidence** from **company capture** and then from **stock attractiveness**.
+5. Test adjacent substitutes and vertical integration so the scan does not mistake technical relevance for scarcity.
+6. Compare any new candidate with the existing portfolio on **marginal contribution**: independent return engine, missing value-chain exposure, correlation and displacement case.
+7. Record negative coverage as well as promoted candidates so repeated scans do not rediscover the same weak exposures.
+
+### Misclassification search
+
+A scan must explicitly ask:
+
+> **Which listed companies would not normally appear in an AI/robotics screen, but now earn or are building economically material exposure to this layer?**
+
+Examples of the failure mode that triggered this control:
+- **Raspberry Pi:** superficially an SBC/enthusiast-computing classification, while current evidence shows a large industrial/OEM base and growing edge-AI deployment relevance.
+- **Akamai:** historically CDN/security, while the Anthropic commitment reveals a potentially material distributed-AI-compute role.
+
+These examples are not automatic portfolio promotions. They demonstrate why company discovery cannot depend only on conventional industry taxonomies.
+
+### Coverage-gap output
+
+Each universe scan should finish with a simple coverage map: **well covered / under-covered / no credible listed capture / intentionally excluded** for every value-chain layer. Under-covered layers become discovery questions only when filling them could materially improve the active portfolio objective.
+
 ## How to use this framework for new observations
 
 A new observation belongs here when it changes a structural assumption shared by multiple themes—for example model commoditisation, agent autonomy, scientific-AI execution loops or a broad change in infrastructure economics.
