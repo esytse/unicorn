@@ -95,3 +95,12 @@ Raspberry Pi H1 2026 results (24 Sep); investor consensus (1 Sep); FY25 investor
 ## Change history
 2026-09-24: deep dive initiated after H1 repricing; operating evidence strengthened.
 2026-09-24: #218 scenario valuation executed. At 755p, current price roughly corresponds to a ~$90m normalized EBITDA / 20x outcome; retain REASSESS/WATCH pending revised FY27-28 estimates and H2 normalization evidence.
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** 755p and ~£1.3bn equity value. Mechanical hurdles are **~£3.9bn / 2,265p (3x), ~£6.5bn / 3,775p (5x), ~£13bn / 7,550p (10x)** before future financing effects.
+
+The existing normalized-EBITDA hurdle already shows 755p roughly corresponds to ~$90m EBITDA at 20x. A 3x equity outcome therefore needs a much larger OEM/industrial earnings base than the current post-memory-cycle evidence supports; 5x/10x require platform-scale economics far beyond the disclosed base.
+
+**Unicorn state: POTENTIAL — 3x is conceivable if OEM backlog converts into a durable industrial platform with materially higher normalized EBITDA; 5x unvalidated; 10x unsupported.** Do not annualize H1 memory-assisted economics. The next estimate reset and H2 margin normalization are decisive.
+

@@ -17,6 +17,16 @@
 
 **Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ~$145.72 and ~$6.7bn equity value. Mechanical hurdles are **~$20.1bn (3x), ~$33.5bn (5x), ~$67bn (10x)**. At a still-premium 30x earnings multiple these values require roughly **$670m / $1.12bn / $2.23bn net income**.
+
+Current evidence validates rising HBM/AP inspection content and strong orders, but a ~$20bn 3x company requires Camtek to convert that content into an earnings franchise several times larger while maintaining premium valuation against KLA/Onto/Applied competition.
+
+**Unicorn state: POTENTIAL / bounded — 3x remains mathematically possible but is not validated; 5x/10x unsupported.** Promotion requires sustained AP revenue growth, Hawk penetration across additional process steps/customers and profit/FCF scaling faster than valuation.
+
+
 ---
 
 ## Snapshot

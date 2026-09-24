@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #245 deep reverse-underwrite of bounded-screen survivors
+
+- Deepened the seven survivors from #243. Five had sufficient canonical capitalization/economic evidence for immediate arithmetic; BlackBerry/QNX and Ouster are retained as evidence-refresh underwrites rather than assigning fabricated numbers.
+- Raspberry Pi remains POTENTIAL; Camtek remains POTENTIAL/bounded.
+- Micronics Japan, FormFactor and Hanmi Semiconductor are FAILED/PARKED for the current Unicorn screen because their starting valuations make 3x unsupported even though operating capture is strong.
+- The live survivor set contracts to RPI, Camtek, BlackBerry/QNX and Ouster; QNX/Ouster require dedicated capitalization/economic refreshes before numeric promotion.
+- No Gate-E or brokerage action changed.
+
+
+## 2026-09-24
+
 ### #243 bounded Unicorn cohort screen
 
 - Screened all 19 companies previously listed under `Needs a bounded Unicorn screen` using existing canonical evidence.

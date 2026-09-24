@@ -189,6 +189,22 @@ This cohort has now been screened using the existing canonical evidence. **Promo
 
 **Parked from the Unicorn funnel at the current setup:** Advantech, Onto Innovation, Montage Technology, ASMPT, Akamai, VAT Group and PTC. This does not remove them from the broad ranked universe or Gate-E research.
 
+### Seven-survivor deep reverse-underwrite — current result
+
+The deeper pass further reduces false positives. Five candidates had sufficiently mature canonical capitalization/economic evidence for immediate arithmetic; two (BlackBerry/QNX and Ouster) remain **evidence-bound underwrites** because their full current per-share bridges should be refreshed in their dedicated company work rather than manufactured from theme summaries.
+
+| Candidate | Deep result | Decisive finding |
+|---|---|---|
+| Raspberry Pi | **POTENTIAL** | ~£1.3bn starting value leaves a conceivable 3x, but normalized post-memory-cycle EBITDA and OEM conversion must rise dramatically; 5x unvalidated |
+| BlackBerry/QNX | **UNDERWRITE / evidence refresh required** | recurring safety/runtime architecture is plausible, but current fully diluted QNX/parent value bridge must be refreshed before numeric 3x/5x promotion |
+| Ouster | **UNDERWRITE / evidence refresh required** | small platform + software attach can create leverage, but current capitalization, gross-margin and cash-burn bridge needs a dedicated refresh |
+| Micronics Japan | **FAILED / PARKED** | current ~¥507.5bn gross equity value; repo stretch ~2.07x does not clear 3x |
+| Camtek | **POTENTIAL / bounded** | ~$6.7bn start means 3x requires ~$20.1bn equity value and a several-fold earnings step; possible, not validated |
+| FormFactor | **FAILED / PARKED** | ~$8.1bn start makes 3x ~$24.3bn; current revenue/FCF scale does not support that bridge |
+| Hanmi Semiconductor | **FAILED / PARKED** | ~KRW21.8tn start makes 3x ~KRW65.4tn despite exceptional current margins; valuation destroys asymmetry |
+
+**Net:** the bounded-screen promotion set contracts from seven to **four live research cases**: Raspberry Pi, Camtek, BlackBerry/QNX and Ouster. Of those, only RPI and Camtek currently have enough canonical capitalization evidence for a bounded numeric conclusion; QNX and Ouster require targeted evidence refreshes before arithmetic.
+
 ### Primarily benchmark / quality / scale-constrained until evidence changes
 
 Siemens Energy, nVent, Vertiv, HD Hyundai Electric, Eaton, GE Vernova, Advantest, Teradyne, Cameco, Mitsubishi Heavy Industries, Quanta Services, DISCO, Micron, Ibiden, Amkor, Arm, Caterpillar, Nabtesco, THK, Howmet Aerospace, Anhui Yingliu, Cleveland-Cliffs, ABB, Schneider Electric, Hitachi/Hitachi Energy, Tecan, Bruker/Chemspeed/SciY, Thermo Fisher and Danaher remain useful research or bottleneck comparators. They can be promoted if evidence shows a company-transforming engine or the valuation/structure changes; they are **not permanently excluded**.

@@ -27,6 +27,16 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ¥12,680, ~40.0m issued shares and ~¥507.5bn gross equity value. Mechanical hurdles are **¥38,040 / ~¥1.52tn (3x), ¥63,400 / ~¥2.54tn (5x), ¥126,800 / ~¥5.08tn (10x)**.
+
+Company FY2026 guidance is ¥593.31 EPS. At 25x P/E, the 3x/5x/10x prices require roughly **¥1,522 / ¥2,536 / ¥5,072 EPS**. The existing March-2028 stretch case (~¥1,050 EPS ×25x = ~¥26,250) is only ~2.07x.
+
+**Unicorn state: FAILED / PARKED at the current reference.** MJC is an excellent HBM operating franchise, but even the repo's stretch case does not clear 3x. Re-open only if earnings/share evidence rises dramatically or valuation resets without thesis damage.
+
+
 ---
 
 ## Executive conclusion
