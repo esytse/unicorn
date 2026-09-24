@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #272 Physical-AI simulation / validation / fleet-feedback discovery
+
+- Continued #261 into sim-to-real, synthetic-data, validation and fleet-feedback infrastructure using fresh 2026 architecture changes.
+- NEURA/Dassault, ABB RobotStudio HyperReality, SKAI/ABB and Wandelbots/Tech Mahindra validate the structural bottleneck; several clean architecture leaders remain private or too large/diversified for Unicorn asymmetry.
+- Promoted **Grid Dynamics (NASDAQ: GDYN)** to a bounded company underwrite after Q2 evidence that AI reached ~30.7% of revenue, Physical-AI commercial programs span construction equipment/humanoid intralogistics/manufacturing, Ekumen added ROS/simulation depth, and Doosan created a robotics distribution/channel partnership.
+- Core falsifier is productization: strong demand can still resolve into labour-intensive engineering rather than recurring platform economics.
+- Next test is Physical-AI revenue/mix → recurring economics → consolidated margins/growth → valuation → 3x/5x feasibility.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #270 Scientific-AI physical experiment execution discovery
 
 - Continued #261 into the physical execution layer of AI-driven science using fresh 2026 state changes rather than existing company names.
