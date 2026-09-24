@@ -113,6 +113,14 @@ Historical #114 Gate D and #89 actuator Gate C are closed and must not be select
 **Current portfolio interpretation (24 Sep 2026):** Laifual remains the only governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual. Centrus and Modine remain the leading independent-return-engine alternatives. QNX's dated Q2 event has been assessed and is now `REASSESS / WAIT`; Ouster's sensing/Gate-E work has also completed and remains outside the Top 10 pending a materially better valuation/evidence setup.
 
 
+## Research-quality priority — #193
+
+Issue **#193** is `READY P1` and is the highest-priority non-triggered methodology work after immediate P0/P1 event work. It implements the evidence-chain/calibration layer across Gate E.
+
+Until its completion gate is met, avoid broad discovery merely to expand the universe. New discovery remains valid when a specific bottleneck-migration signal could materially change allocation. Otherwise prioritize claim/evidence/inference/action traceability, layered confidence, counter-evidence, evidence freshness, valuation sensitivity, earnings-versus-rerating decomposition and prediction/outcome calibration.
+
+This methodology work does not change existing company states by itself. Any company-state change still requires a governed company-level re-underwrite.
+
 ## Two modes inside one scheduler
 
 ### 1. Monitoring / alert pass — every run
