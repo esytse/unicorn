@@ -8,6 +8,19 @@
 
 > This is a research decision framework, not trading instructions. Labels are conditional on the dated assumptions below and must be refreshed when price, earnings or key evidence changes.
 
+
+## Evidence-chain calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> allocation implication:** this surface must distinguish evidence that a bottleneck or scarce complement exists from evidence that a specific listed company can capture durable incremental economics from it. A technically important layer can remain unattractive or uninvestable because competition, diversification, capital intensity, private-company capture or starting valuation absorbs the economics.
+
+**Evidence quality / freshness:** prefer primary operating/customer/technical evidence for company capture and use secondary market/industry material mainly to map the landscape. Observation freshness is independent of document edit date; live ranking/allocation conclusions require refreshed company and valuation evidence at their governed trigger.
+
+**Strongest counter-case:** bottlenecks migrate. Supply response, architectural substitution, vertical integration, qualification of alternatives or private-company capture can move the profit pool away from the initially identified scarce complement. Treat these as active falsifiers, not footnotes.
+
+**Calibration boundary:** cross-theme ranking is a research/allocation prioritization device, not proof of expected return. Do not promote a company solely because its bottleneck scores highly. Company capture, financial materiality, valuation and portfolio correlation must survive their own evidence chain.
+
+---
+
 ## 1. Current capital-allocation conclusion
 
 The Top-10 research is now mature enough to make **provisional capital decisions**. The most important conclusion is that **no company currently qualifies as a full-size `Buy now` under the repo's normalized-return discipline**.
