@@ -2,6 +2,26 @@
 
 ## 2026-09-24
 
+### #207 evidence-quality audit and prediction ledger — Wave 5
+
+- Added `research/evidence-quality-audit.md`: corpus-level assessment after Waves 1–4, including stronger/weaker/unchanged conclusions and a decision-impact-ranked gap queue.
+- Added `research/prediction-calibration-ledger.md`: frozen 24 September decision snapshots for the live Top-10 plus Ouster, with structural/company/financial/equity confidence separated and future outcome fields defined.
+- Highest-impact residual gaps are FORT canonicalization, Centrus funded commercial-capacity/per-share bridge, Laifual repeat-customer/cash/competition proof, and Modine post-separation economics.
+- The ledger prohibits hindsight rewriting and invented numerical probabilities; price triggers remain reassessment regions rather than automatic transaction instructions.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
+### #207 evidence-quality audit and prediction ledger — Wave 5
+
+- Added canonical `research/evidence-quality-audit.md` after Waves 1–4 and ranked the residual research gaps by decision impact.
+- Added `research/prediction-calibration-ledger.md` and froze the 24 September live Gate-E decisions so later outcomes can be compared with the evidence available at decision time.
+- Audit result: governance/bottleneck evidence is strong; company capture and financial materiality are uneven; remaining-window return precision and historical calibration are the weakest layers.
+- Stronger/better supported after calibration: QNX business quality, MJC operating quality, Modine evidence-to-financial bridge, Laifual current operating capture. More conditional: Centrus equity conversion, Weebit royalty economics, Ouster normalized economics, FORT transaction economics.
+- No company state or brokerage trade changed solely from the audit.
+
+## 2026-09-24
+
 ### #204 Wave 5 testing — corpus audit and calibration ledger
 
 - Performed a fail-closed structural coverage test after Waves 1–4 rather than assuming the retrofit was complete.
