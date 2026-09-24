@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #266 humanoid safety / force-control discovery
+
+- Continued #261 from perception into industrial humanoid safety/force control.
+- Mapped joint force/torque sensing, tactile/contact sensing, safety controllers/runtime and certification/validation.
+- Recorded a **negative discovery result**: no new small listed supplier currently has sufficiently strong humanoid-specific qualification/mass-production evidence plus company-transforming purity.
+- Existing FORT/FROB and QNX remain relevant known-inventory comparators under their existing event triggers; diversified incumbents/private specialists validate the bottleneck but do not justify new universe additions.
+- Important falsifier: motor-current/encoder estimation and integrated actuator/control stacks can capture force-control economics without dedicated force/torque sensors at every joint.
+- Safety branch stops until a named humanoid qualification, production award, recurring safety royalty or certification-driven revenue inflection appears.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #264 Namuga humanoid stereo-camera underwrite
 
 - Deepened #262's outside-universe perception discovery into Namuga (KOSDAQ:190510).
