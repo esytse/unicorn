@@ -89,6 +89,33 @@ Never invent a citation, figure, market size, customer, partnership, product cap
 
 If reliable evidence cannot be found, say so explicitly.
 
+## Evidence-chain and calibration standard
+
+For current Gate-E work, sourcing quality is necessary but not sufficient. Material portfolio conclusions should make the reasoning bridge inspectable.
+
+Where decision-relevant, record:
+
+1. **Claim** — the material proposition being tested.
+2. **Evidence** — the recoverable observation supporting or contradicting it, including source quality and observation date.
+3. **Inference** — what the evidence does and does not establish.
+4. **Action implication** — why the inference changes, or does not change, ranking, valuation, sizing, trigger state or portfolio action.
+
+Prefer evidence in this order when available: **regulatory/financial primary -> customer primary -> technical primary -> credible secondary -> industry estimate -> inference**. Lower-tier evidence is not prohibited, but uncertainty must be explicit.
+
+For Gate-E underwrites, distinguish confidence in four separate layers where relevant:
+- structural bottleneck;
+- company economic capture;
+- financial materiality;
+- remaining-window equity/valuation case.
+
+Also record the strongest credible disconfirming evidence. Evidence freshness is separate from document freshness: a recently edited file can still rely on stale observations.
+
+Do not imply unsupported precision. Price/valuation conditions should normally be expressed as a justified **band plus sensitivity**. Use a point threshold only when a contractual, mechanical or otherwise genuinely precise value supports it.
+
+For scenario-based 18-month return cases, identify how much of the bridge depends on operating/earnings change versus valuation-multiple/rerating change. Do not assign numerical probabilities merely to make an expected-value model look complete; calibrate probabilities from accumulated decision/outcome history where possible.
+
+Material Gate-E decisions should be eligible for a prediction/calibration ledger recording the decision-date evidence, expected catalyst and timing, financial bridge, subsequent observation, thesis-break status and outcome. The purpose is to learn where the process is systematically over- or under-confident.
+
 ## Thesis changes
 
 Never silently change an investment or technology conclusion.
