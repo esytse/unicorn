@@ -5,6 +5,19 @@
 **State:** RESEARCH / Gate-D candidate  
 **Decision:** **REASSESS — promote to full Gate-E only after valuation + normalized economics are completed.**
 
+
+## Deep-dive evidence calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> research implication:** Ouster's company-specific underwrite must remain distinct from the broader sensing thesis. Evidence that lidar/sensing is a Physical-AI bottleneck does not prove Ouster captures the profit pool; use its disclosed deployments, margins, customer mix, capital structure and valuation to make that bridge.
+
+**Evidence quality / freshness:** issuer financials and named deployment/customer evidence outrank market-size estimates. Normalize one-offs before inferring durable economics; the Q2 IEEPA duty refund is an explicit example.
+
+**Strongest counter-evidence / substitute:** sensor commoditization, competing modalities/vendors, customer concentration and capital/dilution can offset growth in sensing demand.
+
+**Economic-capture boundary:** preserve the current REASSESS / WAIT conclusion unless fresh company evidence changes the margin/cash/valuation bridge. Technical importance alone is insufficient.
+
+---
+
 ## Why it matters
 
 Ouster is the cleanest listed test surfaced by #173 for whether Physical-AI sensing can become an economically scarce complement. The thesis is not that robots need sensors; it is that a supplier can combine lidar, vision, calibration, AI compute, sensor fusion and perception software into a qualified stack with durable margins and switching costs.
