@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #268 AI liquid-cooling component discovery
+
+- Continued #261 into component-level liquid cooling rather than broad cooling OEMs.
+- Mapped quick disconnects, cold plates/manifolds, pumps/valves, seals and monitoring as leak/flow/reliability constraints at rising AI rack density.
+- LOTES remains the highest-information component lead, but current primary evidence does not establish liquid-cooling revenue/order materiality, constrained capacity or margin contribution; retained as **EVIDENCE BUILD**.
+- Auras retained as an evidence/coverage gap; AVC and large diversified suppliers remain comparators.
+- Recorded a **negative promotion result** and explicit reopen triggers rather than expanding the universe mechanically.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #266 humanoid safety / force-control discovery
 
 - Continued #261 from perception into industrial humanoid safety/force control.
