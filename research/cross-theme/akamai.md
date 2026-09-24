@@ -1,7 +1,7 @@
 # Akamai Technologies (NASDAQ:AKAM)
 
 **Research stream:** AI infrastructure / scarce complements
-**Status:** Active deep dive; contract economics require disclosure
+**Status:** Active challenger; contract hurdle model complete, disclosure gaps remain
 **Confidence:** Medium
 **Last substantive update:** 2026-09-24
 
@@ -46,8 +46,34 @@ Akamai has a pre-existing distributed network and enterprise/security relationsh
 ### Strongest disconfirming evidence
 ~$5.5bn associated capex is huge versus historical CIS scale; up to ~5% warrant dilution; no 2026 revenue-guidance change; Q2 GAAP operating margin 7% and adjusted EBITDA -6% YoY.
 
-### Valuation sensitivity
-On $11.6bn contract revenue, 10/20/30/40/50% incremental operating margins imply $1.16/$2.32/$3.48/$4.64/$5.80bn cumulative operating profit before financing/tax. Against ~$5.5bn associated capex this is 0.21/0.42/0.63/0.84/1.05x. This is a hurdle screen, not ROIC: capacity can be reused and retain value, while depreciation, power/network opex, financing and refresh cycles reduce economics.
+### Contract economics / valuation sensitivity
+
+The $11.6bn commitment averages ~$1.66bn of contractual revenue per year over seven years if recognized evenly, but actual recognition depends on service start, delivery/availability and termination provisions. Akamai estimates ~$5.5bn of associated capex, equivalent to ~47% of headline contract value and ~3.3x one year's average contract revenue.
+
+#### Incremental economics hurdle
+
+| Incremental EBITDA margin on Anthropic revenue | Annual EBITDA on $1.66bn avg revenue | EBITDA less $5.5bn/7 annualized capital burden* |
+|---:|---:|---:|
+| 30% | ~$497m | ~-$289m |
+| 40% | ~$663m | ~-$123m |
+| 50% | ~$829m | ~+$43m |
+| 60% | ~$994m | ~+$208m |
+
+*This is deliberately a capital-recovery hurdle, not accounting FCF or ROIC. Actual capex is front-loaded, assets may have residual/reuse value, depreciation lives may differ, and working capital, tax, financing, power/network costs and refresh capex are not captured.
+
+The simple hurdle shows why the headline contract value cannot be capitalized directly into equity value. At a 50% incremental EBITDA margin, seven-year EBITDA would be about $5.8bn—only modestly above the stated ~$5.5bn associated capex before tax, financing and refresh requirements. A 60% margin creates substantially more headroom; a 30-40% margin would rely heavily on residual/reuse value to earn an attractive return.
+
+#### Dilution and concentration
+
+- Initial warrant economics can vest roughly 2% of common shares; full expansion can take this to ~5% (7.7m as-converted shares) at $111.33.
+- The initial $11.6bn averages ~$1.66bn/year versus Akamai's FY25 total revenue of $4.21bn and 2025 CIS revenue of only $314m. If fully ramped on an even basis, one customer could therefore become economically enormous relative to the existing cloud-infrastructure business.
+- The agreement is subject to delivery/service-availability conditions and termination rights, so contractual value is not equivalent to guaranteed recognized revenue.
+
+#### Funding / FCF stress
+
+Akamai generated $699m FCF in FY25 and $221m in H1 2026. The incremental 2026 capex requirement alone is ~$1.7bn, materially above recent annual FCF. Q2 cash/cash equivalents plus marketable securities were $4.616bn, providing balance-sheet capacity, but the build changes the company's capital-intensity profile and opportunity cost.
+
+**Gate-E interpretation:** the deal passes the **demand validation** test but not yet the **shareholder-return** test. Promotion requires evidence that contribution margins, utilization/reuse and financing produce incremental ROIC comfortably above the cost of capital after warrant dilution.
 
 ### Return bridge
 Operating upside requires CIS ramp plus acceptable contribution margins/utilization. Equity rerating requires proof incremental ROIC exceeds cost of capital after dilution.
@@ -71,9 +97,11 @@ Incremental cloud ROIC below cost of capital; material cost overruns/delays; exc
 4. Funding mix for ~$5.5bn capex.
 5. Capacity reuse/residual value.
 6. Pro-forma customer concentration.
+7. Whether realized contribution EBITDA can clear the ~50%+ margin region implied by the simple seven-year capital-recovery hurdle, or whether residual/reuse value closes the gap.
 
 ## Sources
 Akamai Anthropic announcement (24 Sep); Q2 2026 results (6 Aug); FY25 10-K/results.
 
 ## Change history
 2026-09-24: deep dive initiated; structural AI-infrastructure confidence raised, company-return confidence remains medium.
+2026-09-24: #219 hurdle model executed. The $11.6bn contract averages ~$1.66bn/year against ~$5.5bn associated capex; simple capital recovery requires very high contribution economics or meaningful residual/reuse value. Retain REASSESS/WATCH pending contract margin, deployment and financing disclosure.
