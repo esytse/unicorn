@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #253 point-of-load power adjacency discovery
+
+- Followed Vicor's VPD bottleneck outward rather than repeatedly underwriting Vicor.
+- Surfaced **TAI-TECH Advanced Electronics (TPEX:3357)** as the strongest new lead: proprietary high-current/TLVR AI-server products plus company-wide May–Aug 2026 revenue growth of +38% to +63% y/y, at a much smaller starting equity value than Vicor. Attribution to AI/TLVR remains the key missing evidence.
+- Surfaced **AP Memory (TWSE:6531)** as a package-power-integrity lead: S-SiCap customer validation/mass production is established, while Samsung Electro-Mechanics' KRW1.5tn 2027–28 silicon-capacitor contract validates the broader state change.
+- Recorded private Powerlattice/EnaChip/Lotus as technical validation and competitive counter-evidence, not investable universe additions.
+- Next thesis-first deep underwrite: TAI-TECH; AP Memory remains bounded follow-up.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #251 Vicor VPD scarce-complement underwrite
 
 - Followed #249's thesis-first discovery into Vicor rather than promoting it mechanically.
