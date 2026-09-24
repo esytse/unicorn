@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #255 TAI-TECH AI power-magnetics underwrite
+
+- Deepened #253's thesis-first lead into TAI-TECH (TPEX:3357).
+- Confirmed power inductors were 62.1% of 2025 revenue; AI exposure has reportedly risen from ~7% of revenue in 2024 to ~10% in 2025 and ~12–13% in 1H26, while Jan–Aug 2026 company revenue grew 32.2% y/y and Q2 gross margin reached ~30.8%.
+- At a controlled ~NT$24bn equity reference, 3x requires ~NT$72bn; at 25–30x earnings this implies ~NT$2.4–2.9bn annual net income versus ~NT$1.24bn LTM. This is demanding but materially more feasible than Vicor's current starting valuation.
+- Counter-evidence is important: AI remains a minority of revenue, TLVR competition/pricing is significant, order visibility is short, and deeper vertical power integration can migrate the bottleneck again.
+- Classified **POTENTIAL — 3x economically plausible but not validated; 5x unvalidated; 10x unsupported**. Promotion requires AI/CSP/800V power content to become company-transforming.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #253 point-of-load power adjacency discovery
 
 - Followed Vicor's VPD bottleneck outward rather than repeatedly underwriting Vicor.
