@@ -1,5 +1,14 @@
 # Research Changelog
 
+## 2026-09-24
+
+### #158 Furukawa Electric / SuperPower HTS Gate-E governance remediation
+
+- Remediated the governance-only blocker on PR #162 by adding the required changelog audit record for its research changes.
+- The underlying conclusion is unchanged: Furukawa/SuperPower remains a **WATCH / research candidate**, with no ACTION and no Top-10 displacement because SuperPower revenue, margins, backlog, capacity/utilisation and near-window financial materiality remain insufficiently disclosed.
+- Existing counter-evidence remains material, including competing HTS capacity expansion; no brokerage trade is authorized or placed.
+
+
 This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
 
 ## 2026-09-19
