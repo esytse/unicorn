@@ -26,6 +26,16 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** €73.60 and ~€1.41bn market capitalization. Mechanical hurdles are **€220.80 / ~€4.23bn (3x), €368 / ~€7.05bn (5x), €736 / ~€14.1bn (10x)**. At 20x P/E these imply about **€11.04, €18.40 and €36.80 EPS**, versus company-compiled 2028 consensus of **€4.82 EPS** (range €4.18–5.44).
+
+**Evidence test:** record backlog and HBM temporary-bonding leadership support strong growth, but the existing stretch boundary (~€168) is only ~2.3x from the reference. 3x therefore needs materially stronger earnings than current consensus plus durable premium valuation; 5x/10x require a much larger platform than currently evidenced.
+
+**Unicorn state: POTENTIAL / bounded — 3x possible only with major earnings outperformance; 5x unvalidated; 10x unsupported.** Process-of-record retention, backlog conversion and hybrid-bonding capture are the critical upgrade tests.
+
+
 ---
 
 ## Snapshot
