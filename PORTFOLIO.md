@@ -2,7 +2,7 @@
 
 **Status:** Active  
 **Strategy reference:** 2026-09-09  
-**Live decision surface refreshed:** 2026-09-15  
+**Live decision surface refreshed:** 2026-09-24  
 **Target date:** March 2028  
 **Backlog:** #117  
 **Automation:** LIVE — #120 / `AUTOMATION.md`  
@@ -97,6 +97,14 @@ Working design principles for the initial portfolio:
 - cash can remain available for event-driven entries, but should not become a permanent default when qualifying setups exist.
 
 Initial evidence-backed portfolio construction was completed in **#131**. The live portfolio remains conditional rather than fully deployed: position weights are activated only when governed company-level entry conditions are met, and **#132** re-ranks candidates as prices, evidence and catalysts change. Do not force deployment merely to fill 4–7 slots.
+
+## Live portfolio checkpoint — 24 September 2026
+
+The authoritative live ranking is `research/top10-unicorn-priority.md`; this strategy file defines the rules rather than duplicating a static ranking.
+
+Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT outside the Top 10**, with valuation/margin/FCF proof still the gating evidence.
+
+Laifual remains the only governed research-level ACTION in the current decision surface: a 5% starter only at executable <=HK$48 with thesis intact. No brokerage execution is assumed by the repository.
 
 ## Transaction rules
 

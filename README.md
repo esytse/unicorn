@@ -63,19 +63,7 @@ A useful notification should state what changed, why it matters, the current res
 
 Epics are coordination surfaces and are not selected directly. Monthly and quarterly reviews are represented as due backlog items (#132 / #133) rather than separate schedulers.
 
-Current Gate-E company work includes:
-- #125 JEM
-- #126 SUSS MicroTec
-- #127 Weebit Nano
-- #86 Laifual Drive
-- #128 Micronics Japan
-- #106 BlackBerry/QNX
-- #108 FORT Robotics
-- #129 Centrus
-- #130 Jinpan
-- #146 Modine / Modexus transition
-- #85 Harmonic Drive
-- #109 QNX vs FORT comparison
+Current Gate-E company work is read from live issue metadata rather than maintained as a static README list. The main live monitors are #86 Laifual, #125 JEM, #126 SUSS, #127 Weebit, #128 Micronics Japan, #106 BlackBerry/QNX, #108 FORT, #129 Centrus, #130 Jinpan and #146 Modine/Modexus. #85 Harmonic Drive is parked; #109 QNX-vs-FORT is blocked pending fresh FORT transaction evidence. Ouster #189 completed on 24 Sep via PR #190 and remains a REASSESS candidate outside the Top 10.
 
 Initial portfolio construction **#131 is complete**. The live allocation loop now runs through event-driven company monitors plus **#132** for monthly or material-event portfolio re-ranking; #132 was refreshed early on 15 Sep 2026 after the Centrus financing/repricing and is next due on the normal cadence around 15 Oct 2026 unless another material portfolio-wide event fires first.
 

@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### Backlog and canonical-doc hygiene
+
+- Reconciled live issue metadata with merged work: QNX #106 moved from stale RUNNING to post-Q2 WAITING; MJC #128 stale PR-remediation text was removed; #110 now points to the canonical live ranking instead of carrying a drifting 9 Sep snapshot.
+- Refreshed README/AUTOMATION/PORTFOLIO surfaces after the QNX and Ouster 24 Sep work and the scarce-complements remap.
+- Static documentation now defers to live issue metadata / `research/top10-unicorn-priority.md` where duplication was creating drift.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### Ouster Gate-E valuation
 
 - Promoted #187 Gate-D work into #189 bounded Gate-E valuation after PR #188 passed governance and merged.
