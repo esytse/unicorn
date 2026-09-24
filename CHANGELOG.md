@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #282 AI power-generation hot-section component discovery
+
+- Continued #261 into gas-turbine hot-section capacity after fresh evidence that orders exceed OEM delivery capacity and blade/casting capacity is strategic.
+- GE Aerospace/CPP M&A, SpaceX planned blade/vane internalization and Howmet capacity expansion validate the bottleneck below turbine OEMs.
+- **Impro Precision (HKEX:1286)** retained as EVIDENCE BUILD after secondary supply-chain work reported H1 2026 energy revenue +83.7% y/y from a small ~3.3% group base; turbine attribution/qualification/materiality require primary verification before promotion.
+- A high-purity DPC signal is retained only as an identity/evidence coverage gap until the exact listed vehicle and primary financial evidence are established.
+- Howmet/Anhui Yingliu remain existing comparators rather than duplicated discoveries.
+- No new underwrite promoted; broad branch stops pending bounded evidence. No Gate-E action changed.
+
+
+## 2026-09-25
+
 ### #280 Montage CXL 3.2 controller refresh
 
 - Refreshed Montage after #278 identified a new CXL-controller state change distinct from the old DDR5/MRDIMM thesis.
