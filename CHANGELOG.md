@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### Ouster sensing/perception Gate-D
+
+- Executed #187 after #173 sensing map merged via PR #186.
+- Added `research/physical-ai/deep-dives/ouster.md`.
+- Ouster clears Gate-D for a bounded Gate-E valuation underwrite: Q2 revenue US$55m (+56% y/y), product revenue US$53m (+51%), >17k combined sensor shipments, 49% GAAP gross margin and US$263m liquidity.
+- Stereolabs expands the thesis from discrete lidar into cameras, AI compute, sensor fusion and perception software, but software/retention/pricing capture remains unproven.
+- Current classification: **PROMOTE TO GATE-E RESEARCH / no Top-10 change yet**.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### Sensing / physical-world data bottleneck map
 
 - Executed #173 first-pass scarce-complement screen after the GitHub write path recovered.
