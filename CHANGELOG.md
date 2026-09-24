@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #280 Montage CXL 3.2 controller refresh
+
+- Refreshed Montage after #278 identified a new CXL-controller state change distinct from the old DDR5/MRDIMM thesis.
+- Primary Montage evidence confirms CXL 3.2 MXC trial production and integration into next-generation Samsung/SK hynix CXL products with initial validation completed.
+- Q1 2026 newer interconnect products (MRCD/MDB, PCIe Retimer, CKD, CXL MXC) reached RMB269m, +93.8% y/y and 19% of interconnect revenue; H1 revenue ~RMB3.335bn (+26.7%) and net profit ~RMB1.997bn (+72.3%).
+- Current 24 Sep equity reference is ~RMB273bn / ~82x trailing earnings. At this starting point, 3x requires roughly RMB20–27bn annual earnings at 40–30x versus ~RMB3.07bn TTM.
+- Conclusion: **CXL thesis materially strengthened, but Montage remains FAILED/PARKED for the Unicorn screen at current valuation**. 3x not validated; 5x/10x unsupported.
+- Reopen only on much greater CXL earnings materiality or a substantial valuation reset with thesis intact. No Gate-E action changed.
+
+
+## 2026-09-25
+
 ### #278 AI memory-capacity / CXL controller discovery
 
 - Continued #261 into memory-capacity/pooling/fabric bottlenecks driven by AI inference and KV-cache growth.
