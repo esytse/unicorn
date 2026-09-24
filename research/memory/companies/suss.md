@@ -6,6 +6,28 @@
 **Last substantive update:** 2026-09-10  
 **Backlog:** #126
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | advanced-packaging demand/backlog is visible, but process-of-record concentration and competitive displacement constrain confidence in durable capture |
+| Company economic capture | **Medium** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **Medium** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **process share/competition and backlog conversion**. The governed price condition around **€60–62 area** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** process share/competition and backlog conversion. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Snapshot
 
 **FACT:** SUSS MicroTec SE (Xetra: SMHN) supplies semiconductor equipment across advanced backend and photomask processes. For the HBM thesis, the key exposure is temporary bonding/debonding used to mechanically support ultra-thin DRAM wafers during thinning and backside processing. SUSS also has wafer-to-wafer and die-to-wafer hybrid-bonding platforms.
