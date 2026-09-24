@@ -27,6 +27,20 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
 - `research/_templates/` — reusable structures for new themes and company deep dives
 
+## Thesis-first discovery — primary research loop
+
+Unicorn is first a **discovery engine**, not a stock screener. The canonical upstream loop is:
+
+> **World change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture**
+
+Only after a candidate emerges does the downstream investment loop begin:
+
+> **Unicorn Potential / reverse-underwrite → Gate E → portfolio construction / monitoring**
+
+The current ranked universe is **known-opportunity inventory and a benchmark set, not the boundary of discovery**. New research should deliberately search outside it for overlooked or misclassified listed companies, especially small/mid-cap suppliers where a newly scarce layer could transform total-company economics.
+
+Do not start broad discovery by re-screening the existing universe. Start with what changed in technology, industry architecture, manufacturing/process steps, standards/qualification, supply/demand or customer behaviour; map the resulting constraint; then find who captures it. Reverse-underwriting is a falsification/validation tool after candidate formation, not the thesis itself.
+
 ## Default workflow
 
 1. Ask an agent to read `AGENTS.md` before doing anything.
