@@ -2,6 +2,16 @@
 
 ## 2026-09-24
 
+### Value-chain scan blind-spot fix
+
+- Converted the RPI/AKAM discovery miss into a permanent research-process control rather than a one-off observation.
+- Broad universe scans must now traverse the full AI/Physical-AI value chain before sector classification and explicitly search for **misclassified incumbents** whose legacy labels hide emerging bottleneck exposure.
+- Added a required coverage-gap output (well covered / under-covered / no credible listed capture / intentionally excluded) and linked the protocol into backlog automation.
+- This changes discovery methodology only; it does not promote RPI, AKAM or any other company to a governed ACTION.
+
+
+## 2026-09-24
+
 ### #218 / #219 valuation and contract-economics execution
 
 - Executed Raspberry Pi scenario valuation rather than waiting for stale 1 Sep consensus to refresh. At 755p, a mechanical support case is roughly $90m normalized EBITDA at 20x; lower normalized earnings/multiples expose material downside.
