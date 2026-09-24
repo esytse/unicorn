@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### Evidence-quality and calibration backlog
+
+- Added #193 as a `READY P1` research-governance/portfolio-calibration item after a detailed evidence audit.
+- Documented the Gate-E **claim -> evidence -> inference -> action** standard and separate confidence layers for structural bottleneck, company capture, financial materiality and remaining-window equity case.
+- Added explicit counter-evidence, evidence-freshness, valuation-band/sensitivity and earnings-versus-rerating requirements.
+- Established decision/outcome history as the basis for future calibration rather than unsupported numerical probabilities.
+- Broad discovery is deprioritized behind #193 unless a specific new signal could materially change allocation.
+- No company state or brokerage trade changed from this methodology update.
+
+## 2026-09-24
+
 ### Portfolio canonical-surface cleanup
 
 - Removed the stale 15 Sep company decision surface and early re-rank from `PORTFOLIO.md`.
