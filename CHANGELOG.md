@@ -2,6 +2,16 @@
 
 ## 2026-09-24
 
+### #207 evidence-quality audit and prediction ledger — Wave 5
+
+- Added canonical `research/evidence-quality-audit.md` after Waves 1–4 and ranked the residual research gaps by decision impact.
+- Added `research/prediction-calibration-ledger.md` and froze the 24 September live Gate-E decisions so later outcomes can be compared with the evidence available at decision time.
+- Audit result: governance/bottleneck evidence is strong; company capture and financial materiality are uneven; remaining-window return precision and historical calibration are the weakest layers.
+- Stronger/better supported after calibration: QNX business quality, MJC operating quality, Modine evidence-to-financial bridge, Laifual current operating capture. More conditional: Centrus equity conversion, Weebit royalty economics, Ouster normalized economics, FORT transaction economics.
+- No company state or brokerage trade changed solely from the audit.
+
+## 2026-09-24
+
 ### #204 Wave 5 testing — corpus audit and calibration ledger
 
 - Performed a fail-closed structural coverage test after Waves 1–4 rather than assuming the retrofit was complete.
