@@ -8,6 +8,16 @@
 
 > GitHub issues are the authoritative execution backlog. Automation may monitor, research, update repository content and operate the governed PR workflow, but it must not place brokerage trades.
 
+## Unicorn Potential discovery rule
+
+The continuous ranked universe is an inventory/research-priority surface, **not** the multibagger shortlist. When discovery work is valid under backlog priority, use `research/unicorn-potential.md`.
+
+Candidate generation should search for **change signals**, not generic AI beneficiaries: abnormal order/backlog growth, capacity/utilization constraints, first Tier-1 qualification or production socket, LTAs/prepayments, material segment-mix shifts, margin/unit-cost inflection, recurring royalty/service adoption, new segment disclosure, customer diversification, competitor exit or long lead times.
+
+A candidate becomes a Unicorn underwrite only when there is a plausible non-linear transmission from bottleneck demand to company revenue/profit/FCF and a dilution-aware **3x/5x** equity bridge worth testing. A 10x case is a stress test, not a requirement. Do not use a summed score to manufacture precision. A failed shareholder-capture or multibagger-feasibility gate can park the candidate.
+
+This discovery layer does not authorize trades and does not displace higher-priority P0/P1 event work. Gate E remains the action layer.
+
 ## Objective
 
 Operate the `unicorn` research and Gate-E portfolio loop with the smallest reliable scheduler footprint while notifying the user promptly when attention or action is genuinely warranted.
