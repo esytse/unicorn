@@ -43,10 +43,10 @@ JEM, SUSS and Hainan Jinpan remain valid research candidates. Missing proof is n
 
 | Priority | Gap | Decision affected |
 |---:|---|---|
-| 1 | Centrus commercial-capacity funding/construction/per-share bridge | Top-10 #2 |
-| 2 | Laifual repeat named humanoid customer + cash conversion + competitive capacity/ASP | only current ACTION |
-| 3 | Modine post-separation standalone margins, FCF, backlog and valuation | Top-10 #3 |
-| 4 | QNX US$500m+ path: content/backlog/non-auto production conversion | Top-10 #4 |
+| 1 | Laifual repeat named humanoid customer + cash conversion + competitive capacity/ASP | only current ACTION |
+| 2 | Modine post-separation standalone margins, FCF, backlog and valuation | Top-10 #3 |
+| 3 | QNX US$500m+ path: content/backlog/non-auto production conversion | Top-10 #4 |
+| 4 | Centrus quantified project tranche / funding allocation / 2029 schedule de-risking | Top-10 #2; event-gated |
 | 5 | JEM/SUSS/MJC HBM4/HBM4E share/process evidence | correlated memory cluster |
 | 6 | Jinpan named/repeat global AIDC + cash conversion | Top-10 #7 |
 | 7 | Weebit recurring production royalties | Top-10 #8 |

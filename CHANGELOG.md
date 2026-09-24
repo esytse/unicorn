@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #129 Centrus funded-capacity / per-share bridge audit
+
+- Completed the Wave-5 bounded evidence follow-up without treating the already-assessed Antares event as a new trigger.
+- Quantified the mechanical liquidity reference: $1.869bn June cash + ~$489m estimated net September offering proceeds = ~$2.358bn before subsequent use; kept ~$1.208bn convertible-note principal and broad capital uses explicit rather than treating cash as free project equity.
+- Separated the $900m milestone-based DOE award and unquantified X-energy/Radiant/Antares prepayments from unrestricted cash; current public evidence still does not establish a fully funded specific commercial-capacity tranche.
+- Made the timing mismatch explicit: Centrus says first new capacity is expected online in 2029, after the March-2028 portfolio window. Near-window value therefore depends on financing/construction de-risking and backlog conversion rather than new-capacity earnings.
+- Added dilution states from ~21.739m common-equivalent shares after common + pre-funded issuance to 28.732m if all new common warrants exercise, plus a separate historical convertible-dilution stress context.
+- Current conclusion remains **REASSESS / WAIT**; ~$120–130 remains a reassessment region, not an automatic transaction instruction. No brokerage trade.
+
+## 2026-09-24
+
 ### #209 FORT Robotics canonical transaction and recurring-economics due diligence
 
 - Added `research/physical-ai/fort-robotics.md` as the canonical FORT/FROB company/transaction surface.
