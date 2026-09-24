@@ -116,6 +116,18 @@ For scenario-based 18-month return cases, identify how much of the bridge depend
 
 Material Gate-E decisions should be eligible for a prediction/calibration ledger recording the decision-date evidence, expected catalyst and timing, financial bridge, subsequent observation, thesis-break status and outcome. The purpose is to learn where the process is systematically over- or under-confident.
 
+## Evidence-chain and calibration standard
+
+For current Gate-E work, sourcing quality is necessary but not sufficient. Material portfolio conclusions should make the reasoning bridge inspectable.
+
+Where decision-relevant, record **Claim -> Evidence -> Inference -> Action implication**. Prefer evidence in this order when available: regulatory/financial primary -> customer primary -> technical primary -> credible secondary -> industry estimate -> inference. Lower-tier evidence is allowed, but uncertainty must be explicit.
+
+For Gate-E underwrites, distinguish confidence in four layers where relevant: structural bottleneck; company economic capture; financial materiality; remaining-window equity/valuation case. Record the strongest credible disconfirming evidence. Evidence freshness is separate from document freshness.
+
+Do not imply unsupported precision. Price/valuation conditions should normally be a justified band plus sensitivity; use a point only when a genuinely precise contractual or mechanical value supports it. For 18-month scenarios, identify how much of the return bridge depends on operating/earnings change versus valuation rerating.
+
+Do not assign numerical probabilities merely to complete an expected-value model. Build calibration from accumulated decision/outcome history. Material Gate-E decisions should be eligible for a ledger recording decision-date evidence, expected catalyst/timing, financial bridge, subsequent observation, thesis-break status and outcome.
+
 ## Thesis changes
 
 Never silently change an investment or technology conclusion.
