@@ -24,3 +24,8 @@ This ledger records research decisions, not brokerage executions. Do not backfil
 When a checkpoint resolves, record: decision date; evidence tier/freshness; expected catalyst and timing; expected operating/financial bridge; actual observation; thesis-break status; stock return over the relevant interval where measurable; whether the conclusion was directionally right; and what process error, if any, occurred.
 
 **Rule:** do not invent hit-rate probabilities until the ledger has enough resolved observations to support them.
+
+
+## Status / canonical role
+
+**Status: historical seed artifact.** This file preserves the Wave-5 initial decision snapshot created during the corpus test. Future live checkpoint/outcome observations belong only in `prediction-calibration-ledger.md`; do not maintain two competing live ledgers.

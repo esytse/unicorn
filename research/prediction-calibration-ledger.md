@@ -45,3 +45,8 @@
 Append dated observations for: price; catalyst Y/N/partial; structural thesis stronger/unchanged/weaker; company capture stronger/unchanged/weaker; financial conversion stronger/unchanged/weaker; thesis breaker Y/N/partial; state change; retrospective lesson.
 
 The objective is to learn whether the repository's evidence categories predict **economic conversion**, not merely whether a share price moved.
+
+
+## Canonical role
+
+This is the **live prospective calibration ledger** and the only ledger that should receive future candidate checkpoint/outcome observations. The earlier `decision-outcome-calibration-ledger.md` is retained as the Wave-5 seed/audit artifact and should not receive parallel live updates.

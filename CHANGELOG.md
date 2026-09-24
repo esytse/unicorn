@@ -2,6 +2,14 @@
 
 ## 2026-09-24
 
+### #213 calibration/audit surface canonicalization
+
+- Clarified `evidence-quality-audit.md` as the live decision-quality audit and `evidence-quality-corpus-audit.md` as the structural 94-file accounting/governance audit.
+- Clarified `prediction-calibration-ledger.md` as the sole live prospective outcome ledger; retained `decision-outcome-calibration-ledger.md` as a historical Wave-5 seed artifact rather than deleting audit history.
+- This is governance/hygiene only: no company state, ranking or brokerage action changed.
+
+## 2026-09-24
+
 ### #196 residual calibration coverage — 94/94 accounting
 
 - Recovered the verified residual-calibration work from superseded PR #206 onto current main after confirming all 23 target decision surfaces were unchanged since that PR's base, avoiding overwrite of newer research.

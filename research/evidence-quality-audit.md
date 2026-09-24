@@ -61,3 +61,8 @@ A trigger price is a **re-underwrite region**, not automatic permission to buy. 
 ## Conclusion
 
 The corpus now supports **fewer precise claims, but better decisions**. Structural theses are generally stronger than stock-level certainty. Spend the next research effort on the gap queue and on collecting outcomes in the prediction ledger, not on broadening the universe merely to add names.
+
+
+## Canonical role
+
+This is the **live decision-quality audit**: use it to assess current evidence strength, weak links and the highest-impact research gaps. Structural denominator/accounting tests belong in `evidence-quality-corpus-audit.md`; do not duplicate the 94-file accounting here.
