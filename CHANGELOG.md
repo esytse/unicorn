@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #264 Namuga humanoid stereo-camera underwrite
+
+- Deepened #262's outside-universe perception discovery into Namuga (KOSDAQ:190510).
+- Primary Namuga evidence confirms a 3D sensing robot-platform partnership and production-line setup; 7 Sep company-announcement reporting adds PoC/verification → exclusive stereo-camera supply → initial 2027 supply → full-scale 2028 production for an unnamed large North American humanoid company.
+- Namuga's 2025 base was KRW459.9bn revenue / KRW25.1bn net profit; current Sep reference is only ~KRW210–220bn equity at ~11x trailing earnings.
+- Scenario analysis shows programme materiality is highly sensitive to undisclosed robot units, cameras/robot and module ASP; no false precision is used.
+- At ~KRW215bn equity, 3x requires KRW645bn. At 20–25x earnings this implies ~KRW26–32bn annual net income versus KRW25.1bn in 2025, so the starting valuation does not mathematically kill the 3x thesis.
+- Classified **POTENTIAL / UNDERWRITE — 3x economically plausible but unvalidated; 5x requires major robot-vision materiality; 10x unsupported**.
+- Highest-information trigger is first disclosed robot-vision order/revenue economics; no Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #262 humanoid sensing / perception discovery
 
 - Executed #261 on a different bottleneck from AI power: mass-production humanoid perception.
