@@ -103,6 +103,14 @@ The first application of this framework shows why Unicorn Potential must remain 
 
 See `research/robotics-actuators/companies/laifual-drive.md` for the full dilution/capacity/earnings bridge.
 
+### Second completed reverse-underwrite: Centrus Energy
+
+**State: UNDERWRITE — 3x strategically plausible but financing/timing dependent; 5x is a long-horizon possibility not validated by current disclosed economics; 10x unsupported today.**
+
+At the ~21.739m common-equivalent baseline and ~$151 reference, Centrus starts around **$3.28bn equity value**. The 3x hurdle is ~$9.85bn; 5x ~$16.4bn; 10x ~$32.8bn. Full new-warrant exercise can raise the denominator to ~28.732m while also adding up to ~$2bn cash, so the relevant test is value created per diluted share.
+
+The decisive boundary is timing: management's stated first new capacity is **2029**, after the March-2028 portfolio window. Near-window 3x therefore requires a large funded-franchise/de-risking rerating; a durable 5x case must ultimately be supported by scaled enrichment margins and FCF. See `research/energy/companies/centrus-energy.md`.
+
 ### Priority reverse-underwrite
 
 | Company | Why the multibagger mechanism is plausible | Decisive test |
