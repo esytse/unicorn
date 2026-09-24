@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #193 evidence-chain pilot — Laifual
+
+- Piloted the new evidence-chain/calibration standard on Laifual, the only current governed ACTION monitor.
+- Separated direct operating-capture evidence from weaker durable-cash and March-2028 equity evidence.
+- Reframed <=HK$48 as the upper edge of the existing HK$45–48 governed entry band rather than a falsely precise intrinsic-value point.
+- Added layered confidence, strongest disconfirming evidence, evidence freshness and fundamental-versus-rerating bridge.
+- Updated the reusable company template so future Gate-E work can use the same structure.
+- Pilot did **not** change Laifual's current 5% starter-only conclusion and did not place a brokerage trade.
+
+## 2026-09-24
+
 ### Evidence-quality and calibration backlog
 
 - Added #193 as a `READY P1` research-governance/portfolio-calibration item after a detailed evidence audit.

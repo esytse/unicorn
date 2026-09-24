@@ -31,6 +31,37 @@
 
 - 
 
+## Gate-E evidence chain
+
+Use this section when the company is part of the current Gate-E decision surface.
+
+| Claim | Evidence quality / freshness | Inference boundary | Action implication |
+|---|---|---|---|
+|  |  |  |  |
+
+### Layered confidence
+
+- **Structural bottleneck:** Low / Medium / High
+- **Company economic capture:** Low / Medium / High
+- **Financial materiality:** Low / Medium / High
+- **Remaining-window equity/valuation case:** Low / Medium / High
+
+### Strongest disconfirming evidence
+
+- 
+
+### Evidence freshness
+
+- 
+
+### Valuation sensitivity / precision
+
+State a justified valuation/entry **band and sensitivity** where possible. Explain if a point threshold is genuinely warranted.
+
+### Return bridge
+
+Separate the operating/earnings contribution from the valuation-multiple/rerating contribution. Do not add unsupported probabilities.
+
 ## Interpretation
 
 **INTERPRETATION:** What the evidence appears to imply, without presenting inference as fact.
