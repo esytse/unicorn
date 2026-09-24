@@ -20,6 +20,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
 - `research/top10-unicorn-priority.md` — canonical continuously ranked research universe; full-repository audit currently covers 59 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
+- `research/unicorn-potential.md` — canonical multibagger-discovery funnel; separates broad research ranking from Unicorn Candidates and reverse-underwrites 1x/3x/5x/10x equity outcomes before Gate E
 - `research/top10-capital-allocation.md` — historical Gate-D valuation/downside layer; useful context but not the current 18-month action framework
 - `PORTFOLIO.md` — Gate-E aggressive dynamic portfolio strategy for the £40k / 18-month objective through March 2028; defines concentration, catalyst timing, buy/add/trim/sell/rotation rules and bottleneck migration
 - `sources/source-register.md` — source provenance register
@@ -101,6 +102,12 @@ Canonical controls: [evidence-quality audit](research/evidence-quality-audit.md)
 
 - [Evidence-quality audit](research/evidence-quality-audit.md) — current strengths, weak links and ranked evidence-gap queue.
 - [Prediction/outcome calibration ledger](research/prediction-calibration-ledger.md) — frozen live decisions and future outcome checks; do not rewrite snapshots with hindsight.
+
+## Unicorn discovery
+
+The broad ranked universe is not itself the unicorn screen. Candidate discovery should search for **economic state changes**—order/backlog acceleration, capacity constraints, Tier-1 qualification, process-of-record wins, LTAs/prepayments, material segment mix shifts, margin inflection, recurring royalties and customer diversification—then ask whether the exposure can mathematically transform the company's equity value.
+
+Use `research/unicorn-potential.md` to reverse-underwrite 1x/3x/5x/10x outcomes. Do not promote a company merely because it is a strong AI beneficiary; starting scale, purity, operating leverage, dilution/capital needs and under-recognition must support a plausible multibagger mechanism. Unicorn Potential never overrides Gate-E action discipline.
 
 ## Research principles
 
