@@ -2,6 +2,18 @@
 
 ## 2026-09-24
 
+### #241 complete priority Unicorn Potential reverse-underwrites
+
+- Completed the remaining eight reverse-underwrites after Laifual #237 and Centrus #239, so all ten priority candidates from #235 now have explicit 3x/5x/10x hurdle states.
+- Updated canonical company surfaces for Modine/Modexus, JEM, SUSS, Jinpan, Weebit, FORT/FROB, Huaming and Ambarella.
+- Important negative result: Modine/Modexus remains a strong Gate-E return-engine candidate but is **FAILED/PARKED for the current Unicorn screen** because existing base/stretch economics do not establish a plausible 3x path from the controlled reference.
+- Weebit retains the strongest theoretical royalty operating leverage, but 3x/5x remain unvalidated until material production royalties and dilution-adjusted economics are observable.
+- No company was promoted to VALIDATED POTENTIAL; the programme deliberately distinguishes plausible mechanisms from evidenced multibagger bridges.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-24
+
 ### #239 Centrus Unicorn Potential reverse-underwrite
 
 - Reverse-underwrote Centrus from the ~21.739m common-equivalent / ~$151 reference (~$3.28bn equity value) into 3x (~$9.85bn), 5x (~$16.4bn) and 10x (~$32.8bn) equity hurdles.
