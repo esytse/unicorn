@@ -120,6 +120,16 @@ When new evidence arrives:
 5. Update theme-level research only where the evidence materially changes it.
 6. Change watchlist/ranking/portfolio conclusions only through their existing governed process.
 
+## 24 September distributed-compute evidence update
+
+**FACT:** Akamai's seven-year $11.6bn Anthropic commitment, with potential expansion, is direct evidence that frontier-model infrastructure demand is extending beyond the familiar GPU/hyperscaler framing into distributed CPU capacity. The economics for Akamai shareholders remain unresolved because the initial build is associated with roughly $5.5bn of capex and equity-linked consideration.
+
+**FACT:** Raspberry Pi's H1 2026 OEM/backlog evidence adds a separate listed-company signal at the low-cost edge: direct shipments rose 26% and backlog doubled to 2.6m units while the company expanded its edge-AI product stack.
+
+**INTERPRETATION:** Together these events strengthen the **distributed compute / edge deployment** branch of the scarce-complements map. They do not prove durable supplier rents. The new falsifiers are infrastructure fungibility, customer concentration, normalized hardware margins, capital intensity and whether hyperscaler/merchant capacity expansion commoditizes the layer.
+
+**Allocation implication:** broaden research coverage rather than mechanically reallocating capital. AKAM and RPI enter the live challenger set; promotion still requires company-level normalized-return evidence.
+
 ## Current synthesis
 
 **INTERPRETATION:** The repository's existing work increasingly points to a common pattern: generic intelligence may become more available faster than the physical, infrastructural, operational and proprietary-data systems needed to turn it into dependable outcomes.

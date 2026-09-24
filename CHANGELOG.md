@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #218 / #219 RPI and AKAM portfolio integration
+
+- Re-ran the live Gate-E challenger comparison after completing the Raspberry Pi and Akamai deep dives.
+- Added both as immediate challengers without displacing the governed Top 10: RPI has stronger current company-capture evidence but unresolved normalized valuation; AKAM provides stronger cross-theme distributed-AI-infrastructure evidence but unresolved incremental ROIC.
+- Propagated the combined evidence into the canonical scarce-complements framework as a new distributed-compute / edge-deployment signal.
+- Retained FORT at #10 pending its transaction disclosure; no new governed ACTION or brokerage trade.
+
+## 2026-09-24
+
 ### #218 / #219 Raspberry Pi and Akamai event deep dives
 
 - Added canonical deep-dive surfaces for Raspberry Pi and Akamai following the 24 September RPI interim results and AKAM-Anthropic agreement.
