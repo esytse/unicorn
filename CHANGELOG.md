@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #270 Scientific-AI physical experiment execution discovery
+
+- Continued #261 into the physical execution layer of AI-driven science using fresh 2026 state changes rather than existing company names.
+- Evidence includes Novo's autonomous-lab purchase from Ginkgo, Iktos/Chemspeed molecules-to-robot integration, Beckman/Automata modular lab integration, Opentrons/HighRes/NVIDIA agentic execution, ABB/Roche clinical-lab robotics and GenScript/Lilly TuneLab wet-lab data generation.
+- Structural conclusion: AI abundance is moving scarcity toward reliable/interoperable **physical experiment execution** and structured feedback.
+- Strongest architecture leaders Automata, Opentrons and HighRes are private; this is an important negative public-equity result.
+- Ginkgo retained as **EVIDENCE BUILD / PRODUCTIZATION WATCH** after named Novo deployment; GenScript retained as **EVIDENCE BUILD** after Lilly TuneLab wet-lab partnership. Neither has enough disclosed materiality/economics for Unicorn promotion.
+- Existing Bruker/Chemspeed, Tecan, Danaher and Thermo Fisher remain comparators under existing states.
+- No new listed company promoted; explicit event-driven reopen triggers recorded. No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #268 AI liquid-cooling component discovery
 
 - Continued #261 into component-level liquid cooling rather than broad cooling OEMs.
