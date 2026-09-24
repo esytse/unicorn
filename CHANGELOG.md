@@ -2,6 +2,18 @@
 
 ## 2026-09-24
 
+### #235 Unicorn Potential discovery funnel
+
+- Added `research/unicorn-potential.md` as the canonical layer between broad universe discovery and Gate-E capital allocation.
+- Reframed unicorn hunting around bottleneck migration, demand convexity, company purity, operating leverage, under-recognition and dilution-aware multibagger feasibility.
+- Added a 1x/3x/5x/10x reverse-underwriting template; these are hurdles, not forecasts or price targets.
+- Explicitly rejected summed pseudo-precision scores: fatal shareholder-capture, dilution, capital-intensity or scale assumptions can stop promotion.
+- Triaged the current 59-company universe into priority reverse-underwrites, bounded Unicorn screens and benchmark/scale-constrained names without changing the canonical broad ranking.
+- Updated README and automation guidance so future discovery searches for economic state-change signals rather than merely expanding the company list.
+
+
+## 2026-09-24
+
 ### #233 full-repository ranked-company audit
 
 - Audited canonical company files, the cross-theme watchlist and theme synthesis company candidates after #230 removed the Top-10 cap.
