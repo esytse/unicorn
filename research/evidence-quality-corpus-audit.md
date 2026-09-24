@@ -7,13 +7,13 @@
 
 Main contains **94 markdown files under `research/`**: 26 canonical company files, 30 technical/thematic deep dives, 6 cross-theme/capture/ranking surfaces, and **32 other research surfaces**.
 
-**TEST RESULT: FAIL-CLOSED.** Waves 1–4 do not yet prove full-corpus coverage because 32/94 files fall outside the calibrated structural classes.
+**TEST RESULT: PASS after residual execution.** The 32-file residual class is now explicitly classified: 23 decision-bearing surfaces calibrated, 7 procedural controls classified N/A for decision calibration, and 2 templates classified as authoring controls.
 
 ## Residual-risk test
 
 The residual class includes decision-bearing work: scientific-AI company/screens and execution bottlenecks, Physical-AI evaluation/verification economics, Gate-E portfolio construction, fusion infrastructure/candidate work, and theme theses/value chains/synthesis/capital-allocation surfaces.
 
-**TEST RESULT: FAIL-CLOSED.** These require calibration or an explicit N/A rationale.
+**TEST RESULT: PASS for structural accounting.** Decision-bearing residuals are calibrated and non-decision surfaces carry an explicit classification rationale.
 
 ## Reasoning-integrity test
 
@@ -41,7 +41,17 @@ PRs #194, #195, #197, #199, #201 and #203 passed Research governance on their la
 
 ## What testing changed
 
-Testing disproved the assumption that companies + deep dives + six cross-theme surfaces represented the entire research corpus. The correct denominator is the complete research tree. The programme remains open until **94/94 files are accounted for**.
+Testing disproved the assumption that companies + deep dives + six cross-theme surfaces represented the entire research corpus. The correct denominator is the complete research tree. The residual execution pass brings structural accounting to **94/94 files**. This closes the denominator gap; evidence freshness and outcome calibration remain ongoing controls.
+
+## Residual classification — execution pass
+
+- **23 decision-bearing residual surfaces:** calibrated across energy/fusion, memory, Physical AI, robotics-actuators, Gate-E portfolio construction and scientific AI.
+- **7 procedural controls:** energy research plan; fusion backlog; fusion monitoring triggers; fusion screening rules; memory research plan; Physical-AI research plan; robotics-actuators research plan. These govern workflow rather than asserting investable conclusions, so decision calibration is N/A.
+- **2 authoring controls:** `research/_templates/company.md` and `research/_templates/theme.md`; templates are scaffolds rather than evidence claims.
+
+**ACCOUNTING TEST: 94/94 structurally accounted for** = 26 company + 30 deep dives + 6 cross-theme surfaces + 23 calibrated residual decision surfaces + 7 procedural controls + 2 templates.
+
+This does not prove every factual claim is fresh or high quality; source-tier/freshness sampling and future outcome calibration remain ongoing controls.
 
 ## Next tests
 
