@@ -100,7 +100,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 - #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
 - #127 Weebit Nano — `WAITING` P1 on ~A$2.5–2.7 with thesis intact or meaningful production royalty/adoption/capital evidence.
 - #128 Micronics Japan — `WAITING` P1 on ~¥10,000–10,800 with thesis intact or material HBM4/HBM4E / customer / FCF evidence.
-- #106 BlackBerry/QNX — `WAITING` P0 on **24 Sep 2026 Q2 FY2027 results** or earlier material non-auto production-economics evidence.
+- #106 BlackBerry/QNX — `WAITING` P0 after the 24 Sep Q2 FY2027 Gate-E refresh merged via PR #184; next trigger is <=~US$7 with thesis intact or material new Alloy Kore/content/backlog/non-auto production evidence.
 - #108 FORT Robotics — `WAITING` P1 on S-4/equivalent / transaction change.
 - #129 Centrus — `WAITING` P1 on ~US$120–130 with thesis intact or specific funded-capacity / DOE / customer / construction evidence.
 - #130 Jinpan — `WAITING` P1 on ~CNY54–57 with thesis intact or named/repeat global AIDC / margin / FCF evidence.
@@ -110,7 +110,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
 
-**Current portfolio interpretation (15 Sep 2026):** Laifual is the first governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual, so cash remains uncommitted until the user acts. The remaining 95% of the research capital stays tactical cash / conditional sleeves; Centrus and Modine remain the next independent-return-engine priorities, while QNX is the next dated P0 information event.
+**Current portfolio interpretation (24 Sep 2026):** Laifual remains the only governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual. Centrus and Modine remain the leading independent-return-engine alternatives. QNX's dated Q2 event has been assessed and is now `REASSESS / WAIT`; Ouster's sensing/Gate-E work has also completed and remains outside the Top 10 pending a materially better valuation/evidence setup.
 
 
 ## Two modes inside one scheduler
