@@ -1,76 +1,62 @@
-# Cross-theme Top-10 Potential-Unicorn Research Priority
+# Unicorn Ranked Research Universe
 
-**Status:** Active cross-theme research queue  
-**Common-basis reference:** 2026-09-09  
-**Live Gate-E overlay refreshed:** 2026-09-24  
+**Status:** Active canonical cross-theme ranking  
+**Live Gate-E refresh:** 2026-09-24  
 **Parent backlog:** #110  
-**Active sprint:** #112  
-**Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality, company-level capture and the stock setup.
+**Purpose:** Continuously rank every company with sufficient evidence by structural bottleneck quality, company capture, financial materiality, valuation/setup, marginal portfolio contribution and evidence confidence.
 
-> This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
+> This is a **research-prioritisation surface, not an investment recommendation list**. Rank does not authorize a trade. There is no Top-10 admission or displacement gate: every sufficiently researched company belongs in the same ordered universe. A Top-10 view, if used, is only a derived display.
 
+## Authoritative live ranking — 24 September 2026
 
-## Advantech challenger test — 24 September 2026
+| Rank | Company | Bottleneck / exposure | Gate-E / research state | Evidence confidence | Current setup | Next governed trigger |
+|---:|---|---|---|---|---|---|
+| **1** | **Laifual Drive** | Robotics precision transmission / actuation | **ACTION monitor / WAITING P0** | Medium capture; Low-Medium long-run equity | Only governed starter action; independent Physical-AI return engine | 5% starter only at executable <=HK$48; re-underwrite before add |
+| **2** | **Centrus Energy** | HALEU / strategic nuclear fuel | **REASSESS / WAITING P1** | Medium | Customer pre-funding strengthens independent return engine; full funded-capacity bridge missing | ~US$120–130 or funded-capacity / construction / customer / DOE evidence |
+| **3** | **Modine / Modexus** | AI data-centre cooling | **WAITING P1** | Medium | Independent cooling engine; separation catalyst near | ~US$155–165 or 1 Oct close / stronger post-spin margin/FCF |
+| **4** | **BlackBerry / QNX** | Deterministic runtime / safety | **REASSESS / WAIT P0** | Medium-High operating; Medium equity | Q2 quality/backlog improved; ~US$8.3–8.5 embeds substantial success | <=~US$7 or new Alloy Kore/content/backlog/non-auto production evidence |
+| **5** | **Japan Electronic Materials** | HBM / memory probe cards | **WAITING P1** | Medium | Strong memory valuation/evidence balance; correlation lowers marginal priority | <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
+| **6** | **SUSS MicroTec** | Advanced packaging / HBM stacking | **WAITING P1** | Medium | Strong 2027 visibility; governed price zone below recent references | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
+| **7** | **Hainan Jinpan** | AI power / transformers | **WAITING P1** | Medium-Low | Exceptional AIDC/order growth; global qualification and cash conversion weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
+| **8** | **Advantech** | Industrial edge deployment / fleet layer | **REASSESS / WATCH** | Medium-High capture; Low-Medium equity | Profitable AI/edge exposure; premium ~29–32x forward earnings hurdle | 29 Oct earnings: AI/WEDA mix, order conversion, margins and valuation |
+| **9** | **Raspberry Pi** | Low-cost edge compute / industrial OEM | **REASSESS / WATCH** | Medium | Strong H1 OEM evidence; rerating and temporary memory economics cloud normalized FY27 | FY27–28 estimate reset; H2 backlog conversion and normalized gross margin |
+| **10** | **Weebit Nano** | ReRAM / emerging NVM | **WAITING P1** | Medium-Low | Venture-style optionality; recurring royalty proof missing; memory-correlated | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
+| **11** | **Micronics Japan** | HBM / memory probe cards | **WAITING P1** | Medium-High operating | Strong franchise; valuation/concentration and memory correlation reduce marginal contribution | ~¥10,000–10,800 or HBM4/HBM4E share/diversification/FCF |
+| **12** | **Ambarella** | Edge-AI inference silicon | **REASSESS / WATCH** | High capture; Low-Medium equity | Direct Physical-AI exposure; profit conversion and premium valuation remain hurdles | FY27 operating leverage; Hanwha/LTA conversion; X7 production wins |
+| **13** | **FORT Robotics** | Physical-AI safety/control | **WAITING P1** | Low-Medium | Clean safety optionality; transaction/dilution/recurring economics incomplete | S-4/equivalent filing |
+| **14** | **Akamai** | Distributed CPU / AI infrastructure | **REASSESS / WATCH** | High demand validation; Low-Medium equity | Anthropic validates demand; capex, dilution and incremental ROIC unresolved | deployment/revenue schedule; CIS margin/depreciation; funding/utilization |
+| **15** | **Ouster** | Lidar / perception | **REASSESS / WAIT** | Medium | Real sensing capture; valuation, normalized margin and FCF remain gating | <=~US$25 price-led or materially stronger normalized margin/FCF/software evidence |
+| **16** | **Harmonic Drive Systems** | Robotics precision transmission | **PARKED P2** | Medium operating; Low equity | Strong technical benchmark; valuation already capitalizes substantial humanoid success | sharp valuation reset or quantified humanoid earnings materiality |
 
-The value-chain-first scan (#224) surfaced **Advantech (TWSE:2395)** as an industrial-edge / Physical-AI deployment challenger. #228 confirms strong company quality and real deployment-layer exposure: 1H26 revenue +32%, operating margin 19.0%, net income +66%, high Q2 book-to-bill, and an expanding WEDA stack spanning model deployment, OTA/monitoring and fleet management.
+### Evidence-building universe — ranked after Gate-E-capable names
 
-**Decision:** retain the existing Top 10. Advantech enters the immediate challenger set as **REASSESS/WATCH** alongside AMBA and RPI. The key constraint is valuation: roughly 29-32x forward earnings and ~33x EV/EBITDA already capitalize substantial quality/growth. Promotion requires AI/WEDA mix and design-win conversion to sustain earnings growth above the embedded hurdle.
+These companies have enough evidence to retain in the ordered research universe but not enough company-level financial/valuation proof for a full Gate-E comparison. Their lower placement reflects **evidence maturity**, not a conclusion that the businesses are inferior.
 
-## Ambarella challenger test — 24 September 2026
-
-The value-chain-first scan (#224) surfaced **Ambarella (AMBA)** as the strongest new edge/Physical-AI challenger. #226 finds unusually strong company-capture evidence — edge-AI SoCs were 80% of FY2026 revenue and >370 customer AI projects were in production — but current equity asymmetry is not yet proven. Around the 23 Sep ~$67.62 reference, public data imply ~6.5x EV/revenue and a high forward earnings multiple while GAAP profitability is still developing.
-
-**Decision:** retain the existing Top 10. AMBA enters the immediate challenger set as **REASSESS/WATCH**. It does not displace #10 FORT or another incumbent until operating leverage, Hanwha/LTA conversion and X7 production wins support a superior 18-month return/downside case.
-
-## Evidence-chain calibration — 24 September 2026
-
-**Claim -> evidence -> inference -> allocation implication:** this surface must distinguish evidence that a bottleneck or scarce complement exists from evidence that a specific listed company can capture durable incremental economics from it. A technically important layer can remain unattractive or uninvestable because competition, diversification, capital intensity, private-company capture or starting valuation absorbs the economics.
-
-**Evidence quality / freshness:** prefer primary operating/customer/technical evidence for company capture and use secondary market/industry material mainly to map the landscape. Observation freshness is independent of document edit date; live ranking/allocation conclusions require refreshed company and valuation evidence at their governed trigger.
-
-**Strongest counter-case:** bottlenecks migrate. Supply response, architectural substitution, vertical integration, qualification of alternatives or private-company capture can move the profit pool away from the initially identified scarce complement. Treat these as active falsifiers, not footnotes.
-
-**Calibration boundary:** cross-theme ranking is a research/allocation prioritization device, not proof of expected return. Do not promote a company solely because its bottleneck scores highly. Company capture, financial materiality, valuation and portfolio correlation must survive their own evidence chain.
-
----
-
-## Live Gate-E decision overlay — 24 September 2026
-
-> This section is the **authoritative current work/portfolio-priority overlay**. Gate E optimizes for marginal portfolio contribution, current catalysts, governed transaction conditions and correlation. The 22 September scarce-complements remap raises the hurdle for incremental correlated memory exposure but does not mechanically demote existing candidates.
-
-| Live rank | Company | Current Gate-E state | Why it ranks here now | Next governed trigger |
+| Rank | Company | Exposure | State / confidence | Promotion evidence |
 |---:|---|---|---|---|
-| **1** | **Laifual Drive** | **WAITING P0 / ACTION monitor** | only live governed starter action; independent Physical-AI return engine | starter 5% only at executable <=HK$48; re-underwrite before any add |
-| **2** | **Centrus Energy** | **WAITING P1 / REASSESS** | Antares joins X-energy and Radiant in customer pre-funding, strengthening independent strategic-fuel evidence; disclosed capacity/funding bridge still missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
-| **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine; 1 Oct separation is now the nearest structural catalyst after the 17 Sep RMT adjustment | ~US$155–165 or 1 Oct close / stronger post-spin margin/FCF |
-| **4** | **BlackBerry / QNX** | **REASSESS / WAIT P0** | Q2 materially strengthens QNX operating quality and backlog conversion, but ~US$8.3–8.5 already embeds substantial success | <=~US$7 price-led re-underwrite or new Alloy Kore/content/backlog/non-auto production evidence |
-| **5** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance, but memory correlation lowers marginal portfolio priority | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
-| **6** | **SUSS MicroTec** | WAITING P1 | strong 2027 visibility; governed price zone remains below recent references and memory correlation matters | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
-| **7** | **Hainan Jinpan** | WAITING P1 | independent AI-power sensitivity and exceptional order growth, but cash/global qualification remain weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
-| **8** | **Weebit Nano** | WAITING P1 | high venture-style optionality, still pre-recurring royalty and correlated with the crowded memory lane | ~A$2.5–2.7 or meaningful recurring production royalty/adoption |
-| **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but valuation/concentration and memory correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
-| **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics remain incomplete | S-4/equivalent filing |
+| **17** | **Tecan** | Scientific-AI execution / lab automation | WATCH / evidence-building; Medium | paid Introspect/AI adoption, AI-linked orders, consolidated earnings materiality; 5 Nov Q3 checkpoint |
+| **18** | **Bruker / Chemspeed / SciY** | Scientific-AI measurement + automation + orchestration | WATCH / evidence-building; Medium | repeated AI-linked bookings, named multi-site SDL deployments, recurring software/service attach |
+| **19** | **Furukawa Electric / SuperPower** | Fusion HTS / magnet enabling infrastructure | bounded follow-up; Medium-Low | funded demand, qualification/scarcity, company-level materiality, valuation/downside |
+| **20** | **VAT Group** | Fusion / vacuum infrastructure comparator | MONITOR; Low-Medium | direct fusion capture and financial materiality |
+| **21** | **PTC** | Simulation / verification / fleet feedback | DISCOVERY / evidence-building; Low-Medium | isolate AI/Orbit economic capture and recurring deployment economics |
+| **22** | **Arm** | Edge/cloud/Physical-AI compute architecture | DISCOVERY / comparator; Medium structural, Low capture asymmetry | isolate incremental Physical-AI economics and valuation asymmetry |
+| **23** | **Cognex / RealSense** | Machine vision / depth sensing | EVENT UNDERWRITE / evidence-building | post-transaction economics, sensing capture and valuation |
+| **24** | **Teradyne Robotics** | Robotics deployment | COMPARATOR / evidence-building | robotics financial materiality relative to semiconductor test |
+| **25** | **Caterpillar** | Autonomous physical-machine deployment | COMPARATOR / low purity | AI/autonomy becomes sufficiently material to move consolidated economics |
 
-### 24 September RPI / AKAM challenger integration
+## Ranking rules
 
-The completed #218/#219 deep dives add two **immediate Top-10 challengers**, but neither currently displaces the governed live Top 10.
+Rank is continuous rather than membership-based. A company moves **up** when direct evidence strengthens company capture, financial materiality, recurring economics, funding/dilution, valuation asymmetry or marginal portfolio contribution. It moves **down** when price outruns evidence, concentration or substitution risk increases, economics prove cyclical, capital intensity/dilution absorbs the upside, or evidence confidence weakens.
 
-| Challenger | Gate-E state | Why it matters | Why not promoted now | Next governed trigger |
-|---|---|---|---|---|
-| **Raspberry Pi (RPI)** | **REASSESS / WATCH** | H1 2026 gives direct industrial/OEM evidence: 4.2m shipments (+17%), direct +26%, 2.6m backlog, and a credible low-cost edge-AI platform | 755p repricing plus temporary lower-cost memory economics make normalized FY27 earnings/valuation unresolved | post-results FY27-28 consensus reset; H2 backlog conversion and normalized gross margin |
-| **Akamai (AKAM)** | **REASSESS / WATCH** | $11.6bn Anthropic commitment validates distributed CPU/AI infrastructure at transformative scale; strengthens scarce-complements map | ~$5.5bn associated capex, up to ~5% warrant dilution, concentration and undisclosed contribution margins prevent a defensible incremental-ROIC case | deployment/revenue schedule; CIS margin/depreciation; capex funding/utilization evidence |
+Companies are not excluded because they fall below an arbitrary cutoff. Where evidence is insufficient for meaningful relative placement, keep the company in discovery/theme research until a bounded company screen can establish a rank.
 
-**Ranking decision:** retain FORT at #10 for audit continuity and transaction optionality. RPI is the closer **company-specific** challenger because current operating capture is already visible; AKAM is the stronger **cross-theme evidence event** but requires more capital-return disclosure. Neither price spike is itself a promotion trigger.
+**Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Rank alone never creates an ACTION. Brokerage execution is manual; tactical cash remains the default for undeployed capital.
 
-**Portfolio implication:** no new governed ACTION. The new evidence broadens the under-covered Physical-AI/edge and distributed-compute lanes without increasing the already-crowded memory allocation.
+## Historical ranking material
 
-**24 September QNX refresh:** QNX remains **#4** after FY27 Q2. Operating evidence improved materially (US$80.3m QNX revenue, 87% gross margin, US$29m adjusted EBITDA, raised FY27 guidance and backlog conversion), but the stock remains **REASSESS / WAIT** because ~US$8.3–8.5 already prices substantial QNX success. Re-underwrite at <=~US$7 or on new evidence that advances the US$500m+ revenue path. Centrus remains #2 and Modine #3.
+The material below is retained for audit/history only. **It is not authoritative current ranking state.** References to “Top 10”, “challenger”, admission or displacement below describe the historical process before #230 replaced the cutoff with a continuous ranked universe.
 
-**Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Brokerage execution is manual and no holding is assumed. Tactical cash remains the default for undeployed capital.
-
-**Research-universe implication:** the 22 September scarce-complements remap identifies memory as over-covered and scientific-AI execution, simulation/evaluation/verification and sensing as under-covered. New discovery candidates can enter future Top-10 revisions only after company-level capture and Gate-E evidence; no blind-spot candidate is promoted merely because its bottleneck is attractive.
----
-## 1. Ranking method
+## Historical: 9 September common-basis ranking method
 
 The ranking separates three questions:
 
@@ -90,7 +76,7 @@ The active #112 sprint adds a common decision surface for every company:
 
 The valuation method must match the business. Do not force P/E analysis onto royalty, SPAC, SOTP or funded-capacity cases.
 
-## 2. Current Top 10 — first #112 common-basis pass
+## Historical: 9 September Top-10 common-basis pass
 
 | Rank | Company | Theme | 9 Sep stock / value framing | Current label | Why it ranks here |
 |---:|---|---|---|---|---|
@@ -196,7 +182,7 @@ These deserve active monitoring because price or earnings evidence can plausibly
 
 **INTERPRETATION:** Do not advance FORT's valuation work beyond the rough transaction screen until the registration statement provides audited notes, dilution and revenue-mix detail.
 
-## 6. Current research order
+## Historical: 9 September research order
 
 The ranking is a decision priority, not a sequence that blocks work on the rest.
 
