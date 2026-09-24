@@ -2,6 +2,15 @@
 
 ## 2026-09-24
 
+### #202 evidence-chain retrofit — Wave 4
+
+- Applied the #193/#196 calibration boundary across the complete 30-file technical/deep-dive corpus: energy, memory, Physical AI and robotics/actuators.
+- Deep dives now explicitly separate technical bottleneck evidence from where the economic profit pool lands; require source/freshness discipline; and test supply response, substitution, vertical integration, commoditization and alternative process paths as active counter-evidence.
+- Ouster received a company-specific sensing/capture calibration; QNX retains the richer Gate-E calibration already added in Wave 1 rather than duplicating a generic block.
+- No company state or brokerage trade changed from the retrofit.
+
+## 2026-09-24
+
 ### #200 evidence-chain retrofit — Wave 3
 
 - Calibrated six cross-theme/capture/ranking surfaces under #193/#196.

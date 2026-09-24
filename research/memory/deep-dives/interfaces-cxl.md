@@ -5,6 +5,19 @@
 **Last substantive update:** 2026-09-07  
 **Backlog:** closes issue #13 when merged
 
+
+## Deep-dive evidence calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> research implication:** distinguish evidence that the technical bottleneck exists from evidence about where the profit pool lands. A real engineering constraint is not by itself evidence that a listed supplier has durable pricing power or attractive equity upside.
+
+**Evidence quality / freshness:** prioritize technical primary sources, customer/operator evidence and issuer/regulatory disclosures. Use industry estimates to size uncertainty, not to silently upgrade it to fact.
+
+**Strongest counter-evidence / substitute:** explicitly test supply response, architectural substitution, vertical integration, standardization/commoditization and alternative process paths. Bottleneck migration is an expected possibility.
+
+**Economic-capture boundary:** before promotion from this deep dive, require direct company capture, financial materiality and valuation evidence. Do not infer stock attractiveness from technical importance alone.
+
+---
+
 ## Executive conclusion
 
 **FACT:** Server memory modules do not connect raw DRAM directly to the CPU at modern DDR5 speeds. RDIMMs require specialist interface silicon such as the Registering Clock Driver (RCD), while MRDIMMs add a Multiplexed Registering Clock Driver (MRCD) and multiple Multiplexed Data Buffers (MDBs). Intel's current Xeon 6 MRDIMM implementation reaches up to 8,800 MT/s and uses on-module buffering/multiplexing to raise bandwidth; AMD says it plans to support the JEDEC-standard MRDIMM generation when available.

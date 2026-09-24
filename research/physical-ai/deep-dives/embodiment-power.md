@@ -5,6 +5,19 @@
 **Confidence:** Medium-High on industrialization; Medium on energy-density/system constraints  
 **Last substantive update:** 2026-09-08
 
+
+## Deep-dive evidence calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> research implication:** distinguish evidence that the technical bottleneck exists from evidence about where the profit pool lands. A real engineering constraint is not by itself evidence that a listed supplier has durable pricing power or attractive equity upside.
+
+**Evidence quality / freshness:** prioritize technical primary sources, customer/operator evidence and issuer/regulatory disclosures. Use industry estimates to size uncertainty, not to silently upgrade it to fact.
+
+**Strongest counter-evidence / substitute:** explicitly test supply response, architectural substitution, vertical integration, standardization/commoditization and alternative process paths. Bottleneck migration is an expected possibility.
+
+**Economic-capture boundary:** before promotion from this deep dive, require direct company capture, financial materiality and valuation evidence. Do not infer stock attractiveness from technical importance alone.
+
+---
+
 ## Executive conclusion
 
 The broader Physical AI view preserves the actuator findings but changes their importance.
