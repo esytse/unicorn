@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #224 first value-chain-first discovery test
+
+- Executed the new scan architecture across the full AI/Physical-AI value chain rather than conventional sector taxonomies.
+- Identified edge compute/deployment, simulation/verification and fleet feedback as the clearest under-covered layers.
+- Surfaced **Ambarella** as the strongest new listed challenger and **Advantech** as a credible industrial-edge misclassification candidate; ARM and PTC were retained as structural observations pending asymmetry/materiality evidence.
+- Recorded negative screens for broad industrial and private-only exposures to prevent narrative-driven promotion.
+- No Top-10 or brokerage ACTION changed; follow-up company underwriting is required before promotion.
+
+
+## 2026-09-24
+
 ### Value-chain scan blind-spot fix
 
 - Converted the RPI/AKAM discovery miss into a permanent research-process control rather than a one-off observation.
