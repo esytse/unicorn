@@ -10,6 +10,12 @@
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
 
+## Advantech challenger test — 24 September 2026
+
+The value-chain-first scan (#224) surfaced **Advantech (TWSE:2395)** as an industrial-edge / Physical-AI deployment challenger. #228 confirms strong company quality and real deployment-layer exposure: 1H26 revenue +32%, operating margin 19.0%, net income +66%, high Q2 book-to-bill, and an expanding WEDA stack spanning model deployment, OTA/monitoring and fleet management.
+
+**Decision:** retain the existing Top 10. Advantech enters the immediate challenger set as **REASSESS/WATCH** alongside AMBA and RPI. The key constraint is valuation: roughly 29-32x forward earnings and ~33x EV/EBITDA already capitalize substantial quality/growth. Promotion requires AI/WEDA mix and design-win conversion to sustain earnings growth above the embedded hurdle.
+
 ## Ambarella challenger test — 24 September 2026
 
 The value-chain-first scan (#224) surfaced **Ambarella (AMBA)** as the strongest new edge/Physical-AI challenger. #226 finds unusually strong company-capture evidence — edge-AI SoCs were 80% of FY2026 revenue and >370 customer AI projects were in production — but current equity asymmetry is not yet proven. Around the 23 Sep ~$67.62 reference, public data imply ~6.5x EV/revenue and a high forward earnings multiple while GAAP profitability is still developing.
