@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #196 evidence-chain retrofit — Wave 1
+
+- Extended the #193/#195 evidence-chain calibration from Laifual across eight additional live Gate-E research files: Centrus, Modine/Modexus, BlackBerry/QNX, JEM, SUSS, Hainan Jinpan, Weebit Nano and Micronics Japan.
+- Each retrofit separates structural demand, company capture, financial materiality and remaining-window equity confidence; identifies the strongest weak/disconfirming bridge; treats governed price conditions as reassessment regions rather than falsely precise intrinsic values; and separates fundamental from rerating dependence.
+- No company state changed solely because of the methodology retrofit.
+- FORT remains in Wave 1 scope but its current evidence is distributed across the Physical-AI programme/issues rather than a canonical company file; its canonicalization will be handled explicitly rather than inventing a file path.
+- Laifual was completed separately in #195.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### #193 evidence-chain pilot — Laifual
 
 - Piloted the new evidence-chain/calibration standard on Laifual, the only current governed ACTION monitor.
