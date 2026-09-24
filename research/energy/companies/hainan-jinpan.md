@@ -8,6 +8,28 @@
 **Last substantive update:** 2026-09-10  
 **Backlog:** #130
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | AI-power/order growth is strong, but named global qualification, cash conversion and margin durability are less proven |
+| Company economic capture | **Medium** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **Medium-Low** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium-Low** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **global qualification, working capital/cash and margin**. The governed price condition around **CNY54–57 area** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** global qualification, working capital/cash and margin. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Gate-E conclusion
 
 **CONCLUSION:** Jinpan is a genuine AI-power operating-capture candidate, not merely a thematic transformer name. H1 2026 data-centre and overseas order growth is large enough to change group economics, the company has an established international footprint, and a new Virginia production base improves North-American delivery capability. But at the **10 September 2026 close of about CNY65.51**, the stock already discounts a significant earnings ramp while H1 cash conversion remains negative and named hyperscaler/customer verification remains incomplete.

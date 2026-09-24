@@ -9,6 +9,28 @@
 **Last substantive update:** 2026-09-22  
 **Backlog:** #129
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | customer prepayments and DOE support prove strategic demand/funding participation, but disclosed commercial-capacity funding/timing and per-share economics remain incomplete |
+| Company economic capture | **Medium** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **Medium-Low** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium-Low** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **commercial capacity/dilution and execution timing**. The governed price condition around **US$120–130** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** commercial capacity/dilution and execution timing. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Executive conclusion
 
 **CONCLUSION:** Centrus is materially more interesting after the September 2026 financing and subsequent share-price reset, but the current evidence still supports **REASSESS / WAIT — not ACTION** rather than a research-level Buy.

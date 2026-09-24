@@ -7,6 +7,28 @@
 **Last evidence refresh:** 2026-09-19  
 **Backlog:** issue #146
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | data-centre cooling demand and customer capacity commitment are real; normalized margin/FCF after the ramp and separation remain the decisive bridge |
+| Company economic capture | **Medium-High** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **Medium** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **margin recovery, concentration and post-separation FCF**. The governed price condition around **US$155–165** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** margin recovery, concentration and post-separation FCF. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Current Gate-E conclusion
 
 **INTERPRETATION:** Modine remains one of the stronger independent return-engine candidates because its near-window earnings driver is data-centre thermal-capacity conversion rather than memory/HBM pricing. The 17 Sep Reverse Morris Trust (RMT) adjustment is material enough to require explicit treatment, but the parties state that the mechanism is designed to preserve the negotiated relative equity values. The lower cash distribution should therefore **not** be treated mechanically as value leakage. The current signal remains **REASSESS / WAIT — not ACTION**.

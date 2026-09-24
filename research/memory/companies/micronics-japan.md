@@ -7,6 +7,28 @@
 **Confidence:** Medium-High on operating / memory-probe capture; Medium-Low on current March-2028 deployability  
 **Last substantive update:** 2026-09-13
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | operating capture, margins and HBM linkage are strong; starting valuation, customer concentration and memory correlation reduce remaining-window asymmetry |
+| Company economic capture | **High** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **High** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **valuation, Samsung/Micron concentration and HBM4 share**. The governed price condition around **¥10,000–10,800 area** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** valuation, Samsung/Micron concentration and HBM4 share. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Executive conclusion
 
 **INTERPRETATION:** Micronics Japan remains the **strongest operating/technical franchise** in the Japanese memory-probe-card comparison, but the current 18-month Gate-E underwrite does **not** support a research-level `ACTION` at the latest verified **11 September 2026 close of ¥12,680**.

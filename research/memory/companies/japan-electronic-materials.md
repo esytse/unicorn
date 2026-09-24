@@ -7,6 +7,28 @@
 **Confidence:** Medium on current operating capture; Medium-Low on deployability / HBM-generation proof  
 **Last substantive update:** 2026-09-09
 
+
+## Evidence-chain calibration — 24 September 2026
+
+| Decision layer | Confidence | Current evidence boundary |
+|---|---|---|
+| Structural bottleneck / demand | **High** | HBM/probe complexity is well evidenced and earnings are real; exact HBM4/HBM4E share and cash conversion remain less directly disclosed |
+| Company economic capture | **Medium-High** | same evidence supports company relevance, but must not be extrapolated beyond disclosed customers/orders/production |
+| Financial materiality | **Medium** | requires observable earnings/cash/capacity conversion rather than theme growth alone |
+| Remaining-window equity case | **Medium** | depends on both fundamental delivery and the valuation paid for that delivery |
+
+**Claim -> evidence -> inference -> action:** the current research supports the existing Gate-E state because the strongest direct evidence establishes the bottleneck and some company capture, while the weakest bridge remains **HBM share proof, cash conversion and memory correlation**. The governed price condition around **~¥6,100 area** is therefore a **reassessment band/region**, not a claim of point-value intrinsic precision.
+
+**Strongest disconfirming evidence / substitute:** HBM share proof, cash conversion and memory correlation. A lower share price by itself does not resolve this evidence gap.
+
+**Evidence freshness:** use the latest issuer/regulatory/customer observations already cited in this file as the current evidence set; refresh operating, customer, competitive and market evidence when the governed trigger fires. A recent edit date must not be treated as evidence freshness.
+
+**Return bridge:** any large March-2028 outcome requires a fundamental earnings/cash/capacity bridge **and** a valuation/rerating bridge. Keep those contributions conceptually separate; do not manufacture numerical probabilities without calibration history.
+
+**Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
+
+---
+
 ## Executive conclusion
 
 **INTERPRETATION:** JEM remains the most interesting **valuation/asymmetry lead** in the Japanese memory-probe-card peer set, but the 18-month Gate-E underwrite does **not** support a current research-level `ACTION` at the 9 September 2026 close of **¥6,570**.
