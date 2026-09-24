@@ -6,7 +6,7 @@
 **Investment Capture Score:** **4.0 / 5**  
 **Gate-E portfolio role:** Catalyst asymmetric / strategic nuclear-fuel option  
 **Confidence:** Medium on strategic scarcity and financing access; Medium-Low on March-2028 per-share deployability  
-**Last substantive update:** 2026-09-22  
+**Last substantive update:** 2026-09-24  
 **Backlog:** #129
 
 
@@ -156,6 +156,69 @@ This is the strongest reason to refresh the Gate-E underwrite now.
 **Gate-E change:** confidence in **commercial demand / customer willingness to pre-fund** increases modestly; confidence in **March-2028 per-share deployability** remains Medium-Low. Scenario boundaries and position-size ceilings remain unchanged. A future evidence-led ACTION above $120–130 still requires a disclosed capacity/funding bridge and dilution-adjusted 60%+ remaining-window upside without relying on the stretch case.
 
 ---
+
+## 4B. 24 September funded-capacity / per-share bridge audit
+
+This audit answers the Wave-5 question using only currently disclosed evidence. It does **not** treat the already-assessed Antares announcement as a new trigger.
+
+### What is funded or liquid today
+
+**FACT:** Centrus reported **$1.869bn of cash and cash equivalents at 30 June 2026**. The September offering adds approximately **$489m estimated net proceeds**, implying a mechanical pre-use liquidity reference of about **$2.358bn** before post-June operating/capital use, acquisitions and other balance-sheet movements.
+
+**FACT:** the company also had approximately **$1.208bn principal amount of convertible notes** outstanding. Cash therefore cannot be treated as unencumbered project equity or subtracted from market capitalization without recognizing debt, working capital and industrial-build requirements.
+
+**FACT:** Centrus's 2026 outlook calls for **$350–500m of total capital deployment**, driven by the industrial build-out and centrifuge manufacturing. The offering prospectus permits broad uses rather than ring-fencing the new cash to a defined Piketon capacity tranche.
+
+**FACT:** the signed DOE HALEU expansion award is **$900m firm-fixed-price and milestone based**. It is project support, not $900m of unrestricted upfront cash.
+
+**FACT:** X-energy, Radiant and Antares agreements each include customer prepayments supporting commercial enrichment capacity, but the public disclosures do **not** quantify the amounts or payment schedules.
+
+**INTERPRETATION:** Centrus now has a credible multi-source capital stack — balance-sheet cash, equity/pre-funded-warrant proceeds, DOE milestone funding and customer prepayments — but public evidence still does not permit a defensible statement that a specific commercial capacity tranche is fully funded.
+
+### Construction and timing bridge
+
+**FACT:** Centrus selected Fluor as EPC partner and Geiger Brothers as construction contractor for the Piketon expansion. Centrifuge manufacturing for the expansion began in Oak Ridge in December 2025, and the company expects to release a Certified for Construction package during 2026.
+
+**FACT:** the expansion is described as **multi-billion-dollar**, with thousands of additional AC100M centrifuges and at least 12 MTU/year of HALEU capacity in the longer-term build.
+
+**FACT:** Centrus has publicly stated that the **first new capacity is expected online in 2029**.
+
+**INTERPRETATION:** this is the critical March-2028 boundary. The active portfolio window ends before the company's stated first-new-capacity date. Therefore a March-2028 equity outcome cannot responsibly be underwritten primarily to earnings from the new commercial enrichment capacity. The bridge must instead come from de-risking: contracted funding, construction/manufacturing milestones, backlog conversion, customer schedules and the market value assigned to a demonstrably financed 2029+ franchise.
+
+### Dilution-adjusted capitalization states
+
+Using the 4 September reported 19.234m Class A shares as the pre-offering reference:
+
+| Capitalization state | Approx. shares / equivalents | Change vs 4-Sep common | Economic interpretation |
+|---|---:|---:|---|
+| Reported common + 500k new common | **19.734m** | **+2.6%** | legal common-share step before pre-funded exercise |
+| + 2.006m pre-funded warrants | **21.739m** | **+13.0%** | better economic-share baseline because exercise is only $0.10 |
+| + all 6.992m new common warrants | **28.732m** | **+49.4%** | contingent high-price dilution; also brings up to ~$2bn exercise cash |
+| + historical ~1.97m convertible-note diluted-EPS reference | **~30.70m** | **~59.6%** | stress context only; actual convert treatment depends on price/settlement |
+
+**INTERPRETATION:** the September financing substantially improves funding capacity, but per-share value creation is not demonstrated merely by adding cash. At higher stock prices, warrant exercise can finance expansion while increasing the denominator. The correct test is **incremental funded enterprise value per incremental diluted share**, not gross project dollars.
+
+### Current market sensitivity — 24 September
+
+**FACT:** a current public market reference on 24 September is approximately **$151/share**, still above the governed **$120–130 reassessment band**.
+
+At $151, the 21.739m common-equivalent baseline implies roughly **$3.28bn equity value**. Using the mechanical $2.358bn pre-use cash reference and $1.208bn note principal produces an illustrative pre-other-liabilities/assets enterprise-value reference of roughly **$2.13bn**. This is deliberately not presented as a precise current EV because post-June cash use, operating working capital, acquisition spending and other balance-sheet items are not yet refreshed.
+
+**INTERPRETATION:** today's price has not supplied the price-led margin of safety. More importantly, the evidence-led route is also incomplete because disclosed funding has not yet been mapped to a dated, fully financed capacity tranche.
+
+### What the audit resolves
+
+1. **Demand/funding participation is no longer the weak link.** Three commercial customers have agreed to pre-fund, DOE has a signed milestone contract, and Centrus has raised substantial liquidity.
+2. **The unresolved link is allocation and timing.** We do not know how much customer cash arrives when, how much of corporate liquidity is committed to each capacity tranche, or the remaining financing need after the 2026 industrial spend.
+3. **March 2028 is a de-risking window, not a new-capacity earnings window.** First new capacity is expected in 2029.
+4. **Dilution is manageable only if funded project value compounds faster than the share-equivalent denominator.** Common warrants are less damaging than zero-cash dilution because they carry high exercise prices and large cash proceeds, but they still cap per-share participation in upside.
+
+### Governed conclusion
+
+**State remains REASSESS / WAIT.** The audit strengthens confidence that Centrus can assemble a capital stack, but it does not satisfy the existing evidence-led ACTION gate. A promotion requires primary evidence that quantifies a specific capacity tranche, its total cost, committed funding sources, construction/commissioning dates and the resulting diluted per-share value bridge.
+
+**Next decisive evidence:** a disclosed funded-capacity schedule / project financing package, a material DOE or national-security funding change, quantified customer prepayments, or construction/manufacturing disclosure that pulls economic visibility materially into the March-2028 decision window. Price around $120–130 remains a reassessment region, not an automatic transaction instruction.
+
 
 ## 5. March-2028 scenario boundaries
 
