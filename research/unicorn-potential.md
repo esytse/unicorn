@@ -8,9 +8,13 @@
 
 The broad ranked universe answers **what deserves research attention**. Gate E answers **what, if anything, is actionable at today's price and evidence**. Neither question is identical to **where could a genuine multibagger emerge?**
 
-Unicorn Potential is therefore a separate funnel:
+Unicorn Potential is therefore a **downstream validation layer**, not the primary discovery thesis. The full architecture is:
 
-**world change → bottleneck migration → company capture → non-linear financial transmission → reverse-underwritten multibagger → evidence validation → Gate E**
+**Discovery:** world change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture
+
+**Validation / allocation:** non-linear financial transmission → reverse-underwritten multibagger → evidence validation → Gate E
+
+The existing ranked universe must not become a closed search space. Thesis-first discovery should regularly originate outside it; newly discovered candidates are then compared with the known inventory.
 
 A large high-quality beneficiary can rank highly in the broad universe while failing Unicorn Potential because its starting scale makes a 5x outcome implausible. Conversely, a lower-ranked, poorly understood small company can deserve urgent work if a credible 5x mechanism is emerging.
 
