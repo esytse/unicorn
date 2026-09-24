@@ -1,5 +1,17 @@
 # Research Changelog
 
+## 2026-09-25
+
+### #251 Vicor VPD scarce-complement underwrite
+
+- Followed #249's thesis-first discovery into Vicor rather than promoting it mechanically.
+- Primary evidence validates the structural chain: VPD solves a rising AI point-of-load constraint; additional OEM licensing creates royalty economics; Fab-1 is approaching capacity and Fab-2/Fab-3 sites are being acquired.
+- The equity setup is much less attractive than the bottleneck signal: around $276/share and ~$13bn equity value on 24 Sep, a 3x outcome requires ~$39bn equity and roughly ~$1.0–1.3bn annual earnings at 40–30x.
+- Classified Vicor **POTENTIAL / WATCH**, not UNDERWRITE: excellent original-thesis validation, but current valuation already capitalizes a large part of the opportunity and disclosed royalty/capacity economics do not yet bridge 3x.
+- Next discovery should follow point-of-load power outward to smaller packaging/passive/magnetic/thermal suppliers rather than forcing Vicor into Gate E.
+- No Gate-E action or brokerage instruction changed.
+
+
 ## 2026-09-24
 
 ### #249 first restored thesis-first discovery scan
