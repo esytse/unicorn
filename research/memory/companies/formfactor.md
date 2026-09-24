@@ -17,6 +17,16 @@
 
 **Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ~$103.90 and ~$8.1bn equity value. Mechanical hurdles are **~$24.3bn (3x), ~$40.5bn (5x), ~$81bn (10x)**. At 30x earnings those equity values require approximately **$810m / $1.35bn / $2.70bn net income**.
+
+HBM share at all three major manufacturers and >50% HBM probe-card growth validate capture, but the starting value is already large. Q2 revenue was $258.2m with $52.6m FCF; a 3x outcome therefore needs a multi-year earnings step well beyond the current run-rate rather than simple multiple expansion.
+
+**Unicorn state: FAILED / PARKED at the current reference.** FormFactor remains high-quality HBM exposure, but its current scale/valuation makes the 3x hurdle too demanding on existing evidence.
+
+
 ---
 
 ## Snapshot
