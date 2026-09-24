@@ -25,7 +25,7 @@ This is not a claim that model providers cease to matter. It is a research lens 
 
 The canonical chain is:
 
-> **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Capital Allocation**
+> **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Company Discovery → Economic Capture → Capital Allocation**
 
 ## What the framework means
 
@@ -66,7 +66,9 @@ For every claimed bottleneck, test:
 
 ### 4. Capital allocation
 
-This framework is upstream of company selection. It does **not** automatically promote companies exposed to a scarce complement.
+This framework is upstream of company selection. **Discovery starts here, not from the existing company universe.** For each material world/architecture change, identify what becomes newly scarce, how the bottleneck could migrate, then search broadly for listed companies that capture it—including overlooked or misclassified companies outside the current repository universe.
+
+The existing universe is the comparison set after discovery, not the search boundary. This framework does **not** automatically promote companies exposed to a scarce complement.
 
 A company still needs evidence of capture: product relevance, customer adoption, pricing/margins, cash economics, valuation, catalyst timing, downside and a credible path within the active Gate-E horizon. Theme attractiveness and stock attractiveness remain separate questions.
 
