@@ -2,6 +2,16 @@
 
 ## 2026-09-24
 
+### Ouster Gate-E valuation
+
+- Promoted #187 Gate-D work into #189 bounded Gate-E valuation after PR #188 passed governance and merged.
+- Normalized Q2 headline 49% GAAP gross margin for the disclosed US$5.4m IEEPA duty refund; mechanical ex-refund margin is ~39%, making margin quality a key thesis variable.
+- Added share-count/dilution bridge, July US$200m equity raise context, 2027 bear/base/upside operating scenarios and March-2028 valuation sensitivities.
+- Current conclusion: **REASSESS / WAIT — no Top-10 promotion**. Price-led first re-underwrite zone <=~US$25; US$25–30 active watch; above US$30 requires progressively stronger evidence.
+- No brokerage trade was placed.
+
+## 2026-09-24
+
 ### Ouster sensing/perception Gate-D
 
 - Executed #187 after #173 sensing map merged via PR #186.
