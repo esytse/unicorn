@@ -141,6 +141,76 @@ These are **scenario boundaries, not forecasts or price targets**. They are tied
 
 ---
 
+## 7A. Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Purpose:** test whether Laifual has a plausible **3x / 5x / 10x equity mechanism**. These are reverse-engineered hurdles, **not forecasts or price targets**.
+
+### Starting point
+
+**FACT:** The existing governed reference uses approximately **104.1m shares**. At the current ACTION ceiling of **HK$48**, equity value is about **HK$5.0bn**; at the prior HK$54.40 reference it is about **HK$5.66bn**.
+
+**FACT:** H1 2026 revenue was RMB142.2m, adjusted EBITDA RMB12.4m, adjusted net result a RMB4.1m loss, and post-listing cash approximately RMB980m. H1 reducer shipments were 239.5k and H1 designed capacity was 270k units at ~95% utilization. July designed capacity implies ~778k annualized units; the planned Zhejiang facility adds 800k reducers/year by end-2027 if delivered.
+
+### Equity-value hurdles
+
+Using **HK$48** as the controlled starting-price reference and the current ~104.1m shares:
+
+| Outcome | Equity value hurdle | Illustrative earnings needed at 25x P/E | At 30x P/E | At 35x P/E |
+|---|---:|---:|---:|---:|
+| **1x** | ~HK$5.0bn | ~HK$200m | ~HK$167m | ~HK$143m |
+| **3x** | ~HK$15.0bn | ~HK$600m | ~HK$500m | ~HK$429m |
+| **5x** | ~HK$25.0bn | ~HK$1.00bn | ~HK$833m | ~HK$714m |
+| **10x** | ~HK$50.0bn | ~HK$2.00bn | ~HK$1.67bn | ~HK$1.43bn |
+
+**INTERPRETATION:** even the 3x case requires a major transition from near-breakeven to several hundred million HKD of annual earnings. A 5x outcome cannot be justified merely by filling the disclosed 800k-unit plant; it requires materially larger scale, richer content per customer, much stronger integrated-joint/module economics, or a combination. A 10x case is currently a useful falsification stress test rather than an evidence-backed base for research promotion.
+
+### Capacity / revenue bridge
+
+**FACT:** The existing file estimates the new 800k-unit facility could contribute roughly RMB0.4–0.54bn annual reducer revenue using observed H1/order-book proxies. July 2026 existing monthly capacity annualizes to ~778k units.
+
+**HYPOTHESIS:** if both the July run-rate capacity and the planned 800k facility were eventually utilized, gross reducer capacity would be roughly **1.58m units/year** before further expansion. At an illustrative RMB500–700 realized revenue per reducer-equivalent, this corresponds to roughly **RMB0.79–1.10bn reducer revenue**. This range is mechanical, not guidance; mix and ASP can change materially.
+
+**INTERPRETATION:** At ~30% reducer gross margin, that disclosed/visible capacity footprint alone produces only roughly RMB0.24–0.33bn reducer gross profit before R&D, selling/admin expense, depreciation, finance, tax and non-reducer economics. Therefore:
+
+- **3x:** plausible only if utilization stays high **and** the company gains meaningful additional earnings from richer small reducers, joint modules / higher content, further capacity, or materially better group operating leverage.
+- **5x:** requires a second scale step beyond the currently visible reducer footprint and/or a much more valuable integrated motion business. Current evidence does not yet validate that bridge.
+- **10x:** would require transformational scale/economics well beyond disclosed capacity. **Not currently validated.**
+
+### Seven-gate Unicorn test
+
+| Gate | Current assessment | Evidence / missing proof |
+|---|---|---|
+| Bottleneck migration | **Pass / Medium** | precision motion is difficult; humanoid demand is affecting mix and bulk-procurement commentary |
+| Demand convexity | **Provisional pass / Medium** | shipments +112%; small reducers rose to 10.6% of volume; humanoid-specific revenue still not isolated |
+| Company purity | **Pass / High** | reducers/precision components were 83.9% of H1 revenue |
+| Operating leverage | **Provisional pass / Medium** | unit cost RMB482→351; reducer GM 20.7%→29.6%; adjusted EBITDA turned positive |
+| Under-recognition | **Open** | market already awards a multi-billion-HKD value despite near-breakeven earnings; mispricing is not established merely by growth |
+| 3x feasibility | **Plausible but unvalidated** | needs ~HK$430–600m earnings at 35–25x; visible capacity alone does not establish this |
+| 5x feasibility | **Weak / unvalidated** | needs ~HK$714m–1.0bn earnings; requires scale/content beyond currently evidenced footprint |
+| 10x feasibility | **Fails current evidence** | ~HK$1.43–2.0bn earnings requirement is far beyond current/disclosed operating base |
+
+### Leading indicators that would upgrade Unicorn Potential
+
+1. Named or otherwise auditable **repeat humanoid production customers** with rising orders rather than prototype/validation activity.
+2. Sustained reducer gross margin around **28–30%+** while capacity and customer count expand.
+3. Positive adjusted net income followed by operating cash conversion.
+4. Evidence that **joint modules materially increase revenue/content per robot** without sacrificing margin.
+5. Contracted utilization for the 800k facility before or during commissioning.
+6. A credible path to **>1.5m units and then the next capacity step** without repeated dilutive financing.
+7. Customer concentration declining while humanoid revenue rises.
+
+### Strongest disconfirming evidence
+
+The most important counter-case is that Chinese harmonic reducers become a rapidly scaling but increasingly competitive hardware category: ASP declines, customers dual-source, capex remains high and unit growth fails to translate into per-share FCF. H1 negative operating cash flow and the proposed RMB1.5bn credit envelope make this a live risk rather than a theoretical one.
+
+### Unicorn Potential state
+
+**UNDERWRITE — 3x plausible; 5x not yet validated; 10x unsupported by current evidence.**
+
+This is a stricter conclusion than the existing Gate-E ACTION. The two are not contradictory: a small starter can have attractive near-term asymmetry at <=HK$48 even while the evidence is insufficient to call Laifual a validated 5x Unicorn.
+
+---
+
 ## 8. Price-triggered Gate-E refresh — 15 September 2026
 
 ### Trigger

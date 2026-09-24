@@ -2,6 +2,18 @@
 
 ## 2026-09-24
 
+### #237 Laifual Unicorn Potential reverse-underwrite
+
+- Executed the first full 1x/3x/5x/10x Unicorn Potential test using Laifual Drive.
+- At the governed HK$48 reference (~104.1m shares), 3x implies ~HK$15bn equity value and roughly HK$430–600m annual earnings at 35–25x P/E; 5x implies ~HK$25bn and ~HK$714m–1.0bn earnings.
+- Tested those hurdles against current/disclosed capacity. The visible July run-rate plus planned 800k facility is roughly 1.58m units/year mechanically and does not alone validate a 5x earnings bridge.
+- Current state: **UNDERWRITE — 3x plausible; 5x not yet validated; 10x unsupported by current evidence**.
+- Preserved the distinction from Gate E: the existing <=HK$48 starter ACTION is not evidence of a validated 5x Unicorn.
+- Defined upgrade signals around repeat humanoid production customers, durable margins, cash conversion, joint-module content, contracted facility utilization and non-dilutive next-step capacity.
+
+
+## 2026-09-24
+
 ### #235 Unicorn Potential discovery funnel
 
 - Added `research/unicorn-potential.md` as the canonical layer between broad universe discovery and Gate-E capital allocation.
