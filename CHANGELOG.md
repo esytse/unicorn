@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #247 restore thesis-first Unicorn discovery
+
+- Re-anchored the repository to the original upstream thesis: **world change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture**.
+- Explicitly made the 59-company ranked universe known-opportunity inventory/benchmarks rather than the boundary or default starting point for discovery.
+- Repositioned Unicorn Potential 3x/5x/10x reverse-underwriting as downstream validation/falsification and Gate E as capital allocation, rather than allowing valuation screening to become the thesis.
+- Added guardrails against evidence-maturity bias and instructed discovery to seek overlooked/misclassified listed small/mid-cap beneficiaries outside the current universe.
+- Existing Gate-E monitors, action standards and brokerage boundaries are unchanged.
+
+
+## 2026-09-24
+
 ### #245 deep reverse-underwrite of bounded-screen survivors
 
 - Deepened the seven survivors from #243. Five had sufficient canonical capitalization/economic evidence for immediate arithmetic; BlackBerry/QNX and Ouster are retained as evidence-refresh underwrites rather than assigning fabricated numbers.
