@@ -240,7 +240,7 @@ Do not duplicate the company ranking or trigger table here. The authoritative li
 
 The 15 Sep company snapshot and early re-rank have been retired from this strategy file because they had become stale after the 24 Sep QNX, Ouster and scarce-complements work. Historical conclusions remain available in Git history and the research changelog.
 
-**Current portfolio interpretation:** Laifual remains the only governed research-level `ACTION`, limited to a 5% starter at executable <=HK$48 with thesis intact and a fresh check before any add. Centrus and Modine remain the leading independent-return-engine alternatives. QNX is `REASSESS / WAIT` after FY27 Q2; Ouster is `REASSESS / WAIT` outside the Top 10. Undeployed capital remains tactical cash until a governed condition fires. Brokerage execution is manual and no holding is assumed from repository state.
+**Current portfolio interpretation:** Laifual remains the only governed research-level `ACTION`, limited to a 5% starter at executable <=HK$48 with thesis intact and a fresh check before any add. Centrus and Modine remain the leading independent-return-engine alternatives. QNX and Ouster are `REASSESS / WAIT` in the continuous ranked universe. Undeployed capital remains tactical cash until a governed condition fires. Brokerage execution is manual and no holding is assumed from repository state.
 
 ## Scheduler sufficiency
 
