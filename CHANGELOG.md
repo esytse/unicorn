@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #243 bounded Unicorn cohort screen
+
+- Screened all 19 companies previously listed under `Needs a bounded Unicorn screen` using existing canonical evidence.
+- Promoted seven for deeper reverse-underwrite: Raspberry Pi, BlackBerry/QNX, Ouster, Micronics Japan, Camtek, FormFactor and Hanmi Semiconductor.
+- Kept five in evidence-build/event-underwrite rather than manufacturing numeric 3x/5x cases: Technoprobe, Schaeffler, MinebeaMitsumi, Furukawa/SuperPower and Cognex/RealSense.
+- Parked seven from the current Unicorn funnel: Advantech, Onto Innovation, Montage Technology, ASMPT, Akamai, VAT Group and PTC. Parking does not remove them from the broad ranked universe or Gate-E work.
+- The screen deliberately separates high-quality companies from plausible multibagger setups; no Gate-E action changed.
+
+
+## 2026-09-24
+
 ### #241 complete priority Unicorn Potential reverse-underwrites
 
 - Completed the remaining eight reverse-underwrites after Laifual #237 and Centrus #239, so all ten priority candidates from #235 now have explicit 3x/5x/10x hurdle states.
