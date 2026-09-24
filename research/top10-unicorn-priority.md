@@ -2,14 +2,14 @@
 
 **Status:** Active cross-theme research queue  
 **Common-basis reference:** 2026-09-09  
-**Live Gate-E overlay refreshed:** 2026-09-22  
+**Live Gate-E overlay refreshed:** 2026-09-24  
 **Parent backlog:** #110  
 **Active sprint:** #112  
 **Purpose:** Rank the most interesting companies in the `unicorn` universe by combining structural bottleneck quality, company-level capture and the stock setup.
 
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
-## Live Gate-E decision overlay — 22 September 2026
+## Live Gate-E decision overlay — 24 September 2026
 
 > This section is the **authoritative current work/portfolio-priority overlay**. Gate E optimizes for marginal portfolio contribution, current catalysts, governed transaction conditions and correlation. The 22 September scarce-complements remap raises the hurdle for incremental correlated memory exposure but does not mechanically demote existing candidates.
 
@@ -18,7 +18,7 @@
 | **1** | **Laifual Drive** | **WAITING P0 / ACTION monitor** | only live governed starter action; independent Physical-AI return engine | starter 5% only at executable <=HK$48; re-underwrite before any add |
 | **2** | **Centrus Energy** | **WAITING P1 / REASSESS** | Antares joins X-energy and Radiant in customer pre-funding, strengthening independent strategic-fuel evidence; disclosed capacity/funding bridge still missing | ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence |
 | **3** | **Modine / Modexus** | WAITING P1 | independent cooling engine; 1 Oct separation is now the nearest structural catalyst after the 17 Sep RMT adjustment | ~US$155–165 or 1 Oct close / stronger post-spin margin/FCF |
-| **4** | **BlackBerry / QNX** | **WAITING P0** | 24 Sep results are the nearest dated P0 information event and can test non-auto/Physical-AI economics | Q2 FY2027 on 24 Sep 2026 or earlier material non-auto production economics |
+| **4** | **BlackBerry / QNX** | **REASSESS / WAIT P0** | Q2 materially strengthens QNX operating quality and backlog conversion, but ~US$8.3–8.5 already embeds substantial success | <=~US$7 price-led re-underwrite or new Alloy Kore/content/backlog/non-auto production evidence |
 | **5** | **Japan Electronic Materials** | WAITING P1 | strongest current memory valuation/evidence balance, but memory correlation lowers marginal portfolio priority | fresh/recurrent <=~¥6,100 or credible HBM4/HBM4E production/share evidence |
 | **6** | **SUSS MicroTec** | WAITING P1 | strong 2027 visibility; governed price zone remains below recent references and memory correlation matters | ~€60–62 or stronger process/backlog/hybrid-bond evidence |
 | **7** | **Hainan Jinpan** | WAITING P1 | independent AI-power sensitivity and exceptional order growth, but cash/global qualification remain weaker | ~CNY54–57 or named/repeat global AIDC + cash/margin evidence |
@@ -26,7 +26,7 @@
 | **9** | **Micronics Japan** | WAITING P1 | strongest operating probe-card franchise but valuation/concentration and memory correlation reduce marginal contribution | ~¥10,000–10,800 or stronger HBM4/HBM4E share/diversification/FCF |
 | **10** | **FORT Robotics** | WAITING P1 | clean Physical-AI safety optionality, but transaction/dilution/recurring economics remain incomplete | S-4/equivalent filing |
 
-**22 September ranking changes:** QNX moves **#8 → #4** because the 24 September result is the nearest executable P0 evidence event and offers an independent return engine. JEM, SUSS, Jinpan, Weebit and MJC each move down one place. Centrus remains #2: the Antares contract strengthens repeat customer pre-funding evidence but does not yet disclose enough capital-stack or capacity timing to displace Laifual's governed ACTION.
+**24 September QNX refresh:** QNX remains **#4** after FY27 Q2. Operating evidence improved materially (US$80.3m QNX revenue, 87% gross margin, US$29m adjusted EBITDA, raised FY27 guidance and backlog conversion), but the stock remains **REASSESS / WAIT** because ~US$8.3–8.5 already prices substantial QNX success. Re-underwrite at <=~US$7 or on new evidence that advances the US$500m+ revenue path. Centrus remains #2 and Modine #3.
 
 **Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Brokerage execution is manual and no holding is assumed. Tactical cash remains the default for undeployed capital.
 
