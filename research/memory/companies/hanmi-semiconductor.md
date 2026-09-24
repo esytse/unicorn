@@ -17,6 +17,16 @@
 
 **Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ~KRW21.8tn equity value. Mechanical hurdles are **~KRW65.4tn (3x), ~KRW109tn (5x), ~KRW218tn (10x)**. At 30x earnings these require approximately **KRW2.18tn / KRW3.63tn / KRW7.27tn net income**.
+
+Q2 revenue was KRW251.1bn and operating profit KRW130.3bn. The extraordinary 51.9% operating margin validates current capture but also shows how much of the HBM boom is already reflected in expectations. A 3x outcome requires enormous absolute earnings expansion while surviving SK hynix concentration and the hybrid-bond transition.
+
+**Unicorn state: FAILED / PARKED at the current reference.** Exceptional business capture is not the same as multibagger asymmetry; starting valuation makes 3x/5x unsupported by current evidence.
+
+
 ---
 
 ## Snapshot
