@@ -10,6 +10,12 @@
 > This is a **research-prioritisation list, not an investment recommendation list**. “Potential unicorn” means a company where a validated structural dependency could materially transform the earnings base and equity value from the current starting point.
 
 
+## Ambarella challenger test — 24 September 2026
+
+The value-chain-first scan (#224) surfaced **Ambarella (AMBA)** as the strongest new edge/Physical-AI challenger. #226 finds unusually strong company-capture evidence — edge-AI SoCs were 80% of FY2026 revenue and >370 customer AI projects were in production — but current equity asymmetry is not yet proven. Around the 23 Sep ~$67.62 reference, public data imply ~6.5x EV/revenue and a high forward earnings multiple while GAAP profitability is still developing.
+
+**Decision:** retain the existing Top 10. AMBA enters the immediate challenger set as **REASSESS/WATCH**. It does not displace #10 FORT or another incumbent until operating leverage, Hanwha/LTA conversion and X7 production wins support a superior 18-month return/downside case.
+
 ## Evidence-chain calibration — 24 September 2026
 
 **Claim -> evidence -> inference -> allocation implication:** this surface must distinguish evidence that a bottleneck or scarce complement exists from evidence that a specific listed company can capture durable incremental economics from it. A technically important layer can remain unattractive or uninvestable because competition, diversification, capital intensity, private-company capture or starting valuation absorbs the economics.
