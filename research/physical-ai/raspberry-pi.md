@@ -1,7 +1,7 @@
 # Raspberry Pi Holdings (LSE:RPI)
 
 **Research stream:** Physical AI / edge compute
-**Status:** Active deep dive; valuation refresh pending
+**Status:** Active challenger; scenario valuation complete, consensus reset pending
 **Confidence:** Medium
 **Last substantive update:** 2026-09-24
 
@@ -51,7 +51,22 @@ Raspberry Pi sells low-cost computing platforms, silicon and accessories. Its co
 Revenue +90% on units +17% reveals major ASP/memory-cycle distortion. Management says exceptional H1 economics moderated. High-end edge-AI alternatives offer much more compute.
 
 ### Valuation sensitivity
-At 755p, avoid point precision until estimates reset. FY26 EBITDA of $60m/$65m/$70m/$75m requires H2 EBITDA of $19.7m/$24.7m/$29.7m/$34.7m respectively versus H1 $40.3m.
+
+The official consensus still reflects 1 Sep estimates: FY26 adjusted EBITDA $57.8m and FY27 $56.8m. H1 alone delivered $40.3m and management now expects FY26 above that old consensus, so the old FY26/FY27 estimates are stale rather than a usable base case.
+
+At 755p, approximate equity value is ~£1.3bn. Using ~175m shares and a working GBP/USD rate of 1.34 gives an equity/enterprise-value scale of roughly $1.75-1.8bn before future inventory financing. The following is a **hurdle matrix, not a target**:
+
+| Normalized FY27/28 EBITDA | Exit EV/EBITDA | Indicative equity-equivalent price* | Read-through |
+|---:|---:|---:|---|
+| $65m | 15x | ~416p | normalization/bear case: today's price is vulnerable |
+| $90m | 20x | ~768p | roughly supports the current 755p area |
+| $120m | 25x | ~1,279p | requires a strong OEM/edge-AI growth + premium-multiple outcome |
+
+*Mechanical EV-to-equity approximation using ~175m shares and 1.34 GBP/USD; excludes future net debt/cash changes and is deliberately not a price target.
+
+A second near-term hurdle is FY26 EBITDA. $60m/$65m/$70m/$75m implies H2 EBITDA of only $19.7m/$24.7m/$29.7m/$34.7m after H1's $40.3m. That makes a FY26 beat likely on current guidance, but it does **not** solve the FY27 normalization question because memory-driven ASP/unit economics are already moderating.
+
+**Gate-E interpretation:** 755p approximately requires a normalized ~$90m EBITDA business at a ~20x multiple to look conventionally supported. Until revised FY27/FY28 estimates or H2 evidence demonstrate that earnings bridge, RPI remains REASSESS/WATCH rather than ACTION.
 
 ### Return bridge
 Near-term earnings upside: backlog/OEM volume. Rerating upside requires sustained 2027+ growth after memory normalization.
@@ -72,10 +87,11 @@ Backlog fails to convert; industrial/OEM share stalls; normalized margins fail v
 1. Normalized gross profit per board after memory repricing.
 2. Largest OEM concentration.
 3. Quantified AI/defence revenue.
-4. Post-results FY27-28 consensus and valuation.
+4. Post-results FY27-28 consensus reset; scenario valuation is now complete but should be replaced by revised estimates when published.
 
 ## Sources
 Raspberry Pi H1 2026 results (24 Sep); investor consensus (1 Sep); FY25 investor materials; H1 call/presentation.
 
 ## Change history
-2026-09-24: deep dive initiated after H1 repricing; operating evidence strengthened, valuation unresolved.
+2026-09-24: deep dive initiated after H1 repricing; operating evidence strengthened.
+2026-09-24: #218 scenario valuation executed. At 755p, current price roughly corresponds to a ~$90m normalized EBITDA / 20x outcome; retain REASSESS/WATCH pending revised FY27-28 estimates and H2 normalization evidence.
