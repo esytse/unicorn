@@ -2,6 +2,18 @@
 
 ## 2026-09-25
 
+### #257 AP Memory silicon-capacitor underwrite
+
+- Deepened #253's package-power-integrity lead into AP Memory (TWSE:6531).
+- Primary evidence shows Jan–Aug 2026 revenue +109.1% y/y; S-SiCap technology has completed customer validation/mass-production steps. Secondary management reporting puts Q2 S-SiCap at ~27% of revenue and +273% y/y, so the new engine is already company-material.
+- Samsung Electro-Mechanics' KRW1.5tn 2027–28 silicon-capacitor contract validates the market while providing strong competitive counter-evidence.
+- At ~NT$160bn current equity, 3x requires NT$480bn; even at 40–30x earnings this needs ~NT$12–16bn annual net income versus ~NT$2.83bn TTM. The business inflection is stronger than the current multibagger setup.
+- Classified **POTENTIAL / LATE DISCOVERY — 3x unvalidated; 5x/10x unsupported**. The pattern should be used to find earlier pre-inflection analogues.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #255 TAI-TECH AI power-magnetics underwrite
 
 - Deepened #253's thesis-first lead into TAI-TECH (TPEX:3357).
