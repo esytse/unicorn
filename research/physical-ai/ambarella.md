@@ -103,3 +103,13 @@ Ambarella FY2026 results (26 Feb 2026); Q2 FY2027 results and filing (3-4 Sep 20
 
 ## Change history
 2026-09-24: #226 initial Gate-E underwrite completed following #224 value-chain-first discovery scan.
+
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ~$2.96bn equity value / ~$2.70bn EV at the 23 September reference. Mechanical equity hurdles are **~$8.88bn (3x), ~$14.8bn (5x), ~$29.6bn (10x)**. At an illustrative 25x P/E they require roughly **$355m, $592m and $1.18bn normalized net income**, versus a company that remained GAAP loss-making in FY2026.
+
+**Evidence test:** 80% edge-AI revenue, >370 production AI projects, the Hanwha LTA and X7 architecture expansion establish unusually pure capture. But 3x requires very large profit conversion and continued growth after recent deceleration; 5x/10x require platform economics far beyond current evidence.
+
+**Unicorn state: POTENTIAL — 3x is a credible long-horizon question but not validated; 5x/10x unsupported today.** Production conversion, X7 scale, sustained gross margin and normalized net income/FCF are decisive.
+

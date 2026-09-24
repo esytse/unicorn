@@ -18,6 +18,16 @@
 
 **Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** CNY19.73 and ~CNY17.25bn market capitalization. Mechanical hurdles are **~CNY51.75bn / CNY59.19 (3x), ~CNY86.25bn / CNY98.65 (5x), ~CNY172.5bn / CNY197.30 (10x)**.
+
+**Evidence test:** Huaming combines unusually high core-business purity (~86% H1 revenue), >60% power-equipment gross margin, cash conversion, low leverage and overseas growth with a relatively small starting capitalization. This makes it one of the cleaner mathematical Unicorn screens. But the existing normalized base/bull valuation work (~CNY31 / ~CNY46) remains below 3x from the reference, so international qualification/service economics must create a larger second earnings engine than currently underwritten.
+
+**Unicorn state: POTENTIAL — 3x deserves a full international-scale earnings bridge; 5x unvalidated; 10x unsupported.** Repeat international qualification, aftermarket/service mix and durability versus MR are the decisive evidence gaps.
+
+
 ---
 
 ## Executive conclusion

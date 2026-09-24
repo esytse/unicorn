@@ -27,6 +27,16 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** ¥6,570 and ~¥96.4bn equity value. Mechanical share-price hurdles are **¥19,710 (3x), ¥32,850 (5x), ¥65,700 (10x)**. At 20x earnings those prices require roughly **¥986, ¥1,643 and ¥3,285 EPS**, versus FY2027 company guidance of **¥457.42 EPS**.
+
+**Evidence test:** HBM-centered DRAM share growth, ~32% Q1 operating margin and strong net cash make 3x mathematically conceivable if HBM4/HBM4E share and earnings compound far above current guidance. But the existing March-2028 stretch case (~¥15,200 / ~2.3x) does not validate 3x, and the new Amagasaki factory completes after the active horizon.
+
+**Unicorn state: POTENTIAL — 3x requires a second earnings step and verified HBM share; 5x unvalidated; 10x unsupported.** The decisive upgrade evidence is production-socket/share proof, durable margins, FCF conversion and no further material dilution.
+
+
 ---
 
 ## Executive conclusion

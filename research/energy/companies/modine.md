@@ -27,6 +27,18 @@
 
 **Calibration result:** this retrofit does not change the current company state. It makes explicit which part of the decision is observed and which part remains judgement.
 
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** use the governed **$160 midpoint** of the $155–165 reassessment band as a controlled hurdle reference, not a current-price claim. Mechanical per-share hurdles are **$480 (3x), $800 (5x), $1,600 (10x)** before separately valuing the distributed Gentherm stake where applicable.
+
+**Evidence test:** FY2027 adjusted EBITDA guidance is $650–680m (including Performance Technologies until guidance refresh), Data Centers sales were $348.6m in Q1 (+90%), the company describes a path toward ~$2bn Data Centers revenue by FY2028, and one strategic customer committed >$4bn of 2027–2029 cooling supply capacity with $165m upfront. Those facts validate a powerful earnings engine, but the existing March-2028 base combined-value boundary of ~$225–270 and even the current underwrite do **not** establish a 3x outcome from $160.
+
+**Unicorn state: FAILED / PARKED at current scale for 3x/5x screening, while remaining a strong Gate-E return-engine candidate.** A future promotion requires post-separation Modexus economics that are materially stronger than today's base case—especially normalized Data Centers margin/FCF, broader customer conversion and a substantially larger earnings base. 5x/10x currently require heroic assumptions.
+
+**Strongest counter-case:** concentration, another capital cycle, or weaker normalized FCF can leave cooling demand strong while shareholder economics disappoint.
+
+
 ---
 
 ## Current Gate-E conclusion
