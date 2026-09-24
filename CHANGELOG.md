@@ -2,6 +2,19 @@
 
 ## 2026-09-25
 
+### #259 pre-inflection AI power-integrity scan
+
+- Searched the left-hand side of the Vicor/AP Memory/TAI-TECH pattern rather than forcing another mature winner.
+- Surfaced **Sunlord (002138)** as an evidence-build lead on scaling TLVR orders and AI-oriented tantalum qualification, but primary materiality evidence remains insufficient.
+- Surfaced **DMEGC (002056)** with a very recent company response confirming scaled chip-inductor production, batch TLVR-core supply to leading domestic/overseas customers and overseas sampling; diversification makes consolidated materiality the key hurdle.
+- Infineon's integrated TLVR module is retained as important architecture validation and substitution counter-evidence.
+- No new candidate currently has a cleaner evidence/asymmetry setup than TAI-TECH. This is recorded as a valid negative discovery result rather than expanding the universe mechanically.
+- Added a stop condition: reopen this branch only on named qualification, material AI-power revenue, capacity/prepayment/LTA evidence, or another architecture migration.
+- No Gate-E action or brokerage instruction changed.
+
+
+## 2026-09-25
+
 ### #257 AP Memory silicon-capacitor underwrite
 
 - Deepened #253's package-power-integrity lead into AP Memory (TWSE:6531).
