@@ -2,6 +2,18 @@
 
 ## 2026-09-24
 
+### #233 full-repository ranked-company audit
+
+- Audited canonical company files, the cross-theme watchlist and theme synthesis company candidates after #230 removed the Top-10 cap.
+- Expanded the authoritative live ranked universe from 25 to **59 listed/directly investable company entries**.
+- Added previously omitted memory leaders/benchmarks (Onto, Camtek, FormFactor, Montage, ASMPT, Technoprobe, Hanmi, Advantest, Teradyne, DISCO, Ibiden, Amkor, Micron), energy companies (Siemens Energy, nVent, Vertiv, Eaton, GE Vernova, HD Hyundai Electric, Huaming, Cameco, MHI, Quanta), and lower-maturity listed comparators from synthesis work.
+- Kept private-only archetypes and theme concepts out of the equity ranking rather than assigning false company ranks.
+- Added explicit audit provenance so future universe audits can compare canonical company files + watchlist rows + synthesis candidates against the live ranking.
+- The ranking remains research prioritisation, not an investment recommendation or brokerage authorization.
+
+
+## 2026-09-24
+
 ### #230 continuous ranked research universe
 
 - Removed the Top-10 admission/displacement constraint from the canonical research-priority architecture.
