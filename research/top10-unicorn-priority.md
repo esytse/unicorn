@@ -9,7 +9,7 @@
 
 ## Authoritative live ranking — full-repository audit, 24 September 2026
 
-**Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. This audit expands the live universe from 25 to **49 company entries**.
+**Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. This audit expands the live universe from 25 to **59 company entries**.
 
 | Rank | Company | Primary exposure | State | Evidence / setup summary |
 |---:|---|---|---|---|
@@ -62,6 +62,16 @@
 | **47** | **Schaeffler** | Actuator industrialization | DISCOVERY / Gate-B candidate | Strong humanoid industrialization evidence; group earnings materiality is the gate |
 | **48** | **MinebeaMitsumi** | Integrated actuator components | DISCOVERY / Gate-B candidate | Broad humanoid content and mass-production thesis; bottleneck purity lower |
 | **49** | **Caterpillar** | Autonomous physical machines | COMPARATOR | Deployment evidence, but AI/autonomy too diluted in consolidated economics |
+| **50** | **Nabtesco** | Cycloidal/RV + humanoid transmissions | COMPARATOR | Industrial-robot durability benchmark; named humanoid production evidence still weak |
+| **51** | **THK** | Precision ball screws / linear motion | COMPARATOR | Relevant humanoid content; no established scarce-company capture case |
+| **52** | **Howmet Aerospace** | Turbine hot-section components | COMPARATOR | Exceptional physical bottleneck/capture; large rerated valuation limits discovery asymmetry |
+| **53** | **Anhui Yingliu Electromechanical** | Turbine precision castings | COMPARATOR | Smaller hot-section exposure; high valuation and weak cash conversion |
+| **54** | **Cleveland-Cliffs** | GOES / transformer input | COMPARATOR | Strategic input but weaker listed economic capture than transformer equipment |
+| **55** | **ABB** | Electrical / DC protection | COMPARATOR | Credible multi-vendor 800VDC/electrical platform; concentrated lock-in not established |
+| **56** | **Schneider Electric** | Data-centre electrical backbone | COMPARATOR | High-quality architecture exposure; broad scale reduces asymmetric purity |
+| **57** | **Hitachi / Hitachi Energy** | Transformers / grid equipment | COMPARATOR | Strong structural transformer exposure; parent-company dilution limits clean capture |
+| **58** | **Thermo Fisher Scientific** | Scientific-AI execution | COMPARATOR | Broad lab/instrument benchmark; AI-specific economics insufficiently isolated |
+| **59** | **Danaher** | Scientific-AI execution | COMPARATOR | Broad life-science tools benchmark; AI-specific financial capture insufficiently isolated |
 
 ### Audit provenance and exclusions
 
@@ -69,7 +79,7 @@ The live universe is generated from three repository-native evidence sets:
 
 1. **Canonical company/deep-dive files** under `research/**/companies/`, `research/physical-ai/`, `research/scientific-ai/` and governed company deep dives.
 2. **`watchlist.md` company rows**, including names such as Technoprobe, DISCO, Advantest, Teradyne, Ibiden, Amkor and Micron that do not yet have standalone company files.
-3. **Theme synthesis company candidates** where the repo already contains direct company evidence sufficient to identify a listed vehicle, including Schaeffler and MinebeaMitsumi.
+3. **Theme synthesis company candidates** where the repo already contains direct company evidence sufficient to identify a listed vehicle, including Schaeffler, MinebeaMitsumi, Nabtesco, THK, Howmet, Yingliu, Cleveland-Cliffs, ABB, Schneider Electric, Hitachi, Thermo Fisher and Danaher.
 
 Private-only archetypes (for example Foretellix, Applied Intuition, Rollvis, Weidmann and ESCO-Doble where no clean listed vehicle is being underwritten) remain in theme research but are **not assigned an equity rank**. Theme rows such as “AI energy / power delivery” and “Physical AI feedback / deployment loop” are not companies and are also excluded.
 
