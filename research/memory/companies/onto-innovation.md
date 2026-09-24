@@ -6,6 +6,19 @@
 **Last substantive update:** 2026-09-07  
 **Backlog:** closes issue #23 when merged
 
+
+## Evidence-chain calibration — 24 September 2026
+
+**Claim -> evidence -> inference -> portfolio implication:** use the primary operating, customer, order/backlog and technical evidence cited in this file to establish what is observed. Theme relevance is not proof that **Onto Innovation** captures durable incremental economics; portfolio relevance requires a further bridge to financial materiality and valuation/remaining-window return.
+
+**Evidence quality / freshness:** prioritize issuer/regulatory, named-customer and technical primary evidence over industry estimates. File edit date is not observation freshness; refresh material evidence before promotion or Gate-E action.
+
+**Strongest counter-evidence:** the structural theme can be correct while economics are competed away, diluted inside a diversified group, offset by capital intensity/cyclicality, or already reflected in valuation. The specific risks/substitutes below remain controlling.
+
+**Calibration boundary:** this retrofit does **not** upgrade the company or create an ACTION. Do not invent point thresholds; future Gate-E work should use justified bands/sensitivity and separate fundamental earnings/cash contribution from rerating.
+
+---
+
 ## Snapshot
 
 **FACT:** Onto Innovation (NYSE: ONTO) provides inspection, metrology and lithography/process-control systems used across advanced nodes and advanced packaging. Its AI-memory exposure includes HBM, 2.5D logic packaging, chiplets, panel-level packaging and related yield-control steps.
