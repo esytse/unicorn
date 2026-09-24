@@ -186,3 +186,13 @@ Until that trigger, FORT remains **WAIT**, and #109 QNX-vs-FORT remains blocked.
 5. Newbury Street II 10-Q / combination-period disclosure: https://www.sec.gov/Archives/edgar/data/2028027/000121390025110889/ea0264798-10q_newbury2.htm
 
 **Freshness check, 24 Sep 2026:** no Form S-4/equivalent registration/proxy filing was found in the current SEC search. Existing Rule 425 materials continue to state that the S-4 is intended to be filed.
+
+
+## Unicorn Potential reverse-underwrite — 24 September 2026
+
+**Reference:** announced no-redemption transaction case of **~$742.4m equity value / $556.6m EV at $10**, before public-warrant and contingent earnout dilution. Mechanical equity hurdles are **~$2.23bn (3x), ~$3.71bn (5x), ~$7.42bn (10x)**.
+
+**Evidence test:** 2025 revenue was only $11.585m, despite +62% growth and 66.2% gross margin. The headline transaction already values FORT at ~48x 2025 EV/revenue. A 3x outcome therefore requires the hypothesized recurring software/safety-control model to become real at substantial scale; 5x/10x require still more extreme revenue/ARR conversion. Current materials do not disclose ARR, subscription attach or retention by revenue.
+
+**Unicorn state: POTENTIAL but transaction-gated — 3x can be tested only after the S-4 exposes fully diluted capitalization and recurring economics; 5x/10x unsupported today.** Do not capitalize management's hypothetical software model as observed ARR.
+
