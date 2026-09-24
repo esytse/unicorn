@@ -230,47 +230,17 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 - one live scheduler is enabled;
 - actual brokerage execution remains manual.
 
-### Current company decision surface — 15 Sep 2026
-- **#86 Laifual — WAITING P0 ACTION monitor:** governed starter **5% research sleeve (~£2,000)** at executable <=HK$48 with thesis intact; 8% pre-proof ceiling. Brokerage execution remains manual.
-- **#125 JEM — WAITING P1:** fresh/recurrent <=~¥6,100 condition or stronger HBM4/HBM4E / cash evidence.
-- **#126 SUSS — WAITING P1:** ~€60–62 condition or stronger backlog/process/hybrid-bond evidence.
-- **#127 Weebit — WAITING P1:** ~A$2.5–2.7 or recurring production royalty/adoption evidence.
-- **#128 Micronics Japan — WAITING P1:** ~¥10,000–10,800 or stronger HBM4/HBM4E/customer/FCF evidence; high quality but correlated.
-- **#106 BlackBerry/QNX — WAITING P0:** Q2 FY2027 due 24 Sep 2026 or earlier material non-auto economics.
-- **#108 FORT — WAITING P1:** S-4/equivalent / transaction disclosure.
-- **#129 Centrus — WAITING P1:** ~US$120–130 or specific funded-capacity / construction / customer / DOE evidence after the September financing reset.
-- **#130 Jinpan — WAITING P1:** ~CNY54–57 or stronger global AIDC qualification/cash evidence.
-- **#146 Modine / Modexus — WAITING P1:** ~US$155–165 or 1 Oct 2026 separation close / material post-spin evidence.
-- **#85 Harmonic Drive — PARKED P2.**
-- **#109 QNX vs FORT — BLOCKED P1** until both event-driven underwrites are fresh.
+### Canonical live decision surface — 24 Sep 2026
 
-### Portfolio / recurring work
-- **#131 — DONE P0:** initial construction baseline completed.
-- **#132 — WAITING P1 after early 15 Sep re-rank:** next normal monthly review around 15 Oct 2026, or earlier on a material portfolio-wide trigger.
-- **#133 — WAITING P2:** quarterly full-universe challenge.
+Do not duplicate the company ranking or trigger table here. The authoritative live surfaces are:
 
-### Early re-rank conclusion — 15 Sep 2026
+- `research/top10-unicorn-priority.md` for the ranked Gate-E research/portfolio-priority overlay;
+- `AUTOMATION.md` and live issue metadata for executable states, triggers, dependencies and next actions;
+- this file for portfolio construction, concentration, transaction and review rules.
 
-**FACT:** the candidate set is broader than the original four-name #131 construction: current governed Gate-E underwrites now also exist for Jinpan, Modine, Micronics Japan and Centrus.
+The 15 Sep company snapshot and early re-rank have been retired from this strategy file because they had become stale after the 24 Sep QNX, Ouster and scarce-complements work. Historical conclusions remain available in Git history and the research changelog.
 
-**CONCLUSION:** Laifual is now the first governed **`ACTION`** in the current Gate-E cycle: a **starter 5% research allocation signal only at an executable price <=HK$48**. No brokerage order has been placed, so the actual brokerage portfolio remains unchanged until manual execution. The other 95% of the research capital remains tactical cash plus conditional sleeves.
-
-**INTERPRETATION:** marginal portfolio contribution now matters more than the old static Top-10 order. Independent-return-engine candidates — especially Laifual, Centrus, Modine and Jinpan — deserve capital/research priority when their conditions fire because the original portfolio already carries substantial memory/HBM correlation.
-
-Current conditional allocation priority, assuming each company's documented trigger is freshly confirmed:
-1. **Laifual — ACTION:** starter 5% research sleeve at executable <=HK$48. Do not chase above the governed price condition; re-underwrite before any add above 5%.
-2. **Centrus** — independent strategic-fuel optionality after a major financing/enterprise-value reset; base case still does not clear 2x, so funded-capacity proof remains decisive.
-3. **Modine / Modexus** — independent data-centre cooling engine with a dated 1 Oct structural catalyst; base case still below the 2x hurdle at the latest underwrite.
-4. **JEM** — strongest current memory valuation/evidence balance; close to its governed price condition, but portfolio correlation caps its marginal priority.
-5. **SUSS** — similarly close to its governed zone with strong backlog visibility, offset by process/customer concentration and memory-cycle correlation.
-6. **Jinpan** — independent AI-power sensitivity and exceptional order growth, but weaker cash conversion/global qualification evidence.
-7. **Weebit Nano** — highest venture-style memory optionality, still gated by recurring production royalties and dilution.
-8. **BlackBerry/QNX** — attractive diversification quality but a 2x path still needs evidence; 24 Sep results are the next P0 information event.
-9. **Micronics Japan** — strongest probe-card operating quality but current valuation/customer concentration and memory correlation reduce marginal portfolio value.
-10. **FORT Robotics** — high Physical-AI purity and optionality, but final transaction/dilution/recurring economics remain unavailable until the filing.
-
-**Best alternative use of capital today:** after the Laifual starter signal, **95% tactical cash** remains the best research allocation for undeployed capital. Any further candidate should displace cash only after its governed condition fires and a fresh check confirms better remaining-window asymmetry than the alternatives.
-
+**Current portfolio interpretation:** Laifual remains the only governed research-level `ACTION`, limited to a 5% starter at executable <=HK$48 with thesis intact and a fresh check before any add. Centrus and Modine remain the leading independent-return-engine alternatives. QNX is `REASSESS / WAIT` after FY27 Q2; Ouster is `REASSESS / WAIT` outside the Top 10. Undeployed capital remains tactical cash until a governed condition fires. Brokerage execution is manual and no holding is assumed from repository state.
 
 ## Scheduler sufficiency
 
