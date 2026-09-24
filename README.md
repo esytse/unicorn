@@ -89,6 +89,12 @@ For backlog-driven work:
 
 Manual review is optional. Ask for it when you specifically want a second pair of eyes before a conclusion enters `main`, for example a major thesis reversal or an unusually consequential decision.
 
+## Evidence quality and calibration
+
+Issue **#193** is the active P1 methodology upgrade. The next process improvement is strengthening the bridge from sourced facts to portfolio decisions rather than expanding the universe by default.
+
+Current Gate-E work should progressively expose **claim -> evidence -> inference -> action**, separate confidence in bottleneck/capture/financial-materiality/equity layers, preserve the strongest counter-evidence, track evidence freshness, avoid false precision in valuation thresholds, and record decision/outcome history for later calibration.
+
 ## Research principles
 
 - Evidence before narrative
