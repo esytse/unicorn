@@ -2,6 +2,16 @@
 
 ## 2026-09-24
 
+### #204 residual classification and 94/94 accounting test
+
+- Classified the 32 residual research files found by the fail-closed Wave-5 audit.
+- Calibrated 23 decision-bearing residual surfaces across energy/fusion, memory, Physical AI, robotics-actuators, Gate-E portfolio construction and scientific AI.
+- Explicitly classified 7 research-plan/monitoring/screening files as procedural controls and 2 template files as authoring controls rather than pretending they contain investable conclusions.
+- Structural accounting now reaches 94/94 research markdown files. This closes the coverage-denominator gap but does not substitute for future evidence-freshness/source-tier sampling or outcome calibration.
+- No company state or brokerage trade changed from the retrofit.
+
+## 2026-09-24
+
 ### #204 Wave 5 testing — corpus audit and calibration ledger
 
 - Performed a fail-closed structural coverage test after Waves 1–4 rather than assuming the retrofit was complete.
