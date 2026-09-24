@@ -2,6 +2,17 @@
 
 ## 2026-09-24
 
+### #209 FORT Robotics canonical transaction and recurring-economics due diligence
+
+- Added `research/physical-ai/fort-robotics.md` as the canonical FORT/FROB company/transaction surface.
+- Verified 2025 standalone revenue of $11.585m (+62%), 66.2% gross margin, $4.592m operating loss, 21 mature enterprise customers and no customer above 9% of 2025 revenue from the SEC-filed investor presentation.
+- Rebuilt the announced no-redemption transaction bridge: $500m FORT rollover equity, 74.2m headline pro-forma shares, $742.4m equity value and $556.6m EV at $10, with $185.8m announced pro-forma net cash.
+- Made dilution explicit: headline shares exclude 8.6m public warrants, 0.3m private warrants and 0.8m contingent sponsor earnout shares; final fully diluted capitalization remains S-4/redemption dependent.
+- Distinguished repeat customer purchasing from recurring software economics. Management's detailed embedded-software/subscription case is explicitly hypothetical and is not evidence of current ARR or subscription attach.
+- FORT remains **WAIT**. #108 remains event-gated on the S-4/equivalent filing; #109 remains blocked. No ranking/state promotion and no brokerage trade.
+
+## 2026-09-24
+
 ### #207 evidence-quality audit and prediction ledger — Wave 5
 
 - Added `research/evidence-quality-audit.md`: corpus-level assessment after Waves 1–4, including stronger/weaker/unchanged conclusions and a decision-impact-ranked gap queue.
