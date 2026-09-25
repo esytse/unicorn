@@ -1,3 +1,6 @@
+## 2026-09-25 — #300 — #261 historical validation
+Created a frozen point-in-time historical validation programme for the #261 thesis-first discovery method. Pre-registered 10 development and 5 sealed holdout architecture transitions; added immutable prediction and outcome ledgers, failure taxonomy, anti-hindsight controls, Transformation Capture Rate and lead-time metrics. Historical outcomes must be revealed only after each point-in-time prediction is frozen; no #261 v2 rule changes are allowed until holdout evaluation.
+
 ## 2026-09-25 — #302 D01 outcome reveal
 
 - Revealed D01 only after its prediction commit merged.
