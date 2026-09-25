@@ -39,3 +39,9 @@ Searched smaller transformers, switchgear, protection, metering and incumbent T&
 ## Frozen prediction
 
 **No PROMOTE.** The queue is a real bottleneck signal, but 2020 listed-supplier disclosures do not link rising interconnection demand to a qualified, 5–15% emerging company revenue engine. **HYPOTHESIS:** smaller transformer/switchgear makers might show later pricing/lead-time inflections, but the 2021 cutoff may be too early for a clean state change. Preserve that sensitivity. Frozen v1 unchanged.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Hammond transformer sales rose to C$788.34m in 2024 from C$710.06m in 2023, adjusted EBITDA C$130.48m, without a renewable interconnection revenue split. Hubbell's Utility Solutions reached about $3.6bn in 2024, with a $1.1bn Systems Control acquisition in late 2023. Powell FY2024 utility revenue rose 18% to $186.5m, while oil/gas and petrochemical added much more ($417.2m and $185.6m respectively). Eaton cited utility, data-centre and other demand in broad electrical growth. [SRC-BT261-D10-O01–O04]
+
+**INTERPRETATION:** Grid equipment benefited, but a queued-MW signal did not isolate interconnection contracts. Hammond is a possible transformer-company economic false negative, not a demonstrable renewable-grid miss. Powell's end-market split affirms the frozen industrial-mismatch caution. Equity checkpoints and queue-to-order lead time unscored.

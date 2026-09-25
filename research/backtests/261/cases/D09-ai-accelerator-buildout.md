@@ -35,3 +35,9 @@ Searched board power, rack cooling, 400G switching and semiconductor packaging s
 ## Frozen prediction
 
 **No PROMOTE.** Real cloud AI/H100 deployment, but the specific generative-AI complement inflection is too early to verify economically. **HYPOTHESIS:** power/cooling/network constraints may migrate rapidly; broad system incumbents could outperform narrow parts. The late-November T0 itself is a sensitivity: a subsequent demand discontinuity cannot be assumed at freeze. Frozen v1 unchanged.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** NVIDIA Q4 FY2024 data-centre sales reached $18.4bn (+409% y/y). Vertiv group sales reached $8.012bn in 2024 and $10.230bn in 2025. Arista launched Etherlink AI networking products in 2024 and reported about $7bn FY2024 sales with Microsoft 20% of group. Vicor's Advanced Products group mix was 61% FY2022 and 55% FY2024. [SRC-BT261-D09-O01–O05]
+
+**INTERPRETATION:** Accelerator demand and physical complements scaled, but the extraordinary post-T0 generative shock and group-level mixed sales prevent retroactive promotion. Arista may be an economic false negative for a broad networking rule, while the frozen scarce-complement rule excludes NVIDIA's initiating GPU platform. Vertiv broad AI attribution and Vicor accelerator-specific royalties remain DATA-LIMITED. No memory candidate research was performed here; H04 remains sealed. Equity checkpoints unscored.

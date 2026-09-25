@@ -35,3 +35,9 @@ Searched listed RNA platforms, lipid delivery, consumables, CDMO and fill/finish
 ## Frozen prediction
 
 **No PROMOTE.** Manufacturing/clinical options are real, but no scored issuer has both commercially qualified demand and a defensible company-profit bridge at T0. **HYPOTHESIS:** proprietary platforms could capture more than independent contract manufacturers if products succeed, but clinical and delivery risk dominates. Frozen v1 unchanged.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Moderna produced $17.675bn vaccine product sales in 2021 and $18.4bn in 2022, versus $3.1bn COVID/RSV vaccine sales in 2024. BioNTech's subsequent annual report tabulates €18.98bn revenue and €15.28bn operating profit in 2021, falling to a €1.31bn operating loss in 2024. Catalent's FY2021 organic growth benefited from COVID drug product/substance programmes; FY2023 organic sales declined 12%, primarily reflecting reduced COVID demand. [SRC-BT261-D07-O01–O05]
+
+**INTERPRETATION:** Commercial RNA production converted dramatically after an unforeseeable pandemic shock. Durable diversified programme economics were not proven by that one vaccine wave. T0 EVIDENCE-BUILD captured the gating clinical/manufacturing uncertainty but missed large contingent upside; cannot assume the shock at T0. Catalent's RNA-specific marginal profit remains DATA-LIMITED. Equity checkpoints unscored.
