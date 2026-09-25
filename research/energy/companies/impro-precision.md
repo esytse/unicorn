@@ -54,3 +54,8 @@ Before full reverse-underwrite:
 Promote only if current segment evidence plus valuation shows the AI-power/cooling engine can create asymmetric consolidated earnings growth.
 
 The earlier “energy acceleration = turbine hot-section” inference is rejected without source-level attribution.
+
+
+## Gate E — 25 September 2026
+
+**State: ACTION / starter eligible.** 23 Sep close HK$7.085. Entry band **HK$6.6–7.2** while FY26 20–25% growth guidance and Mexico/cooling ramp remain intact; preferred add **<=HK$6.3**. Initial size **5%**, ceiling 7.5% pending H2 margin/cash conversion and Mexico certification. March-2028 base earnings-power case HK$1.05–1.20bn at 15–17x; bull HK$1.30–1.50bn at 18–20x; bear HK$0.70–0.80bn at 10–12x. Reassess on certification delay, guidance failure for thesis reasons, mix reversal or poor cash conversion. See `research/gate-e-thesis-first-entry-sprint.md`.

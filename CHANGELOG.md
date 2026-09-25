@@ -1,4 +1,7 @@
 # Research Changelog
+## 2026-09-25 — #290
+Gate-E entry sprint converted TAI-TECH, Impro Precision, Namuga and Grid Dynamics into March-2028 decision rules. TAI-TECH is research-level ACTION for a 5% starter at NT$190–210 with thesis intact; Impro is ACTION for a 5% starter at HK$6.6–7.2. Namuga remains WAIT pending <=KRW13–14k speculative pricing or material robot-programme economics; GDYN remains REASSESS/WAIT pending productization evidence. Position ceilings, catalysts, downside and add/trim/sell rules are documented in research/gate-e-thesis-first-entry-sprint.md. Brokerage execution remains manual; no trade is assumed from repository state.
+
 ## 2026-09-25 — #288
 Prefabricated power certification scan completed with no new company promotion.
 
