@@ -112,6 +112,10 @@ Current Gate-E work should progressively expose **claim -> evidence -> inference
 
 Canonical controls: [evidence-quality audit](research/evidence-quality-audit.md) and [prediction/outcome ledger](research/prediction-calibration-ledger.md). Wave 5 (#207) freezes the 24 Sep live decisions and ranks residual evidence gaps by decision impact.
 
+### Historical validation
+
+Issue **#300** validates the upstream #261 discovery mechanism with a frozen point-in-time historical protocol. Canonical files live under `research/backtests/261/`: the v1 specification, pre-registered 10-case development set + 5 sealed holdouts, append-only prediction/outcome ledgers, failure taxonomy and aggregate summary. The programme tests causal discovery and company transformation before equity returns; it must preserve negative cases and cannot change v1 rules before holdout reveal.
+
 ### Calibration outputs
 
 - [Evidence-quality audit](research/evidence-quality-audit.md) — current strengths, weak links and ranked evidence-gap queue.
