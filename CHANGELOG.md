@@ -897,3 +897,7 @@ This file records substantive changes to research conclusions, confidence, prior
 ## 2026-09-25 — Historical durability experiment (#327)
 
 - Audited a 63-row frozen #261 join and 30 T0/outcome probes spanning all 15 cases without altering the corpus. Proposed three unvalidated durability questions; simple capex, concentration, margin and isolated-segment vetoes failed cross-case challenge. Incremental ROIC, cash conversion and shareholder returns remain DATA-LIMITED. No live ranking or portfolio change.
+# 2026-09-25 — #326 early-promotion boundary experiment
+
+- Audited all 34 frozen EVIDENCE-BUILD rows against the full 63-row #261 corpus with separate T0 factors and post-T0 outcomes. Three fixed rules (`Q+P`, `Q+P+A`, `P+A+M`) retain both v1 PROMOTEs and add respectively 7, 3 and 1 historical observations.
+- `Q+P` recovers SK hynix and Cognex operating misses, but also promotes funded-failure PacBio, timing-impaired Enphase, rerated Sunny and already-material Oclaro/NeoPhotonics. Adding acceleration loses SK hynix without resolving PacBio/Enphase. No automatic earlier promotion is supported; adjusted equity return and T0 market recognition remain DATA-LIMITED. Frozen #261, live rankings and portfolio actions unchanged.
