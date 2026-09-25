@@ -1,3 +1,11 @@
+## 2026-09-25 — #305 D02 frozen prediction
+
+- Executed the prediction phase of the second #261 point-in-time historical case at T0 1 Sep 2016.
+- PROMOTE: Q Technology, based on pre-T0 dual-camera customer access, scaled-production claims, active-alignment investment and a near-doubling of group volume/revenue.
+- EVIDENCE-BUILD: Sunny Optical, InvenSense and LG Innotek; capture was credible but company-transforming multi-camera economics were either already recognised, non-specific or unquantified.
+- REJECT: Sony, Alps Electric and Hutchinson Technology; each lacked a clean dual-camera-to-group-materiality bridge, and Hutchinson's pending cash acquisition capped independent equity asymmetry.
+- OmniVision was non-investable at T0. Largan was excluded after search-result leakage; no post-T0 fact was used in the frozen states, and the D02 integrity caveat is preserved for later scoring.
+
 ## 2026-09-25 — Raspberry Pi Gate-E entry reassessment
 
 - Added evidence-conditioned entry bands after the 24 September H1 result and repricing.
