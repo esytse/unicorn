@@ -1,3 +1,8 @@
+## 2026-09-25 — #305 D04 frozen prediction
+
+- Reconstructed EV power-electronics SiC bottleneck at T0 2 Jan 2019. Froze **no PROMOTE**: Cree/Wolfspeed, II-VI, ST and ROHM EVIDENCE-BUILD; Infineon REJECT for early company transformation. Cree's >$85m wafer contract and rapid mixed-segment growth are strong, but EV-specific organic profit and valuation are unisolated and its segment already exceeds the early discovery window.
+- Registered dated primary evidence, bounded negative search and exposure to later search snippets, which were excluded from decisions. Outcome research is gated on prediction PR merge; no v1 or live portfolio change.
+
 ## 2026-09-25 — #305 D03 outcome reveal
 
 - Revealed outcomes only after no-PROMOTE D03 prediction merged in PR #313; preserved all seven frozen states and the Akoustis/Resonant search-snippet caveat.
