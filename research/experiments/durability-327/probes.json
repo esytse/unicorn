@@ -1,0 +1,302 @@
+[
+  {
+    "case": "D01",
+    "candidate": "Applied Optoelectronics",
+    "factor": "customer_concentration",
+    "t0_state": "PROMOTE",
+    "t0_evidence": "100G revenue not yet quantified; concentration/ASP risk",
+    "outcome_evidence": "VALIDATED for economic conversion; later durability failure",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "initial capture then durability loss"
+  },
+  {
+    "case": "D01",
+    "candidate": "Oclaro",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "late versus 5–15% window; mix partly replaces 40G",
+    "outcome_evidence": "VALIDATED, but correctly classified as later-stage rather than pre-inflection",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "late mix did not predict durability"
+  },
+  {
+    "case": "D02",
+    "candidate": "Q Technology",
+    "factor": "margin_durability",
+    "t0_state": "PROMOTE",
+    "t0_evidence": "dual-camera revenue unquantified; gross margin fell to 9.3%; ASP/concentration risk",
+    "outcome_evidence": "VALIDATED initial conversion; durability failure and recovery",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "initial conversion then margin/ASP reversal"
+  },
+  {
+    "case": "D02",
+    "candidate": "Sunny Optical",
+    "factor": "margin_durability",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "low module margin; dual-camera profit unquantified; valuation already rerated",
+    "outcome_evidence": "PARTIAL: substantial conversion, but dual-camera-only contribution and unrecognised equity upside unproven",
+    "assessment": "DATA_LIMITED",
+    "lesson": "partial conversion; architecture-only profit unisolated"
+  },
+  {
+    "case": "D03",
+    "candidate": "Akoustis",
+    "factor": "financing_dilution",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "no production revenue; near-term financing and yield risk; LTE/Wi-Fi rather than named 5G socket",
+    "outcome_evidence": "EVIDENCE-BUILD caution validated; FAILED economic/shareholder conversion",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "prototype plus near-term financing preceded failure"
+  },
+  {
+    "case": "D03",
+    "candidate": "Qorvo",
+    "factor": "customer_concentration",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "5G revenue not isolated; Apple 34%; capex/4G attribution",
+    "outcome_evidence": "PARTIAL: strong economic conversion, but already-established business and 5G-only/valuation bridge unisolated",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "concentration warning coexisted with economic conversion"
+  },
+  {
+    "case": "D04",
+    "candidate": "Cree / Wolfspeed",
+    "factor": "capital_intensity",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "mixed SiC/RF segment and acquired RF revenue; already late-stage",
+    "outcome_evidence": "PARTIAL technology capture / FAILED durable shareholder capture; no frozen PROMOTE",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "contracted demand did not fund durable parent cash"
+  },
+  {
+    "case": "D04",
+    "candidate": "II-VI",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "SiC EV revenue unisolated within diversified segment",
+    "outcome_evidence": "PARTIAL strategic capture; company materiality DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "specific EV economics unisolated"
+  },
+  {
+    "case": "D05",
+    "candidate": "Cognex",
+    "factor": "margin_durability",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "logistics gross margin lower; group revenue +5%; absolute mix unisolated",
+    "outcome_evidence": "VALIDATED initial materiality / PARTIAL durability; possible economic false negative",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "initial company scale then project/customer reversal"
+  },
+  {
+    "case": "D05",
+    "candidate": "KION / Dematic",
+    "factor": "margin_durability",
+    "t0_state": "REJECT",
+    "t0_evidence": "incumbent scale, 8.8% adjusted EBIT margin vs 9.4%",
+    "outcome_evidence": "PARTIAL incumbent capture, early REJECT defensible",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "orders rose despite adverse margin"
+  },
+  {
+    "case": "D06",
+    "candidate": "Amkor",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "chiplet-specific margin unisolated; foundry integration",
+    "outcome_evidence": "PARTIAL merchant capture; company transformation DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "advanced mix could not isolate chiplets"
+  },
+  {
+    "case": "D06",
+    "candidate": "TSMC",
+    "factor": "vertical_integration",
+    "t0_state": "REJECT",
+    "t0_evidence": "mature captive foundry; package profit unisolated",
+    "outcome_evidence": "PARTIAL incumbent capture; early merchant REJECT remains defensible",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "captive owner benefited but not merchant complement"
+  },
+  {
+    "case": "D07",
+    "candidate": "Moderna",
+    "factor": "financing_dilution",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "no approved medicine; collaboration revenue volatile",
+    "outcome_evidence": "VALIDATED initial commercial conversion / PARTIAL durability; no T0 PROMOTE",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "preapproval uncertainty did not rule out temporary conversion"
+  },
+  {
+    "case": "D07",
+    "candidate": "Catalent",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "RNA-specific qualification/profit unisolated; acquisition risk",
+    "outcome_evidence": "PARTIAL episodic capture; durable RNA-specific bridge DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "modality and acquisition attribution absent"
+  },
+  {
+    "case": "D08",
+    "candidate": "Asetek",
+    "factor": "architecture_substitution",
+    "t0_state": "REJECT",
+    "t0_evidence": "management exited HPC emphasis after poor cash returns",
+    "outcome_evidence": "REJECT validated for data-centre capture",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "company exited despite theme growth"
+  },
+  {
+    "case": "D08",
+    "candidate": "Vertiv",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "no liquid-only revenue; inflation",
+    "outcome_evidence": "PARTIAL systems capture; direct-liquid transformation DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "broad orders and acquisition cannot isolate direct liquid"
+  },
+  {
+    "case": "D09",
+    "candidate": "Vicor",
+    "factor": "operating_leverage",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "Q3 sequential sales decline and ~$6m return",
+    "outcome_evidence": "PARTIAL existing business; new AI transformation DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "architecture-specific profit remains unisolated"
+  },
+  {
+    "case": "D09",
+    "candidate": "Arista",
+    "factor": "company_materiality",
+    "t0_state": "REJECT",
+    "t0_evidence": "already scaling before generative demand; AI attribution absent",
+    "outcome_evidence": "PARTIAL / possible economic false negative for REJECT; T0 equity asymmetry unproven",
+    "assessment": "DATA_LIMITED",
+    "lesson": "later AI profit unisolated"
+  },
+  {
+    "case": "D10",
+    "candidate": "Hammond Power Solutions",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "COVID sales -14.6%; grid order mix unknown",
+    "outcome_evidence": "PARTIAL group transformation / possible false negative; grid-specific causality DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "grid-specific orders unisolated despite group scale"
+  },
+  {
+    "case": "D10",
+    "candidate": "Powell Industries",
+    "factor": "project_cyclicality",
+    "t0_state": "REJECT",
+    "t0_evidence": "2020 big order industrial, not grid",
+    "outcome_evidence": "PARTIAL utility capture, D10 REJECT remains defensible",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "industrial project mix was not grid"
+  },
+  {
+    "case": "H01",
+    "candidate": "Autoliv",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "broad passive safety group; fusion profit unisolated",
+    "outcome_evidence": "PARTIAL products, no durable Autoliv parent ADAS profit validation",
+    "assessment": "DATA_LIMITED",
+    "lesson": "spin and broad passive mix block parent attribution"
+  },
+  {
+    "case": "H01",
+    "candidate": "Ambarella",
+    "factor": "operating_leverage",
+    "t0_state": "REJECT",
+    "t0_evidence": "automotive aftermarket, operating income fell",
+    "outcome_evidence": "REJECT not falsified for T0 early OEM ADAS conversion",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "operating weakness preceded no clean OEM capture"
+  },
+  {
+    "case": "H02",
+    "candidate": "Pacific Biosciences",
+    "factor": "cash_conversion",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "34.9% GM, Roche exit, capital risk",
+    "outcome_evidence": "PARTIAL technology uptake / FAILED durable funded company conversion",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "consumables uptake did not fund group profits"
+  },
+  {
+    "case": "H02",
+    "candidate": "Brooks Automation",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "sequencing-specific mix and parent profit unknown",
+    "outcome_evidence": "PARTIAL broad company transformation; H02 sequencing causality DATA-LIMITED",
+    "assessment": "DATA_LIMITED",
+    "lesson": "broad life sciences not sequencing-specific"
+  },
+  {
+    "case": "H03",
+    "candidate": "Ypsomed",
+    "factor": "capital_intensity",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "established 56% group segment, GLP-specific profit absent",
+    "outcome_evidence": "PARTIAL strong device capture / possible missed profit, GLP-only transformation DATA-LIMITED",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "capacity investment coexisted with device growth"
+  },
+  {
+    "case": "H03",
+    "candidate": "West Pharmaceutical",
+    "factor": "customer_concentration",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "GLP-1 socket/materiality absent",
+    "outcome_evidence": "VALIDATED later material capture; potential EVIDENCE-BUILD false negative, T0 discoverability limited",
+    "assessment": "DATA_LIMITED",
+    "lesson": "missing named socket cannot disprove later capture"
+  },
+  {
+    "case": "H04",
+    "candidate": "SK hynix",
+    "factor": "capital_intensity",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "HBM group share/profit and T0 valuation absent",
+    "outcome_evidence": "VALIDATED company transformation / clear EVIDENCE-BUILD economic miss",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "capital/cycle risk coexisted with group transformation"
+  },
+  {
+    "case": "H04",
+    "candidate": "Micron",
+    "factor": "company_materiality",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "no HBM3 named socket or group share",
+    "outcome_evidence": "VALIDATED material revenue / possible EVIDENCE-BUILD false negative",
+    "assessment": "DATA_LIMITED",
+    "lesson": "later material revenue but T0 HBM3 socket absent"
+  },
+  {
+    "case": "H05",
+    "candidate": "Enphase Energy",
+    "factor": "cash_conversion",
+    "t0_state": "EVIDENCE-BUILD",
+    "t0_evidence": "already core engine; warranty-adjusted FCF/valuation unknown",
+    "outcome_evidence": "PARTIAL late durable conversion after early financing failure; timing-critical",
+    "assessment": "NON_DISCRIMINATING",
+    "lesson": "early losses then much later profitability; horizon matters"
+  },
+  {
+    "case": "H05",
+    "candidate": "Advanced Energy Industries",
+    "factor": "margin_durability",
+    "t0_state": "REJECT",
+    "t0_evidence": "strategic review and pricing pressure",
+    "outcome_evidence": "REJECT validated for supplier capture",
+    "assessment": "RISK_OBSERVED",
+    "lesson": "strategic review/price pressure preceded exit"
+  }
+]
