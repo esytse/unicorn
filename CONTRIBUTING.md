@@ -2,6 +2,8 @@
 
 You can contribute to this repository mainly by working through an AI agent. You do not need to know branches, commits or pull-request mechanics to contribute safely.
 
+For a task-specific starting point, use the [README start-here table](README.md). The [authority map](docs/REPOSITORY_GOVERNANCE.md) settles which document owns a live conclusion; GitHub issues own backlog state.
+
 ## The simplest workflow
 
 Tell the agent what you want researched or updated, and include this instruction:

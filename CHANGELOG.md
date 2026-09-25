@@ -885,3 +885,7 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Moved `research/top10-unicorn-priority.md` to `research/ranked-universe.md` without changing the ranked research content. Historical changelog entries retain the former path as recorded at the time.
 - Repaired live references, authority map and integrity checks. No company classification, rank, portfolio transaction rule or #261 frozen record changed.
+
+## 2026-09-25 — Start-here and agent navigation (#336)
+
+- Replaced the README operational recap with direct task routes to methodology, discovery, company evidence, ranking/portfolio, monitoring and validation. Aligned AGENTS, AUTOMATION and CONTRIBUTING links with the authority map; removed a duplicate AGENTS evidence-standard section. No research or transaction conclusion changed.

@@ -47,6 +47,8 @@ The hourly cadence exists primarily for **monitoring and notification**, not to 
 
 ## Source of truth
 
+For document locations and lifecycle classes, use `docs/REPOSITORY_GOVERNANCE.md`; this file owns queue and scheduler semantics.
+
 Read at runtime, in this order:
 
 1. `AGENTS.md` — mandatory repository governance.

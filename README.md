@@ -1,139 +1,26 @@
 # Unicorn Research
 
-A collaborative research repository for identifying emerging companies and technologies with asymmetric upside, especially where structural bottlenecks create durable value.
+Unicorn is a thesis-first research system for finding companies that can capture a migrating bottleneck:
 
-Git history is the authoritative version record. Do not create duplicate files such as `final-v2.md` or `revised-final.md`; update the canonical document and let Git preserve the history.
+> **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**
 
-## Research streams
+Start with a change in the world and the scarce complement it creates. The [ranked universe](research/ranked-universe.md) is the current research order for known candidates, not the boundary of discovery or a trade instruction.
 
-- `research/cross-theme/` — structural lenses shared across themes, including abundant intelligence, scarce complements, bottleneck migration and the canonical cross-theme coverage map
-- `research/physical-ai/` — umbrella Physical AI value chain: data, simulation, embodied models, edge compute, sensing, deployment and cross-embodiment bottlenecks
-- `research/robotics-actuators/` — embodiment-specific actuator / precision-motion substream within Physical AI
-- `research/memory/` — AI memory, data movement, interfaces and related bottlenecks
-- `research/energy/` — AI/data-centre energy, grid, power-delivery and speed-to-power bottlenecks
-- Additional themes can be added under `research/` without creating a new repository
+## Start here
 
-## Key files
+| Task | Authoritative starting point |
+|---|---|
+| Understand methodology and version boundaries | [Repository authority map](docs/REPOSITORY_GOVERNANCE.md), [discovery/reverse-underwrite method](research/unicorn-potential.md), [evidence quality controls](research/evidence-quality-audit.md); prospective method changes wait for [#325](https://github.com/esytse/unicorn/issues/325) |
+| Discover bottlenecks and record negative searches | [Cross-theme scarce-complement map](research/cross-theme/scarce-complement-map.md), then the relevant theme's thesis/value chain; dated [discovery scan and negative-search record](research/cross-theme/thesis-first-discovery-2026-09-24.md) is evidence, while [#330](https://github.com/esytse/unicorn/issues/330) owns the proposed systematic coverage ledger |
+| Research a company | The relevant theme's [company/deep-dive tree](research/) and [source register](sources/source-register.md); [watchlist](watchlist.md) is a derived index |
+| Find the current ranking or portfolio decision rules | [Ranked universe](research/ranked-universe.md) for order; [PORTFOLIO.md](PORTFOLIO.md) for Gate-E mandate, allocation and transaction rules; company evidence and live issues supply inputs |
+| Monitor catalysts or select backlog work | [AUTOMATION.md](AUTOMATION.md) for states, triggers and scheduler rules; [GitHub issues](https://github.com/esytse/unicorn/issues) for live execution state |
+| Validate past or future predictions | Frozen [#261 summary](research/backtests/261/SUMMARY.md) and corpus for historical evidence; [prospective prediction ledger](research/prediction-calibration-ledger.md) for live checkpoints; [#325](https://github.com/esytse/unicorn/issues/325) governs prospective version boundaries |
 
-- `AGENTS.md` — mandatory operating instructions for any AI agent working in this repository
-- `AUTOMATION.md` — canonical live backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
-- `CHANGELOG.md` — human-readable record of substantive research changes
-- `watchlist.md` — cross-theme research candidates and current status
-- `research/ranked-universe.md` — canonical continuously ranked research universe; full-repository audit currently covers 65 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
-- `research/unicorn-potential.md` — canonical multibagger-discovery funnel; separates broad research ranking from Unicorn Candidates and reverse-underwrites 1x/3x/5x/10x equity outcomes before Gate E
-- `research/top10-capital-allocation.md` — historical Gate-D valuation/downside layer; useful context but not the current 18-month action framework
-- `PORTFOLIO.md` — Gate-E aggressive dynamic portfolio strategy for the £40k / 18-month objective through March 2028; defines concentration, catalyst timing, buy/add/trim/sell/rotation rules and bottleneck migration
-- `sources/source-register.md` — source provenance register
-- `CONTRIBUTING.md` — simple workflow for collaborators who do not use Git day to day
-- `research/_templates/` — reusable structures for new themes and company deep dives
+The [authority map](docs/REPOSITORY_GOVERNANCE.md) gives the sole live source for each concept and explains CANONICAL, DERIVED, HISTORICAL, GUIDANCE, LOG and ARCHIVE. [Document metadata rules](docs/DOCUMENT_STANDARDS.md) are selective. Git history records revisions; historical Gate-D work and the frozen #261 corpus do not set today's Gate-E rules.
 
-## Thesis-first discovery — primary research loop
+## Working in the repository
 
-Unicorn is first a **discovery engine**, not a stock screener. The canonical upstream loop is:
+Read [AGENTS.md](AGENTS.md) before changes; backlog workers also read [AUTOMATION.md](AUTOMATION.md). Update the relevant canonical artifact with recoverable sources and an explicit distinction between fact, interpretation, hypothesis and open question. Work on a branch, update [CHANGELOG.md](CHANGELOG.md) where required, open a PR and merge only after Research governance passes. [CONTRIBUTING.md](CONTRIBUTING.md) provides a short workflow for collaborators.
 
-> **World change → scarce complement / emerging constraint → bottleneck migration → company discovery → evidence of inflection → economic capture**
-
-Only after a candidate emerges does the downstream investment loop begin:
-
-> **Unicorn Potential / reverse-underwrite → Gate E → portfolio construction / monitoring**
-
-The current ranked universe is **known-opportunity inventory and a benchmark set, not the boundary of discovery**. New research should deliberately search outside it for overlooked or misclassified listed companies, especially small/mid-cap suppliers where a newly scarce layer could transform total-company economics.
-
-Do not start broad discovery by re-screening the existing universe. Start with what changed in technology, industry architecture, manufacturing/process steps, standards/qualification, supply/demand or customer behaviour; map the resulting constraint; then find who captures it. Reverse-underwriting is a falsification/validation tool after candidate formation, not the thesis itself.
-
-## Default workflow
-
-1. Ask an agent to read `AGENTS.md` before doing anything.
-2. The agent researches or updates the requested theme.
-3. The agent edits the canonical Markdown files on a branch.
-4. The agent updates sources and `CHANGELOG.md` where required.
-5. The agent opens a pull request that records what changed, why, evidence, confidence and uncertainty.
-6. Automated governance checks run.
-7. If the checks pass, the PR can auto-merge. Human approval is not required by default.
-
-Pull requests are primarily an audit trail and safety boundary, not a manual approval queue.
-
-If someone prefers not to formulate an agent prompt directly, GitHub's **Research request** issue template can capture the question and starting context in a structured way.
-
-## Live backlog-driven automation
-
-The live automation architecture is documented in `AUTOMATION.md` and tracked by **#120**.
-
-**Status:** one hourly alert-first **Unicorn Portfolio Ops** scheduler is enabled.  
-**Cadence:** hourly from **00:00 through 22:00 Europe/London**.  
-**Deployment backlog:** #121 and #122 are complete.  
-
-GitHub issues are the execution queue. The scheduler does not carry one fixed stock list inside its prompt; it reads the current machine-readable issue state at runtime.
-
-Every run first performs a cheap monitoring pass:
-1. scans explicit `WAITING` / evidence / action-condition triggers;
-2. checks only the minimum fresh evidence needed to determine whether something material changed;
-3. promotes fired triggers to `READY` and P0/P1 where justified;
-4. emits a user notification only for a new/material `ACTION`, `REASSESS`, `THESIS BREAK`, `CATALYST` or `SYSTEM DEGRADED` condition;
-5. deduplicates unchanged conditions so routine monitoring stays quiet.
-
-The hourly cadence exists primarily for **fast detection and useful alerts**, not to launch a full underwrite every hour. Normally no more than one non-triggered heavy research item should be started per rolling 24 hours; P0/P1 trigger-driven analysis can override that limit when needed to make an alert decision-useful.
-
-A useful notification should state what changed, why it matters, the current research-level signal or reassessment need, the relevant current Gate-E condition, the main downside/thesis breaker, the next catalyst and what decision the user needs to make. Actual brokerage execution remains manual.
-
-Epics are coordination surfaces and are not selected directly. Monthly and quarterly reviews are represented as due backlog items (#132 / #133) rather than separate schedulers.
-
-Current Gate-E company work is read from live issue metadata rather than maintained as a static README list. The main live monitors include #86 Laifual, #292 TAI-TECH, #293 Impro Precision, #294 Namuga, #295 Grid Dynamics, #125 JEM, #126 SUSS, #127 Weebit, #128 Micronics Japan, #106 BlackBerry/QNX, #108 FORT, #129 Centrus, #130 Jinpan and #146 Modine/Modexus. #85 Harmonic Drive is parked; #109 QNX-vs-FORT is blocked pending fresh FORT transaction evidence. Ouster #189 completed on 24 Sep via PR #190 and remains a ranked REASSESS candidate. The canonical universe is not capped at ten.
-
-Initial portfolio construction **#131 is complete**. The live allocation loop now runs through event-driven company monitors plus **#132** for monthly or material-event portfolio re-ranking; #132 was refreshed early on 15 Sep 2026 after the Centrus financing/repricing and is next due on the normal cadence around 15 Oct 2026 unless another material portfolio-wide event fires first.
-
-Scheduler sufficiency is measured rather than assumed. Key indicators include:
-- in-window P0/P1 alert detection-to-notification latency, target **<=2h**;
-- P0/P1 trigger-to-substantive-action latency, target **<=24h**;
-- READY backlog depth;
-- oldest P0/P1 READY age;
-- 7-day Backlog Pressure Ratio;
-- substantive-work saturation.
-
-A second scheduler is added only when the documented scale-up thresholds persist. The default split would separate **Alert / Trigger / Triage** from the **Research Worker**, not create one scheduler per stock.
-
-## Example instruction to an agent
-
-> Read `AGENTS.md` and the relevant existing research first. Research the requested bottleneck/company, update the canonical documents with sourced evidence, mark facts vs interpretation vs hypothesis, update the changelog if conclusions change, open a pull request, and merge only after required checks pass.
-
-For backlog-driven work:
-
-> Read `AGENTS.md`, `AUTOMATION.md`, `PORTFOLIO.md`, #120 and the active automation-relevant GitHub backlog. Scan explicit triggers first, notify only when the notification contract is met, then select only a valid `READY` issue, claim it as `RUNNING`, execute bounded work, follow repository governance, and update the issue with its truthful resulting state and next action.
-
-## When to request manual review
-
-Manual review is optional. Ask for it when you specifically want a second pair of eyes before a conclusion enters `main`, for example a major thesis reversal or an unusually consequential decision.
-
-## Evidence quality and calibration
-
-Issue **#193** is the active P1 methodology upgrade. The next process improvement is strengthening the bridge from sourced facts to portfolio decisions rather than expanding the universe by default.
-
-Current Gate-E work should progressively expose **claim -> evidence -> inference -> action**, separate confidence in bottleneck/capture/financial-materiality/equity layers, preserve the strongest counter-evidence, track evidence freshness, avoid false precision in valuation thresholds, and record decision/outcome history for later calibration.
-
-Canonical controls: [evidence-quality audit](research/evidence-quality-audit.md) and [prediction/outcome ledger](research/prediction-calibration-ledger.md). Wave 5 (#207) freezes the 24 Sep live decisions and ranks residual evidence gaps by decision impact.
-
-### Calibration outputs
-
-- [Evidence-quality audit](research/evidence-quality-audit.md) — current strengths, weak links and ranked evidence-gap queue.
-- [Prediction/outcome calibration ledger](research/prediction-calibration-ledger.md) — frozen live decisions and future outcome checks; do not rewrite snapshots with hindsight.
-
-## Unicorn discovery
-
-The broad ranked universe is not itself the unicorn screen. Candidate discovery should search for **economic state changes**—order/backlog acceleration, capacity constraints, Tier-1 qualification, process-of-record wins, LTAs/prepayments, material segment mix shifts, margin inflection, recurring royalties and customer diversification—then ask whether the exposure can mathematically transform the company's equity value.
-
-Use `research/unicorn-potential.md` to reverse-underwrite 1x/3x/5x/10x outcomes. Do not promote a company merely because it is a strong AI beneficiary; starting scale, purity, operating leverage, dilution/capital needs and under-recognition must support a plausible multibagger mechanism. Unicorn Potential never overrides Gate-E action discipline.
-
-## Research principles
-
-- Evidence before narrative
-- Facts, interpretation and hypotheses are clearly separated
-- Conflicting evidence is preserved rather than hidden
-- Thesis changes are explicit and traceable
-- Uncertainty and confidence are recorded
-- Sources should be attributable and recoverable
-- Portfolio capital is dynamic: holdings must continue to earn their place on remaining-window forward return and evidence, not on cost basis or past conviction
-- The active Gate-E mandate is aggressive and catalyst-aware: favour concentrated, evidence-backed setups capable of resolving materially inside the 18-month window
-- Historical Gate-D / old Gate-C normalized-return zones are context, not current action rules unless explicitly re-adopted by current Gate-E work
-- Bottlenecks are expected to migrate as technology, capacity and supply chains mature; the research universe and portfolio must be re-ranked accordingly
-- Automation should be quiet when nothing changed and explicit when a decision may be required
-- Automation capacity should be scaled from measured alert latency, queue pressure and throughput, not intuition
+Research can produce conditional Buy/Add/Trim/Sell signals; actual brokerage execution is manual.
