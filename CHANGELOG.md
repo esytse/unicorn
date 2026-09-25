@@ -1,3 +1,8 @@
+## 2026-09-25 — #261 development review and prospective v2 proposal
+
+- Reviewed all 10 development cases before opening holdouts: 46 frozen candidate states, 2 initial economic PROMOTE conversions, two subsequent durability impairments, and insufficient independent supplier universe or adjusted price series to score capture rate/equity asymmetry.
+- Recorded chain failures, potential false negatives and excluded contaminated candidates. Proposed funded-scale, durability, incumbent-upgrade, attribution and regime-shock tests for a separate future v2 study. The v1 specification remains frozen for H01–H05; no live portfolio change.
+
 ## 2026-09-25 — #306 D06–D10 development outcome reveal
 
 - After merged prediction PR #319, revealed all 19 frozen D06–D10 states with primary-source outcome rows, per-case interpretation, failures and source links. No v1 promotion or live portfolio change.
