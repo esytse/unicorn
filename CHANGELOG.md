@@ -4,6 +4,12 @@
 - Raspberry Pi remains REASSESS / WAIT at 755p; <=550p is the first price-led ACTION-candidate zone, while 550–650p requires stronger normalized FY27/28 earnings evidence.
 - Consolidated the valuation section around the refreshed ~193.7m share count and retained memory normalization, backlog conversion, inventory funding and OEM concentration as key risks.
 
+## 2026-09-25 — Akamai Gate-E economics refresh
+
+- Incorporated management's disclosed mid-60s to mid-70s non-GAAP cash gross-margin range and take-or-pay structure for large CIS deals into the Anthropic contract assessment.
+- Upgraded the conclusion from demand validated / shareholder economics largely unknown to demand validated / preliminary economics plausibly attractive.
+- Akamai remains REASSESS / WATCH rather than ACTION pending a controlled post-rerating entry bridge and 2027–2028 FCF/ROIC evidence.
+
 ## 2026-09-25 — Canonical Gate-E action reconciliation
 
 - Reconciled README, PORTFOLIO, AUTOMATION and the continuous ranked universe with the governed three-starter ACTION surface.
