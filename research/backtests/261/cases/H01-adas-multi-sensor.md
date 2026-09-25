@@ -18,3 +18,9 @@
 ## Negative search / freeze
 
 Surveyed vision ASIC, radar, image sensor, camera SoC and private lidar routes; no other listed narrow multi-sensor supplier with <=T0 qualification, emerging group revenue and valuation evidence was recovered. Later acquisitions, product launches and outcomes seen in search snippets were excluded. **No PROMOTE.** The already material ADAS franchises make this a timing/recognition sensitivity. T0 adjusted equity series unrecovered. **HYPOTHESIS:** integration/qualification beats raw sensor count, conditional on OEM programme economics.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Intel offered $63.54/share cash for Mobileye in March 2017 (~$15.3bn equity), ending standalone observation. Autoliv spun Electronics into Veoneer in 2018; its 2017 sales were ~$2.3bn, but Veoneer FY2018 Active Safety sales of $825m (+6%) came with broader operating losses. onsemi's FY2023 automotive sales +29% includes power and sensing; Ambarella's FY2024 net loss was $169.4m with mixed auto/security/consumer products. [SRC-BT261-H01-O01–O05]
+
+**INTERPRETATION:** ADAS architectures and strategic value grew, but multi-sensor incremental profit at T0 was unisolated. Autoliv's parent stopped owning the electronics engine, validating the ownership caveat. ON's broad auto growth is not ADAS-sensor proof; Ambarella OEM conversion remains data-limited. No T0 adjusted/spin-aware equity series scored.

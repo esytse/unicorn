@@ -18,3 +18,9 @@
 ## Negative search / freeze
 
 Surveyed peptide API capacity, sterile fill and device/needle/elastomer suppliers; no clean pre-T0 public pure-play supplier with confirmed GLP-1 capacity reservation and company-transforming economics surfaced. Ypsomed's segment is already >50% of group and cannot be mislabeled a 5–15% new GLP engine. Later reporting snippets were excluded. **No PROMOTE.** T0 valuation/adjusted prices unresolved. **HYPOTHESIS:** fill and device qualification may matter, but which merchant captures the bottleneck is unresolved.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Novo FY2024 obesity sales were DKK65.1bn, amid continuing capacity constraints, and it acquired three Catalent fill sites in December 2024. Lilly FY2024 Mounjaro/Zepbound revenue was ~$8.95bn/~$4.93bn. Ypsomed Delivery Systems grew from CHF259m FY2021/22 to CHF502.3m FY2024/25, with substantial injector capacity investment and a later diabetes-business sale. West disclosed GLP-1 elastomer and contract-manufacturing sales of 10% and 7% of total Q4 FY2025 sales. [SRC-BT261-H03-O01–O05]
+
+**INTERPRETATION:** A documented fill shortage foreshadowed real production scarcity, much of it integrated by drug owners. West's 17% later quarterly contribution is a material operating miss from EVIDENCE-BUILD, but its pre-T0 GLP customer socket was not observable in the recovered filing. Ypsomed broad device capture is strong, yet GLP-only profit is not split. None establishes T0 valuation asymmetry. Equity returns unscored.

@@ -406,3 +406,29 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-H05-004 — Advanced Energy Q3 2014 release:** https://www.sec.gov/Archives/edgar/data/927003/000092700314000074/exhibit991q32014pressrelea.htm — pricing/project risk.
 - **SRC-BT261-H05-005 — Advanced Energy strategic review (2014-12-22):** https://www.sec.gov/Archives/edgar/data/927003/000092700314000087/form8-kinverterimpairment.htm — announced inverter alternatives review.
 - **SRC-BT261-H05-006 — SolarEdge S-1 filing chronology (2015-02-18):** https://www.sec.gov/Archives/edgar/data/1419612/000104746915000911/a2223102zs-1.htm — **post-T0 listing-status audit only**, not a prediction source.
+
+### #261 H01–H05 — post-freeze outcome sources (never used for frozen predictions)
+- **SRC-BT261-H01-O01 — Intel Mobileye tender (2017-03):** https://www.sec.gov/Archives/edgar/data/50863/000119312517079586/d256834dex991.htm — primary; $63.54 cash/share, ~$15.3bn equity value.
+- **SRC-BT261-H01-O02 — Veoneer separation (2018):** https://www.sec.gov/Archives/edgar/data/1733186/000119312518134972/d550335dex991.htm — primary; FY2017 $2.3bn Electronics carve-out.
+- **SRC-BT261-H01-O03 — Veoneer FY2018 10-K:** https://www.sec.gov/Archives/edgar/data/1733186/000173318619000044/veoneer_10k.htm — primary; Active Safety $825m +6% and broader losses.
+- **SRC-BT261-H01-O04 — onsemi FY2023 release:** https://www.sec.gov/Archives/edgar/data/1097864/000119312524023485/d610011dex991.htm — primary; automotive +29%, mixed SiC/sensing.
+- **SRC-BT261-H01-O05 — Ambarella FY2024 release:** https://www.sec.gov/Archives/edgar/data/1280263/000119312524047944/d793703dex991.htm — primary; large net loss and mixed auto/computer vision.
+- **SRC-BT261-H02-O01 — Illumina FY2019 10-K:** https://www.sec.gov/Archives/edgar/data/1110803/000111080320000018/form10-k2019classic.htm — primary; $3.5bn group, consumables growth and instrument mix.
+- **SRC-BT261-H02-O02 — PacBio FY2023 10-K:** https://www.sec.gov/Archives/edgar/data/1299130/000129913024000054/pacb-20231231.htm — primary; new system transition and $334.5m operating loss.
+- **SRC-BT261-H02-O03 — PacBio FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1299130/000129913025000061/pacb-20241231.htm — primary; $206.1m operating cash outflow and debt restructure.
+- **SRC-BT261-H02-O04 — Brooks FY2021 10-K:** https://www.sec.gov/Archives/edgar/data/933974/000155837021016314/brks-20210930x10k.htm — primary; life-science sales $513.7m vs $388.5m 2020, includes acquisitions and broad mix.
+- **SRC-BT261-H02-O05 — Azenta FY2022 10-K:** https://www.sec.gov/Archives/edgar/data/933974/000155837022018195/azta-20220930x10k.htm — primary; sold semiconductor automation for $2.9bn and became life-science focused.
+- **SRC-BT261-H03-O01 — Novo FY2024 financials:** https://annualreport.novonordisk.com/2024/strategic-aspirations/financials.html — primary; obesity and diabetes GLP-1 sales, ongoing supply constraints.
+- **SRC-BT261-H03-O02 — Novo three Catalent sites completion (2024-12):** https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=915081 — primary; vertical capacity capture.
+- **SRC-BT261-H03-O03 — Lilly FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm — primary; Mounjaro/Zepbound revenues and broad group drivers.
+- **SRC-BT261-H03-O04 — Ypsomed FY2024/25 results (2025-05):** https://www.ypsomed.com/en/investors/ad-hoc-announcements/ad-hoc-detail-page/ypsomed-sells-its-diabetes-business-and-grows-by-over-35 — primary; Delivery Systems growth and capex, no drug-customer share.
+- **SRC-BT261-H03-O05 — West FY2025 earnings deck:** https://www.sec.gov/Archives/edgar/data/105770/000010577026000005/a4q25earningsdeck-final.htm — primary; 17% of Q4 total sales GLP-1, 10% elastomers and 7% contract manufacturing, later management segmentation.
+- **SRC-BT261-H04-O01 — SK hynix FY2024 Q4 release:** https://news.skhynix.com/en/sk-hynix-announces-4q24-financial-results/ — primary; HBM >40% of Q4 DRAM revenue, group KRW66.2tn revenue and KRW23.5tn operating profit.
+- **SRC-BT261-H04-O02 — Micron HBM3E production (2024-02):** https://investors.micron.com/news-releases/news-release-details/micron-commences-volume-production-industry-leading-hbm3e — primary; H200 supply.
+- **SRC-BT261-H04-O03 — Micron FY2025 Q4 prepared remarks:** https://investors.micron.com/static-files/5fb98d73-2134-4446-8d1b-0f90285f6c02 — primary; nearly $2bn HBM quarterly revenue.
+- **SRC-BT261-H04-O04 — Micron FY2025 10-K:** https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm — primary; mixed DRAM and data-centre revenue.
+- **SRC-BT261-H04-O05 — Samsung HBM3E product description:** https://semiconductor.samsung.com/kr/dram/hbm/hbm3e/ — primary product capability, customer/group profit unisolated; webpage has no fixed historical publication date.
+- **SRC-BT261-H05-O01 — Enphase FY2016 10-K:** https://www.sec.gov/Archives/edgar/data/1463101/000146310117000024/a10-k12312016.htm — primary; 2016 net loss $67.5m vs 2015 $22.1m and 2014 $8.1m.
+- **SRC-BT261-H05-O02 — Enphase FY2022 10-K:** https://www.sec.gov/Archives/edgar/data/1463101/000146310123000025/enph-20221231.htm — primary; $2.3bn revenue, ~$397m net income, larger cash generation.
+- **SRC-BT261-H05-O03 — SMA FY2015 annual report:** https://www.sma.de/fileadmin/content/global/Investor_Relations/Documents/Publications/Finanzberichte/2015/en/2016-03-30_SMA_Annual_Report_2015_incl_Image_web.pdf?v=1653306429 — primary; €999.6m sales and positive EBIT after earlier weak cycle.
+- **SRC-BT261-H05-O04 — Advanced Energy inverter wind-down (2015-06):** https://www.sec.gov/Archives/edgar/data/927003/000092700315000050/exhibit991pressrelease_629.htm — primary; exit and $260–290m projected pre-tax charge.
