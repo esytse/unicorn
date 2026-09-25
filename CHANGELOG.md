@@ -1,3 +1,11 @@
+## 2026-09-25 — #302 D01 outcome reveal
+
+- Revealed D01 only after its prediction commit merged.
+- AAOI PROMOTE validated the initial economic-conversion chain: 2015–2017 revenue roughly doubled, data-center mix reached 80.2%, and 2017 margins inflected strongly; later customer concentration and architecture replacement impaired durability.
+- Oclaro validated the bottleneck/capture but confirmed the frozen classification was already late-stage; NeoPhotonics was a partial architecture/capture validation with severe concentration.
+- D01 exposes customer concentration + architecture-replacement durability as a future-v2 consideration; frozen v1 remains unchanged.
+- Equity checkpoint returns remain unscored until a reliable point-in-time price series is recovered.
+
 ## 2026-09-25 — #302 D01 frozen prediction
 
 - Executed the prediction phase of the first #261 point-in-time historical case at T0 4 Jan 2016.

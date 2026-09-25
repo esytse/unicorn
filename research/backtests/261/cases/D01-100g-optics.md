@@ -69,3 +69,27 @@ The strongest v1 prediction is **AAOI PROMOTE**, because the evidence available 
 Oclaro and NeoPhotonics validate the architecture but appear later in the economic-conversion curve. Lumentum lacks a sufficiently specific T0 state change.
 
 **Outcome reveal is prohibited in this file.**
+
+
+## Outcome reveal — 25 September 2026
+
+Outcome evidence was inspected only after the frozen prediction PR merged.
+
+### AAOI
+**VALIDATED for initial economic conversion; durability later failed.** Revenue rose from $189.9m in 2015 to $260.7m in 2016 and $382.3m in 2017. The 2017 filing attributed 46.6% annual growth primarily to 40G/100G datacenter transceiver demand; gross margin reached 43.5% and operating margin 22.7%. Data-center revenue reached 80.2% of group revenue. This is a strong match to the predicted design-win -> volume -> group financial inflection chain.
+
+The later failure is equally important: the customer base was extremely concentrated, and by 2019 AAOI disclosed that several large customers' new datacenter architectures had reduced demand for 100G transceivers. The early signal worked, but capture was not durable.
+
+### Oclaro
+**VALIDATED as a later-stage architecture/capture signal.** By Q3 FY2017, 100G+ was 78% of revenue, quarterly revenue was $162.2m and non-GAAP gross margin 41.6%. FY2017 revenue reached $601.0m versus $407.9m in FY2016. The EVIDENCE-BUILD classification was directionally right: economic conversion was real, but T0 was already late relative to #261's desired pre-inflection window.
+
+### NeoPhotonics
+**PARTIAL / architecture validation.** 100G+ reached 83% of 2017 revenue and 86% in 2018, confirming the high-speed photonics bottleneck/capture. Customer concentration remained severe (Huawei ~40% and Ciena ~16% of 2017 revenue), making this a less clean transformation case.
+
+### Lumentum
+The D01 REJECT is not clearly falsified. Lumentum later grew strongly, but important later engines included mobile 3D sensing and commercial lasers; the T0 evidence did not establish a sufficiently specific hyperscale-100G company-transforming state change.
+
+### D01 lesson
+The case supports three parts of v1: architecture-first optical scarcity was real; explicit hyperscale qualification/design wins were more useful for early discovery than already-high thematic revenue mix; and the 5–15% heuristic helps separate early discovery from late confirmation. It also exposes a missing durability dimension: **customer concentration + architecture replacement risk can terminate capture even after a spectacular initial conversion.**
+
+This is an observation for a future v2 proposal only. The frozen v1 rules remain unchanged.
