@@ -310,3 +310,10 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-D04-O03 — Wolfspeed Chapter 11 / emergence 8-K:** https://www.sec.gov/Archives/edgar/data/895419/000119312525223057/d69265d8k.htm — primary; 2025 petition, old-share cancellation and 0.008352 exchange on 2025-09-29; not a computed total return.
 - **SRC-BT261-D04-O04 — Coherent September 2023 10-Q:** https://www.sec.gov/Archives/edgar/data/820318/000082031823000029/iivi-20230930.htm — primary; Denso/Mitsubishi $1bn for 25% of SiC subsidiary, parent retains 75%.
 - **SRC-BT261-D04-O05 — Infineon annual report 2024:** https://www.infineon.com/dgdl/Infineon%2BAnnual%2BReport%2B2024.pdf?fileId=8ac78c8b92bced620193694bfb970095 — primary; SiC production, EV applications and wafer supply context, not isolated EV SiC profit.
+
+### #261 D05 — frozen pre-T0 sources (T0 2019-07-01)
+- **SRC-BT261-D05-001 — Cognex FY2018 10-K (filed 2019-02):** https://www.sec.gov/Archives/edgar/data/851205/000085120519000003/cgnx-20181231x10xk.htm — primary; logistics >50% growth, $806.3m group sales, lower logistics/deployment gross margin.
+- **SRC-BT261-D05-002 — KION FY2018 annual report, SCS segment (published 2019):** https://reports.kiongroup.com/2018/ar/management-report/financial-position-and-financial-performance/business-situation-and-financial-performance-of-the-segments/supply-chain-solutions.html — primary; 2018 SCS orders, order/revenue timing, EBIT margin.
+- **SRC-BT261-D05-003 — Teradyne FY2018 10-K (filed 2019-03):** https://www.sec.gov/Archives/edgar/data/97210/000119312519059974/d652525d10k.htm — primary; MiR acquisition, combined Industrial Automation composition and parent scale.
+- **SRC-BT261-D05-004 — Teradyne/MiR acquisition release (2018-04-25):** https://www.sec.gov/Archives/edgar/data/97210/000119312518129876/d574937dex992.htm — primary; MiR 2017 and Q1 2018 pre-acquisition revenue/profitability claim.
+- **SRC-BT261-D05-005 — Zebra FY2018 10-K (filed 2019-02):** https://www.sec.gov/Archives/edgar/data/877212/000087721219000011/a10k12312018zebra.htm — primary; EVM organic sales and broad capture portfolio.

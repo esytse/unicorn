@@ -1,3 +1,8 @@
+## 2026-09-25 — #305 D05 frozen prediction
+
+- Reconstructed warehouse fleet-scale automation at T0 1 Jul 2019 from contemporaneous filings. Froze no PROMOTE: Cognex and Teradyne/MiR EVIDENCE-BUILD; KION/Dematic and Zebra REJECT for an early unrecognised group transformation. Cognex's logistics growth exceeds 50% but lower logistics gross margin and unisolated contribution stop promotion.
+- Logged negative component search, private/internal comparators and later-result snippet boundary. Outcome research remains gated on prediction merge; frozen v1 and live portfolio unchanged.
+
 ## 2026-09-25 — #305 D04 outcome reveal
 
 - Revealed D04 only after frozen prediction PR #315 merged; preserved no-PROMOTE states and the post-T0 search-snippet caveat. SiC power/material revenue scaled, but Wolfspeed's fab underutilisation and financing culminated in Chapter 11, cancellation of old shares and fractional new-share recovery. FY2023 RF-included and later continuing bases are kept distinct.
