@@ -1,19 +1,19 @@
 # Unicorn Ranked Research Universe
 
 **Status:** Active canonical cross-theme ranking  
-**Live Gate-E refresh:** 2026-09-24  
+**Live Gate-E refresh:** 2026-09-25
 **Parent backlog:** #110  
 **Purpose:** Continuously rank every company with sufficient evidence by structural bottleneck quality, company capture, financial materiality, valuation/setup, marginal portfolio contribution and evidence confidence.
 
 > This is a **research-prioritisation surface, not an investment recommendation list**. Rank does not authorize a trade. There is no Top-10 admission or displacement gate: every sufficiently researched company belongs in the same ordered universe. A Top-10 view, if used, is only a derived display.
 
-## Authoritative live ranking — full-repository audit, 24 September 2026
+## Authoritative live ranking — full-repository audit, 25 September 2026
 
 **Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. The original audit expanded the universe to 59 entries; governed thesis-first discoveries now expand the live universe to **65 company entries**.
 
 | Rank | Company | Primary exposure | State | Evidence / setup summary |
 |---:|---|---|---|---|
-| **1** | **Laifual Drive** | Robotics actuation | ACTION monitor | Only governed starter action; <=HK$48 condition |
+| **1** | **Laifual Drive** | Robotics actuation | ACTION monitor | Governed 5% starter at <=HK$48 with thesis intact |
 | **2** | **Centrus Energy** | LEU / HALEU | REASSESS | High strategic scarcity; funded-capacity/dilution gate |
 | **3** | **Modine / Modexus** | AI cooling | WAIT | Independent cooling engine; separation + valuation catalyst |
 | **4** | **BlackBerry / QNX** | Runtime / functional safety | REASSESS | High-margin QNX evidence; current price embeds substantial success |
@@ -73,10 +73,10 @@
 | **58** | **Thermo Fisher Scientific** | Scientific-AI execution | COMPARATOR | Broad lab/instrument benchmark; AI-specific economics insufficiently isolated |
 | **59** | **Danaher** | Scientific-AI execution | COMPARATOR | Broad life-science tools benchmark; AI-specific financial capture insufficiently isolated |
 
-| **60** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | POTENTIAL | Early company-material AI mix; 3x economically plausible but not validated |
+| **60** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | ACTION monitor | Governed 5% starter at NT$190–210 while acceleration and AI-mix direction remain intact |
 | **61** | **Namuga** | Humanoid 3D sensing | POTENTIAL / UNDERWRITE | PoC→verification→sole-source→production transition; programme economics still undisclosed |
 | **62** | **Grid Dynamics** | Physical-AI simulation / validation / deployment | POTENTIAL / EVIDENCE BUILD | Small starting equity and live commercial programs; recurring/platform economics unproven |
-| **63** | **Impro Precision Industries** | AI distributed power + liquid cooling | POTENTIAL / EVIDENCE BUILD | High-horsepower engines already material; current mix/backlog/margins/valuation need resolution |
+| **63** | **Impro Precision Industries** | AI distributed power + liquid cooling | ACTION monitor | Governed 5% starter at HK$6.6–7.2 while FY26 guidance and the Mexico/cooling ramp remain intact |
 | **64** | **Vicor** | Vertical power delivery | POTENTIAL / WATCH | Structural capture validated; discovered after major rerating, current equity setup weaker |
 | **65** | **AP Memory** | Silicon capacitors / package power integrity | POTENTIAL / LATE DISCOVERY | Business inflection validated; starting valuation already reflects substantial success |
 
@@ -98,7 +98,7 @@ Rank is continuous rather than membership-based. A company moves **up** when dir
 
 Companies are not excluded because they fall below an arbitrary cutoff. Where evidence is insufficient for meaningful relative placement, keep the company in discovery/theme research until a bounded company screen can establish a rank.
 
-**Current allocation conclusion:** Laifual remains the only governed research-level ACTION, limited to a 5% starter at executable <=HK$48. Rank alone never creates an ACTION. Brokerage execution is manual; tactical cash remains the default for undeployed capital.
+**Current allocation conclusion:** Laifual, TAI-TECH and Impro Precision each have a governed conditional 5% starter ACTION. The combined initial research allocation is capped at 15% / £6,000, with 85% tactical cash. Structural rank and Gate-E deployability remain separate axes: rank alone never creates an ACTION. Brokerage execution is manual.
 
 ## Historical ranking material
 

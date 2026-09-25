@@ -2,7 +2,7 @@
 
 **Status:** Active  
 **Strategy reference:** 2026-09-09  
-**Live decision surface refreshed:** 2026-09-24  
+**Live decision surface refreshed:** 2026-09-25
 **Target date:** March 2028  
 **Backlog:** #117  
 **Automation:** LIVE — #120 / `AUTOMATION.md`  
@@ -98,13 +98,13 @@ Working design principles for the initial portfolio:
 
 Initial evidence-backed portfolio construction was completed in **#131**. The live portfolio remains conditional rather than fully deployed: position weights are activated only when governed company-level entry conditions are met, and **#132** re-ranks candidates as prices, evidence and catalysts change. Do not force deployment merely to fill 4–7 slots.
 
-## Live portfolio checkpoint — 24 September 2026
+## Live portfolio checkpoint — 25 September 2026
 
 The authoritative live ranking is `research/top10-unicorn-priority.md`; this strategy file defines the rules rather than duplicating a static ranking.
 
 Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
-Laifual remains the only governed research-level ACTION in the current decision surface: a 5% starter only at executable <=HK$48 with thesis intact. No brokerage execution is assumed by the repository.
+The governed research-level ACTION surface contains three independent conditional 5% starters: **Laifual at executable <=HK$48**, **TAI-TECH at NT$190–210**, and **Impro Precision at HK$6.6–7.2**, in each case only while the documented thesis remains intact. Together they represent a maximum initial research allocation of 15% / £6,000; the remaining 85% stays tactical cash. No brokerage execution is assumed by the repository.
 
 ## Transaction rules
 
@@ -230,7 +230,7 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 - one live scheduler is enabled;
 - actual brokerage execution remains manual.
 
-### Canonical live decision surface — 24 Sep 2026
+### Canonical live decision surface — 25 Sep 2026
 
 Do not duplicate the company ranking or trigger table here. The authoritative live surfaces are:
 

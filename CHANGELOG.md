@@ -1,3 +1,11 @@
+## 2026-09-25 — Canonical Gate-E action reconciliation
+
+- Reconciled README, PORTFOLIO, AUTOMATION and the continuous ranked universe with the governed three-starter ACTION surface.
+- Current conditional starters are Laifual at <=HK$48, TAI-TECH at NT$190–210 and Impro Precision at HK$6.6–7.2, each at 5% initial size with thesis and executable-price checks intact.
+- Marked the older #131 construction and 15 September re-rank material as historical rather than current execution state.
+- Added the live #292–#295 monitor set to the automation documentation and corrected the ranked-universe inventory count to 65.
+- No brokerage trade is assumed or executed.
+
 ## 2026-09-25 — Canonical ACTION underwrites
 Closed the documentation-integrity gap for the three current Gate-E ACTION candidates. Confirmed Laifual already has a full canonical company underwrite at research/robotics-actuators/companies/laifual-drive.md; upgraded TAI-TECH and Impro company files so their thesis chains, evidence hierarchy, March-2028 scenario bridges, counter-cases/falsifiers, Gate-E rules and source IDs live with the company research rather than only in the Gate-E sprint. Added central source-register entries for TAI-TECH and Impro and explicitly distinguished primary evidence from secondary management reporting. Gate-E files remain portfolio summaries, not the primary research record.
 
