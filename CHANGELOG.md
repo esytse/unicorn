@@ -1,3 +1,10 @@
+## 2026-09-25 — #305 D02 outcome reveal
+
+- Appended post-T0 outcomes only after frozen prediction PR #311 merged; preserved v1 rules and the Largan/InvenSense/Hutchinson search-snippet leakage caveat.
+- Q Technology's dual-camera/high-pixel mix drove strong 2017 ASP and profit conversion, then 2018 commoditisation/capacity costs destroyed margins before 2019 recovery. Sunny and LG captured broader module demand but architecture-specific incremental profit and equity recognition remain uncertain.
+- Sony's sensors benefited from dual-lens demand but segment profit included major non-D02 effects; Alps remained non-attributable; InvenSense and Hutchinson were acquired and are not clean D02 economic validations.
+- Updated outcome and failure ledgers plus primary-source register. Equity checkpoint returns remain unscored; no current watchlist or Gate-E action changes.
+
 ## 2026-09-25 — #305 D02 frozen prediction
 
 - Executed the prediction phase of the second #261 point-in-time historical case at T0 1 Sep 2016.

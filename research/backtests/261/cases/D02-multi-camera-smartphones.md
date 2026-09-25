@@ -136,3 +136,57 @@ The strongest v1 prediction is **Q Technology PROMOTE**. Before 1 September 2016
 Sunny Optical and InvenSense provide stronger evidence that the broader imaging upgrade was real, but both fail the clean promotion test for different reasons: Sunny's dual-camera economics appeared low-margin and already recognised, while InvenSense's OIS growth was not demonstrably multi-camera-specific. LG Innotek lacks recovered materiality evidence; Sony and Alps lack a company-transforming state change; Hutchinson lacks both production economics and independent equity asymmetry.
 
 **Outcome reveal is prohibited in this file.**
+
+## Outcome reveal — 25 September 2026
+
+The prediction above was frozen in merged PR #311 before this post-T0 reveal. The prohibition above applied to the prediction phase; this section is an append-only outcome record. This is a historical methodology test, not a current stock recommendation. Source IDs below resolve in `sources/source-register.md`.
+
+**FACT — architecture:** Sunny reported sharply higher dual-camera module penetration in 2017 and the onset of triple-camera systems in 2018; LG Innotek explicitly attributed 2018 optics growth partly to multiple-camera and new-technology modules. Sony described mobile sensor-market expansion from dual lenses and sensing. The architecture strengthened, but the scarce economics were distributed among lenses, sensors, module process, and downstream algorithms; Sunny described a shift toward supplying modules separately rather than exclusively as integrated dual-camera units. [SRC-BT261-D02-O04, O05, O08, O09]
+
+### Q Technology — VALIDATED initial conversion; severe durability failure
+
+**FACT:** In 2017 revenue grew 59.1% to RMB7.94bn, camera-module ASP rose 42.0%, gross margin improved to 11.1% from 8.5%, and profit rose 128.7% to RMB436.3m. Management explicitly attributed improved mix and margin partly to increased dual-camera and high-pixel module proportions. That is a strong, though not exclusively dual-camera, match to the frozen qualification -> mix -> group-profit chain. In 2018 camera shipments rose 53% but ASP fell 30.3%, gross margin dropped to 4.3%, and profit fell 96.7% to RMB14.4m. Management cited low-end mix, competition and expansion depreciation. Profit recovered to RMB542.4m in 2019 as higher-end mix, utilisation and automation improved. [SRC-BT261-D02-O01–O03]
+
+**INTERPRETATION (Medium-High):** The PROMOTE found genuine early company-level conversion, not durable scarcity. The 2018 failure was precisely the ASP/assembly-margin/capital-intensity risk identified at T0. A 2019 recovery does not erase the drawdown in operating economics. This case does not establish an equity-return win because adjusted 6/12/18/24/36-month prices and maximum drawdown have not been reconstructed.
+
+### Sunny Optical — PARTIAL: operating conversion, attribution/recognition unresolved
+
+**FACT:** Dual-camera module mix increased substantially in 2017. Optoelectronics revenue reached RMB17.77bn, and group profit reached RMB2.91bn; group margin improved. In 2018 optoelectronics gross margin fell from 13.1% to 8.4% and group profit declined to RMB2.51bn, with low new-factory utilisation and cost/mix pressures. High-pixel lenses and modules also contributed to growth. [SRC-BT261-D02-O04–O05]
+
+**INTERPRETATION (Medium):** The frozen EVIDENCE-BUILD understated how large the broader optics operating inflection became, but no isolated dual-camera profit bridge or clean unrecognised-valuation result is available. It was right to flag low-margin assembly and prior rerating. Treat this as a partial capture validation, not proof that D02 alone transformed shareholder economics.
+
+### InvenSense — PARTIAL / contaminated equity interpretation
+
+**FACT:** TDK announced a $13/share cash acquisition in December 2016 and completed it in May 2017. Its strategic rationale covered motion/sound sensors and broader IoT, automotive and ICT applications, not an isolated multi-camera OIS profit engine. The offer was a 19.9% premium to the prior-day close; that is not a return from T0. [SRC-BT261-D02-O06]
+
+**INTERPRETATION (Low for D02-specific causality):** An equity exit occurred but the frozen OIS -> multi-camera content -> durable group economics bridge never became independently testable. Importantly, the acquisition was among the post-T0 snippets inadvertently exposed before freezing; this result cannot be claimed as a clean predictive success.
+
+### LG Innotek — PARTIAL: direct capture, ambiguous incremental profit
+
+**FACT:** LG Innotek announced a dual-camera module for an LG smartphone in August 2017. In 2018, optics-solutions revenue increased 8.9% to KRW5,969bn, which management partly attributed to multiple-camera and new-technology modules; optics was approximately 75% of group sales. Group operating profit nevertheless fell 11.1% to KRW263.5bn amid smartphone weakness and higher fixed costs. [SRC-BT261-D02-O07–O08]
+
+**INTERPRETATION (Medium):** T0 EVIDENCE-BUILD was directionally cautious: real product and segment capture followed, but module-specific profit and equity mispricing were not established. Large optics revenue is not the same as incremental dual-camera return on capital.
+
+### Sony — PARTIAL upstream benefit; D02 REJECT not cleanly falsified
+
+**FACT:** FY2017 (year ended March 2018) image-sensor sales rose from ¥548.6bn to ¥649.4bn; Sony said high-value mobile sensor demand included dual-lens cameras, front cameras and video. Semiconductor sales reached ¥850bn and operating profit ¥164bn, but the profit comparison also reflects earthquake recovery, a camera-module subsidiary disposal gain, asset-sale and insurance proceeds, and prior-period charges. Sony exited camera-module manufacturing while investing in sensors. [SRC-BT261-D02-O09–O10]
+
+**INTERPRETATION (Medium):** The T0 sensor-demand hypothesis was real and the upstream layer captured value. The REJECT was specifically for a clean, underrecognised, D02-driven transformation of the diversified group; reported profit cannot isolate that chain. This is a useful near-miss rather than a proven false negative.
+
+### Alps Electric — DATA-LIMITED for multi-camera-specific economics
+
+**FACT:** Its 2018 annual report described strong smartphone-camera actuator demand in fiscal 2017, a leading supplier position and customer expansion, but did not isolate dual-camera actuator revenue or profit. It also warned of levelling smartphone units and a need to use existing equipment profitably. [SRC-BT261-D02-O11]
+
+**INTERPRETATION (Medium on absence of an isolated bridge):** Broad actuator demand rose, but no recovered evidence establishes content multiplication or group transformation caused by D02. The frozen REJECT is not falsified, while a definitive product-level failure cannot be scored.
+
+### Hutchinson Technology — REJECT validated on investability; product DATA-LIMITED
+
+**FACT:** TDK completed the acquisition on 5 October 2016; common shares converted to $4.00 cash each. No independent public-company production or OIS economics remained to observe. [SRC-BT261-D02-O12]
+
+**INTERPRETATION (High on the investability boundary):** The frozen pending-merger constraint was decisive. The acquired prototype's later technical fate cannot be inferred from the merger. Its post-T0 completion was also accidentally exposed in a search snippet before prediction freeze, so this is not counted as a clean predictive success about the date or deal outcome.
+
+### Integrity, scoring and v2 observation
+
+Largan was excluded at freeze after post-T0 snippet exposure, so no retrospective Largan state is assigned and no clean false-negative rate can be inferred for that missing upstream lens supplier. OmniVision remains a non-investable T0 boundary, not a scored candidate. InvenSense and Hutchinson classifications relied on <=T0 evidence, but their outcome interpretation carries the leakage caveat. The strongest D02 result is **one of one PROMOTE candidates initially converted economically**, followed by a serious durability break; that is not a statistically meaningful promotion-precision estimate. Equity checkpoints and maximum drawdowns for the continuing issuers remain **unscored**, not zero.
+
+**HYPOTHESIS for eventual v2 (not a v1 amendment):** Require post-promotion monitoring of ASP, gross margin, capacity utilisation, incremental capex and architecture migration alongside unit growth; isolate product causality where possible, and distinguish a valid early inflection from durable shareholder capture. The frozen v1 rules remain unchanged.
