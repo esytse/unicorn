@@ -58,6 +58,25 @@ Predictions are appended **before** outcome reveal. Never rewrite a frozen entry
 | D10 | 2021-01-04 | broad electrical systems | Eaton | REJECT | Medium | established electrical portfolio | grid-specific inflection absent | interconnection orders -> unrecognised profit | 2026-09-25 |
 
 
+
+| H01 | 2017-01-03 | ADAS vision compute/qualification | Mobileye | EVIDENCE-BUILD | Medium | Q3 OEM EyeQ $72.6m | mature ADAS franchise, multi-sensor incremental profit/valuation absent | new multi-sensor OEM production content/FCF | 2026-09-25 |
+| H01 | 2017-01-03 | radar/camera fusion systems | Autoliv | EVIDENCE-BUILD | Medium | established Active Safety radar/camera portfolio | broad passive safety group; fusion profit unisolated | repeat sensor orders and segment margins | 2026-09-25 |
+| H01 | 2017-01-03 | automotive image sensors | ON Semiconductor | REJECT | Medium | Aptina automotive position | Q3 Image Sensor Group -9.4%; ADAS mix unknown | automotive sensor growth/margin | 2026-09-25 |
+| H01 | 2017-01-03 | automotive vision SoC | Ambarella | REJECT | Medium | video-processing product | automotive aftermarket, operating income fell | qualified OEM perception engine | 2026-09-25 |
+| H02 | 2018-01-02 | high-throughput sequencing platform | Illumina | REJECT | Medium | NovaSeq and $451m quarterly consumables | mature franchise, initial margin pressure | incremental automation-specific profit | 2026-09-25 |
+| H02 | 2018-01-02 | Sequel instrument/consumables | Pacific Biosciences | EVIDENCE-BUILD | Medium | Sequel consumables $10.6m vs $6.5m | 34.9% GM, Roche exit, capital risk | repeat utilisation and positive FCF | 2026-09-25 |
+| H02 | 2018-01-02 | automated cold sample handling | Brooks Automation | EVIDENCE-BUILD | Low | life-science storage/customer capability | sequencing-specific mix and parent profit unknown | organic lab orders/segment margin | 2026-09-25 |
+| H03 | 2022-06-01 | drug autoinjector/device scale | Ypsomed | EVIDENCE-BUILD | Medium | YDS CHF259m +22.7%, assembly investment | established 56% group segment, GLP-specific profit absent | named drug orders and device FCF | 2026-09-25 |
+| H03 | 2022-06-01 | peptide drug/fill constraint comparator | Novo Nordisk | REJECT | Medium | Wegovy supply interruption | initiating medicine, not merchant complement | supply recovery and outsourced economics | 2026-09-25 |
+| H03 | 2022-06-01 | peptide medicine comparator | Eli Lilly | REJECT | Medium | Mounjaro diabetes approval | initiating therapy, not merchant device supplier | commercial demand and supply | 2026-09-25 |
+| H03 | 2022-06-01 | injectable containment | West Pharmaceutical | EVIDENCE-BUILD | Low | qualified components portfolio | GLP-1 socket/materiality absent | modality orders and FCF | 2026-09-25 |
+| H04 | 2023-01-03 | HBM3 DRAM stack | SK hynix | EVIDENCE-BUILD | Medium | HBM3 mass production for H100 | HBM group share/profit and T0 valuation absent | HBM mix/margins and repeat capacity | 2026-09-25 |
+| H04 | 2023-01-03 | HBM2E/next-gen DRAM | Micron | EVIDENCE-BUILD | Low | HBM2E volume AI/ML shipments | no HBM3 named socket or group share | HBM3 production and FCF | 2026-09-25 |
+| H04 | 2023-01-03 | HBM-PIM memory | Samsung Electronics | REJECT | Low | HBM-PIM public R&D | no HBM3 customer/group profit proof | named qualified HBM3 production | 2026-09-25 |
+| H05 | 2015-01-02 | panel-level solar microinverters | Enphase Energy | EVIDENCE-BUILD | Medium | Q3 revenue +60%, GM 32.8%, GAAP profit | already core engine; warranty-adjusted FCF/valuation unknown | durable profitable volume | 2026-09-25 |
+| H05 | 2015-01-02 | string/central inverter incumbent | SMA Solar | REJECT | Medium | installed inverter portfolio | weak price/volume and earnings | new product margin turn | 2026-09-25 |
+| H05 | 2015-01-02 | commercial/utility inverter | Advanced Energy Industries | REJECT | Medium | installed inverter sales | strategic review and pricing pressure | funded positive inverter FCF | 2026-09-25 |
+
 ## Discipline
 
 A case may legitimately end with no PROMOTE. Record negative searches and DATA-LIMITED outcomes explicitly. Outcome information belongs only in `OUTCOMES.md`.
