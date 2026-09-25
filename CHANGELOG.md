@@ -880,3 +880,8 @@ This file records substantive changes to research conclusions, confidence, prior
 - Added lightweight lifecycle/freshness/upstream/supersession guidance and representative company/theme template metadata.
 - Added deterministic checks for invalid lifecycle declarations, missing DERIVED upstream authority and DERIVED/CANONICAL conflicts.
 - No research conclusion, ranking, portfolio rule or #261 frozen record changed.
+
+## 2026-09-25 — Canonical ranking path migration (#334)
+
+- Moved `research/top10-unicorn-priority.md` to `research/ranked-universe.md` without changing the ranked research content. Historical changelog entries retain the former path as recorded at the time.
+- Repaired live references, authority map and integrity checks. No company classification, rank, portfolio transaction rule or #261 frozen record changed.

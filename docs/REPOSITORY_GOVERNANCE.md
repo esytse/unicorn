@@ -58,7 +58,7 @@ Only READY enters the executable queue. RUNNING is excluded unless a stale claim
 | Queue states / scheduler protocol | `AUTOMATION.md` | issue metadata, README summary | live canonical |
 | Portfolio mandate / Gate-E operating rules | `PORTFOLIO.md` | company monitors, ranking views | live canonical |
 | Cross-theme candidate index | `watchlist.md` | theme rankings | DERIVED; company evidence resolves upstream |
-| Live ranked research universe | `research/top10-unicorn-priority.md` | watchlist/theme rankings | live canonical |
+| Live ranked research universe | `research/ranked-universe.md` | watchlist/theme rankings | live canonical |
 | Multibagger discovery / reverse-underwrite funnel | `research/unicorn-potential.md` | company files | live canonical |
 | Live prospective calibration checkpoints | `research/prediction-calibration-ledger.md` | issue checkpoints | live canonical |
 | Wave-5 seed calibration snapshot | `research/decision-outcome-calibration-ledger.md` | none | HISTORICAL |
@@ -80,7 +80,7 @@ Physical folders are not required when existing stable paths already make author
 | **Methodology** | methodology rules remain in canonical methodology/control documents indexed from governance/README; Git records revisions until #325 establishes prospective version boundaries | CANONICAL; old versions become HISTORICAL, never parallel live rules |
 | **Thesis-first discovery** | cross-theme/theme discovery records under `research/`; start from world/architecture change → scarcity → bottleneck, then companies | CANONICAL evidence; dated scans may become HISTORICAL |
 | **Company research** | one canonical company/deep-dive record per company/question | CANONICAL; rankings/watchlist/issues reference it |
-| **Live ranked universe** | `research/top10-unicorn-priority.md` despite legacy filename; universe is uncapped | CANONICAL |
+| **Live ranked universe** | `research/ranked-universe.md`; universe is uncapped | CANONICAL |
 | **Portfolio / Gate E** | `PORTFOLIO.md` owns mandate/construction/transaction rules; company evidence + issue monitors supply current inputs | CANONICAL |
 | **Historical validation** | `research/backtests/261/**` for v1 frozen corpus and any explicitly historical validation records | HISTORICAL/frozen |
 | **Prospective validation** | `research/prediction-calibration-ledger.md` now; #325 defines the prospective/versioning boundary before methodology changes | CANONICAL prospective record |
@@ -95,7 +95,7 @@ Physical folders are not required when existing stable paths already make author
 |---|---|---|
 | Add a new bottleneck discovery | relevant `research/cross-theme/` or theme discovery/thesis artifact, then company discovery if warranted | preserves thesis-first sequence |
 | Update a company thesis | that company's canonical deep-dive/company file | one durable authority |
-| Find current cross-theme ranking | `research/top10-unicorn-priority.md` | sole live cross-theme order |
+| Find current cross-theme ranking | `research/ranked-universe.md` | sole live cross-theme order |
 | Find current portfolio rules | `PORTFOLIO.md` | sole Gate-E mandate/rule authority |
 | Record a live monitor | GitHub issue using `AUTOMATION.md` contract | issues own workflow/trigger state |
 | Record historical validation | historical validation corpus/record; #261 stays frozen | cannot masquerade as live |

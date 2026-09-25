@@ -51,7 +51,7 @@ The rules below cover all 158 Markdown files; exceptions are listed explicitly.
 |---|---|---|
 | `prediction-calibration-ledger.md` | CANONICAL | only live prospective calibration ledger |
 | `decision-outcome-calibration-ledger.md` | HISTORICAL | Wave-5 seed snapshot |
-| `top10-unicorn-priority.md` | CANONICAL | live ranked research universe |
+| `ranked-universe.md` | CANONICAL | live ranked research universe |
 | `unicorn-potential.md` | CANONICAL | multibagger/reverse-underwrite funnel |
 | `top10-capital-allocation.md` | HISTORICAL | old Gate-D valuation/downside layer |
 | `gate-e-portfolio-construction.md` | HISTORICAL | portfolio construction snapshot; live rules in PORTFOLIO |

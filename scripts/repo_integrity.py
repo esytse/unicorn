@@ -11,7 +11,7 @@ MAP = Path('docs/REPOSITORY_GOVERNANCE.md')
 FROZEN = Path('scripts/frozen-261.json')
 REQUIRED_DATES = (MAP, Path('docs/DOCUMENTATION_AUDIT.md'), Path('docs/BACKLOG_AUDIT.md'))
 REQUIRED_CANONICAL = {'Portfolio mandate / Gate-E operating rules': 'PORTFOLIO.md',
-                      'Live ranked research universe': 'research/top10-unicorn-priority.md',
+                      'Live ranked research universe': 'research/ranked-universe.md',
                       'Live prospective calibration checkpoints': 'research/prediction-calibration-ledger.md'}
 
 
@@ -102,13 +102,13 @@ def check(root):
         for path in re.findall(r'`((?:research|sources|docs)/[^`*]+\.md)`', source.read_text()):
             if not (root / path).is_file():
                 fail('AUTHORITY', f'canonical map references missing {path}')
-    for name in ('PORTFOLIO.md', 'research/top10-unicorn-priority.md'):
+    for name in ('PORTFOLIO.md', 'research/ranked-universe.md'):
         path = root / name
         if path.is_file():
             body = path.read_text()
             if name.startswith('research/') and not re.search(r'Status:\*\* Active canonical cross-theme ranking', body):
                 fail('RANKING', f'{name} missing canonical ranking status')
-            if name == 'PORTFOLIO.md' and 'research/top10-unicorn-priority.md' not in body:
+            if name == 'PORTFOLIO.md' and 'research/ranked-universe.md' not in body:
                 fail('RANKING', 'PORTFOLIO.md must reference canonical ranked universe')
     # Optional machine-readable issue export is validated only when present; issue state lives on GitHub.
     issue_export = root / 'scripts/issue-state.json'

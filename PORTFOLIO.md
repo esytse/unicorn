@@ -100,7 +100,7 @@ Initial evidence-backed portfolio construction was completed in **#131**. The li
 
 ## Live portfolio checkpoint — 25 September 2026
 
-The authoritative live ranking is `research/top10-unicorn-priority.md`; this strategy file defines the rules rather than duplicating a static ranking.
+The authoritative live ranking is `research/ranked-universe.md`; this strategy file defines the rules rather than duplicating a static ranking.
 
 Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
@@ -234,7 +234,7 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 
 Do not duplicate the company ranking or trigger table here. The authoritative live surfaces are:
 
-- `research/top10-unicorn-priority.md` for the ranked Gate-E research/portfolio-priority overlay;
+- `research/ranked-universe.md` for the ranked Gate-E research/portfolio-priority overlay;
 - `AUTOMATION.md` and live issue metadata for executable states, triggers, dependencies and next actions;
 - this file for portfolio construction, concentration, transaction and review rules.
 

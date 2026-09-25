@@ -269,7 +269,7 @@ Canonical research inputs:
 - `research/memory/companies/suss.md`
 - `research/memory/companies/weebit-nano.md`
 - `research/memory/capital-allocation.md`
-- `research/top10-unicorn-priority.md`
+- `research/ranked-universe.md`
 - Laifual #86
 - QNX #106
 - FORT #108

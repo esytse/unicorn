@@ -19,7 +19,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `AUTOMATION.md` — canonical live backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
-- `research/top10-unicorn-priority.md` — canonical continuously ranked research universe; full-repository audit currently covers 65 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
+- `research/ranked-universe.md` — canonical continuously ranked research universe; full-repository audit currently covers 65 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
 - `research/unicorn-potential.md` — canonical multibagger-discovery funnel; separates broad research ranking from Unicorn Candidates and reverse-underwrites 1x/3x/5x/10x equity outcomes before Gate E
 - `research/top10-capital-allocation.md` — historical Gate-D valuation/downside layer; useful context but not the current 18-month action framework
 - `PORTFOLIO.md` — Gate-E aggressive dynamic portfolio strategy for the £40k / 18-month objective through March 2028; defines concentration, catalyst timing, buy/add/trim/sell/rotation rules and bottleneck migration

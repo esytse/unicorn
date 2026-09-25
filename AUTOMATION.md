@@ -425,4 +425,4 @@ Use `research/prediction-calibration-ledger.md` as the immutable decision-time s
 
 ## Continuous ranked-universe rule — 24 Sep 2026
 
-The canonical research priority surface is the continuous ranked universe in `research/top10-unicorn-priority.md`. There is **no Top-10 admission gate**. Scheduler/backlog priority may consider any ranked company, subject to issue priority, trigger state, evidence freshness and marginal portfolio contribution. A rank crossing 10 has no special automation meaning and never creates a trade signal.
+The canonical research priority surface is the continuous ranked universe in `research/ranked-universe.md`. There is **no Top-10 admission gate**. Scheduler/backlog priority may consider any ranked company, subject to issue priority, trigger state, evidence freshness and marginal portfolio contribution. A rank crossing 10 has no special automation meaning and never creates a trade signal.

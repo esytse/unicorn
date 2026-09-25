@@ -2,7 +2,7 @@
 
 **Lifecycle:** HISTORICAL  
 **As of:** 2026-09-25  
-**Superseded live authority:** current Gate-E rules are in `PORTFOLIO.md`; current cross-theme order is in `research/top10-unicorn-priority.md`; live monitor state is in GitHub issues under `AUTOMATION.md`.  
+**Superseded live authority:** current Gate-E rules are in `PORTFOLIO.md`; current cross-theme order is in `research/ranked-universe.md`; live monitor state is in GitHub issues under `AUTOMATION.md`.
 **Authority rule:** this completed sprint preserves the decision-time analysis. Do not maintain its entry/action table as parallel mutable state.
 
 
