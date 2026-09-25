@@ -303,3 +303,10 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-D04-006 — II-VI FY2018 10-K (filed 2018):** https://www.sec.gov/Archives/edgar/data/820318/000156459018022409/iivi-10k_20180630.htm — primary; SiC substrate/power/automotive applications and diversified Performance Products revenue.
 - **SRC-BT261-D04-007 — STMicroelectronics 2017 20-F (filed 2018-03-01):** https://www.sec.gov/Archives/edgar/data/932787/000119312518067609/d494788d20f.htm — primary; SiC MOSFET and broad power portfolio.
 - **SRC-BT261-D04-008 — ROHM electronica announcement (2018-08-23):** https://www.rohm.com/news-detail?defaultGroupId=false&news-title=2018-08-23_electronica — primary; SiC inverter and Formula E module demonstration, not mass-market revenue.
+
+### #261 D04 — post-prediction outcome sources (unsealed after PR #315 merged)
+- **SRC-BT261-D04-O01 — Wolfspeed FY2023 10-K:** https://www.sec.gov/Archives/edgar/data/895419/000089541923000061/wolf-20230625.htm — primary; power/material/RF revenue, continuing loss and operating cash. FY2023 original $921.9m includes RF.
+- **SRC-BT261-D04-O02 — Wolfspeed FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/895419/000089541924000062/wolf-20240630.htm — primary; FY2024 continuing revenue/GM/cash, underutilisation and restated FY2023 comparison $758.5m.
+- **SRC-BT261-D04-O03 — Wolfspeed Chapter 11 / emergence 8-K:** https://www.sec.gov/Archives/edgar/data/895419/000119312525223057/d69265d8k.htm — primary; 2025 petition, old-share cancellation and 0.008352 exchange on 2025-09-29; not a computed total return.
+- **SRC-BT261-D04-O04 — Coherent September 2023 10-Q:** https://www.sec.gov/Archives/edgar/data/820318/000082031823000029/iivi-20230930.htm — primary; Denso/Mitsubishi $1bn for 25% of SiC subsidiary, parent retains 75%.
+- **SRC-BT261-D04-O05 — Infineon annual report 2024:** https://www.infineon.com/dgdl/Infineon%2BAnnual%2BReport%2B2024.pdf?fileId=8ac78c8b92bced620193694bfb970095 — primary; SiC production, EV applications and wafer supply context, not isolated EV SiC profit.

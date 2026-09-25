@@ -24,6 +24,13 @@ Do not add an outcome until the corresponding prediction is committed and frozen
 | D03 | Skyworks | 5G handset content strengthened | strong RF content capture | FY2021 revenue $5.109bn +52.3%; gross profit $2.512bn, GM 49.2%; company credited 5G/Wi-Fi 6 cycles and higher content | unscored; T0 recognition not reconstructed | 5G contribution mixed with Wi-Fi 6, overall demand and mature mobile base | PARTIAL / possible economic false negative for REJECT; clean pre-inflection equity case unproven | 2026-09-25 |
 
 
+| D04 | Cree / Wolfspeed | SiC demand strengthened; 200-mm scale raised capital burden | power $132.8m FY21 -> $408.9m FY23; materials $241.6m -> $349.3m | FY24 continuing revenue $807.2m, GM ~9.6%, operating cash outflow $671.3m; FY23 continuing basis $758.5m after RF restatement | old shares cancelled September 2025, 0.008352 new shares per old; checkpoints/drawdown unscored | fab underutilisation, financing and Chapter 11 | PARTIAL technology capture / FAILED durable shareholder capture; no frozen PROMOTE | 2026-09-25 |
+| D04 | II-VI / Coherent | SiC wafer strategic value strengthened | Denso and Mitsubishi 2023 subsidiary stakes valued 25% at $1bn contribution | EV-specific consolidated profit unisolated; acquisition confounds group series | unscored | ownership dilution and attribution | PARTIAL strategic capture; company materiality DATA-LIMITED | 2026-09-25 |
+| D04 | Infineon | SiC EV application grew | qualified SiC production and sourcing expanded | EV SiC group-profit contribution unisolated | unscored | diversified group and substitution | PARTIAL incumbent validation, REJECT early discovery not falsified | 2026-09-25 |
+| D04 | STMicroelectronics | SiC EV opportunity remained | company-specific production economics not isolated in this pass | DATA-LIMITED | unscored | no clean attribution | DATA-LIMITED | 2026-09-25 |
+| D04 | ROHM | SiC EV opportunity remained | road-vehicle conversion economics not isolated in this pass | DATA-LIMITED | unscored | no clean attribution | DATA-LIMITED | 2026-09-25 |
+
+
 ## Result labels
 
 - **VALIDATED:** predicted mechanism converted economically.
