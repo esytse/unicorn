@@ -126,3 +126,59 @@
 **HYPOTHESIS:** Qorvo is the strongest operational architecture validator; Akoustis is the most asymmetric but lowest-confidence conditional lead if prototype qualification converts without ruinous dilution. This is not a PROMOTE or a 2026 buy recommendation. A null-promotion case is a meaningful test of whether v1 can avoid plausible-sounding 5G narratives.
 
 **Outcome reveal is prohibited in this file until the prediction commit is merged.**
+
+## Outcome reveal — 25 September 2026
+
+The prediction above was committed and merged in PR #313 before this post-T0 evidence was inspected. This section is append-only; frozen states and v1 rules are unchanged. Source IDs below resolve in `sources/source-register.md`. Later search-result leakage from the prediction phase remains a caveat for Akoustis/Resonant, although no post-T0 filing was used to choose their states.
+
+### Architecture result
+
+**FACT:** Qorvo subsequently described 5G mobile and base-station products, coexistence across low/mid/high bands, MIMO, additional receive paths and higher RF content. Keysight identified 5G design/manufacturing and O-RAN as test-demand drivers. The RF-complexity bottleneck strengthened, while the commercial upside was mixed with Wi-Fi 6, advanced 4G, optical backhaul, high-speed digital and customer cycles. [SRC-BT261-D03-O01, O05]
+
+### Qorvo — PARTIAL, substantial economic conversion but not a clean early discovery
+
+**FACT:** FY2021 revenue rose 24.0% to $4.015bn from $3.239bn, primarily on 5G mobile/base-station and Wi-Fi demand, partially offset by Huawei weakness. Gross margin rose to 46.9% from 40.8%, operating income to $906.6m from $423.2m, and operating cash flow to $1.302bn. FY2022 revenue grew to $4.646bn and gross margin to 49.2%, but China-based 5G handset weakness and ASP erosion affected inventory/capture. Apple still represented 30% of FY2021 revenue. [SRC-BT261-D03-O01–O02]
+
+**INTERPRETATION (Medium-High on operating capture; Low on T0 asymmetry):** The frozen filter-capacity and integrated-front-end thesis converted strongly. But 5G-only incremental profit and whether 2018 equity already discounted the transition are unisolated; other product cycles contributed. EVIDENCE-BUILD is defensible for *pre-inflection unrecognised unicorn* selection but potentially too cautious for an architecture/capture investor. No precise equity return is claimed.
+
+### Akoustis — FAILED economic/shareholder conversion, despite product sales
+
+**FACT:** FY2024 RF-filter sales were $16.16m of $27.38m group revenue, but that filter line had a $4.59m gross loss; group gross loss was $0.69m and net loss $167.95m. Shares outstanding increased materially from roughly 19.4m at the November 2017 filing to 72.2m at June 2023. Akoustis filed Chapter 11 in December 2024. [SRC-BT261-D03-008, O03–O05]
+
+**INTERPRETATION (High):** The prototype-to-volume link partly converted, but fab yield, capital needs, legal liabilities and financing overwhelmed shareholder economics. The frozen EVIDENCE-BUILD rather than PROMOTE avoided treating a top-five OEM *prototype* order as production proof. Do not infer that technical filters had no value or compute a total-return figure without a reliable adjusted series.
+
+### Resonant — PARTIAL IP validation; not standalone recurring-profit conversion
+
+**FACT:** Murata entered a 5G XBAR collaboration/licence in 2019 and expanded it in 2021, with prepaid royalties/fees. FY2021 revenue was $2.2m, mostly contract recognition from Murata, versus a $35.97m net loss; the filing discussed prospective sales-based royalties rather than showing them as a material recurring engine. Murata agreed to buy the remaining shares for $4.50 cash in 2022. [SRC-BT261-D03-O06–O07]
+
+**INTERPRETATION (Medium):** The design-IP scarcity attracted a strategic acquirer, but the frozen design -> shipped filter -> recurring royalty -> material profit bridge was not demonstrated independently. An acquisition price is an equity outcome, not automatic validation of the original economic thesis; T0-to-exit return remains unscored.
+
+### MACOM — REJECT for clean 5G GaN promotion not falsified
+
+**FACT:** FY2020 telecom growth was driven in part by carrier optical semiconductors targeted at 5G, while FY2021 telecom revenue fell 10.1%; no 5G GaN product profit was isolated. MACOM bought Wolfspeed's RF business effective December 2023, a much later ownership change. [SRC-BT261-D03-O08–O09]
+
+**INTERPRETATION (Medium):** MACOM participated in wider 5G infrastructure, but not via the T0-specific GaN-on-Si production bridge shown in the frozen case. Later acquisition cannot repair a missing T0 qualification.
+
+### Keysight — PARTIAL, test demand converted without isolated 5G transformation
+
+**FACT:** By FY2022 group revenue was $5.42bn; commercial-communications revenue grew 11% y/y, with wireless 5G development/manufacturing, O-RAN and high-speed digital demand among the reported drivers. [SRC-BT261-D03-O10]
+
+**INTERPRETATION (Medium):** The T0 test-order signal pointed to real demand, but no disclosed 5G-specific revenue/profit share proves a stand-alone company-transforming new engine. EVIDENCE-BUILD was appropriately cautious on attribution and starting scale.
+
+### Cree/Wolfspeed — REJECT not falsified for group transformation
+
+**FACT:** Wolfspeed continued offering next-generation telecom RF devices but sold the RF business to MACOM effective December 2023 while focusing on SiC power/materials. [SRC-BT261-D03-O09, O11]
+
+**INTERPRETATION (Medium):** The 5G RF exposure existed, but was not demonstrated to become a transforming profit engine for the original listed parent; ownership migrated. Sale value cannot be attributed exclusively to 5G.
+
+### Skyworks — PARTIAL / possible economic false negative
+
+**FACT:** FY2021 revenue grew 52.3% to $5.109bn and gross profit to $2.512bn (49.2% margin). The company identified the onset of 5G and Wi-Fi 6 upgrade cycles and increased next-generation content per device as material drivers. Its filing did not isolate a 5G-only revenue/profit segment. [SRC-BT261-D03-O12]
+
+**INTERPRETATION (Medium on broad RF conversion; Low on false-negative equity conclusion):** The frozen REJECT for a *clean pre-inflection* D03 promotion may have been too strict about mature scale: a large incumbent can still enjoy a substantial architecture-driven earnings jump. Yet the precise 5G increment, starting valuation and shareholder return remain open, so this is a possible economic false negative, not a proven missed unicorn.
+
+### Scoring and methodological observation
+
+**No candidate was PROMOTE**, so D03 adds neither a success nor a failure to the promotion-precision denominator. It is not valid to call this a 100% accurate no-pick: incumbents Qorvo and Skyworks showed significant economic conversion, while the small-cap prototype Akoustis proved destructive to shareholders and Resonant's IP exit did not demonstrate recurring profit. The strongest inference is that a *zero-pick* can avoid a catastrophic false positive while missing material incumbent captures. The magnitude of any missed 2018 equity opportunity is DATA-LIMITED until adjusted 6/12/18/24/36-month prices, T0 valuation and drawdowns are reconstructed. Search-result contamination for Akoustis/Resonant reduces confidence in clean prospective candidate discovery even though the frozen decisions used only <=T0 evidence.
+
+**HYPOTHESIS for eventual v2 (not a v1 amendment):** Test a separate 'mature incumbent with new architecture-driven operating leverage' route while continuing to demand product-specific attribution and valuation evidence; preserve a hard distinction between prototype orders, recurring revenue and profitable cash capture. Frozen v1 is unchanged.
