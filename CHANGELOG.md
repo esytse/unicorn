@@ -1,3 +1,11 @@
+## 2026-09-25 — #302 D01 frozen prediction
+
+- Executed the prediction phase of the first #261 point-in-time historical case at T0 4 Jan 2016.
+- PROMOTE: Applied Optoelectronics, based on pre-T0 hyperscale 100G design wins, vertical laser/light-engine integration and accelerating group revenue.
+- EVIDENCE-BUILD: Oclaro and NeoPhotonics; both already had very high 100G mix, making them later-stage architecture validators rather than clean 5–15% pre-inflection discoveries.
+- REJECT for D01 promotion: Lumentum, due to insufficient T0 hyperscale-100G state-change evidence.
+- Acacia excluded because it was not publicly listed at T0. No post-T0 outcome evidence was used in the frozen prediction.
+
 ## 2026-09-25 — #300 #261 historical validation framework
 
 - Added a frozen point-in-time backtest protocol for the #261 architecture-first discovery thesis.
