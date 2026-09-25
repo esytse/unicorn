@@ -889,3 +889,7 @@ This file records substantive changes to research conclusions, confidence, prior
 ## 2026-09-25 — Start-here and agent navigation (#336)
 
 - Replaced the README operational recap with direct task routes to methodology, discovery, company evidence, ranking/portfolio, monitoring and validation. Aligned AGENTS, AUTOMATION and CONTRIBUTING links with the authority map; removed a duplicate AGENTS evidence-standard section. No research or transaction conclusion changed.
+
+## 2026-09-25 — Prospective decision contract (#325)
+
+- Registered frozen historical v1 by commit and experimental prospective v2 by protocol, with T0 templates, sealed append-only decisions, 3/6/12/18-month checkpoints and deterministic governance tests. No company decision was registered or altered and no live investment rule changed.

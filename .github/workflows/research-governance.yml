@@ -56,6 +56,6 @@ jobs:
           done
 
           python3 -m unittest discover -s scripts -p "test_*.py"
-          python3 scripts/repo_integrity.py
+          python3 scripts/repo_integrity.py --base-ref "$BASE_SHA"
 
           echo "Research governance checks passed."

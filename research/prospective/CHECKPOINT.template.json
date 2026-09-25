@@ -1,0 +1,17 @@
+{
+  "decision_id": "P-YYYYMMDD-CANDIDATE-001",
+  "checkpoint_month": 3,
+  "checkpoint_date": "2026-12-25",
+  "raw_equity_return": "DATA-LIMITED",
+  "benchmark_return": "DATA-LIMITED",
+  "benchmark_adjusted_return": "DATA-LIMITED",
+  "maximum_drawdown": "DATA-LIMITED",
+  "new_evidence": [{"fact": "observation", "published_at": "2026-12-25", "source": "https://example.org/filing"}],
+  "catalyst_outcome": "observable status",
+  "architecture_outcome": "separate from company result",
+  "company_capture_outcome": "separate from theme",
+  "financial_conversion_outcome": "revenue/profit/free cash conversion",
+  "shareholder_capture_outcome": "per-share outcome and dilution",
+  "thesis_break_evidence": "observed or absent, with source",
+  "lesson": "retrospective inference, never T0 rewrite"
+}

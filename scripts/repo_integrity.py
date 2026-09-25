@@ -6,6 +6,7 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import unquote
+from prospective import validate as validate_prospective
 
 MAP = Path('docs/REPOSITORY_GOVERNANCE.md')
 FROZEN = Path('scripts/frozen-261.json')
@@ -38,7 +39,7 @@ def check_issue_contract(issue):
     return errors
 
 
-def check(root):
+def check(root, base_ref=None):
     root = Path(root)
     errors = []
     def fail(code, message):
@@ -159,14 +160,16 @@ def check(root):
             for key in seen:
                 if key[0] not in cases:
                     fail('KEY', f'{name}: unknown case {key[0]}')
+    errors.extend(validate_prospective(root, base_ref))
     return errors
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('root', nargs='?', default='.')
+    parser.add_argument('--base-ref', default=None, help='PR base commit/ref for append-only comparison')
     args = parser.parse_args()
-    problems = check(args.root)
+    problems = check(args.root, args.base_ref)
     for problem in problems:
         print('ERROR', problem)
     print(f'Repository integrity: {len(problems)} error(s)')
