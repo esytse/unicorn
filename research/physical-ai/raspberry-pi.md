@@ -68,7 +68,49 @@ A second near-term hurdle is FY26 EBITDA. $60m/$65m/$70m/$75m implies H2 EBITDA 
 
 **Gate-E interpretation:** 755p approximately requires a normalized ~$90m EBITDA business at a ~20x multiple to look conventionally supported. Until revised FY27/FY28 estimates or H2 evidence demonstrate that earnings bridge, RPI remains REASSESS/WATCH rather than ACTION.
 
-### Return bridge
+#
+## Gate-E entry reassessment — 25 September 2026
+
+**State: REASSESS / WAIT at 755p. Strong operating result; current price already requires substantial normalized earnings growth.**
+
+### Fresh evidence
+- H1 2026 revenue **$256.9m (+90%)**, adjusted EBITDA **$40.3m (+108%)**, PBT **$19.6m (+216%)**.
+- H1 gross margin was **23%**, down 2ppt despite the profit surge.
+- The official 1 Sep consensus remains stale at FY26/FY27 adjusted EBITDA of **$57.8m/$56.8m**; management now expects FY26 EBITDA above the old market expectation.
+- Shares closed **755p on 24 Sep**, +19.6% on the results day, with ~193.7m shares outstanding / ~£1.46bn market cap.
+
+### March-2028 entry framework
+Use normalized EBITDA rather than annualizing the memory-assisted H1. Mechanical EV-to-equity scenarios, before future net debt/cash effects:
+
+| Normalized FY27/28 EBITDA | Multiple | Approx price implication | Interpretation |
+|---:|---:|---:|---|
+| $65m | 15x | ~375–425p | normalization / downside zone |
+| $80m | 18x | ~550–650p | reasonable starter valuation if OEM evidence intact |
+| $90m | 20x | ~700–800p | roughly today's valuation burden |
+| $120m | 25x | ~1,150–1,300p | strong OEM + edge-AI/platform execution |
+
+The exact values are deliberately ranges because share count, FX and net working-capital/inventory financing matter. The key result is robust: **755p is not a low-expectations entry.** It roughly discounts a ~$90m normalized EBITDA business at a premium ~20x multiple.
+
+### Evidence-conditioned entry bands
+- **<=550p: ACTION candidate / 5% starter** if backlog/OEM demand and industrial mix remain intact. This offers materially better protection against FY27 normalization.
+- **550–650p: REASSESS / potential 3–5% starter** only with post-results estimates showing normalized FY27/28 EBITDA moving toward ~$80–90m and no material margin deterioration.
+- **650–800p: WAIT / evidence-led only.** Require quantified large OEM/defence/edge-AI wins or a credible ~$90m+ normalized EBITDA bridge.
+- **>800p: WAIT** unless evidence supports ~$100–120m+ normalized EBITDA; price alone has outrun the current evidence set.
+
+### Promotion triggers
+1. Revised FY27/FY28 estimates materially above the stale ~$57m FY27 EBITDA consensus.
+2. Backlog converts without inventory/cash strain.
+3. OEM/industrial share remains ~75% with identifiable large design wins.
+4. Edge-AI/defence becomes financially measurable rather than product optionality.
+5. Normalized gross profit per board holds after memory-price pass-through effects fade.
+
+### Downgrade triggers
+Backlog fails to convert; gross margin falls structurally below the normalized hurdle; working-capital/inventory needs absorb operating cash; OEM concentration emerges; edge-AI remains immaterial while valuation retains a premium multiple.
+
+### Current conclusion
+RPI is a **better company thesis after H1, but not a better entry at 755p after the 19.6% one-day rerating**. The appropriate Gate-E state remains **REASSESS / WAIT**. The first genuinely asymmetric price-led zone is approximately **<=550p**; 550–650p can become actionable with stronger normalized FY27/28 evidence. At 755p, evidence—not momentum—must earn the next promotion.
+
+## Return bridge
 Near-term earnings upside: backlog/OEM volume. Rerating upside requires sustained 2027+ growth after memory normalization.
 
 ## Interpretation
@@ -104,3 +146,5 @@ The existing normalized-EBITDA hurdle already shows 755p roughly corresponds to 
 
 **Unicorn state: POTENTIAL — 3x is conceivable if OEM backlog converts into a durable industrial platform with materially higher normalized EBITDA; 5x unvalidated; 10x unsupported.** Do not annualize H1 memory-assisted economics. The next estimate reset and H2 margin normalization are decisive.
 
+
+2026-09-25: Gate-E entry reassessment added explicit evidence-conditioned entry bands: <=550p ACTION candidate; 550–650p conditional reassess; 650–800p evidence-led WAIT; >800p WAIT absent ~$100–120m+ normalized EBITDA evidence.
