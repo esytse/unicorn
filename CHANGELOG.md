@@ -1,3 +1,10 @@
+## 2026-09-25 — #305 D03 outcome reveal
+
+- Revealed outcomes only after no-PROMOTE D03 prediction merged in PR #313; preserved all seven frozen states and the Akoustis/Resonant search-snippet caveat.
+- 5G RF complexity strengthened: Qorvo and Skyworks showed major 2021 revenue/margin conversion, Keysight captured test demand, but 5G-only economics and 2018 equity recognition remain unisolated. Skyworks is a possible mature-incumbent economic false negative, not a proven missed unicorn.
+- Akoustis grew RF-filter revenue but incurred negative filter gross margin, large losses and dilution before Chapter 11. Resonant's Murata relationship led to acquisition without a proven recurring standalone-profit engine. MACOM's 5G-related telecom benefit was partly optical; Wolfspeed later sold its RF unit.
+- D03 has no PROMOTE denominator. Equity checkpoints remain unscored; no v1-rule, live watchlist or Gate-E change.
+
 ## 2026-09-25 — #305 D03 frozen prediction
 
 - Reconstructed 5G RF architecture as known by 2 January 2018 after the first non-standalone NR specification, using only contemporaneously published evidence.
