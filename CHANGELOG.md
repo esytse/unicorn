@@ -893,3 +893,7 @@ This file records substantive changes to research conclusions, confidence, prior
 ## 2026-09-25 — Prospective decision contract (#325)
 
 - Registered frozen historical v1 by commit and experimental prospective v2 by protocol, with T0 templates, sealed append-only decisions, 3/6/12/18-month checkpoints and deterministic governance tests. No company decision was registered or altered and no live investment rule changed.
+
+## 2026-09-25 — Historical durability experiment (#327)
+
+- Audited a 63-row frozen #261 join and 30 T0/outcome probes spanning all 15 cases without altering the corpus. Proposed three unvalidated durability questions; simple capex, concentration, margin and isolated-segment vetoes failed cross-case challenge. Incremental ROIC, cash conversion and shareholder returns remain DATA-LIMITED. No live ranking or portfolio change.
