@@ -17,3 +17,9 @@
 ## Negative search / freeze
 
 Surveyed sample storage, liquid handling, single-cell prep and installed sequencer consumables. Several specialised workflow innovators were private at T0; no additional public issuer with clean sequencing-specific 5–15% emerging company engine was recovered in this bounded pass. Later search snippets were excluded. **No PROMOTE.** The throughput architecture is real, but incumbent maturity and instrument margin/attribution block early company promotion. T0 adjusted equity/valuation unresolved. **HYPOTHESIS:** repeat consumables matter more than headline instrument placements.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Illumina FY2019 revenue reached $3.5bn with consumable growth, but NovaSeq pricing/instrument mix and mature platform confound new automation attribution. PacBio transitioned Sequel to newer systems, while FY2023 operating loss was $334.5m and FY2024 operating cash use $206.1m. Brooks life-science sales reached $513.7m FY2021 versus $388.5m FY2020 and its semiconductor business was later sold for $2.9bn, leaving Azenta life-science focused. [SRC-BT261-H02-O01–O05]
+
+**INTERPRETATION:** Repeat consumable/workflow use did not guarantee profitable independent PacBio capture. Brooks transformed broadly via growth/acquisition and portfolio separation, but sequencing-specific organic profit is unisolated; this is a coverage/attribution sensitivity, not a clean v1 false negative. Equity corporate actions unscored.

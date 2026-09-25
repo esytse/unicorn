@@ -1,3 +1,9 @@
+## 2026-09-25 — #308 H01–H05 outcome reveal
+
+- After holdout prediction PR #322 passed governance and merged, revealed all 17 candidate outcomes using primary later filings/releases. SK hynix's frozen EVIDENCE-BUILD HBM3 production socket became >40% of Q4 2024 DRAM revenue and material group profit, a clear economic false negative. West's GLP-1 components reached 17% of Q4 2025 company sales; pre-T0 drug-specific qualification was not recovered.
+- H01 acquisitions/spin-offs impair standalone attribution; PacBio consumed cash despite platform adoption; Ypsomed scaled broad devices; Enphase went through 2015–16 losses before durable later profit; Advanced Energy exited inverters. Later broad growth does not establish T0 equity asymmetry. No v1 or live portfolio change.
+- All 15 cases now have frozen predictions and outcome reveals. Next: aggregate denominators, missingness, failure conclusions and #261 decision. Equity checkpoint series remain unscored.
+
 ## 2026-09-25 — #308 sealed H01–H05 frozen v1 predictions
 
 - After PR #321 merged, constructed five holdout T0 packets from primary records published by each cutoff. Froze 17 listed candidate states before any post-T0 outcome inspection: four ADAS, three sequencing/lab, four peptide/device, three stacked-memory and three solar inverter. All yield no PROMOTE under the unchanged v1 early group-profit/recognition tests.

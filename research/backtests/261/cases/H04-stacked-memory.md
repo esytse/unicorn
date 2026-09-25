@@ -17,3 +17,9 @@
 ## Negative search / freeze
 
 Surveyed memory makers, die-stack bonding, substrates and test. No dated primary <=T0 Hanmi Semiconductor HBM TC-bonder commercial order/financial-materiality disclosure was recovered in this bounded pass; it is **not a scored candidate**. Later Hanmi/HBM3E snippets were excluded. Do not count unresearched vendors as clean false negatives. **No PROMOTE.** SK hynix's production evidence is strong, but group profit and T0 valuation bridge remain unisolated. T0 adjusted equity series unresolved. **HYPOTHESIS:** allocation/yield scarcity may persist while economic capture shifts among DRAM, package and tools.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** SK hynix said HBM exceeded 40% of Q4 2024 DRAM revenue and FY2024 group sales/operating profit reached KRW66.2tn/KRW23.5tn. Micron began HBM3E production for NVIDIA H200 in February 2024 and reported nearly $2bn HBM revenue in Q4 FY2025. Samsung offers HBM3E, but its standalone HBM customer economics were not recovered in this bounded primary packet. [SRC-BT261-H04-O01–O05]
+
+**INTERPRETATION:** SK hynix is a clear **economic false negative** for v1's strict no-PROMOTE decision: named production at T0 became a large, profitable group engine. Micron is a possible second, with later revenue but less direct T0 HBM3 qualification and unisolated HBM profit. Market recognition and adjusted returns remain unscored; economic success alone does not establish investable alpha. Hanmi remains unscored due pre-T0 evidence limitation.

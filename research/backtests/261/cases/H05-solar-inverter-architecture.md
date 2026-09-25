@@ -17,3 +17,9 @@
 ## Negative search / freeze
 
 Surveyed module microinverters, string/central inverters, panel optimisers and battery/grid integration. **SolarEdge was not publicly listed at T0**; its S-1 was first filed 18 February 2015, after T0, so it is excluded from the investable candidate denominator. That later filing is used only to verify listing chronology, never to construct a T0 prediction or score a false negative. [SRC-BT261-H05-006] **No PROMOTE.** T0 valuation/adjusted return series absent; Enphase profitability and the 5–15% heuristic create a timing sensitivity. **HYPOTHESIS:** module-level monitoring improves system yield but price/warranty risk can dominate shareholder capture.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Enphase lost $22.1m net in 2015 and $67.5m in 2016 after its 2014 near-break-even quarter, then reached ~$2.3bn revenue and ~$397m net profit in 2022 from microinverters and storage. SMA rebounded to €999.6m sales and positive EBIT in 2015 from €805.4m in 2014. Advanced Energy wound down its solar inverter business in 2015, projecting a $260–290m pre-tax charge. [SRC-BT261-H05-O01–O04]
+
+**INTERPRETATION:** Enphase demonstrates both early shareholder-financing danger and later system-level capture, with a long gap between T0 and durable operating success; a 2015 PROMOTE would require a drawdown/dilution-aware thesis not in the packet. SMA's 2015 rebound is an incumbent cycle, not a proven new architecture win. Advanced Energy REJECT is validated. SolarEdge was unlisted at T0 and is not a false negative. Equity checkpoints unscored.
