@@ -1,0 +1,27 @@
+{
+  "decision_id": "P-YYYYMMDD-CANDIDATE-001",
+  "checkpoint_month": 3,
+  "issuer_id": "permanent issuer identifier including historical names",
+  "security_id": "same survivorship-safe listing/security ID sealed at T0",
+  "security_lifecycle": "ACTIVE",
+  "corporate_actions": [],
+  "return_series": {
+    "status": "DATA-LIMITED",
+    "reason": "No verified adjusted total-return series spanning T0 to checkpoint; retain delisted/acquired/restructured issuer",
+    "source": "",
+    "coverage": "",
+    "currency": "",
+    "reinvestment_policy": "",
+    "post_delisting_policy": "",
+    "equity_points": [],
+    "benchmark_points": []
+  },
+  "cash_return": "DATA-LIMITED",
+  "cash_source": "",
+  "cash_window_start": "DATA-LIMITED",
+  "cash_window_end": "DATA-LIMITED",
+  "competing_candidate": "DATA-LIMITED",
+  "events": [],
+  "economic_capture": "DATA-LIMITED",
+  "transformation": "DATA-LIMITED"
+}

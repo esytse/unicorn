@@ -906,3 +906,8 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Compared v1 with fixed early-promotion variants and explicit-warning durability/valuation proxies. Production excludes weak qualification-only failures; acceleration and materiality remove SK hynix; no T0 financial, valuation or durability threshold has independent demonstrated discrimination. A composite that selects only SK hynix loses its sole addition when that case is removed.
 - Concluded NO ROBUST IMPROVEMENT; prospective v2 remains EXPERIMENTAL, v1 remains the benchmark, and shareholder alpha remains DATA-LIMITED. Frozen #261, ranking and portfolio actions unchanged.
+
+## 2026-09-25 — #329 prospective performance measurement
+
+- Added append-only, survivorship-aware performance supplements for each future #325 checkpoint, derived scorecards for adjusted returns, maximum drawdown, economic/recognition/thesis-break timing and matched opportunity costs, plus guarded cohort precision/recall/transformation capture. Synthetic tests exercise acquisition, delisting missingness, return arithmetic and incomplete cohorts.
+- No market prices fabricated: there are no prospective checkpoints yet and #261 remains 0/63 scored adjusted equity series. This framework changes neither methodology promotion rules nor live ranking/portfolio actions.
