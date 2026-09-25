@@ -1,3 +1,9 @@
+## 2026-09-25 — #306 D06–D10 development outcome reveal
+
+- After merged prediction PR #319, revealed all 19 frozen D06–D10 states with primary-source outcome rows, per-case interpretation, failures and source links. No v1 promotion or live portfolio change.
+- Packaging and RNA manufacturing commercialised, with notable TSMC integration and exceptional COVID vaccine demand. Asetek data-centre revenue fell to zero; Modine, Vertiv, Arista and Hammond showed broad group benefits, but theme-specific incremental profit and T0 equity recognition are unisolated. Besi remains excluded because of pre-freeze snippet leakage.
+- All ten development cases are now revealed. Next: development-only aggregate review and pre-holdout v2 proposal, then sealed H01–H05 prediction freeze. Equity checkpoint series remain unscored pending reliable reconstruction.
+
 ## 2026-09-25 — #306 D06–D10 frozen development predictions
 
 - Froze five remaining development T0 packets together before inspecting any post-T0 outcome: D06 chiplet packaging, D07 RNA manufacturing, D08 direct liquid cooling, D09 accelerator physical complements, D10 grid interconnection. All yield **no PROMOTE**, with pre-T0 primary sources, individual candidate states/bridges and negative searches retained.

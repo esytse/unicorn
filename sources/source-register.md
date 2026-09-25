@@ -355,3 +355,30 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-D10-004 — Powell FY2020 10-K (filed 2020-12):** https://www.sec.gov/Archives/edgar/data/80420/000008042020000036/powl-20200930.htm — primary; engineered switchgear and industrial rather than renewable backlog driver.
 - **SRC-BT261-D10-005 — Eaton Q3 2020 10-Q (filed 2020-11):** https://www.sec.gov/Archives/edgar/data/1551182/000155118220000190/etn-20200930.htm — primary; broad electrical segment, not D10-specific grid profit.
 - **SRC-BT261-D10-006 — Pioneer Power Q3 2020 10-Q (filed 2020):** https://www.sec.gov/Archives/edgar/data/1449792/000138713120009909/ppsi-10q_093020.htm — primary; transformer divestiture and switchgear decline, negative search.
+
+### #261 D06–D10 — post-freeze outcome sources (excluded from all T0 packets)
+- **SRC-BT261-D06-O01 — Amkor FY2024 10-K:** https://ir.amkor.com/static-files/633a9706-42ac-48cf-b663-7ed9143404df — primary; broad advanced product mix, not chiplet-only revenue.
+- **SRC-BT261-D06-O02 — Amkor Q2 2024 release:** https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-second-quarter-2024 — primary; AI 2.5D with premium phones.
+- **SRC-BT261-D06-O03 — K&S TCB adoption (2024-08):** https://investor.kns.com/2024-08-07-Kulicke-Soffa-Announces-Thermo-Compression-Adoption-Milestones — primary management >10x TCB growth, no absolute group share.
+- **SRC-BT261-D06-O04 — TSMC FY2024 annual report:** https://investor.tsmc.com/static/annualReports/2024/english/index.html — primary; CoWoS AI expansion and group growth.
+- **SRC-BT261-D06-O05 — Besi 26 hybrid-bonding systems (2024-05):** https://www.besi.com/events/events-shows/details/be-semiconductor-industries-nv-announces-order-for-26-hybrid-bonding-systems/ — primary; EXCLUDED candidate, coverage only.
+- **SRC-BT261-D07-O01 — Moderna FY2021 10-K:** https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm — primary; $17.675bn product sales.
+- **SRC-BT261-D07-O02 — Moderna FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm — primary; $3.1bn vaccine sales, demand decline and loss.
+- **SRC-BT261-D07-O03 — BioNTech FY2025 annual remuneration report:** https://investors.biontech.de/static-files/e53aca25-0c3e-43f2-843a-06c6f72fbed4 — primary historical 2021–25 revenue/operating profit table; do not mistake later report for T0 evidence.
+- **SRC-BT261-D07-O04 — Catalent FY2021 10-K:** https://www.sec.gov/Archives/edgar/data/1596783/000159678321000110/ctlt-20210630.htm — primary; COVID programmes drive organic growth.
+- **SRC-BT261-D07-O05 — Catalent FY2023 10-K:** https://www.sec.gov/Archives/edgar/data/1596783/000159678323000185/ctlt-20230630.htm — primary; organic -12% and COVID demand decline.
+- **SRC-BT261-D08-O01 — Asetek FY2024 annual report:** https://s28.q4cdn.com/535984607/files/doc_financials/2024/ar/att-3-Asetek-Q4-2024-Strong-ending-to-a-turnaround-year-2025.pdf — primary; data-centre segment revenue zero versus $0.102m.
+- **SRC-BT261-D08-O02 — Vertiv FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/vrt-20241231.htm — primary; CoolTera and group sales.
+- **SRC-BT261-D08-O03 — Modine FY2025 release:** https://investors.modine.com/news/news-details/2025/Modine-Reports-Fourth-Quarter-Fiscal-2025-Results/default.aspx — primary; data-centre/HVAC growth and acquisition contribution.
+- **SRC-BT261-D08-O04 — Modine AI cooling orders (2025-02):** https://investors.modine.com/news/news-details/2025/Modine-Secures-180-Million-in-Orders-for-Data-Center-Cooling-Systems/default.aspx — primary; $180m orders, product-mode attribution missing.
+- **SRC-BT261-D08-O05 — nVent Trachte acquisition:** https://investors.nvent.com/press-releases/press-release-details/2024/nVent-to-Acquire-Trachte/default.aspx — primary; electrical control buildings, not proof of direct liquid.
+- **SRC-BT261-D09-O01 — Vicor FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/751978/000095017025030619/vicr-20241231.htm — primary; 61% to 55% Advanced Products mix.
+- **SRC-BT261-D09-O02 — Vertiv FY2025 10-K:** https://www.sec.gov/Archives/edgar/data/1674101/000167410126000008/vrt-20251231.htm — primary; group sales, mixed end markets.
+- **SRC-BT261-D09-O03 — Arista FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm — primary; group revenue/customer concentration.
+- **SRC-BT261-D09-O04 — Arista AI Ethernet launch (2024-06):** https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2024/Arista-Unveils-Etherlink-AI-Networking-Platforms/default.aspx — primary; product launch, not profit split.
+- **SRC-BT261-D09-O05 — NVIDIA FY2024 results:** https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2024/ — primary; data-centre 409% y/y in Q4.
+- **SRC-BT261-D10-O01 — Hammond FY2024 annual report:** https://www.hammondpowersolutions.com/-/media/Project/HPS/shared/Investor-Relations/2024-Annual-Report---Hammond-Power-Solutions-Inc---March-20-2025.pdf — primary; C$788.34m sales and C$130.484m adjusted EBITDA; grid-specific unavailable.
+- **SRC-BT261-D10-O02 — Hubbell FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/48898/000162828025005311/hubb-20241231.htm — primary; utility group and Systems Control acquisition.
+- **SRC-BT261-D10-O03 — Powell FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/80420/000008042024000086/powl-20240930.htm — primary; end-market split isolates oil/gas, petrochemical, electric utility.
+- **SRC-BT261-D10-O04 — Eaton FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm — primary; diversified organic electrical drivers.
+- **SRC-BT261-D06-O06 — Intel FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm — primary; external foundry sales -60% driven by traditional packaging and equipment, not a pure chiplet measure.

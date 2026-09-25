@@ -37,3 +37,9 @@ Searched pumps, cold plates, couplings, CDU/integration and thermal service. Pri
 ## Frozen prediction
 
 **No PROMOTE.** T0 direct liquid cooling has technical deployment evidence but insufficient attributable merchant profit. Asetek's retrenchment is a meaningful disconfirming signal; Vertiv has the best integration option but no clean liquid-specific group bridge. **HYPOTHESIS:** the durable scarce layer might be certified systems/service rather than a standalone cold plate. Frozen v1 unchanged.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Asetek FY2024 data-centre segment recorded zero revenue versus $0.102m in FY2023, while its much larger consumer Liquid Cooling segment is separate. Vertiv acquired CoolTera CDU capability and grew group sales to $8.012bn in 2024. Modine reported $180m of 2025 AI data-centre cooling orders, with FY2025 group revenue $2.584bn and net earnings $185.5m; sales also include HVAC, traditional cooling and acquired Scott Springfield. nVent's Trachte acquisition concerns electrical control buildings. [SRC-BT261-D08-O01–O05]
+
+**INTERPRETATION:** Asetek REJECT holds as a useful negative control. Vertiv and Modine captured broader cooling demand; direct-to-chip incremental FCF, organic versus acquisition contribution, and early valuation are unisolated. Modine is a possible broad economic false negative, not a proven direct-liquid v1 miss. Equity checkpoints unscored.

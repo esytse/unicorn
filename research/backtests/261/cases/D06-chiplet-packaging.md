@@ -37,3 +37,9 @@ Searched independent assembly/test, bonding equipment, foundry integration, subs
 ## Frozen prediction
 
 **No PROMOTE.** Chiplet packaging is demonstrable at T0, but merchant capture and early group materiality are unisolated. **HYPOTHESIS:** foundry-integrated production and independent assembly/test both benefit; tools must prove novel production qualification. Besi leakage weakens later aggregate coverage confidence. Frozen v1 unchanged.
+
+## Post-freeze outcome reveal — 25 September 2026
+
+**FACT:** Amkor explicitly attributed Q2 2024 growth to advanced packaging for premium phones and AI 2.5D, while the broad advanced bucket does not identify incremental chiplet profit. Kulicke & Soffa reported more than tenfold thermo-compression bonding growth over four years, without absolute TCB revenue. TSMC's 2024 report describes CoWoS growth driven by AI from 2023 and integrated capacity expansion. [SRC-BT261-D06-O01–O04, O06]
+
+**INTERPRETATION:** The architecture and both captive and merchant paths converted technically. No scored candidate has a clean package-specific total-company FCF/valuation bridge; therefore no validated early PROMOTE. Besi's 26-system hybrid-bonding order in May 2024 demonstrates a consequential **coverage loss** after pre-freeze search leakage, not a scored v1 false negative. [SRC-BT261-D06-O05] Equity checkpoints unscored; see OUTCOMES and FAILURES.
