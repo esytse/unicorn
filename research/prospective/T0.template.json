@@ -1,0 +1,23 @@
+{
+  "decision_id": "P-YYYYMMDD-CANDIDATE-001",
+  "methodology_version": "v2-prospective-2026-09-25",
+  "decision_timestamp": "2026-09-25T20:00:00+01:00",
+  "candidate_id": "listing/exchange/permanent issuer identifier",
+  "discovery_source": "dated query/context and source URLs; negative search or exclusion context",
+  "architecture_change": "HYPOTHESIS: world change",
+  "scarce_complement": "HYPOTHESIS: scarce complement",
+  "bottleneck_migration": "HYPOTHESIS: migration and substitutes",
+  "company_capture": "HYPOTHESIS: mechanism retaining economics",
+  "financial_materiality": "HYPOTHESIS: revenue to profit/free cash flow bridge",
+  "shareholder_capture": "HYPOTHESIS: per-share bridge, financing and dilution",
+  "classification": "EVIDENCE-BUILD",
+  "confidence": "Low",
+  "evidence_t0": [{"fact": "observation", "published_at": "2026-09-25", "source": "https://example.org/filing", "inference": "interpretation"}],
+  "missing_evidence": ["missing item"],
+  "price_valuation": "currency, listing, observation timestamp, price/valuation or DATA-LIMITED with reason",
+  "catalysts": ["observable event and expected window"],
+  "thesis_breakers": ["observable disconfirmation"],
+  "inclusion_rationale": "included/excluded and why, based only on T0 evidence",
+  "benchmark_id": "predeclared total-return benchmark, currency, or DATA-LIMITED with reason",
+  "checkpoint_dates": {"3": "2026-12-25", "6": "2027-03-25", "12": "2027-09-25", "18": "2028-03-25"}
+}

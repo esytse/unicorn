@@ -1,0 +1,13 @@
+{
+  "v1-261-frozen-2026-09-25": {
+    "status": "HISTORICAL",
+    "protocol": "research/backtests/261/SPEC.md",
+    "frozen_commit": "96a92b37442cd828ac8cbf2b957ec237bd02e05d",
+    "scope": "Historical #261 prediction/outcome rules; never re-score under later versions"
+  },
+  "v2-prospective-2026-09-25": {
+    "status": "EXPERIMENTAL",
+    "protocol": "research/prospective/PROTOCOL.md",
+    "scope": "Prospective registration only; no automatic change to live ranking or transactions"
+  }
+}

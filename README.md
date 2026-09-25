@@ -15,7 +15,7 @@ Start with a change in the world and the scarce complement it creates. The [rank
 | Research a company | The relevant theme's [company/deep-dive tree](research/) and [source register](sources/source-register.md); [watchlist](watchlist.md) is a derived index |
 | Find the current ranking or portfolio decision rules | [Ranked universe](research/ranked-universe.md) for order; [PORTFOLIO.md](PORTFOLIO.md) for Gate-E mandate, allocation and transaction rules; company evidence and live issues supply inputs |
 | Monitor catalysts or select backlog work | [AUTOMATION.md](AUTOMATION.md) for states, triggers and scheduler rules; [GitHub issues](https://github.com/esytse/unicorn/issues) for live execution state |
-| Validate past or future predictions | Frozen [#261 summary](research/backtests/261/SUMMARY.md) and corpus for historical evidence; [prospective prediction ledger](research/prediction-calibration-ledger.md) for live checkpoints; [#325](https://github.com/esytse/unicorn/issues/325) governs prospective version boundaries |
+| Validate past or future predictions | Frozen [#261 summary](research/backtests/261/SUMMARY.md) for history; [prospective protocol and sealed records](research/prospective/README.md) for new T0/checkpoints; [qualitative calibration ledger](research/prediction-calibration-ledger.md) for existing monitors |
 
 The [authority map](docs/REPOSITORY_GOVERNANCE.md) gives the sole live source for each concept and explains CANONICAL, DERIVED, HISTORICAL, GUIDANCE, LOG and ARCHIVE. [Document metadata rules](docs/DOCUMENT_STANDARDS.md) are selective. Git history records revisions; historical Gate-D work and the frozen #261 corpus do not set today's Gate-E rules.
 

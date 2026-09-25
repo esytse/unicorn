@@ -50,3 +50,5 @@ The objective is to learn whether the repository's evidence categories predict *
 ## Canonical role
 
 This is the **live prospective calibration ledger** and the only ledger that should receive future candidate checkpoint/outcome observations. The earlier `decision-outcome-calibration-ledger.md` is retained as the Wave-5 seed/audit artifact and should not receive parallel live updates.
+
+For new formally registered candidate decisions, use the [machine-checkable T0 and checkpoint records](prospective/README.md). This qualitative ledger remains the narrative index for existing live monitors; future entries here must link their sealed decision ID and never overwrite the original T0. Historical #261 remains frozen separately.

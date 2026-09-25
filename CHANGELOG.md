@@ -1,891 +1,5 @@
-## 2026-09-25 â€” #300/#308 completed #261 historical validation
-
-- Finalised `research/backtests/261/SUMMARY.md`: all 15 registered cases and 63 candidate states revealed; development 2/2 initial PROMOTE conversions but both later durability impairment; holdout has zero PROMOTEs and one clear economic miss (SK hynix HBM). West and several incumbents remain possible/mixed false negatives.
-- Transformation capture rate, consistent lead time, and adjusted equity return/drawdown are DATA-LIMITED; 0/63 fully scored at prescribed equity checkpoints. The selected architecture cases and excluded contaminated candidates limit generalisation.
-- Decision: v1 is useful for research triage but has not established repeatable pre-recognition equity alpha. Preserve live #261 discovery methodology/portfolio states; v2 is a separate prospective-test proposal only. All outcomes, failure modes, negative searches and source chronology remain in case files and ledgers. No further work scheduled for this run.
-
-## 2026-09-25 â€” #308 H01â€“H05 outcome reveal
-
-- After holdout prediction PR #322 passed governance and merged, revealed all 17 candidate outcomes using primary later filings/releases. SK hynix's frozen EVIDENCE-BUILD HBM3 production socket became >40% of Q4 2024 DRAM revenue and material group profit, a clear economic false negative. West's GLP-1 components reached 17% of Q4 2025 company sales; pre-T0 drug-specific qualification was not recovered.
-- H01 acquisitions/spin-offs impair standalone attribution; PacBio consumed cash despite platform adoption; Ypsomed scaled broad devices; Enphase went through 2015â€“16 losses before durable later profit; Advanced Energy exited inverters. Later broad growth does not establish T0 equity asymmetry. No v1 or live portfolio change.
-- All 15 cases now have frozen predictions and outcome reveals. Next: aggregate denominators, missingness, failure conclusions and #261 decision. Equity checkpoint series remain unscored.
-
-## 2026-09-25 â€” #308 sealed H01â€“H05 frozen v1 predictions
-
-- After PR #321 merged, constructed five holdout T0 packets from primary records published by each cutoff. Froze 17 listed candidate states before any post-T0 outcome inspection: four ADAS, three sequencing/lab, four peptide/device, three stacked-memory and three solar inverter. All yield no PROMOTE under the unchanged v1 early group-profit/recognition tests.
-- Explicit negative searches include private lidar/lab suppliers, no verified pre-T0 HBM tool commercial economics, and SolarEdge's post-T0 public filing/listing. Later-result snippets were excluded. Equity valuation checkpoints remain unrecovered. Outcome inspection is gated on prediction PR merge; no live portfolio change.
-
-## 2026-09-25 â€” #261 development review and prospective v2 proposal
-
-- Reviewed all 10 development cases before opening holdouts: 46 frozen candidate states, 2 initial economic PROMOTE conversions, two subsequent durability impairments, and insufficient independent supplier universe or adjusted price series to score capture rate/equity asymmetry.
-- Recorded chain failures, potential false negatives and excluded contaminated candidates. Proposed funded-scale, durability, incumbent-upgrade, attribution and regime-shock tests for a separate future v2 study. The v1 specification remains frozen for H01â€“H05; no live portfolio change.
-
-## 2026-09-25 â€” #306 D06â€“D10 development outcome reveal
-
-- After merged prediction PR #319, revealed all 19 frozen D06â€“D10 states with primary-source outcome rows, per-case interpretation, failures and source links. No v1 promotion or live portfolio change.
-- Packaging and RNA manufacturing commercialised, with notable TSMC integration and exceptional COVID vaccine demand. Asetek data-centre revenue fell to zero; Modine, Vertiv, Arista and Hammond showed broad group benefits, but theme-specific incremental profit and T0 equity recognition are unisolated. Besi remains excluded because of pre-freeze snippet leakage.
-- All ten development cases are now revealed. Next: development-only aggregate review and pre-holdout v2 proposal, then sealed H01â€“H05 prediction freeze. Equity checkpoint series remain unscored pending reliable reconstruction.
-
-## 2026-09-25 â€” #306 D06â€“D10 frozen development predictions
-
-- Froze five remaining development T0 packets together before inspecting any post-T0 outcome: D06 chiplet packaging, D07 RNA manufacturing, D08 direct liquid cooling, D09 accelerator physical complements, D10 grid interconnection. All yield **no PROMOTE**, with pre-T0 primary sources, individual candidate states/bridges and negative searches retained.
-- D06 Besi exposed to later search-result claims before clean review and was excluded; D09 stacked-memory discovery remains sealed for H04. D07 does not assume a later pandemic; D10 distinguishes queued projects from equipment orders. Search-result leakage and weak isolated attribution lower confidence; no v1 or live portfolio change.
-- D01â€“D05 are revealed; their development observations include two initial PROMOTE conversions with subsequent durability failures, three no-pick cases and possible economic false negatives. Final denominators await the remaining development and holdouts.
-
-## 2026-09-25 â€” #305 D05 outcome reveal
-
-- Revealed D05 after frozen prediction PR #317 merged. Cognex logistics became its largest market in 2021 with substantial group sales conversion; concentration, lower logistics gross margin and a 2023 large-customer capex pause temper durability. It is a possible economic false negative, with T0 equity opportunity unscored.
-- KION/Dematic converted system orders to 2021 profit then saw 2023 margin compression; MiR's warehouse-specific profit and Zebra's incremental warehouse contribution remain unisolated. Added outcome/failure/source entries. Development D01â€“D05 complete; no v1 or live portfolio change.
-
-## 2026-09-25 â€” #305 D05 frozen prediction
-
-- Reconstructed warehouse fleet-scale automation at T0 1 Jul 2019 from contemporaneous filings. Froze no PROMOTE: Cognex and Teradyne/MiR EVIDENCE-BUILD; KION/Dematic and Zebra REJECT for an early unrecognised group transformation. Cognex's logistics growth exceeds 50% but lower logistics gross margin and unisolated contribution stop promotion.
-- Logged negative component search, private/internal comparators and later-result snippet boundary. Outcome research remains gated on prediction merge; frozen v1 and live portfolio unchanged.
-
-## 2026-09-25 â€” #305 D04 outcome reveal
-
-- Revealed D04 only after frozen prediction PR #315 merged; preserved no-PROMOTE states and the post-T0 search-snippet caveat. SiC power/material revenue scaled, but Wolfspeed's fab underutilisation and financing culminated in Chapter 11, cancellation of old shares and fractional new-share recovery. FY2023 RF-included and later continuing bases are kept distinct.
-- II-VI/Coherent's SiC subsidiary gained $1bn of strategic partner capital; parent profit attribution and equity checkpoints remain unresolved. Infineon's SiC EV capture is credible but unisolated; ST and ROHM are DATA-LIMITED. Added failure and source ledgers, with capacity/financing durability proposed only for future v2. No live portfolio or frozen v1 change.
-
-## 2026-09-25 â€” #305 D04 frozen prediction
-
-- Reconstructed EV power-electronics SiC bottleneck at T0 2 Jan 2019. Froze **no PROMOTE**: Cree/Wolfspeed, II-VI, ST and ROHM EVIDENCE-BUILD; Infineon REJECT for early company transformation. Cree's >$85m wafer contract and rapid mixed-segment growth are strong, but EV-specific organic profit and valuation are unisolated and its segment already exceeds the early discovery window.
-- Registered dated primary evidence, bounded negative search and exposure to later search snippets, which were excluded from decisions. Outcome research is gated on prediction PR merge; no v1 or live portfolio change.
-
-## 2026-09-25 â€” #305 D03 outcome reveal
-
-- Revealed outcomes only after no-PROMOTE D03 prediction merged in PR #313; preserved all seven frozen states and the Akoustis/Resonant search-snippet caveat.
-- 5G RF complexity strengthened: Qorvo and Skyworks showed major 2021 revenue/margin conversion, Keysight captured test demand, but 5G-only economics and 2018 equity recognition remain unisolated. Skyworks is a possible mature-incumbent economic false negative, not a proven missed unicorn.
-- Akoustis grew RF-filter revenue but incurred negative filter gross margin, large losses and dilution before Chapter 11. Resonant's Murata relationship led to acquisition without a proven recurring standalone-profit engine. MACOM's 5G-related telecom benefit was partly optical; Wolfspeed later sold its RF unit.
-- D03 has no PROMOTE denominator. Equity checkpoints remain unscored; no v1-rule, live watchlist or Gate-E change.
-
-## 2026-09-25 â€” #305 D03 frozen prediction
-
-- Reconstructed 5G RF architecture as known by 2 January 2018 after the first non-standalone NR specification, using only contemporaneously published evidence.
-- Froze **no PROMOTE**: Qorvo, Akoustis, Resonant and Keysight are EVIDENCE-BUILD; MACOM, Cree/Wolfspeed and Skyworks are REJECT for a clean 5G-specific pre-inflection promotion. Small suppliers lacked production/royalty economics; large suppliers lacked an isolated, unrecognised company-transformation bridge.
-- Registered primary sources and the negative search. Search-result exposure to post-T0 filings for Akoustis/Resonant is documented; no later performance claim was used. Outcome reveal must follow the merged prediction, not this commit alone.
-- No v1 methodology, current watchlist, ranking or Gate-E portfolio change.
-
-## 2026-09-25 â€” #305 D02 outcome reveal
-
-- Appended post-T0 outcomes only after frozen prediction PR #311 merged; preserved v1 rules and the Largan/InvenSense/Hutchinson search-snippet leakage caveat.
-- Q Technology's dual-camera/high-pixel mix drove strong 2017 ASP and profit conversion, then 2018 commoditisation/capacity costs destroyed margins before 2019 recovery. Sunny and LG captured broader module demand but architecture-specific incremental profit and equity recognition remain uncertain.
-- Sony's sensors benefited from dual-lens demand but segment profit included major non-D02 effects; Alps remained non-attributable; InvenSense and Hutchinson were acquired and are not clean D02 economic validations.
-- Updated outcome and failure ledgers plus primary-source register. Equity checkpoint returns remain unscored; no current watchlist or Gate-E action changes.
-
-## 2026-09-25 â€” #305 D02 frozen prediction
-
-- Executed the prediction phase of the second #261 point-in-time historical case at T0 1 Sep 2016.
-- PROMOTE: Q Technology, based on pre-T0 dual-camera customer access, scaled-production claims, active-alignment investment and a near-doubling of group volume/revenue.
-- EVIDENCE-BUILD: Sunny Optical, InvenSense and LG Innotek; capture was credible but company-transforming multi-camera economics were either already recognised, non-specific or unquantified.
-- REJECT: Sony, Alps Electric and Hutchinson Technology; each lacked a clean dual-camera-to-group-materiality bridge, and Hutchinson's pending cash acquisition capped independent equity asymmetry.
-- OmniVision was non-investable at T0. Largan was excluded after search-result leakage; no post-T0 fact was used in the frozen states, and the D02 integrity caveat is preserved for later scoring.
-
-## 2026-09-25 â€” Raspberry Pi Gate-E entry reassessment
-
-- Added evidence-conditioned entry bands after the 24 September H1 result and repricing.
-- Raspberry Pi remains REASSESS / WAIT at 755p; <=550p is the first price-led ACTION-candidate zone, while 550â€“650p requires stronger normalized FY27/28 earnings evidence.
-- Consolidated the valuation section around the refreshed ~193.7m share count and retained memory normalization, backlog conversion, inventory funding and OEM concentration as key risks.
-
-## 2026-09-25 â€” Akamai Gate-E economics refresh
-
-- Incorporated management's disclosed mid-60s to mid-70s non-GAAP cash gross-margin range and take-or-pay structure for large CIS deals into the Anthropic contract assessment.
-- Upgraded the conclusion from demand validated / shareholder economics largely unknown to demand validated / preliminary economics plausibly attractive.
-- Akamai remains REASSESS / WATCH rather than ACTION pending a controlled post-rerating entry bridge and 2027â€“2028 FCF/ROIC evidence.
-
-## 2026-09-25 â€” Canonical Gate-E action reconciliation
-
-- Reconciled README, PORTFOLIO, AUTOMATION and the continuous ranked universe with the governed three-starter ACTION surface.
-- Current conditional starters are Laifual at <=HK$48, TAI-TECH at NT$190â€“210 and Impro Precision at HK$6.6â€“7.2, each at 5% initial size with thesis and executable-price checks intact.
-- Marked the older #131 construction and 15 September re-rank material as historical rather than current execution state.
-- Added the live #292â€“#295 monitor set to the automation documentation and corrected the ranked-universe inventory count to 65.
-- No brokerage trade is assumed or executed.
-
-## 2026-09-25 â€” Canonical ACTION underwrites
-Closed the documentation-integrity gap for the three current Gate-E ACTION candidates. Confirmed Laifual already has a full canonical company underwrite at research/robotics-actuators/companies/laifual-drive.md; upgraded TAI-TECH and Impro company files so their thesis chains, evidence hierarchy, March-2028 scenario bridges, counter-cases/falsifiers, Gate-E rules and source IDs live with the company research rather than only in the Gate-E sprint. Added central source-register entries for TAI-TECH and Impro and explicitly distinguished primary evidence from secondary management reporting. Gate-E files remain portfolio summaries, not the primary research record.
-
-## 2026-09-25 â€” #302 D01 outcome reveal
-
-- Revealed D01 only after its prediction commit merged.
-- AAOI PROMOTE validated the initial economic-conversion chain: 2015â€“2017 revenue roughly doubled, data-center mix reached 80.2%, and 2017 margins inflected strongly; later customer concentration and architecture replacement impaired durability.
-- Oclaro validated the bottleneck/capture but confirmed the frozen classification was already late-stage; NeoPhotonics was a partial architecture/capture validation with severe concentration.
-- D01 exposes customer concentration + architecture-replacement durability as a future-v2 consideration; frozen v1 remains unchanged.
-- Equity checkpoint returns remain unscored until a reliable point-in-time price series is recovered.
-
-## 2026-09-25 â€” #302 D01 frozen prediction
-
-- Executed the prediction phase of the first #261 point-in-time historical case at T0 4 Jan 2016.
-- PROMOTE: Applied Optoelectronics, based on pre-T0 hyperscale 100G design wins, vertical laser/light-engine integration and accelerating group revenue.
-- EVIDENCE-BUILD: Oclaro and NeoPhotonics; both already had very high 100G mix, making them later-stage architecture validators rather than clean 5â€“15% pre-inflection discoveries.
-- REJECT for D01 promotion: Lumentum, due to insufficient T0 hyperscale-100G state-change evidence.
-- Acacia excluded because it was not publicly listed at T0. No post-T0 outcome evidence was used in the frozen prediction.
-
-## 2026-09-25 â€” #300 #261 historical validation framework
-
-- Added a frozen point-in-time backtest protocol for the #261 architecture-first discovery thesis.
-- Pre-registered 10 development and 5 sealed holdout architecture transitions before company discovery.
-- Added separate prediction, outcome, failure/miss and aggregate-summary ledgers to prevent hindsight rewriting.
-- Frozen anti-leakage rules require publication-date cutoffs, architecture-first candidate formation, negative-search retention and prediction commits before outcome reveal.
-- No #261 rule change is permitted until development work is complete and the holdout sequence is respected.
-
-## 2026-09-25 â€” Gate-E portfolio refresh
-Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190â€“210) and Impro Precision (HK$6.6â€“7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing Â£6,000 / 15% of the Â£40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
-
-# Research Changelog
-## 2026-09-25 â€” #290
-Gate-E entry sprint converted TAI-TECH, Impro Precision, Namuga and Grid Dynamics into March-2028 decision rules. TAI-TECH is research-level ACTION for a 5% starter at NT$190â€“210 with thesis intact; Impro is ACTION for a 5% starter at HK$6.6â€“7.2. Namuga remains WAIT pending <=KRW13â€“14k speculative pricing or material robot-programme economics; GDYN remains REASSESS/WAIT pending productization evidence. Position ceilings, catalysts, downside and add/trim/sell rules are documented in research/gate-e-thesis-first-entry-sprint.md. Brokerage execution remains manual; no trade is assumed from repository state.
-
-## 2026-09-25 â€” #288
-Prefabricated power certification scan completed with no new company promotion.
-
-
-## 2026-09-25
-
-### #286 canonical integration of thesis-first discoveries
-
-- Integrated six sufficiently researched listed discoveries into the continuous research universe: TAI-TECH, Namuga, Grid Dynamics, Impro Precision, Vicor and AP Memory.
-- Expanded the canonical live universe from 59 to 65 entries without creating a new admission cutoff.
-- Updated Montage Technology to FAILED / PARKED for the Unicorn screen after its CXL thesis strengthened but valuation eliminated the desired asymmetry.
-- Weak evidence-only leads remain outside the ranked universe until company-level evidence is sufficient.
-- Rankings remain research-priority metadata, not trade instructions; no Gate-E action changed.
-
-## 2026-09-25 â€” #284
-Impro Precision evidence resolution completed; thesis corrected toward distributed power and cooling exposure. Research classification remains evidence-building.
-
-
-## 2026-09-25
-
-### #282 AI power-generation hot-section component discovery
-
-- Continued #261 into gas-turbine hot-section capacity after fresh evidence that orders exceed OEM delivery capacity and blade/casting capacity is strategic.
-- GE Aerospace/CPP M&A, SpaceX planned blade/vane internalization and Howmet capacity expansion validate the bottleneck below turbine OEMs.
-- **Impro Precision (HKEX:1286)** retained as EVIDENCE BUILD after secondary supply-chain work reported H1 2026 energy revenue +83.7% y/y from a small ~3.3% group base; turbine attribution/qualification/materiality require primary verification before promotion.
-- A high-purity DPC signal is retained only as an identity/evidence coverage gap until the exact listed vehicle and primary financial evidence are established.
-- Howmet/Anhui Yingliu remain existing comparators rather than duplicated discoveries.
-- No new underwrite promoted; broad branch stops pending bounded evidence. No Gate-E action changed.
-
-
-## 2026-09-25
-
-### #280 Montage CXL 3.2 controller refresh
-
-- Refreshed Montage after #278 identified a new CXL-controller state change distinct from the old DDR5/MRDIMM thesis.
-- Primary Montage evidence confirms CXL 3.2 MXC trial production and integration into next-generation Samsung/SK hynix CXL products with initial validation completed.
-- Q1 2026 newer interconnect products (MRCD/MDB, PCIe Retimer, CKD, CXL MXC) reached RMB269m, +93.8% y/y and 19% of interconnect revenue; H1 revenue ~RMB3.335bn (+26.7%) and net profit ~RMB1.997bn (+72.3%).
-- Current 24 Sep equity reference is ~RMB273bn / ~82x trailing earnings. At this starting point, 3x requires roughly RMB20â€“27bn annual earnings at 40â€“30x versus ~RMB3.07bn TTM.
-- Conclusion: **CXL thesis materially strengthened, but Montage remains FAILED/PARKED for the Unicorn screen at current valuation**. 3x not validated; 5x/10x unsupported.
-- Reopen only on much greater CXL earnings materiality or a substantial valuation reset with thesis intact. No Gate-E action changed.
-
-
-## 2026-09-25
-
-### #278 AI memory-capacity / CXL controller discovery
-
-- Continued #261 into memory-capacity/pooling/fabric bottlenecks driven by AI inference and KV-cache growth.
-- Fresh 2026 evidence validates CXL/fabric-attached memory: Astera design-win momentum, Montage industry-first CXL 3.2 MXC trial production, Kioxia sampling and Marvell/Intel infrastructure demonstrations.
-- No new company added. Instead, **Montage Technology** is reopened for a bounded evidence refresh because CXL 3.2 trial production and reported introduction into Samsung/SK hynix next-generation CXL products constitute a new qualification/production state change distinct from the old DDR5/MRDIMM thesis.
-- Astera retained as a recognized/late-stage architecture comparator; large memory/connectivity vendors remain comparators.
-- Next test: Samsung/SK hynix qualification â†’ 2027 CXL volume â†’ Montage controller revenue/materiality â†’ valuation/asymmetry.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #276 industrial edge production-readiness discovery
-
-- Continued #261 into the deployment layer between AI modules and reliable factory operation: embedded OS/LTS, OT connectivity, fault recovery and fleet lifecycle.
-- Aptiv/NVIDIA, deviceWISE/Telit and Ambarella/Capgemini validate the production-readiness bottleneck; Advantech/Ambarella remain existing inventory rather than duplicated discoveries.
-- Ainos surfaced with the desired validation â†’ initial commercial order pattern in semiconductor manufacturing, but evidence quality, materiality and financing/dilution risk are insufficient for promotion; retained as an evidence lead only.
-- Recorded a governed **negative promotion result** and explicit reopen triggers.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #274 Grid Dynamics Physical-AI productization underwrite
-
-- Deepened #272's Grid Dynamics (NASDAQ: GDYN) discovery into company economics.
-- Q2 revenue was $108.2m (+7% y/y) and non-GAAP EBITDA $14.7m / 13.6%; 24 Sep share price $7.54 and secondary 23 Sep market cap reference ~$625m.
-- AI is already company-material (~30.7% of revenue), while Physical AI remains earlier: live commercial programs, Ekumen robotics/ROS depth, Doosan channel and GAIN simulation/deployment/fleet tooling.
-- Core finding: evidence currently supports a **high-value engineering-services model with reusable IP**, not proven recurring-software economics. FDE delivery remains central and Physical-AI revenue/ARR is not separately disclosed.
-- At ~$625m equity, 3x is economically plausible if EBITDA roughly doubles and business quality/multiple improves; 5x needs substantially larger and/or more software-like economics; 10x unsupported.
-- Classified **POTENTIAL / EVIDENCE BUILD**. Promotion requires separately material Physical-AI bookings/revenue, recurring platform economics, partner-scaled deployment or margin expansion without proportional headcount.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #272 Physical-AI simulation / validation / fleet-feedback discovery
-
-- Continued #261 into sim-to-real, synthetic-data, validation and fleet-feedback infrastructure using fresh 2026 architecture changes.
-- NEURA/Dassault, ABB RobotStudio HyperReality, SKAI/ABB and Wandelbots/Tech Mahindra validate the structural bottleneck; several clean architecture leaders remain private or too large/diversified for Unicorn asymmetry.
-- Promoted **Grid Dynamics (NASDAQ: GDYN)** to a bounded company underwrite after Q2 evidence that AI reached ~30.7% of revenue, Physical-AI commercial programs span construction equipment/humanoid intralogistics/manufacturing, Ekumen added ROS/simulation depth, and Doosan created a robotics distribution/channel partnership.
-- Core falsifier is productization: strong demand can still resolve into labour-intensive engineering rather than recurring platform economics.
-- Next test is Physical-AI revenue/mix â†’ recurring economics â†’ consolidated margins/growth â†’ valuation â†’ 3x/5x feasibility.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #270 Scientific-AI physical experiment execution discovery
-
-- Continued #261 into the physical execution layer of AI-driven science using fresh 2026 state changes rather than existing company names.
-- Evidence includes Novo's autonomous-lab purchase from Ginkgo, Iktos/Chemspeed molecules-to-robot integration, Beckman/Automata modular lab integration, Opentrons/HighRes/NVIDIA agentic execution, ABB/Roche clinical-lab robotics and GenScript/Lilly TuneLab wet-lab data generation.
-- Structural conclusion: AI abundance is moving scarcity toward reliable/interoperable **physical experiment execution** and structured feedback.
-- Strongest architecture leaders Automata, Opentrons and HighRes are private; this is an important negative public-equity result.
-- Ginkgo retained as **EVIDENCE BUILD / PRODUCTIZATION WATCH** after named Novo deployment; GenScript retained as **EVIDENCE BUILD** after Lilly TuneLab wet-lab partnership. Neither has enough disclosed materiality/economics for Unicorn promotion.
-- Existing Bruker/Chemspeed, Tecan, Danaher and Thermo Fisher remain comparators under existing states.
-- No new listed company promoted; explicit event-driven reopen triggers recorded. No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #268 AI liquid-cooling component discovery
-
-- Continued #261 into component-level liquid cooling rather than broad cooling OEMs.
-- Mapped quick disconnects, cold plates/manifolds, pumps/valves, seals and monitoring as leak/flow/reliability constraints at rising AI rack density.
-- LOTES remains the highest-information component lead, but current primary evidence does not establish liquid-cooling revenue/order materiality, constrained capacity or margin contribution; retained as **EVIDENCE BUILD**.
-- Auras retained as an evidence/coverage gap; AVC and large diversified suppliers remain comparators.
-- Recorded a **negative promotion result** and explicit reopen triggers rather than expanding the universe mechanically.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #266 humanoid safety / force-control discovery
-
-- Continued #261 from perception into industrial humanoid safety/force control.
-- Mapped joint force/torque sensing, tactile/contact sensing, safety controllers/runtime and certification/validation.
-- Recorded a **negative discovery result**: no new small listed supplier currently has sufficiently strong humanoid-specific qualification/mass-production evidence plus company-transforming purity.
-- Existing FORT/FROB and QNX remain relevant known-inventory comparators under their existing event triggers; diversified incumbents/private specialists validate the bottleneck but do not justify new universe additions.
-- Important falsifier: motor-current/encoder estimation and integrated actuator/control stacks can capture force-control economics without dedicated force/torque sensors at every joint.
-- Safety branch stops until a named humanoid qualification, production award, recurring safety royalty or certification-driven revenue inflection appears.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #264 Namuga humanoid stereo-camera underwrite
-
-- Deepened #262's outside-universe perception discovery into Namuga (KOSDAQ:190510).
-- Primary Namuga evidence confirms a 3D sensing robot-platform partnership and production-line setup; 7 Sep company-announcement reporting adds PoC/verification â†’ exclusive stereo-camera supply â†’ initial 2027 supply â†’ full-scale 2028 production for an unnamed large North American humanoid company.
-- Namuga's 2025 base was KRW459.9bn revenue / KRW25.1bn net profit; current Sep reference is only ~KRW210â€“220bn equity at ~11x trailing earnings.
-- Scenario analysis shows programme materiality is highly sensitive to undisclosed robot units, cameras/robot and module ASP; no false precision is used.
-- At ~KRW215bn equity, 3x requires KRW645bn. At 20â€“25x earnings this implies ~KRW26â€“32bn annual net income versus KRW25.1bn in 2025, so the starting valuation does not mathematically kill the 3x thesis.
-- Classified **POTENTIAL / UNDERWRITE â€” 3x economically plausible but unvalidated; 5x requires major robot-vision materiality; 10x unsupported**.
-- Highest-information trigger is first disclosed robot-vision order/revenue economics; no Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #262 humanoid sensing / perception discovery
-
-- Executed #261 on a different bottleneck from AI power: mass-production humanoid perception.
-- Mapped the stack from image/depth sensor through module/calibration, edge processing, fusion and platform qualification.
-- Promoted **Namuga (KOSDAQ:190510)** to bounded underwrite after a 7 Sep announcement reported PoC/technology verification followed by exclusive 3D stereo-camera supply and confirmed mass production for a next-generation humanoid programme at an unnamed large North American robot company.
-- Kept Ouster and Cognex/RealSense as known-inventory comparators rather than pretending they are new discoveries; large sensor incumbents fail the company-transforming purity test for this branch.
-- Recorded commoditisation, vertical integration, architecture uncertainty, programme-volume uncertainty and customer concentration as key falsifiers.
-- Next bounded step is Namuga programme-units Ã— content Ã— share â†’ consolidated financial materiality; do not expand the sensing universe first.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #259 pre-inflection AI power-integrity scan
-
-- Searched the left-hand side of the Vicor/AP Memory/TAI-TECH pattern rather than forcing another mature winner.
-- Surfaced **Sunlord (002138)** as an evidence-build lead on scaling TLVR orders and AI-oriented tantalum qualification, but primary materiality evidence remains insufficient.
-- Surfaced **DMEGC (002056)** with a very recent company response confirming scaled chip-inductor production, batch TLVR-core supply to leading domestic/overseas customers and overseas sampling; diversification makes consolidated materiality the key hurdle.
-- Infineon's integrated TLVR module is retained as important architecture validation and substitution counter-evidence.
-- No new candidate currently has a cleaner evidence/asymmetry setup than TAI-TECH. This is recorded as a valid negative discovery result rather than expanding the universe mechanically.
-- Added a stop condition: reopen this branch only on named qualification, material AI-power revenue, capacity/prepayment/LTA evidence, or another architecture migration.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #257 AP Memory silicon-capacitor underwrite
-
-- Deepened #253's package-power-integrity lead into AP Memory (TWSE:6531).
-- Primary evidence shows Janâ€“Aug 2026 revenue +109.1% y/y; S-SiCap technology has completed customer validation/mass-production steps. Secondary management reporting puts Q2 S-SiCap at ~27% of revenue and +273% y/y, so the new engine is already company-material.
-- Samsung Electro-Mechanics' KRW1.5tn 2027â€“28 silicon-capacitor contract validates the market while providing strong competitive counter-evidence.
-- At ~NT$160bn current equity, 3x requires NT$480bn; even at 40â€“30x earnings this needs ~NT$12â€“16bn annual net income versus ~NT$2.83bn TTM. The business inflection is stronger than the current multibagger setup.
-- Classified **POTENTIAL / LATE DISCOVERY â€” 3x unvalidated; 5x/10x unsupported**. The pattern should be used to find earlier pre-inflection analogues.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #255 TAI-TECH AI power-magnetics underwrite
-
-- Deepened #253's thesis-first lead into TAI-TECH (TPEX:3357).
-- Confirmed power inductors were 62.1% of 2025 revenue; AI exposure has reportedly risen from ~7% of revenue in 2024 to ~10% in 2025 and ~12â€“13% in 1H26, while Janâ€“Aug 2026 company revenue grew 32.2% y/y and Q2 gross margin reached ~30.8%.
-- At a controlled ~NT$24bn equity reference, 3x requires ~NT$72bn; at 25â€“30x earnings this implies ~NT$2.4â€“2.9bn annual net income versus ~NT$1.24bn LTM. This is demanding but materially more feasible than Vicor's current starting valuation.
-- Counter-evidence is important: AI remains a minority of revenue, TLVR competition/pricing is significant, order visibility is short, and deeper vertical power integration can migrate the bottleneck again.
-- Classified **POTENTIAL â€” 3x economically plausible but not validated; 5x unvalidated; 10x unsupported**. Promotion requires AI/CSP/800V power content to become company-transforming.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #253 point-of-load power adjacency discovery
-
-- Followed Vicor's VPD bottleneck outward rather than repeatedly underwriting Vicor.
-- Surfaced **TAI-TECH Advanced Electronics (TPEX:3357)** as the strongest new lead: proprietary high-current/TLVR AI-server products plus company-wide Mayâ€“Aug 2026 revenue growth of +38% to +63% y/y, at a much smaller starting equity value than Vicor. Attribution to AI/TLVR remains the key missing evidence.
-- Surfaced **AP Memory (TWSE:6531)** as a package-power-integrity lead: S-SiCap customer validation/mass production is established, while Samsung Electro-Mechanics' KRW1.5tn 2027â€“28 silicon-capacitor contract validates the broader state change.
-- Recorded private Powerlattice/EnaChip/Lotus as technical validation and competitive counter-evidence, not investable universe additions.
-- Next thesis-first deep underwrite: TAI-TECH; AP Memory remains bounded follow-up.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-25
-
-### #251 Vicor VPD scarce-complement underwrite
-
-- Followed #249's thesis-first discovery into Vicor rather than promoting it mechanically.
-- Primary evidence validates the structural chain: VPD solves a rising AI point-of-load constraint; additional OEM licensing creates royalty economics; Fab-1 is approaching capacity and Fab-2/Fab-3 sites are being acquired.
-- The equity setup is much less attractive than the bottleneck signal: around $276/share and ~$13bn equity value on 24 Sep, a 3x outcome requires ~$39bn equity and roughly ~$1.0â€“1.3bn annual earnings at 40â€“30x.
-- Classified Vicor **POTENTIAL / WATCH**, not UNDERWRITE: excellent original-thesis validation, but current valuation already capitalizes a large part of the opportunity and disclosed royalty/capacity economics do not yet bridge 3x.
-- Next discovery should follow point-of-load power outward to smaller packaging/passive/magnetic/thermal suppliers rather than forcing Vicor into Gate E.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-24
-
-### #249 first restored thesis-first discovery scan
-
-- Started from three recent architecture/state changes rather than existing company names: point-of-load AI power delivery, component-level liquid cooling, and humanoid supplier industrialisation.
-- Surfaced four outside-universe leads: **Vicor** (promote to bounded company underwrite), **Namuga** (bounded evidence pass), **Samhyun** (evidence build), and **LOTES** (evidence build).
-- Vicor is the strongest new signal because primary evidence links VPD licensing and royalties to raised Q3 guidance while existing fabrication approaches capacity and two additional fab sites are being acquired.
-- Recorded negative/coverage gaps rather than mechanically expanding the universe; HBM produced no sufficiently new architecture signal beyond existing work in this pass.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-24
-
-### #247 restore thesis-first Unicorn discovery
-
-- Re-anchored the repository to the original upstream thesis: **world change â†’ scarce complement / emerging constraint â†’ bottleneck migration â†’ company discovery â†’ evidence of inflection â†’ economic capture**.
-- Explicitly made the 59-company ranked universe known-opportunity inventory/benchmarks rather than the boundary or default starting point for discovery.
-- Repositioned Unicorn Potential 3x/5x/10x reverse-underwriting as downstream validation/falsification and Gate E as capital allocation, rather than allowing valuation screening to become the thesis.
-- Added guardrails against evidence-maturity bias and instructed discovery to seek overlooked/misclassified listed small/mid-cap beneficiaries outside the current universe.
-- Existing Gate-E monitors, action standards and brokerage boundaries are unchanged.
-
-
-## 2026-09-24
-
-### #245 deep reverse-underwrite of bounded-screen survivors
-
-- Deepened the seven survivors from #243. Five had sufficient canonical capitalization/economic evidence for immediate arithmetic; BlackBerry/QNX and Ouster are retained as evidence-refresh underwrites rather than assigning fabricated numbers.
-- Raspberry Pi remains POTENTIAL; Camtek remains POTENTIAL/bounded.
-- Micronics Japan, FormFactor and Hanmi Semiconductor are FAILED/PARKED for the current Unicorn screen because their starting valuations make 3x unsupported even though operating capture is strong.
-- The live survivor set contracts to RPI, Camtek, BlackBerry/QNX and Ouster; QNX/Ouster require dedicated capitalization/economic refreshes before numeric promotion.
-- No Gate-E or brokerage action changed.
-
-
-## 2026-09-24
-
-### #243 bounded Unicorn cohort screen
-
-- Screened all 19 companies previously listed under `Needs a bounded Unicorn screen` using existing canonical evidence.
-- Promoted seven for deeper reverse-underwrite: Raspberry Pi, BlackBerry/QNX, Ouster, Micronics Japan, Camtek, FormFactor and Hanmi Semiconductor.
-- Kept five in evidence-build/event-underwrite rather than manufacturing numeric 3x/5x cases: Technoprobe, Schaeffler, MinebeaMitsumi, Furukawa/SuperPower and Cognex/RealSense.
-- Parked seven from the current Unicorn funnel: Advantech, Onto Innovation, Montage Technology, ASMPT, Akamai, VAT Group and PTC. Parking does not remove them from the broad ranked universe or Gate-E work.
-- The screen deliberately separates high-quality companies from plausible multibagger setups; no Gate-E action changed.
-
-
-## 2026-09-24
-
-### #241 complete priority Unicorn Potential reverse-underwrites
-
-- Completed the remaining eight reverse-underwrites after Laifual #237 and Centrus #239, so all ten priority candidates from #235 now have explicit 3x/5x/10x hurdle states.
-- Updated canonical company surfaces for Modine/Modexus, JEM, SUSS, Jinpan, Weebit, FORT/FROB, Huaming and Ambarella.
-- Important negative result: Modine/Modexus remains a strong Gate-E return-engine candidate but is **FAILED/PARKED for the current Unicorn screen** because existing base/stretch economics do not establish a plausible 3x path from the controlled reference.
-- Weebit retains the strongest theoretical royalty operating leverage, but 3x/5x remain unvalidated until material production royalties and dilution-adjusted economics are observable.
-- No company was promoted to VALIDATED POTENTIAL; the programme deliberately distinguishes plausible mechanisms from evidenced multibagger bridges.
-- No Gate-E action or brokerage instruction changed.
-
-
-## 2026-09-24
-
-### #239 Centrus Unicorn Potential reverse-underwrite
-
-- Reverse-underwrote Centrus from the ~21.739m common-equivalent / ~$151 reference (~$3.28bn equity value) into 3x (~$9.85bn), 5x (~$16.4bn) and 10x (~$32.8bn) equity hurdles.
-- Explicitly modeled the new common-warrant dilution state (~28.732m shares/equivalents) alongside the potential ~$2bn exercise cash; value creation must be judged per diluted share rather than by gross project funding.
-- Made the 2029 first-new-capacity date the critical boundary: a March-2028 3x would be mainly funded-franchise/de-risking rerating, while a durable 5x must ultimately be supported by scaled enrichment earnings/FCF.
-- Current Unicorn state: **UNDERWRITE â€” 3x strategically plausible but financing/timing dependent; 5x long-horizon and unvalidated; 10x unsupported today**.
-- Gate-E state remains REASSESS / WAIT; no brokerage action changed.
-
-
-## 2026-09-24
-
-### #237 Laifual Unicorn Potential reverse-underwrite
-
-- Executed the first full 1x/3x/5x/10x Unicorn Potential test using Laifual Drive.
-- At the governed HK$48 reference (~104.1m shares), 3x implies ~HK$15bn equity value and roughly HK$430â€“600m annual earnings at 35â€“25x P/E; 5x implies ~HK$25bn and ~HK$714mâ€“1.0bn earnings.
-- Tested those hurdles against current/disclosed capacity. The visible July run-rate plus planned 800k facility is roughly 1.58m units/year mechanically and does not alone validate a 5x earnings bridge.
-- Current state: **UNDERWRITE â€” 3x plausible; 5x not yet validated; 10x unsupported by current evidence**.
-- Preserved the distinction from Gate E: the existing <=HK$48 starter ACTION is not evidence of a validated 5x Unicorn.
-- Defined upgrade signals around repeat humanoid production customers, durable margins, cash conversion, joint-module content, contracted facility utilization and non-dilutive next-step capacity.
-
-
-## 2026-09-24
-
-### #235 Unicorn Potential discovery funnel
-
-- Added `research/unicorn-potential.md` as the canonical layer between broad universe discovery and Gate-E capital allocation.
-- Reframed unicorn hunting around bottleneck migration, demand convexity, company purity, operating leverage, under-recognition and dilution-aware multibagger feasibility.
-- Added a 1x/3x/5x/10x reverse-underwriting template; these are hurdles, not forecasts or price targets.
-- Explicitly rejected summed pseudo-precision scores: fatal shareholder-capture, dilution, capital-intensity or scale assumptions can stop promotion.
-- Triaged the current 59-company universe into priority reverse-underwrites, bounded Unicorn screens and benchmark/scale-constrained names without changing the canonical broad ranking.
-- Updated README and automation guidance so future discovery searches for economic state-change signals rather than merely expanding the company list.
-
-
-## 2026-09-24
-
-### #233 full-repository ranked-company audit
-
-- Audited canonical company files, the cross-theme watchlist and theme synthesis company candidates after #230 removed the Top-10 cap.
-- Expanded the authoritative live ranked universe from 25 to **59 listed/directly investable company entries**.
-- Added previously omitted memory leaders/benchmarks (Onto, Camtek, FormFactor, Montage, ASMPT, Technoprobe, Hanmi, Advantest, Teradyne, DISCO, Ibiden, Amkor, Micron), energy companies (Siemens Energy, nVent, Vertiv, Eaton, GE Vernova, HD Hyundai Electric, Huaming, Cameco, MHI, Quanta), and lower-maturity listed comparators from synthesis work.
-- Kept private-only archetypes and theme concepts out of the equity ranking rather than assigning false company ranks.
-- Added explicit audit provenance so future universe audits can compare canonical company files + watchlist rows + synthesis candidates against the live ranking.
-- The ranking remains research prioritisation, not an investment recommendation or brokerage authorization.
-
-
-## 2026-09-24
-
-### #230 continuous ranked research universe
-
-- Removed the Top-10 admission/displacement constraint from the canonical research-priority architecture.
-- Rebuilt the live surface as one continuously ranked universe covering Gate-E-capable names plus evidence-building companies; former challengers RPI, Advantech, Ambarella and Akamai now rank directly alongside incumbents.
-- Added evidence confidence, setup and next governed trigger to the authoritative live table; lower-maturity names remain visible rather than disappearing below an arbitrary cutoff.
-- Historical Top-10 material is retained but explicitly labelled non-authoritative for auditability.
-- Updated README, AUTOMATION and PORTFOLIO so crossing rank 10 has no scheduler, research-admission or portfolio-action meaning.
-- Rank remains research prioritisation only; it does not authorize brokerage execution.
-
-
-## 2026-09-24
-
-### #228 Advantech Gate-E underwrite
-
-- Completed company-level underwrite of the second challenger generated by #224.
-- Confirmed strong profitable scale: 1H26 revenue +32%, 19.0% operating margin and net income +66%, with management citing accelerating AI deployments.
-- Mapped WEDA as a potential cross-hardware development/deployment/fleet layer while explicitly leaving software attach/recurring economics unproven.
-- Current valuation (~29-32x forward P/E; ~33x EV/EBITDA) creates a meaningful earnings hurdle despite higher fundamental quality than AMBA.
-- Advantech enters the immediate challenger set as **REASSESS/WATCH**; no Top-10 displacement or brokerage ACTION.
-
-
-## 2026-09-24
-
-### #226 Ambarella Gate-E underwrite
-
-- Completed the first company-level underwrite generated by the value-chain-first discovery test.
-- Confirmed unusually direct company capture: edge-AI SoCs were 80% of FY2026 revenue, with >370 customer AI projects in production and ~ $1bn cumulative edge-AI revenue.
-- Added current valuation/profit-conversion hurdles, Hanwha/X7 catalysts, competitive counter-case and portfolio comparison.
-- AMBA enters the immediate challenger set as **REASSESS/WATCH** but does not displace the current Top 10; operating leverage and production conversion must improve the 18-month asymmetry first.
-- No brokerage trade was placed.
-
-
-## 2026-09-24
-
-### #224 first value-chain-first discovery test
-
-- Executed the new scan architecture across the full AI/Physical-AI value chain rather than conventional sector taxonomies.
-- Identified edge compute/deployment, simulation/verification and fleet feedback as the clearest under-covered layers.
-- Surfaced **Ambarella** as the strongest new listed challenger and **Advantech** as a credible industrial-edge misclassification candidate; ARM and PTC were retained as structural observations pending asymmetry/materiality evidence.
-- Recorded negative screens for broad industrial and private-only exposures to prevent narrative-driven promotion.
-- No Top-10 or brokerage ACTION changed; follow-up company underwriting is required before promotion.
-
-
-## 2026-09-24
-
-### Value-chain scan blind-spot fix
-
-- Converted the RPI/AKAM discovery miss into a permanent research-process control rather than a one-off observation.
-- Broad universe scans must now traverse the full AI/Physical-AI value chain before sector classification and explicitly search for **misclassified incumbents** whose legacy labels hide emerging bottleneck exposure.
-- Added a required coverage-gap output (well covered / under-covered / no credible listed capture / intentionally excluded) and linked the protocol into backlog automation.
-- This changes discovery methodology only; it does not promote RPI, AKAM or any other company to a governed ACTION.
-
-
-## 2026-09-24
-
-### #218 / #219 valuation and contract-economics execution
-
-- Executed Raspberry Pi scenario valuation rather than waiting for stale 1 Sep consensus to refresh. At 755p, a mechanical support case is roughly $90m normalized EBITDA at 20x; lower normalized earnings/multiples expose material downside.
-- Executed Akamai Anthropic capital-recovery stress test. The $11.6bn seven-year commitment averages ~$1.66bn/year against ~$5.5bn associated capex; simple recovery economics require very high contribution margins or meaningful residual/reuse value.
-- Incorporated Akamai's balance-sheet/FCF capacity, warrant dilution and customer-concentration implications.
-- Both remain REASSESS/WATCH; no new governed ACTION or brokerage trade.
-
-## 2026-09-24
-
-### #218 / #219 RPI and AKAM portfolio integration
-
-- Re-ran the live Gate-E challenger comparison after completing the Raspberry Pi and Akamai deep dives.
-- Added both as immediate challengers without displacing the governed Top 10: RPI has stronger current company-capture evidence but unresolved normalized valuation; AKAM provides stronger cross-theme distributed-AI-infrastructure evidence but unresolved incremental ROIC.
-- Propagated the combined evidence into the canonical scarce-complements framework as a new distributed-compute / edge-deployment signal.
-- Retained FORT at #10 pending its transaction disclosure; no new governed ACTION or brokerage trade.
-
-## 2026-09-24
-
-### #218 / #219 Raspberry Pi and Akamai event deep dives
-
-- Added canonical deep-dive surfaces for Raspberry Pi and Akamai following the 24 September RPI interim results and AKAM-Anthropic agreement.
-- Raspberry Pi: separated durable OEM/backlog/edge-compute evidence from temporary lower-cost memory inventory economics; retained valuation as unresolved pending post-results estimate reset.
-- Akamai: separated the $11.6bn demand signal from shareholder economics; quantified the ~$5.5bn associated capex, warrant dilution and operating-margin hurdle; raised confidence in distributed AI infrastructure demand while leaving company-level ROIC unresolved.
-- No automatic transaction instruction or portfolio promotion was authorized.
-
-## 2026-09-24
-
-### #158 Furukawa Electric / SuperPower HTS Gate-E underwrite
-
-- Restored the bounded Furukawa/SuperPower HTS underwrite on a fresh branch based on current `main` so required Research Governance evaluates the actual head/base diff.
-- Conclusion remains **WATCH / research candidate**: direct HTS/fusion relevance is established, but SuperPower revenue, margin, backlog, annual capacity/utilisation and March-2028 financial materiality remain insufficiently disclosed.
-- Competing HTS capacity expansion remains material counter-evidence; no Top-10 promotion, ACTION or brokerage trade is authorized.
-
-## 2026-09-24
-
-### #213 calibration/audit surface canonicalization
-
-- Clarified `evidence-quality-audit.md` as the live decision-quality audit and `evidence-quality-corpus-audit.md` as the structural 94-file accounting/governance audit.
-- Clarified `prediction-calibration-ledger.md` as the sole live prospective outcome ledger; retained `decision-outcome-calibration-ledger.md` as a historical Wave-5 seed artifact rather than deleting audit history.
-- This is governance/hygiene only: no company state, ranking or brokerage action changed.
-
-## 2026-09-24
-
-### #196 residual calibration coverage â€” 94/94 accounting
-
-- Recovered the verified residual-calibration work from superseded PR #206 onto current main after confirming all 23 target decision surfaces were unchanged since that PR's base, avoiding overwrite of newer research.
-- Calibrated 23 residual decision-bearing surfaces across energy/fusion, memory, Physical AI, robotics-actuators, Gate-E portfolio construction and scientific AI.
-- Classified 7 research-plan/monitoring/screening files as procedural controls and 2 templates as authoring controls with decision calibration N/A.
-- Re-ran structural accounting: **94/94 research markdown files are now accounted for**. This closes the denominator gap but does not claim all underlying evidence is equally fresh.
-- No company state or brokerage trade changed from the retrofit.
-
-## 2026-09-24
-
-### #129 Centrus funded-capacity / per-share bridge audit
-
-- Completed the Wave-5 bounded evidence follow-up without treating the already-assessed Antares event as a new trigger.
-- Quantified the mechanical liquidity reference: $1.869bn June cash + ~$489m estimated net September offering proceeds = ~$2.358bn before subsequent use; kept ~$1.208bn convertible-note principal and broad capital uses explicit rather than treating cash as free project equity.
-- Separated the $900m milestone-based DOE award and unquantified X-energy/Radiant/Antares prepayments from unrestricted cash; current public evidence still does not establish a fully funded specific commercial-capacity tranche.
-- Made the timing mismatch explicit: Centrus says first new capacity is expected online in 2029, after the March-2028 portfolio window. Near-window value therefore depends on financing/construction de-risking and backlog conversion rather than new-capacity earnings.
-- Added dilution states from ~21.739m common-equivalent shares after common + pre-funded issuance to 28.732m if all new common warrants exercise, plus a separate historical convertible-dilution stress context.
-- Current conclusion remains **REASSESS / WAIT**; ~$120â€“130 remains a reassessment region, not an automatic transaction instruction. No brokerage trade.
-
-## 2026-09-24
-
-### #209 FORT Robotics canonical transaction and recurring-economics due diligence
-
-- Added `research/physical-ai/fort-robotics.md` as the canonical FORT/FROB company/transaction surface.
-- Verified 2025 standalone revenue of $11.585m (+62%), 66.2% gross margin, $4.592m operating loss, 21 mature enterprise customers and no customer above 9% of 2025 revenue from the SEC-filed investor presentation.
-- Rebuilt the announced no-redemption transaction bridge: $500m FORT rollover equity, 74.2m headline pro-forma shares, $742.4m equity value and $556.6m EV at $10, with $185.8m announced pro-forma net cash.
-- Made dilution explicit: headline shares exclude 8.6m public warrants, 0.3m private warrants and 0.8m contingent sponsor earnout shares; final fully diluted capitalization remains S-4/redemption dependent.
-- Distinguished repeat customer purchasing from recurring software economics. Management's detailed embedded-software/subscription case is explicitly hypothetical and is not evidence of current ARR or subscription attach.
-- FORT remains **WAIT**. #108 remains event-gated on the S-4/equivalent filing; #109 remains blocked. No ranking/state promotion and no brokerage trade.
-
-## 2026-09-24
-
-### #207 evidence-quality audit and prediction ledger â€” Wave 5
-
-- Added `research/evidence-quality-audit.md`: corpus-level assessment after Waves 1â€“4, including stronger/weaker/unchanged conclusions and a decision-impact-ranked gap queue.
-- Added `research/prediction-calibration-ledger.md`: frozen 24 September decision snapshots for the live Top-10 plus Ouster, with structural/company/financial/equity confidence separated and future outcome fields defined.
-- Highest-impact residual gaps are FORT canonicalization, Centrus funded commercial-capacity/per-share bridge, Laifual repeat-customer/cash/competition proof, and Modine post-separation economics.
-- The ledger prohibits hindsight rewriting and invented numerical probabilities; price triggers remain reassessment regions rather than automatic transaction instructions.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### #207 evidence-quality audit and prediction ledger â€” Wave 5
-
-- Added canonical `research/evidence-quality-audit.md` after Waves 1â€“4 and ranked the residual research gaps by decision impact.
-- Added `research/prediction-calibration-ledger.md` and froze the 24 September live Gate-E decisions so later outcomes can be compared with the evidence available at decision time.
-- Audit result: governance/bottleneck evidence is strong; company capture and financial materiality are uneven; remaining-window return precision and historical calibration are the weakest layers.
-- Stronger/better supported after calibration: QNX business quality, MJC operating quality, Modine evidence-to-financial bridge, Laifual current operating capture. More conditional: Centrus equity conversion, Weebit royalty economics, Ouster normalized economics, FORT transaction economics.
-- No company state or brokerage trade changed solely from the audit.
-
-## 2026-09-24
-
-### #204 Wave 5 testing â€” corpus audit and calibration ledger
-
-- Performed a fail-closed structural coverage test after Waves 1â€“4 rather than assuming the retrofit was complete.
-- Test found 94 research markdown files: 26 company, 30 deep-dive, 6 cross-theme/capture/ranking and 32 residual files. Because residual files include decision-bearing scientific-AI, evaluation/verification, fusion, portfolio, thesis and allocation work, #196 remains open.
-- Added `research/evidence-quality-corpus-audit.md` with explicit PASS / PARTIAL PASS / FAIL-CLOSED tests.
-- Added `research/decision-outcome-calibration-ledger.md` and seeded the current live Top-10 decision states/triggers so later outcomes can be compared with frozen decision-date expectations.
-- Testing confirmed governance and reasoning-integrity controls, while exposing incomplete denominator coverage and residual false-precision/source-freshness work.
-- No company state or brokerage trade changed from testing.
-
-## 2026-09-24
-
-### #202 evidence-chain retrofit â€” Wave 4
-
-- Applied the #193/#196 calibration boundary across the complete 30-file technical/deep-dive corpus: energy, memory, Physical AI and robotics/actuators.
-- Deep dives now explicitly separate technical bottleneck evidence from where the economic profit pool lands; require source/freshness discipline; and test supply response, substitution, vertical integration, commoditization and alternative process paths as active counter-evidence.
-- Ouster received a company-specific sensing/capture calibration; QNX retains the richer Gate-E calibration already added in Wave 1 rather than duplicating a generic block.
-- No company state or brokerage trade changed from the retrofit.
-
-## 2026-09-24
-
-### #200 evidence-chain retrofit â€” Wave 3
-
-- Calibrated six cross-theme/capture/ranking surfaces under #193/#196.
-- Made the boundary explicit between technical scarcity and investable public-equity capture, added bottleneck-migration/substitution as active counter-evidence, and separated document freshness from observation freshness.
-- Cross-theme rank alone cannot promote a company; company capture, financial materiality, valuation and portfolio correlation require their own evidence chain.
-- No company state or brokerage trade changed from this retrofit.
-
-## 2026-09-24
-
-### #198 evidence-chain retrofit â€” Wave 2
-
-- Applied the #193 calibration boundary to all 18 remaining canonical energy/memory company files after live Gate-E Wave 1.
-- Each file now distinguishes observed theme/company evidence from financial materiality and stock-level inference, requires evidence-freshness/source-quality discipline, and carries an explicit counter-case against assuming that a correct theme automatically produces attractive equity economics.
-- The retrofit does not create ACTION states or point valuation thresholds; future Gate-E promotion requires a governed underwrite with valuation bands/sensitivity and a fundamental-versus-rerating bridge.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### #196 evidence-chain retrofit â€” Wave 1
-
-- Extended the #193/#195 evidence-chain calibration from Laifual across eight additional live Gate-E research files: Centrus, Modine/Modexus, BlackBerry/QNX, JEM, SUSS, Hainan Jinpan, Weebit Nano and Micronics Japan.
-- Each retrofit separates structural demand, company capture, financial materiality and remaining-window equity confidence; identifies the strongest weak/disconfirming bridge; treats governed price conditions as reassessment regions rather than falsely precise intrinsic values; and separates fundamental from rerating dependence.
-- No company state changed solely because of the methodology retrofit.
-- FORT remains in Wave 1 scope but its current evidence is distributed across the Physical-AI programme/issues rather than a canonical company file; its canonicalization will be handled explicitly rather than inventing a file path.
-- Laifual was completed separately in #195.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### #193 evidence-chain pilot â€” Laifual
-
-- Piloted the new evidence-chain/calibration standard on Laifual, the only current governed ACTION monitor.
-- Separated direct operating-capture evidence from weaker durable-cash and March-2028 equity evidence.
-- Reframed <=HK$48 as the upper edge of the existing HK$45â€“48 governed entry band rather than a falsely precise intrinsic-value point.
-- Added layered confidence, strongest disconfirming evidence, evidence freshness and fundamental-versus-rerating bridge.
-- Updated the reusable company template so future Gate-E work can use the same structure.
-- Pilot did **not** change Laifual's current 5% starter-only conclusion and did not place a brokerage trade.
-
-## 2026-09-24
-
-### Evidence-quality and calibration backlog
-
-- Added #193 as a `READY P1` research-governance/portfolio-calibration item after a detailed evidence audit.
-- Documented the Gate-E **claim -> evidence -> inference -> action** standard and separate confidence layers for structural bottleneck, company capture, financial materiality and remaining-window equity case.
-- Added explicit counter-evidence, evidence-freshness, valuation-band/sensitivity and earnings-versus-rerating requirements.
-- Established decision/outcome history as the basis for future calibration rather than unsupported numerical probabilities.
-- Broad discovery is deprioritized behind #193 unless a specific new signal could materially change allocation.
-- No company state or brokerage trade changed from this methodology update.
-
-## 2026-09-24
-
-### Portfolio canonical-surface cleanup
-
-- Removed the stale 15 Sep company decision surface and early re-rank from `PORTFOLIO.md`.
-- `PORTFOLIO.md` now defers live rank/trigger state to `research/top10-unicorn-priority.md`, `AUTOMATION.md` and live issue metadata, reducing future state drift.
-- Preserved only the current 24 Sep portfolio interpretation: Laifual conditional starter, Centrus/Modine as leading independent alternatives, QNX and Ouster in REASSESS / WAIT.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### Backlog and canonical-doc hygiene
-
-- Reconciled live issue metadata with merged work: QNX #106 moved from stale RUNNING to post-Q2 WAITING; MJC #128 stale PR-remediation text was removed; #110 now points to the canonical live ranking instead of carrying a drifting 9 Sep snapshot.
-- Refreshed README/AUTOMATION/PORTFOLIO surfaces after the QNX and Ouster 24 Sep work and the scarce-complements remap.
-- Static documentation now defers to live issue metadata / `research/top10-unicorn-priority.md` where duplication was creating drift.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### Ouster Gate-E valuation
-
-- Promoted #187 Gate-D work into #189 bounded Gate-E valuation after PR #188 passed governance and merged.
-- Normalized Q2 headline 49% GAAP gross margin for the disclosed US$5.4m IEEPA duty refund; mechanical ex-refund margin is ~39%, making margin quality a key thesis variable.
-- Added share-count/dilution bridge, July US$200m equity raise context, 2027 bear/base/upside operating scenarios and March-2028 valuation sensitivities.
-- Current conclusion: **REASSESS / WAIT â€” no Top-10 promotion**. Price-led first re-underwrite zone <=~US$25; US$25â€“30 active watch; above US$30 requires progressively stronger evidence.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### Ouster sensing/perception Gate-D
-
-- Executed #187 after #173 sensing map merged via PR #186.
-- Added `research/physical-ai/deep-dives/ouster.md`.
-- Ouster clears Gate-D for a bounded Gate-E valuation underwrite: Q2 revenue US$55m (+56% y/y), product revenue US$53m (+51%), >17k combined sensor shipments, 49% GAAP gross margin and US$263m liquidity.
-- Stereolabs expands the thesis from discrete lidar into cameras, AI compute, sensor fusion and perception software, but software/retention/pricing capture remains unproven.
-- Current classification: **PROMOTE TO GATE-E RESEARCH / no Top-10 change yet**.
-- No brokerage trade was placed.
-
-## 2026-09-24
-
-### Sensing / physical-world data bottleneck map
-
-- Executed #173 first-pass scarce-complement screen after the GitHub write path recovered.
-- Added `research/cross-theme/sensing-bottlenecks.md` and rejected generic "sensors benefit from Physical AI" as insufficient.
-- Identified 3D lidar/perception and industrial machine vision/depth as the first two economic-capture lanes to underwrite.
-- Ouster becomes the first P1 Gate-D candidate because Q2 2026 product revenue grew 51% y/y with >17,000 sensors shipped, but profitability, normalized margin, ASP/volume, switching costs and software capture still require proof.
-- Cognex/RealSense becomes the second P1 event underwrite after the 22 Sep definitive acquisition agreement.
-- No stock ranking or portfolio action changed; no brokerage trade was placed.
-
-## 2026-09-24
-
-### BlackBerry / QNX FY27 Q2 Gate-E refresh
-
-- Opened #183 and completed a P0 post-results underwrite separating QNX fundamentals from the 24 Sep event-trade outcome.
-- QNX Q2 evidence materially improves: US$80.3m revenue (+27% y/y), 87% gross margin, US$29m adjusted EBITDA (+41%), raised FY27 QNX guidance, royalty-backlog conversion and the first/largest Alloy Kore design win.
-- Added US$400m / US$500m / US$650m QNX revenue scenarios, explicit margin assumptions, backlog/content-per-vehicle guardrails and a BlackBerry SOTP sensitivity.
-- Current conclusion: **REASSESS / WAIT â€” not ACTION at ~US$8.3â€“8.5**. QNX quality is higher, but current equity value already requires substantial success; <=~US$7 is the first price-led re-underwrite trigger absent stronger evidence.
-- QNX remains #4 in the live Top-10 rather than being promoted solely on the earnings beat.
-- Recorded the event-trade lesson: fundamental evidence can improve while immediate price response remains weak; future event trades require both evidence surprise and mispricing.
-- No brokerage trade was placed by the repository.
-
-## 2026-09-23
-
-### Laifual repeat ACTION trigger deepened
-
-- Re-underwrote #86 after an executable HK$46.10 quote re-fired the governed <=HK$48 action condition.
-- Fresh issuer scan found no new company-level operating or financing disclosure that breaks the H1 thesis; volume, utilization, unit-cost and margin evidence remain intact.
-- Added a stronger competition stress test: Laifual historically used lower ASPs to win share, while secondary industry work points to rapid Chinese harmonic-reducer capacity expansion through 2027. Reducer scarcity is therefore weakening even as Laifual's company-specific operating capture improves.
-- At HK$46.10 the existing scenario geometry improves to roughly -46% to -24% bear / +19% to +63% base / +106% to +171% upside; the current conclusion remains **ACTION â€” 5% starter only**, not an increase in conviction.
-- No add above 5% without fresh repeat-customer, margin durability, backlog-conversion and positive cash evidence. No brokerage trade was placed.
-
-
-### Simulation / evaluation / verification economics
-
-- Completed #172 bottleneck/capture map across generic simulation, domain-calibrated digital twins, scenario/coverage assets and continuous release gating.
-- Medium-confidence conclusion: **trusted recurring release/qualification evidence** is the stronger scarce-complement hypothesis; generic simulation alone is increasingly exposed to platform/open-tool substitution.
-- Foretellix and Applied Intuition are the cleanest private archetypes; Siemens and Synopsys/Ansys are listed benchmarks but currently too diversified for a focused portfolio promotion.
-- Defined migration indicators and explicit re-open triggers around recurring V&V economics, formal release requirements and investability.
-- No Gate-E, live Top-10 or portfolio allocation change.
-
-
-### Tecan scientific-AI Gate-B screen
-
-- Added a bounded Tecan underwrite testing whether lab automation, installed-fleet telemetry, recurring consumables/service and agentic operations can capture the scientific-AI execution bottleneck.
-- H1 2026 Life Sciences recurring revenue from services, consumables and reagents reached **64.4%** of segment sales; Introspect has **>1,000 connected instruments**, providing stronger installed-fleet/recurring evidence than an AI feature announcement alone.
-- Tecan is the cleaner automation/operational-feedback exposure versus Bruker; Bruker retains broader measurement + orchestration breadth and the stronger direct AI-linked bookings signal.
-- Current conclusion is **WATCH / evidence-building â€” no Gate-E promotion and no Top-10 displacement** because Introspect/agentic-AI revenue, paid attach, incremental orders and consolidated earnings sensitivity remain undisclosed.
-- At the 22 Sep CHF218.40 reference, simplified equity value is ~CHF2.69bn and EV ~CHF2.62bn; this is ~20x annualized H1 adjusted EBITDA and ~13x management's 2028 CHF200m EBITDA ambition before cash generation/execution adjustments.
-- Next checkpoint is the 5 Nov 2026 Q3 update or earlier material disclosure of paid Introspect/AI adoption or AI-linked automation orders.
-
-This file records substantive changes to research conclusions, confidence, prioritisation and governance. Minor wording or formatting edits do not need an entry.
-
-## 2026-09-22
-
-### Bruker / Chemspeed / SciY scientific-AI Gate-B underwrite
-
-- Deepened the scientific-AI execution lane with a Bruker underwrite across measurement, Chemspeed physical automation and SciY orchestration.
-- New primary evidence strengthens strategic fit: Bruker reported strong AI-driven demand in SciY laboratory software in Q1 2026 while BSI bookings grew high-single digits organically and book-to-bill remained above 1.0x.
-- Kept Bruker at **WATCH / evidence-building** rather than Gate-E: Chemspeed/SciY financial materiality and recurring economics remain insufficiently disclosed relative to Bruker's ~$3.6bn FY2026 revenue base.
-- Defined event-driven promotion tests around repeated AI-linked bookings, named multi-site SDL deployments, recurring software/service attach and consolidated earnings materiality.
-- Tecan remains the key comparative screen because Introspect provides a more automation-pure installed-fleet software/data loop.
-
-
-### Centrus Antares trigger assessed and live Top-10 refreshed
-
-- Added the 17 September Centrus/Antares definitive HALEU contract and customer-prepayment evidence to the canonical Centrus Gate-E underwrite.
-- Repeat pre-funding across X-energy, Radiant and Antares strengthens the commercial-demand/funding-stack thesis, but amounts/timing remain undisclosed and do not yet establish a March-2028 funded-capacity bridge.
-- Centrus remains **REASSESS / WAIT â€” not ACTION**; the existing ~$120â€“130 price-led reassessment range and evidence-led entry tests are unchanged. LEU's 21 September close of $154.85 is above that range.
-- Refreshed the authoritative live Top-10 overlay: Laifual remains #1, Centrus #2, Modine #3, and QNX moves #8 â†’ #4 ahead of its 24 September P0 results event. Memory candidates move down one place where applicable as the scarce-complements remap raises the marginal correlation hurdle.
-- No brokerage trade was placed.
-
-## 2026-09-22
-
-### Scientific-AI execution / automated-lab bottleneck deep dive
-
-- Opened the scientific-AI execution lane identified by the scarce-complement remap and mapped the closed-loop experiment stack from hypothesis through physical execution, measurement, provenance/QC and feedback.
-- Current Medium-confidence conclusion: the stronger scarce complement is likely the **validated experimental system** â€” integrated physical handling, trusted measurement, orchestration, provenance and exception recovery â€” rather than generic laboratory robotics alone.
-- Bruker/Chemspeed/SciY and Tecan advance to bounded company screens; Thermo Fisher and Danaher remain broad economic-capture benchmarks.
-- Added migration/falsification indicators so the lane can be downgraded if experiment demand, utilisation or supplier capture fails to emerge.
-- No Gate-E portfolio action, allocation or existing company ranking changes.
-
-
-### Research universe remapped around scarce complements
-
-- Added the canonical scarce-complement coverage map linking current research streams and governed candidates to bottleneck, economic-capture and migration tests.
-- Identified memory/data movement as the most crowded current research lane and raised the marginal hurdle for additional correlated memory work.
-- Identified scientific-AI execution / automated labs as the clearest current blind spot, with simulation/evaluation/verification and sensing as weaker-covered downstream complements.
-- Reframed future discovery priority toward independent bottleneck exposures and missing scarce complements rather than adding names to already crowded themes.
-- No company ranking, Gate-E action threshold or portfolio allocation changed from this remap.
-
-
-### Cross-theme scarce-complements framework formalised
-
-- Added a canonical cross-theme synthesis layer: **Abundant Intelligence â†’ Scarce Complements â†’ Bottleneck Migration â†’ Capital Allocation**.
-- Moved the 22 Sep model-commoditisation work into the cross-theme framework rather than leaving a standalone root-level research note.
-- Mapped Physical AI, robotics/actuation, memory and energy into a shared bottleneck-migration lens while preserving theme files as the authoritative detailed evidence.
-- Added explicit tests for scarcity, substitution, economic capture, infrastructure concentration and bottleneck migration.
-- No watchlist, Top-10, Gate-E allocation or action-threshold changes.
-
-### AI model commoditisation / scarce-complements hypothesis captured
-
-- Added a cross-theme research note from Steve Eisman's CNBC interview on open-weight competition, frontier-model economics and possible regulatory-moat effects.
-- Reframed the investable question as **what remains scarce when model intelligence becomes abundant**, connecting model commoditisation to the repository's existing bottleneck-migration and Physical AI framework.
-- Added frontier-lab concentration, infrastructure fungibility and scarce-complement ownership as research stress tests.
-- Eisman's claims about deliberate regulatory capture or ecosystem-protection motives are retained only as attributed hypotheses, not established facts.
-- No watchlist, Top-10, ranking or portfolio action changes.
-
-## 2026-09-19
-
-### Modine / Gentherm transaction economics refreshed
-
-- Updated the canonical Modine Gate-E underwrite for the 17 September Gentherm/Modine transaction adjustment.
-- The expected SpinCo cash distribution to Modine is now $159m rather than $210m; the structure also contemplates approximately 2.902m additional Gentherm shares and an estimated $58.35m special dividend to pre-close Gentherm holders.
-- The parties state that the exchange-ratio mechanism is intended to preserve negotiated relative equity values and have a neutral effect on transaction economics, so the lower cash distribution is not treated mechanically as value leakage.
-- Current conclusion remains **REASSESS / WAIT â€” not ACTION** and the existing approximately $155â€“165 price-led condition is unchanged.
-- Final exchange ratio, closing amounts, continuing-company balance sheet and post-separation guidance remain open inputs for the final per-share bridge. No trade was placed.
-
-## 2026-09-17
-
-### Fusion enabling-infrastructure discovery completed
-
-- Added the canonical fusion enabling-infrastructure bottleneck map, source provenance, candidate register, screening rules, monitoring triggers and research-plan handoff.
-- First-pass evidence indicates HTS/integrated magnet systems have the strongest direct bottleneck evidence; vacuum, remote maintenance, diagnostics, power and extreme materials remain technically relevant areas for bounded monitoring.
-- Added focused research stubs for Furukawa Electric / SuperPower and VAT Group. Furukawa/SuperPower advances only to a bounded Gate-E follow-up; VAT remains a comparator/monitor.
-- No portfolio or Top-10 change is made. Developer timelines and LCOE are not treated as established facts; company-level capture, funded demand, qualification/scarcity, valuation/downside and an 18-month evidence path remain required before any promotion.
-
-## 2026-09-15
-
-### Portfolio surface refreshed for first live Gate-E ACTION
-
-- #86 Laifual is now the first governed **ACTION** in the current Gate-E cycle after PR #153 passed Research governance.
-- The action is deliberately limited to a **5% starter research sleeve (~Â£2,000 of Â£40k)** at an executable price **<=HK$48**; the existing **8% pre-proof** and **10â€“12% post-proof** ceilings remain unchanged.
-- No brokerage trade has been placed. Until manual execution, the actual brokerage portfolio is unchanged; the research allocation signal is **5% Laifual / 95% tactical cash**.
-- Laifual remains ranked #1 in the live Top-10. The order of the remaining candidates is unchanged.
-- Updated PORTFOLIO, Gate-E construction, Top-10 live overlay and AUTOMATION so the canonical portfolio surface no longer states that there are zero ACTION signals.
-
-
-### Laifual price trigger fired; starter Gate-E ACTION established
-
-- Freshened **#86** after a user-supplied IBKR quote of **HK$47.28** entered the governed **HK$45â€“48** reassessment zone.
-- A current thesis check found no material operating deterioration in public disclosures through 15 September. H1 revenue was **RMB142.2m (+80.1%)**, reducer gross margin **29.6%**, utilization **95.1%**, July designed capacity **64.8k units/month**, and outstanding reducer orders exceeded **400k units at 31 July**.
-- Counter-evidence remains material: H1 operating cash flow was **-RMB20.9m**, capex was **RMB77.8m**, adjusted net income remained negative, and the company has proposed up to **RMB1.5bn** of credit facilities that had not yet been entered into as of the 28 August announcement.
-- Existing March-2028 scenario boundaries are unchanged at **HK$25â€“35 bear / HK$55â€“75 base / HK$95â€“125 upside / HK$150â€“200+ stretch**. From HK$47.28 those imply roughly **-47% to -26% / +16% to +59% / +101% to +164% / +217% to +323%+**.
-- The current research signal becomes **ACTION â€” starter sleeve only at an executable price <=HK$48**. Initial research size is **5% of the Â£40k Gate-E pool (~Â£2,000)**; the **8% pre-proof maximum** and **10â€“12% post-proof maximum** are retained.
-- Do not chase above HK$48 without stronger operating evidence. Actual brokerage execution remains manual.
-- Public delayed price feeds were inconsistent on 15 September, so the action condition is tied to the executable broker quote rather than a single delayed public print.
-
-
-### Early Gate-E portfolio re-rank completed after Centrus and MJC refresh
-
-- Completed an early **#132** portfolio re-rank after the fresh Centrus post-financing underwrite and governed Micronics Japan merge.
-- **No company currently has a governed `ACTION` entry signal.** Tactical cash remains the executable default; the portfolio continues to use conditional sleeves rather than forced deployment.
-- Candidate breadth is materially better than the original #131 four-name construction: current governed underwrites now include **Jinpan, Modine, Micronics Japan and Centrus** in addition to JEM, SUSS, Weebit and Laifual.
-
-## 2026-09-25 â€” Documentation authority consolidation (#339)
-
-- Marked `watchlist.md` and theme synthesis rankings as DERIVED navigation/synthesis surfaces with explicit authority boundaries.
-- Marked completed Gate-E construction/sprint artifacts as HISTORICAL and pointed live portfolio/ranking/monitor state to `PORTFOLIO.md`, `research/top10-unicorn-priority.md` and GitHub issues/`AUTOMATION.md`.
-- No company thesis, ranking order, Gate-E conclusion, transaction rule, or #261 frozen record changed.
-
-## 2026-09-25 â€” Governed document metadata standard (#340)
-
-- Added lightweight lifecycle/freshness/upstream/supersession guidance and representative company/theme template metadata.
-- Added deterministic checks for invalid lifecycle declarations, missing DERIVED upstream authority and DERIVED/CANONICAL conflicts.
-- No research conclusion, ranking, portfolio rule or #261 frozen record changed.
-
-## 2026-09-25 â€” Canonical ranking path migration (#334)
-
-- Moved `research/top10-unicorn-priority.md` to `research/ranked-universe.md` without changing the ranked research content. Historical changelog entries retain the former path as recorded at the time.
-- Repaired live references, authority map and integrity checks. No company classification, rank, portfolio transaction rule or #261 frozen record changed.
-
-## 2026-09-25 â€” Start-here and agent navigation (#336)
-
-- Replaced the README operational recap with direct task routes to methodology, discovery, company evidence, ranking/portfolio, monitoring and validation. Aligned AGENTS, AUTOMATION and CONTRIBUTING links with the authority map; removed a duplicate AGENTS evidence-standard section. No research or transaction conclusion changed.
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ½8á:-jZ.¶›­–)Ş³R22##bÓ’Ó#R(	B33ò33‚6ö×ÆWFVB3#c†—7F÷&–6ÂfÆ–FF–öà ¢Òf–æÆ—6VB&W6V&6‚ö&6·FW7G2ó#cõ5TÔÔ%’æÖF¢ÆÂR&Vv—7FW&VB66W2æBc26æF–FFR7FFW2&WfVÆVC²FWfVÆ÷ÖVçB"ó"–æ—F–Â$ôÔõDR6öçfW'6–öç2'WB&÷F‚ÆFW"GW&&–Æ—G’–×—&ÖVçC²†öÆF÷WB†2¦W&ò$ôÔõDW2æBöæR6ÆV"V6öæöÖ–2Ö—72…4²‡–æ—‚„$Ò’âvW7BæB6WfW&Â–æ7VÖ&VçG2&VÖ–â÷76–&ÆRöÖ—†VBfÇ6RæVvF—fW2à¢ÒG&ç6f÷&ÖF–öâ6GW&R&FRÂ6öç6—7FVçBÆVBF–ÖRÂæBF§W7FVBWV—G’&WGW&âöG&vF÷vâ&RDDÔÄ”Ô•DTC²óc2gVÆÇ’66÷&VBB&W67&–&VBWV—G’6†V6·ö–çG2âF†R6VÆV7FVB&6†—FV7GW&R66W2æBW†6ÇVFVB6öçFÖ–æFVB6æF–FFW2Æ–Ö—BvVæW&Æ—6F–öâà¢ÒFV6—6–öã¢c—2W6VgVÂf÷"&W6V&6‚G&–vR'WB†2æ÷BW7F&Æ—6†VB&WVF&ÆR&R×&V6övæ—F–öâWV—G’Ç†â&W6W'fRÆ—fR3#cF—66÷fW'’ÖWF†öFöÆöw’÷÷'FföÆ–ò7FFW3²c"—26W&FR&÷7V7F—fR×FW7B&÷÷6ÂöæÇ’âÆÂ÷WF6öÖW2Âf–ÇW&RÖöFW2ÂæVvF—fR6V&6†W2æB6÷W&6R6‡&öæöÆöw’&VÖ–â–â66Rf–ÆW2æBÆVFvW'2âæògW'F†W"v÷&²66†VGVÆVBf÷"F†—2'Vâà ¢22##bÓ’Ó#R(	B33‚ƒ(	4ƒR÷WF6öÖR&WfVÀ ¢ÒgFW"†öÆF÷WB&VF–7F–öâ"33#"76VBv÷fW&ææ6RæBÖW&vVBÂ&WfVÆVBÆÂr6æF–FFR÷WF6öÖW2W6–ær&–Ö'’ÆFW"f–Æ–æw2÷&VÆV6W2â4²‡–æ—‚w2g&÷¦VâUd”DTä4RÔ%T”ÄB„$Ó2&öGV7F–öâ6ö6¶WB&V6ÖRãCRöbB##BE$Ò&WfVçVRæBÖFW&–Âw&÷W&öf—BÂ6ÆV"V6öæöÖ–2fÇ6RæVvF—fRâvW7Bw2tÅÓ6ö×öæVçG2&V6†VBrRöbB##R6ö×ç’6ÆW3²&RÕCG'Vr×7V6–f–2VÆ–f–6F–öâv2æ÷B&V6÷fW&VBà¢Òƒ7V—6—F–öç2÷7–âÖöfg2–×—"7FæFÆöæRGG&–'WF–öã²4&–ò6öç7VÖVB66‚FW7—FRÆFf÷&ÒF÷F–öã²—6öÖVB66ÆVB'&öBFWf–6W3²Vç†6RvVçBF‡&÷Vv‚#^(	3bÆ÷76W2&Vf÷&RGW&&ÆRÆFW"&öf—C²Gfæ6VBVæW&w’W†—FVB–çfW'FW'2âÆFW"'&öBw&÷wF‚FöW2æ÷BW7F&Æ—6‚CWV—G’7–ÖÖWG'’âæòc÷"Æ—fR÷'FföÆ–ò6†ævRà¢ÒÆÂR66W2æ÷r†fRg&÷¦Vâ&VF–7F–öç2æB÷WF6öÖR&WfVÇ2âæW‡C¢vw&VvFRFVæöÖ–æF÷'2ÂÖ—76–ævæW72Âf–ÇW&R6öæ6ÇW6–öç2æB3#cFV6—6–öââWV—G’6†V6·ö–çB6W&–W2&VÖ–âVç66÷&VBà ¢22##bÓ’Ó#R(	B33‚6VÆVBƒ(	4ƒRg&÷¦Vâc&VF–7F–öç0 ¢ÒgFW""33#ÖW&vVBÂ6öç7G'V7FVBf—fR†öÆF÷WBC6¶WG2g&öÒ&–Ö'’&V6÷&G2V&Æ—6†VB'’V6‚7WFöfbâg&÷¦RrÆ—7FVB6æF–FFR7FFW2&Vf÷&Rç’÷7BÕC÷WF6öÖR–ç7V7F–öã¢f÷W"D2ÂF‡&VR6WVVæ6–æröÆ"Âf÷W"WF–FRöFWf–6RÂF‡&VR7F6¶VBÖÖVÖ÷'’æBF‡&VR6öÆ"–çfW'FW"âÆÂ––VÆBæò$ôÔõDRVæFW"F†RVæ6†ævVBcV&Ç’w&÷W×&öf—B÷&V6övæ—F–öâFW7G2à¢ÒW‡Æ–6—BæVvF—fR6V&6†W2–æ6ÇVFR&—fFRÆ–F"öÆ"7WÆ–W'2ÂæòfW&–f–VB&RÕC„$ÒFööÂ6öÖÖW&6–ÂV6öæöÖ–72ÂæB6öÆ$VFvRw2÷7BÕCV&Æ–2f–Æ–æröÆ—7F–ærâÆFW"×&W7VÇB6æ—WG2vW&RW†6ÇVFVBâWV—G’fÇVF–öâ6†V6·ö–çG2&VÖ–âVç&V6÷fW&VBâ÷WF6öÖR–ç7V7F–öâ—2vFVBöâ&VF–7F–öâ"ÖW&vS²æòÆ—fR÷'FföÆ–ò6†ævRà ¢22##bÓ’Ó#R(	B3#cFWfVÆ÷ÖVçB&Wf–WræB&÷7V7F—fRc"&÷÷6À ¢Ò&Wf–WvVBÆÂFWfVÆ÷ÖVçB66W2&Vf÷&R÷Væ–ær†öÆF÷WG3¢Cbg&÷¦Vâ6æF–FFR7FFW2Â"–æ—F–ÂV6öæöÖ–2$ôÔõDR6öçfW'6–öç2ÂGvò7V'6WVVçBGW&&–Æ—G’–×—&ÖVçG2ÂæB–ç7Vff–6–VçB–æFWVæFVçB7WÆ–W"Væ—fW'6R÷"F§W7FVB&–6R6W&–W2Fò66÷&R6GW&R&FRöWV—G’7–ÖÖWG'’à¢Ò&V6÷&FVB6†–âf–ÇW&W2Â÷FVçF–ÂfÇ6RæVvF—fW2æBW†6ÇVFVB6öçFÖ–æFVB6æF–FFW2â&÷÷6VBgVæFVB×66ÆRÂGW&&–Æ—G’Â–æ7VÖ&VçB×Ww&FRÂGG&–'WF–öâæB&Vv–ÖR×6†ö6²FW7G2f÷"6W&FRgWGW&Rc"7GVG’âF†Rc7V6–f–6F–öâ&VÖ–ç2g&÷¦Vâf÷"ƒ(	4ƒS²æòÆ—fR÷'FföÆ–ò6†ævRà ¢22##bÓ’Ó#R(	B33bCn(	4CFWfVÆ÷ÖVçB÷WF6öÖR&WfVÀ ¢ÒgFW"ÖW&vVB&VF–7F–öâ"33’Â&WfVÆVBÆÂ’g&÷¦VâCn(	4C7FFW2v—F‚&–Ö'’×6÷W&6R÷WF6öÖR&÷w2ÂW"Ö66R–çFW'&WFF–öâÂf–ÇW&W2æB6÷W&6RÆ–æ·2âæòc&öÖ÷F–öâ÷"Æ—fR÷'FföÆ–ò6†ævRà¢Ò6¶v–æræB$äÖçVf7GW&–ær6öÖÖW&6–Æ—6VBÂv—F‚æ÷F&ÆRE4Ô2–çFVw&F–öâæBW†6WF–öæÂ4õd”Bf66–æRFVÖæBâ6WFV²FFÖ6VçG&R&WfVçVRfVÆÂFò¦W&ó²ÖöF–æRÂfW'F—bÂ&—7FæB†ÖÖöæB6†÷vVB'&öBw&÷W&VæVf—G2Â'WBF†VÖR×7V6–f–2–æ7&VÖVçFÂ&öf—BæBCWV—G’&V6övæ—F–öâ&RVæ—6öÆFVBâ&W6’&VÖ–ç2W†6ÇVFVB&V6W6Röb&RÖg&VW¦R6æ—WBÆV¶vRà¢ÒÆÂFVâFWfVÆ÷ÖVçB66W2&Ræ÷r&WfVÆVBâæW‡C¢FWfVÆ÷ÖVçBÖöæÇ’vw&VvFR&Wf–WræB&RÖ†öÆF÷WBc"&÷÷6ÂÂF†Vâ6VÆVBƒ(	4ƒR&VF–7F–öâg&VW¦RâWV—G’6†V6·ö–çB6W&–W2&VÖ–âVç66÷&VBVæF–ær&VÆ–&ÆR&V6öç7G'V7F–öâà ¢22##bÓ’Ó#R(	B33bCn(	4Cg&÷¦VâFWfVÆ÷ÖVçB&VF–7F–öç0 ¢Òg&÷¦Rf—fR&VÖ–æ–ærFWfVÆ÷ÖVçBC6¶WG2FövWF†W"&Vf÷&R–ç7V7F–ærç’÷7BÕC÷WF6öÖS¢Cb6†—ÆWB6¶v–ærÂCr$äÖçVf7GW&–ærÂC‚F—&V7BÆ—V–B6ööÆ–ærÂC’66VÆW&F÷"‡—6–6Â6ö×ÆVÖVçG2ÂCw&–B–çFW&6öææV7F–öââÆÂ––VÆB¢¦æò$ôÔõDR¢¢Âv—F‚&RÕC&–Ö'’6÷W&6W2Â–æF—f–GVÂ6æF–FFR7FFW2ö'&–FvW2æBæVvF—fR6V&6†W2&WF–æVBà¢ÒCb&W6’W‡÷6VBFòÆFW"6V&6‚×&W7VÇB6Æ–×2&Vf÷&R6ÆVâ&Wf–WræBv2W†6ÇVFVC²C’7F6¶VBÖÖVÖ÷'’F—66÷fW'’&VÖ–ç26VÆVBf÷"ƒBâCrFöW2æ÷B77VÖRÆFW"æFVÖ–3²CF—7F–æwV—6†W2VWVVB&ö¦V7G2g&öÒWV—ÖVçB÷&FW'2â6V&6‚×&W7VÇBÆV¶vRæBvV²—6öÆFVBGG&–'WF–öâÆ÷vW"6öæf–FVæ6S²æòc÷"Æ—fR÷'FföÆ–ò6†ævRà¢ÒC(	4CR&R&WfVÆVC²F†V—"FWfVÆ÷ÖVçBö'6W'fF–öç2–æ6ÇVFRGvò–æ—F–Â$ôÔõDR6öçfW'6–öç2v—F‚7V'6WVVçBGW&&–Æ—G’f–ÇW&W2ÂF‡&VRæò×–6²66W2æB÷76–&ÆRV6öæöÖ–2fÇ6RæVvF—fW2âf–æÂFVæöÖ–æF÷'2v—BF†R&VÖ–æ–ærFWfVÆ÷ÖVçBæB†öÆF÷WG2à ¢22##bÓ’Ó#R(	B33RCR÷WF6öÖR&WfVÀ ¢Ò&WfVÆVBCRgFW"g&÷¦Vâ&VF–7F–öâ"33rÖW&vVBâ6övæW‚Æöv—7F–72&V6ÖR—G2Æ&vW7BÖ&¶WB–â##v—F‚7V'7FçF–Âw&÷W6ÆW26öçfW'6–öã²6öæ6VçG&F–öâÂÆ÷vW"Æöv—7F–72w&÷72Ö&v–âæB##2Æ&vRÖ7W7FöÖW"6W‚W6RFV×W"GW&&–Æ—G’â—B—2÷76–&ÆRV6öæöÖ–2fÇ6RæVvF—fRÂv—F‚CWV—G’÷÷'GVæ—G’Vç66÷&VBà¢Ò´”ôâôFVÖF–26öçfW'FVB7—7FVÒ÷&FW'2Fò##&öf—BF†Vâ6r##2Ö&v–â6ö×&W76–öã²Ö•"w2v&V†÷W6R×7V6–f–2&öf—BæB¦V'&w2–æ7&VÖVçFÂv&V†÷W6R6öçG&–'WF–öâ&VÖ–âVæ—6öÆFVBâFFVB÷WF6öÖRöf–ÇW&R÷6÷W&6RVçG&–W2âFWfVÆ÷ÖVçBC(	4CR6ö×ÆWFS²æòc÷"Æ—fR÷'FföÆ–ò6†ævRà ¢22##bÓ’Ó#R(	B33RCRg&÷¦Vâ&VF–7F–öà ¢Ò&V6öç7G'V7FVBv&V†÷W6RfÆVWB×66ÆRWFöÖF–öâBC§VÂ#’g&öÒ6öçFV×÷&æV÷W2f–Æ–æw2âg&÷¦Ræò$ôÔõDS¢6övæW‚æBFW&G–æRôÖ•"Ud”DTä4RÔ%T”ÄC²´”ôâôFVÖF–2æB¦V'&$T¤T5Bf÷"âV&Ç’Vç&V6övæ—6VBw&÷WG&ç6f÷&ÖF–öââ6övæW‚w2Æöv—7F–72w&÷wF‚W†6VVG2SR'WBÆ÷vW"Æöv—7F–72w&÷72Ö&v–âæBVæ—6öÆFVB6öçG&–'WF–öâ7F÷&öÖ÷F–öâà¢ÒÆövvVBæVvF—fR6ö×öæVçB6V&6‚Â&—fFRö–çFW&æÂ6ö×&F÷'2æBÆFW"×&W7VÇB6æ—WB&÷VæF'’â÷WF6öÖR&W6V&6‚&VÖ–ç2vFVBöâ&VF–7F–öâÖW&vS²g&÷¦VâcæBÆ—fR÷'FföÆ–òVæ6†ævVBà ¢22##bÓ’Ó#R(	B33RCB÷WF6öÖR&WfVÀ ¢Ò&WfVÆVBCBöæÇ’gFW"g&÷¦Vâ&VF–7F–öâ"33RÖW&vVC²&W6W'fVBæòÕ$ôÔõDR7FFW2æBF†R÷7BÕC6V&6‚×6æ—WB6fVBâ6”2÷vW"öÖFW&–Â&WfVçVR66ÆVBÂ'WBvöÆg7VVBw2f"VæFW'WF–Æ—6F–öâæBf–ææ6–ær7VÆÖ–æFVB–â6†FW"Â6æ6VÆÆF–öâöböÆB6†&W2æBg&7F–öæÂæWr×6†&R&V6÷fW'’âe“##2$bÖ–æ6ÇVFVBæBÆFW"6öçF–çV–ær&6W2&R¶WBF—7F–æ7Bà¢Ò”’Õd’ô6ö†W&VçBw26”27V'6–F–'’v–æVBC&âöb7G&FVv–2'FæW"6—FÃ²&VçB&öf—BGG&–'WF–öâæBWV—G’6†V6·ö–çG2&VÖ–âVç&W6öÇfVBâ–æf–æVöâw26”2Ub6GW&R—27&VF–&ÆR'WBVæ—6öÆFVC²5BæB$ô„Ò&RDDÔÄ”Ô•DTBâFFVBf–ÇW&RæB6÷W&6RÆVFvW'2Âv—F‚66—G’öf–ææ6–ærGW&&–Æ—G’&÷÷6VBöæÇ’f÷"gWGW&Rc"âæòÆ—fR÷'FföÆ–ò÷"g&÷¦Vâc6†ævRà ¢22##bÓ’Ó#R(	B33RCBg&÷¦Vâ&VF–7F–öà ¢Ò&V6öç7G'V7FVBUb÷vW"ÖVÆV7G&öæ–726”2&÷GFÆVæV6²BC"¦â#’âg&÷¦R¢¦æò$ôÔõDR¢£¢7&VRõvöÆg7VVBÂ”’Õd’Â5BæB$ô„ÒUd”DTä4RÔ%T”ÄC²–æf–æVöâ$T¤T5Bf÷"V&Ç’6ö×ç’G&ç6f÷&ÖF–öââ7&VRw2âCƒVÒvfW"6öçG&7BæB&–BÖ—†VB×6VvÖVçBw&÷wF‚&R7G&öærÂ'WBUb×7V6–f–2÷&væ–2&öf—BæBfÇVF–öâ&RVæ—6öÆFVBæB—G26VvÖVçBÇ&VG’W†6VVG2F†RV&Ç’F—66÷fW'’v–æF÷rà¢Ò&Vv—7FW&VBFFVB&–Ö'’Wf–FVæ6RÂ&÷VæFVBæVvF—fR6V&6‚æBW‡÷7W&RFòÆFW"6V&6‚6æ—WG2Âv†–6‚vW&RW†6ÇVFVBg&öÒFV6—6–öç2â÷WF6öÖR&W6V&6‚—2vFVBöâ&VF–7F–öâ"ÖW&vS²æòc÷"Æ—fR÷'FföÆ–ò6†ævRà ¢22##bÓ’Ó#R(	B33RC2÷WF6öÖR&WfVÀ ¢Ò&WfVÆVB÷WF6öÖW2öæÇ’gFW"æòÕ$ôÔõDRC2&VF–7F–öâÖW&vVB–â"333²&W6W'fVBÆÂ6WfVâg&÷¦Vâ7FFW2æBF†R¶÷W7F—2õ&W6öæçB6V&6‚×6æ—WB6fVBà¢ÒTr$b6ö×ÆW†—G’7G&VæwF†VæVC¢÷'fòæB6·—v÷&·26†÷vVBÖ¦÷"##&WfVçVRöÖ&v–â6öçfW'6–öâÂ¶W—6–v‡B6GW&VBFW7BFVÖæBÂ'WBTrÖöæÇ’V6öæöÖ–72æB#‚WV—G’&V6övæ—F–öâ&VÖ–âVæ—6öÆFVBâ6·—v÷&·2—2÷76–&ÆRÖGW&RÖ–æ7VÖ&VçBV6öæöÖ–2fÇ6RæVvF—fRÂæ÷B&÷fVâÖ—76VBVæ–6÷&âà¢Ò¶÷W7F—2w&Wr$bÖf–ÇFW"&WfVçVR'WB–æ7W'&VBæVvF—fRf–ÇFW"w&÷72Ö&v–âÂÆ&vRÆ÷76W2æBF–ÇWF–öâ&Vf÷&R6†FW"â&W6öæçBw2×W&F&VÆF–öç6†—ÆVBFò7V—6—F–öâv—F†÷WB&÷fVâ&V7W'&–ær7FæFÆöæR×&öf—BVæv–æRâÔ4ôÒw2Tr×&VÆFVBFVÆV6öÒ&VæVf—Bv2'FÇ’÷F–6Ã²vöÆg7VVBÆFW"6öÆB—G2$bVæ—Bà¢ÒC2†2æò$ôÔõDRFVæöÖ–æF÷"âWV—G’6†V6·ö–çG2&VÖ–âVç66÷&VC²æòc×'VÆRÂÆ—fRvF6†Æ—7B÷"vFRÔR6†ævRà ¢22##bÓ’Ó#R(	B33RC2g&÷¦Vâ&VF–7F–öà ¢Ò&V6öç7G'V7FVBTr$b&6†—FV7GW&R2¶æ÷vâ'’"¦çV'’#‚gFW"F†Rf—'7Bæöâ×7FæFÆöæRå"7V6–f–6F–öâÂW6–æröæÇ’6öçFV×÷&æV÷W6Ç’V&Æ—6†VBWf–FVæ6Rà¢Òg&÷¦R¢¦æò$ôÔõDR¢£¢÷'fòÂ¶÷W7F—2Â&W6öæçBæB¶W—6–v‡B&RUd”DTä4RÔ%T”ÄC²Ô4ôÒÂ7&VRõvöÆg7VVBæB6·—v÷&·2&R$T¤T5Bf÷"6ÆVâTr×7V6–f–2&RÖ–æfÆV7F–öâ&öÖ÷F–öââ6ÖÆÂ7WÆ–W'2Æ6¶VB&öGV7F–öâ÷&÷–ÇG’V6öæöÖ–73²Æ&vR7WÆ–W'2Æ6¶VBâ—6öÆFVBÂVç&V6övæ—6VB6ö×ç’×G&ç6f÷&ÖF–öâ'&–FvRà¢Ò&Vv—7FW&VB&–Ö'’6÷W&6W2æBF†RæVvF—fR6V&6‚â6V&6‚×&W7VÇBW‡÷7W&RFò÷7BÕCf–Æ–æw2f÷"¶÷W7F—2õ&W6öæçB—2Fö7VÖVçFVC²æòÆFW"W&f÷&Öæ6R6Æ–Òv2W6VBâ÷WF6öÖR&WfVÂ×W7BföÆÆ÷rF†RÖW&vVB&VF–7F–öâÂæ÷BF†—26öÖÖ—BÆöæRà¢ÒæòcÖWF†öFöÆöw’Â7W'&VçBvF6†Æ—7BÂ&æ¶–ær÷"vFRÔR÷'FföÆ–ò6†ævRà ¢22##bÓ’Ó#R(	B33RC"÷WF6öÖR&WfVÀ ¢ÒVæFVB÷7BÕC÷WF6öÖW2öæÇ’gFW"g&÷¦Vâ&VF–7F–öâ"33ÖW&vVC²&W6W'fVBc'VÆW2æBF†RÆ&vâô–çfVå6Vç6Rô‡WF6†–ç6öâ6V&6‚×6æ—WBÆV¶vR6fVBà¢ÒFV6†æöÆöw’w2GVÂÖ6ÖW&ö†–v‚×—†VÂÖ—‚G&÷fR7G&öær#r5æB&öf—B6öçfW'6–öâÂF†Vâ#‚6öÖÖöF—F—6F–öâö66—G’6÷7G2FW7G&÷–VBÖ&v–ç2&Vf÷&R#’&V6÷fW'’â7Væç’æBÄr6GW&VB'&öFW"ÖöGVÆRFVÖæB'WB&6†—FV7GW&R×7V6–f–2–æ7&VÖVçFÂ&öf—BæBWV—G’&V6övæ—F–öâ&VÖ–âVæ6W'F–âà¢Ò6öç’w26Vç6÷'2&VæVf—FVBg&öÒGVÂÖÆVç2FVÖæB'WB6VvÖVçB&öf—B–æ6ÇVFVBÖ¦÷"æöâÔC"VffV7G3²Ç2&VÖ–æVBæöâÖGG&–'WF&ÆS²–çfVå6Vç6RæB‡WF6†–ç6öâvW&R7V—&VBæB&Ræ÷B6ÆVâC"V6öæöÖ–2fÆ–FF–öç2à¢ÒWFFVB÷WF6öÖRæBf–ÇW&RÆVFvW'2ÇW2&–Ö'’×6÷W&6R&Vv—7FW"âWV—G’6†V6·ö–çB&WGW&ç2&VÖ–âVç66÷&VC²æò7W'&VçBvF6†Æ—7B÷"vFRÔR7F–öâ6†ævW2à ¢22##bÓ’Ó#R(	B33RC"g&÷¦Vâ&VF–7F–öà ¢ÒW†V7WFVBF†R&VF–7F–öâ†6RöbF†R6V6öæB3#cö–çBÖ–â×F–ÖR†—7F÷&–6Â66RBC6W#bà¢Ò$ôÔõDS¢FV6†æöÆöw’Â&6VBöâ&RÕCGVÂÖ6ÖW&7W7FöÖW"66W72Â66ÆVB×&öGV7F–öâ6Æ–×2Â7F—fRÖÆ–væÖVçB–çfW7FÖVçBæBæV"ÖF÷V&Æ–æröbw&÷WföÇVÖR÷&WfVçVRà¢ÒUd”DTä4RÔ%T”ÄC¢7Væç’÷F–6ÂÂ–çfVå6Vç6RæBÄr–ææ÷FV³²6GW&Rv27&VF–&ÆR'WB6ö×ç’×G&ç6f÷&Ö–ær×VÇF’Ö6ÖW&V6öæöÖ–72vW&RV—F†W"Ç&VG’&V6övæ—6VBÂæöâ×7V6–f–2÷"VçVçF–f–VBà¢Ò$T¤T5C¢6öç’ÂÇ2VÆV7G&–2æB‡WF6†–ç6öâFV6†æöÆöw“²V6‚Æ6¶VB6ÆVâGVÂÖ6ÖW&×FòÖw&÷WÖÖFW&–Æ—G’'&–FvRÂæB‡WF6†–ç6öâw2VæF–ær66‚7V—6—F–öâ6VB–æFWVæFVçBWV—G’7–ÖÖWG'’à¢ÒöÖæ•f—6–öâv2æöâÖ–çfW7F&ÆRBCâÆ&vâv2W†6ÇVFVBgFW"6V&6‚×&W7VÇBÆV¶vS²æò÷7BÕCf7Bv2W6VB–âF†Rg&÷¦Vâ7FFW2ÂæBF†RC"–çFVw&—G’6fVB—2&W6W'fVBf÷"ÆFW"66÷&–ærà ¢22##bÓ’Ó#R(	B&7&W''’’vFRÔRVçG'’&V76W76ÖVç@ ¢ÒFFVBWf–FVæ6RÖ6öæF—F–öæVBVçG'’&æG2gFW"F†R#B6WFVÖ&W"ƒ&W7VÇBæB&W&–6–ærà¢Ò&7&W''’’&VÖ–ç2$T54U52òt•BBsSW²ÃÓSS—2F†Rf—'7B&–6RÖÆVB5D”ôâÖ6æF–FFR¦öæRÂv†–ÆRSS(	3cS&WV—&W27G&öævW"æ÷&ÖÆ—¦VBe“#ró#‚V&æ–æw2Wf–FVæ6Rà¢Ò6öç6öÆ–FFVBF†RfÇVF–öâ6V7F–öâ&÷VæBF†R&Vg&W6†VBã“2ãvÒ6†&R6÷VçBæB&WF–æVBÖVÖ÷'’æ÷&ÖÆ—¦F–öâÂ&6¶Æör6öçfW'6–öâÂ–çfVçF÷'’gVæF–æræBôTÒ6öæ6VçG&F–öâ2¶W’&—6·2à ¢22##bÓ’Ó#R(	B¶Ö’vFRÔRV6öæöÖ–72&Vg&W6€ ¢Ò–æ6÷'÷&FVBÖævVÖVçBw2F—66Æ÷6VBÖ–BÓc2FòÖ–BÓs2æöâÔt66‚w&÷72ÖÖ&v–â&ævRæBF¶RÖ÷"×’7G'V7GW&Rf÷"Æ&vR4•2FVÇ2–çFòF†RçF‡&÷–26öçG&7B76W76ÖVçBà¢ÒWw&FVBF†R6öæ6ÇW6–öâg&öÒFVÖæBfÆ–FFVBò6†&V†öÆFW"V6öæöÖ–72Æ&vVÇ’Væ¶æ÷vâFòFVÖæBfÆ–FFVBò&VÆ–Ö–æ'’V6öæöÖ–72ÆW6–&Ç’GG&7F—fRà¢Ò¶Ö’&VÖ–ç2$T54U52òtD4‚&F†W"F†â5D”ôâVæF–ær6öçG&öÆÆVB÷7B×&W&F–ærVçG'’'&–FvRæB##~(	3##‚d4bõ$ô”2Wf–FVæ6Rà ¢22##bÓ’Ó#R(	B6æöæ–6ÂvFRÔR7F–öâ&V6öæ6–Æ–F–öà ¢Ò&V6öæ6–ÆVB$TDÔRÂõ%DdôÄ”òÂUDôÔD”ôâæBF†R6öçF–çV÷W2&æ¶VBVæ—fW'6Rv—F‚F†Rv÷fW&æVBF‡&VR×7F'FW"5D”ôâ7W&f6Rà¢Ò7W'&VçB6öæF—F–öæÂ7F'FW'2&RÆ–gVÂBÃÔ„²CC‚ÂD’ÕDT4‚BåBC“(	3#æB–×&ò&V6—6–öâB„²Cbãn(	3rã"ÂV6‚BRR–æ—F–Â6—¦Rv—F‚F†W6—2æBW†V7WF&ÆR×&–6R6†V6·2–çF7Bà¢ÒÖ&¶VBF†RöÆFW"336öç7G'V7F–öâæBR6WFVÖ&W"&R×&æ²ÖFW&–Â2†—7F÷&–6Â&F†W"F†â7W'&VçBW†V7WF–öâ7FFRà¢ÒFFVBF†RÆ—fR3#“.(	23#“RÖöæ—F÷"6WBFòF†RWFöÖF–öâFö7VÖVçFF–öâæB6÷'&V7FVBF†R&æ¶VB×Væ—fW'6R–çfVçF÷'’6÷VçBFòcRà¢Òæò'&ö¶W&vRG&FR—277VÖVB÷"W†V7WFVBà ¢22##bÓ’Ó#R(	B6æöæ–6Â5D”ôâVæFW'w&—FW0¤6Æ÷6VBF†RFö7VÖVçFF–öâÖ–çFVw&—G’vf÷"F†RF‡&VR7W'&VçBvFRÔR5D”ôâ6æF–FFW2â6öæf—&ÖVBÆ–gVÂÇ&VG’†2gVÆÂ6æöæ–6Â6ö×ç’VæFW'w&—FRB&W6V&6‚÷&ö&÷F–72Ö7GVF÷'2ö6ö×æ–W2öÆ–gVÂÖG&—fRæÖC²Ww&FVBD’ÕDT4‚æB–×&ò6ö×ç’f–ÆW26òF†V—"F†W6—26†–ç2ÂWf–FVæ6R†–W&&6‡’ÂÖ&6‚Ó##‚66Væ&–ò'&–FvW2Â6÷VçFW"Ö66W2öfÇ6–f–W'2ÂvFRÔR'VÆW2æB6÷W&6R”G2Æ—fRv—F‚F†R6ö×ç’&W6V&6‚&F†W"F†âöæÇ’–âF†RvFRÔR7&–çBâFFVB6VçG&Â6÷W&6R×&Vv—7FW"VçG&–W2f÷"D’ÕDT4‚æB–×&òæBW‡Æ–6—FÇ’F—7F–æwV—6†VB&–Ö'’Wf–FVæ6Rg&öÒ6V6öæF'’ÖævVÖVçB&W÷'F–ærâvFRÔRf–ÆW2&VÖ–â÷'FföÆ–ò7VÖÖ&–W2Âæ÷BF†R&–Ö'’&W6V&6‚&V6÷&Bà ¢22##bÓ’Ó#R(	B33"C÷WF6öÖR&WfVÀ ¢Ò&WfVÆVBCöæÇ’gFW"—G2&VF–7F–öâ6öÖÖ—BÖW&vVBà¢Òô’$ôÔõDRfÆ–FFVBF†R–æ—F–ÂV6öæöÖ–2Ö6öçfW'6–öâ6†–ã¢#^(	3#r&WfVçVR&÷Vv†Ç’F÷V&ÆVBÂFFÖ6VçFW"Ö—‚&V6†VBƒã"RÂæB#rÖ&v–ç2–æfÆV7FVB7G&öævÇ“²ÆFW"7W7FöÖW"6öæ6VçG&F–öâæB&6†—FV7GW&R&WÆ6VÖVçB–×—&VBGW&&–Æ—G’à¢Òö6Æ&òfÆ–FFVBF†R&÷GFÆVæV6²ö6GW&R'WB6öæf—&ÖVBF†Rg&÷¦Vâ6Æ76–f–6F–öâv2Ç&VG’ÆFR×7FvS²æVõ†÷Föæ–72v2'F–Â&6†—FV7GW&Rö6GW&RfÆ–FF–öâv—F‚6WfW&R6öæ6VçG&F–öâà¢ÒCW‡÷6W27W7FöÖW"6öæ6VçG&F–öâ²&6†—FV7GW&R×&WÆ6VÖVçBGW&&–Æ—G’2gWGW&R×c"6öç6–FW&F–öã²g&÷¦Vâc&VÖ–ç2Væ6†ævVBà¢ÒWV—G’6†V6·ö–çB&WGW&ç2&VÖ–âVç66÷&VBVçF–Â&VÆ–&ÆRö–çBÖ–â×F–ÖR&–6R6W&–W2—2&V6÷fW&VBà ¢22##bÓ’Ó#R(	B33"Cg&÷¦Vâ&VF–7F–öà ¢ÒW†V7WFVBF†R&VF–7F–öâ†6RöbF†Rf—'7B3#cö–çBÖ–â×F–ÖR†—7F÷&–6Â66RBCB¦â#bà¢Ò$ôÔõDS¢Æ–VB÷FöVÆV7G&öæ–72Â&6VBöâ&RÕC‡—W'66ÆRrFW6–vâv–ç2ÂfW'F–6ÂÆ6W"öÆ–v‡BÖVæv–æR–çFVw&F–öâæB66VÆW&F–ærw&÷W&WfVçVRà¢ÒUd”DTä4RÔ%T”ÄC¢ö6Æ&òæBæVõ†÷Föæ–73²&÷F‚Ç&VG’†BfW'’†–v‚rÖ—‚ÂÖ¶–ærF†VÒÆFW"×7FvR&6†—FV7GW&RfÆ–FF÷'2&F†W"F†â6ÆVâ^(	3RR&RÖ–æfÆV7F–öâF—66÷fW&–W2à¢Ò$T¤T5Bf÷"C&öÖ÷F–öã¢ÇVÖVçGVÒÂGVRFò–ç7Vff–6–VçBC‡—W'66ÆRÓr7FFRÖ6†ævRWf–FVæ6Rà¢Ò66–W†6ÇVFVB&V6W6R—Bv2æ÷BV&Æ–6Ç’Æ—7FVBBCâæò÷7BÕC÷WF6öÖRWf–FVæ6Rv2W6VB–âF†Rg&÷¦Vâ&VF–7F–öâà ¢22##bÓ’Ó#R(	B333#c†—7F÷&–6ÂfÆ–FF–öâg&ÖWv÷&° ¢ÒFFVBg&÷¦Vâö–çBÖ–â×F–ÖR&6·FW7B&÷Fö6öÂf÷"F†R3#c&6†—FV7GW&RÖf—'7BF—66÷fW'’F†W6—2à¢Ò&R×&Vv—7FW&VBFWfVÆ÷ÖVçBæBR6VÆVB†öÆF÷WB&6†—FV7GW&RG&ç6—F–öç2&Vf÷&R6ö×ç’F—66÷fW'’à¢ÒFFVB6W&FR&VF–7F–öâÂ÷WF6öÖRÂf–ÇW&RöÖ—72æBvw&VvFR×7VÖÖ'’ÆVFvW'2Fò&WfVçB†–æG6–v‡B&Ww&—F–ærà¢Òg&÷¦VâçF’ÖÆV¶vR'VÆW2&WV—&RV&Æ–6F–öâÖFFR7WFöfg2Â&6†—FV7GW&RÖf—'7B6æF–FFRf÷&ÖF–öâÂæVvF—fR×6V&6‚&WFVçF–öâæB&VF–7F–öâ6öÖÖ—G2&Vf÷&R÷WF6öÖR&WfVÂà¢Òæò3#c'VÆR6†ævR—2W&Ö—GFVBVçF–ÂFWfVÆ÷ÖVçBv÷&²—26ö×ÆWFRæBF†R†öÆF÷WB6WVVæ6R—2&W7V7FVBà ¢22##bÓ’Ó#R(	BvFRÔR÷'FföÆ–ò&Vg&W6€¥&V6öæ6–ÆVBF†R6æöæ–6Â÷'FföÆ–ò6öç7G'V7F–öâ7W&f6Rv—F‚F†RÆFW7Bv÷fW&æVBvFRÔRv÷&²âÆ–gVÂƒÃÔ„²CC‚’ÂD’ÕDT4‚„åBC“(	3#’æB–×&ò&V6—6–öâ„„²Cbãn(	3rã"’&RFö7VÖVçFVB2F‡&VR–æFWVæFVçB6öæF—F–öæÂRR7F'FW"6–væÇ2v†VâF†W6—2æBW†V7WF&ÆR×&–6R6†V6·272Â&W&W6VçF–ær*3bÃòRRöbF†R*3C²&W6V&6‚ööÂâF†R&VÖ–æ–ærƒRR7F—2VæFWÆ÷–VBf÷"7G&öævW"&–6RÖÆVBVçG&–W2ÂWf–FVæ6RÖÆVBFG2æB–æFWVæFVçB&WGW&âVæv–æW2â7G'V7GW&Â&æ¶–ær&VÖ–ç26W&FRg&öÒvFRÔRFWÆ÷–&–Æ—G“²'&ö¶W&vRW†V7WF–öâ&VÖ–ç2ÖçVÂà ¢2&W6V&6‚6†ævVÆöp¢22##bÓ’Ó#R(	B3#“ ¤vFRÔRVçG'’7&–çB6öçfW'FVBD’ÕDT4‚Â–×&ò&V6—6–öâÂæ×VvæBw&–BG–æÖ–72–çFòÖ&6‚Ó##‚FV6—6–öâ'VÆW2âD’ÕDT4‚—2&W6V&6‚ÖÆWfVÂ5D”ôâf÷"RR7F'FW"BåBC“(	3#v—F‚F†W6—2–çF7C²–×&ò—25D”ôâf÷"RR7F'FW"B„²Cbãn(	3rã"âæ×Vv&VÖ–ç2t•BVæF–ærÃÔµ%s>(	3F²7V7VÆF—fR&–6–ær÷"ÖFW&–Â&ö&÷B×&öw&ÖÖRV6öæöÖ–73²tE”â&VÖ–ç2$T54U52õt•BVæF–ær&öGV7F—¦F–öâWf–FVæ6Râ÷6—F–öâ6V–Æ–æw2Â6FÇ—7G2ÂF÷vç6–FRæBFB÷G&–Ò÷6VÆÂ'VÆW2&RFö7VÖVçFVB–â&W6V&6‚övFRÖR×F†W6—2Öf—'7BÖVçG'’×7&–çBæÖBâ'&ö¶W&vRW†V7WF–öâ&VÖ–ç2ÖçVÃ²æòG&FR—277VÖVBg&öÒ&W÷6—F÷'’7FFRà ¢22##bÓ’Ó#R(	B3#ƒ€¥&Vf'&–6FVB÷vW"6W'F–f–6F–öâ66â6ö×ÆWFVBv—F‚æòæWr6ö×ç’&öÖ÷F–öâà  ¢22##bÓ’Ó#P ¢2223#ƒb6æöæ–6Â–çFVw&F–öâöbF†W6—2Öf—'7BF—66÷fW&–W0 ¢Ò–çFVw&FVB6—‚7Vff–6–VçFÇ’&W6V&6†VBÆ—7FVBF—66÷fW&–W2–çFòF†R6öçF–çV÷W2&W6V&6‚Væ—fW'6S¢D’ÕDT4‚Âæ×VvÂw&–BG–æÖ–72Â–×&ò&V6—6–öâÂf–6÷"æBÖVÖ÷'’à¢ÒW‡æFVBF†R6æöæ–6ÂÆ—fRVæ—fW'6Rg&öÒS’FòcRVçG&–W2v—F†÷WB7&VF–æræWrFÖ—76–öâ7WFöfbà¢ÒWFFVBÖöçFvRFV6†æöÆöw’Fòd”ÄTBò$´TBf÷"F†RVæ–6÷&â67&VVâgFW"—G25„ÂF†W6—27G&VæwF†VæVB'WBfÇVF–öâVÆ–Ö–æFVBF†RFW6—&VB7–ÖÖWG'’à¢ÒvV²Wf–FVæ6RÖöæÇ’ÆVG2&VÖ–â÷WG6–FRF†R&æ¶VBVæ—fW'6RVçF–Â6ö×ç’ÖÆWfVÂWf–FVæ6R—27Vff–6–VçBà¢Ò&æ¶–æw2&VÖ–â&W6V&6‚×&–÷&—G’ÖWFFFÂæ÷BG&FR–ç7G'V7F–öç3²æòvFRÔR7F–öâ6†ævVBà ¢22##bÓ’Ó#R(	B3#ƒ@¤–×&ò&V6—6–öâWf–FVæ6R&W6öÇWF–öâ6ö×ÆWFVC²F†W6—26÷'&V7FVBF÷v&BF—7G&–'WFVB÷vW"æB6ööÆ–ærW‡÷7W&Râ&W6V&6‚6Æ76–f–6F–öâ&VÖ–ç2Wf–FVæ6RÖ'V–ÆF–ærà  ¢22##bÓ’Ó#P ¢2223#ƒ"’÷vW"ÖvVæW&F–öâ†÷B×6V7F–öâ6ö×öæVçBF—66÷fW' ¢Ò6öçF–çVVB3#c–çFòv2×GW&&–æR†÷B×6V7F–öâ66—G’gFW"g&W6‚Wf–FVæ6RF†B÷&FW'2W†6VVBôTÒFVÆ—fW'’66—G’æB&ÆFRö67F–ær66—G’—27G&FVv–2à¢ÒtRW&÷76Rô5ÒdÂ76U‚ÆææVB&ÆFR÷fæR–çFW&æÆ—¦F–öâæB†÷vÖWB66—G’W‡ç6–öâfÆ–FFRF†R&÷GFÆVæV6²&VÆ÷rGW&&–æRôT×2à¢Ò¢¤–×&ò&V6—6–öâ„„´Uƒ£#ƒb’¢¢&WF–æVB2Ud”DTä4R%T”ÄBgFW"6V6öæF'’7WÇ’Ö6†–âv÷&²&W÷'FVBƒ##bVæW&w’&WfVçVR³ƒ2ãrR’÷’g&öÒ6ÖÆÂã2ã2Rw&÷W&6S²GW&&–æRGG&–'WF–öâ÷VÆ–f–6F–öâöÖFW&–Æ—G’&WV—&R&–Ö'’fW&–f–6F–öâ&Vf÷&R&öÖ÷F–öâà¢Ò†–v‚×W&—G’E26–væÂ—2&WF–æVBöæÇ’2â–FVçF—G’öWf–FVæ6R6÷fW&vRvVçF–ÂF†RW†7BÆ—7FVBfV†–6ÆRæB&–Ö'’f–ææ6–ÂWf–FVæ6R&RW7F&Æ—6†VBà¢Ò†÷vÖWBôæ‡V’––ævÆ—R&VÖ–âW†—7F–ær6ö×&F÷'2&F†W"F†âGWÆ–6FVBF—66÷fW&–W2à¢ÒæòæWrVæFW'w&—FR&öÖ÷FVC²'&öB'&æ6‚7F÷2VæF–ær&÷VæFVBWf–FVæ6RâæòvFRÔR7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#ƒÖöçFvR5„Â2ã"6öçG&öÆÆW"&Vg&W6€ ¢Ò&Vg&W6†VBÖöçFvRgFW"3#s‚–FVçF–f–VBæWr5„ÂÖ6öçG&öÆÆW"7FFR6†ævRF—7F–æ7Bg&öÒF†RöÆBDE#RôÕ$D”ÔÒF†W6—2à¢Ò&–Ö'’ÖöçFvRWf–FVæ6R6öæf—&×25„Â2ã"Õ„2G&–Â&öGV7F–öâæB–çFVw&F–öâ–çFòæW‡BÖvVæW&F–öâ6×7Værõ4²‡–æ—‚5„Â&öGV7G2v—F‚–æ—F–ÂfÆ–FF–öâ6ö×ÆWFVBà¢Ò##bæWvW"–çFW&6öææV7B&öGV7G2„Õ$4BôÔD"Â4–R&WF–ÖW"Â4´BÂ5„ÂÕ„2’&V6†VB$Ô##c–ÒÂ³“2ã‚R’÷’æB’Röb–çFW&6öææV7B&WfVçVS²ƒ&WfVçVRå$Ô#2ã33V&â‚³#bãrR’æBæWB&öf—Bå$Ô#ã““v&â‚³s"ã2R’à¢Ò7W'&VçB#B6WWV—G’&VfW&Væ6R—2å$Ô##s6&âòãƒ'‚G&–Æ–ærV&æ–æw2âBF†—27F'F–ærö–çBÂ7‚&WV—&W2&÷Vv†Ç’$Ô##(	3#v&âæçVÂV&æ–æw2BC(	33‚fW'7W2å$Ô#2ãv&âEDÒà¢Ò6öæ6ÇW6–öã¢¢¤5„ÂF†W6—2ÖFW&–ÆÇ’7G&VæwF†VæVBÂ'WBÖöçFvR&VÖ–ç2d”ÄTBõ$´TBf÷"F†RVæ–6÷&â67&VVâB7W'&VçBfÇVF–öâ¢¢â7‚æ÷BfÆ–FFVC²W‚ó‚Vç7W÷'FVBà¢Ò&V÷VâöæÇ’öâ×V6‚w&VFW"5„ÂV&æ–æw2ÖFW&–Æ—G’÷"7V'7FçF–ÂfÇVF–öâ&W6WBv—F‚F†W6—2–çF7BâæòvFRÔR7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#s‚’ÖVÖ÷'’Ö66—G’ò5„Â6öçG&öÆÆW"F—66÷fW' ¢Ò6öçF–çVVB3#c–çFòÖVÖ÷'’Ö66—G’÷ööÆ–æröf'&–2&÷GFÆVæV6·2G&—fVâ'’’–æfW&Væ6RæBµbÖ66†Rw&÷wF‚à¢Òg&W6‚##bWf–FVæ6RfÆ–FFW25„Âöf'&–2ÖGF6†VBÖVÖ÷'“¢7FW&FW6–vâ×v–âÖöÖVçGVÒÂÖöçFvR–æGW7G'’Öf—'7B5„Â2ã"Õ„2G&–Â&öGV7F–öâÂ¶–÷†–6×Æ–æræBÖ'fVÆÂô–çFVÂ–æg&7G'V7GW&RFVÖöç7G&F–öç2à¢ÒæòæWr6ö×ç’FFVBâ–ç7FVBÂ¢¤ÖöçFvRFV6†æöÆöw’¢¢—2&V÷VæVBf÷"&÷VæFVBWf–FVæ6R&Vg&W6‚&V6W6R5„Â2ã"G&–Â&öGV7F–öâæB&W÷'FVB–çG&öGV7F–öâ–çFò6×7Værõ4²‡–æ—‚æW‡BÖvVæW&F–öâ5„Â&öGV7G26öç7F—GWFRæWrVÆ–f–6F–öâ÷&öGV7F–öâ7FFR6†ævRF—7F–æ7Bg&öÒF†RöÆBDE#RôÕ$D”ÔÒF†W6—2à¢Ò7FW&&WF–æVB2&V6övæ—¦VBöÆFR×7FvR&6†—FV7GW&R6ö×&F÷#²Æ&vRÖVÖ÷'’ö6öææV7F—f—G’fVæF÷'2&VÖ–â6ö×&F÷'2à¢ÒæW‡BFW7C¢6×7Værõ4²‡–æ—‚VÆ–f–6F–öâ(i"##r5„ÂföÇVÖR(i"ÖöçFvR6öçG&öÆÆW"&WfVçVRöÖFW&–Æ—G’(i"fÇVF–öâö7–ÖÖWG'’à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#sb–æGW7G&–ÂVFvR&öGV7F–öâ×&VF–æW72F—66÷fW' ¢Ò6öçF–çVVB3#c–çFòF†RFWÆ÷–ÖVçBÆ–W"&WGvVVâ’ÖöGVÆW2æB&VÆ–&ÆRf7F÷'’÷W&F–öã¢VÖ&VFFVBõ2ôÅE2ÂõB6öææV7F—f—G’ÂfVÇB&V6÷fW'’æBfÆVWBÆ–fV7–6ÆRà¢ÒF—bôåd”D”ÂFWf–6Ut•4RõFVÆ—BæBÖ&&VÆÆô6vVÖ–æ’fÆ–FFRF†R&öGV7F–öâ×&VF–æW72&÷GFÆVæV6³²GfçFV6‚ôÖ&&VÆÆ&VÖ–âW†—7F–ær–çfVçF÷'’&F†W"F†âGWÆ–6FVBF—66÷fW&–W2à¢Ò–æ÷27W&f6VBv—F‚F†RFW6—&VBfÆ–FF–öâ(i"–æ—F–Â6öÖÖW&6–Â÷&FW"GFW&â–â6VÖ–6öæGV7F÷"ÖçVf7GW&–ærÂ'WBWf–FVæ6RVÆ—G’ÂÖFW&–Æ—G’æBf–ææ6–æröF–ÇWF–öâ&—6²&R–ç7Vff–6–VçBf÷"&öÖ÷F–öã²&WF–æVB2âWf–FVæ6RÆVBöæÇ’à¢Ò&V6÷&FVBv÷fW&æVB¢¦æVvF—fR&öÖ÷F–öâ&W7VÇB¢¢æBW‡Æ–6—B&V÷VâG&–vvW'2à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#sBw&–BG–æÖ–72‡—6–6ÂÔ’&öGV7F—¦F–öâVæFW'w&—FP ¢ÒFVWVæVB3#s"w2w&–BG–æÖ–72„ä4D¢tE”â’F—66÷fW'’–çFò6ö×ç’V6öæöÖ–72à¢Ò"&WfVçVRv2C‚ã&Ò‚³rR’÷’’æBæöâÔtT$•DDCBãvÒò2ãbS²#B6W6†&R&–6RCrãSBæB6V6öæF'’#26WÖ&¶WB6&VfW&Væ6RâCc#VÒà¢Ò’—2Ç&VG’6ö×ç’ÖÖFW&–Â‡ã3ãrRöb&WfVçVR’Âv†–ÆR‡—6–6Â’&VÖ–ç2V&Æ–W#¢Æ—fR6öÖÖW&6–Â&öw&×2ÂV·VÖVâ&ö&÷F–72õ$õ2FWF‚ÂFö÷6â6†ææVÂæBt”â6–×VÆF–öâöFWÆ÷–ÖVçBöfÆVWBFööÆ–ærà¢Ò6÷&Rf–æF–æs¢Wf–FVæ6R7W'&VçFÇ’7W÷'G2¢¦†–v‚×fÇVRVæv–æVW&–ær×6W'f–6W2ÖöFVÂv—F‚&WW6&ÆR•¢¢Âæ÷B&÷fVâ&V7W'&–ær×6ögGv&RV6öæöÖ–72âdDRFVÆ—fW'’&VÖ–ç26VçG&ÂæB‡—6–6ÂÔ’&WfVçVRô%"—2æ÷B6W&FVÇ’F—66Æ÷6VBà¢ÒBâCc#VÒWV—G’Â7‚—2V6öæöÖ–6ÆÇ’ÆW6–&ÆR–bT$•DD&÷Vv†Ç’F÷V&ÆW2æB'W6–æW72VÆ—G’ö×VÇF—ÆR–×&÷fW3²W‚æVVG27V'7FçF–ÆÇ’Æ&vW"æBö÷"Ö÷&R6ögGv&RÖÆ–¶RV6öæöÖ–73²‚Vç7W÷'FVBà¢Ò6Æ76–f–VB¢¥õDTåD”ÂòUd”DTä4R%T”ÄB¢¢â&öÖ÷F–öâ&WV—&W26W&FVÇ’ÖFW&–Â‡—6–6ÂÔ’&öö¶–æw2÷&WfVçVRÂ&V7W'&–ærÆFf÷&ÒV6öæöÖ–72Â'FæW"×66ÆVBFWÆ÷–ÖVçB÷"Ö&v–âW‡ç6–öâv—F†÷WB&÷÷'F–öæÂ†VF6÷VçBà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#s"‡—6–6ÂÔ’6–×VÆF–öâòfÆ–FF–öâòfÆVWBÖfVVF&6²F—66÷fW' ¢Ò6öçF–çVVB3#c–çFò6–Ò×Fò×&VÂÂ7–çF†WF–2ÖFFÂfÆ–FF–öâæBfÆVWBÖfVVF&6²–æg&7G'V7GW&RW6–ærg&W6‚##b&6†—FV7GW&R6†ævW2à¢ÒäUU$ôF76VÇBÂ$"&ö&÷E7GVF–ò‡—W%&VÆ—G’Â4´’ô$"æBvæFVÆ&÷G2õFV6‚Ö†–æG&fÆ–FFRF†R7G'V7GW&Â&÷GFÆVæV6³²6WfW&Â6ÆVâ&6†—FV7GW&RÆVFW'2&VÖ–â&—fFR÷"FöòÆ&vRöF—fW'6–f–VBf÷"Væ–6÷&â7–ÖÖWG'’à¢Ò&öÖ÷FVB¢¤w&–BG–æÖ–72„ä4D¢tE”â’¢¢Fò&÷VæFVB6ö×ç’VæFW'w&—FRgFW""Wf–FVæ6RF†B’&V6†VBã3ãrRöb&WfVçVRÂ‡—6–6ÂÔ’6öÖÖW&6–Â&öw&×27â6öç7G'V7F–öâWV—ÖVçBö‡VÖæö–B–çG&Æöv—7F–72öÖçVf7GW&–ærÂV·VÖVâFFVB$õ2÷6–×VÆF–öâFWF‚ÂæBFö÷6â7&VFVB&ö&÷F–72F—7G&–'WF–öâö6†ææVÂ'FæW'6†—à¢Ò6÷&RfÇ6–f–W"—2&öGV7F—¦F–öã¢7G&öærFVÖæB6â7F–ÆÂ&W6öÇfR–çFòÆ&÷W"Ö–çFVç6—fRVæv–æVW&–ær&F†W"F†â&V7W'&–ærÆFf÷&ÒV6öæöÖ–72à¢ÒæW‡BFW7B—2‡—6–6ÂÔ’&WfVçVRöÖ—‚(i"&V7W'&–ærV6öæöÖ–72(i"6öç6öÆ–FFVBÖ&v–ç2öw&÷wF‚(i"fÇVF–öâ(i"7‚óW‚fV6–&–Æ—G’à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#s66–VçF–f–2Ô’‡—6–6ÂW‡W&–ÖVçBW†V7WF–öâF—66÷fW' ¢Ò6öçF–çVVB3#c–çFòF†R‡—6–6ÂW†V7WF–öâÆ–W"öb’ÖG&—fVâ66–Væ6RW6–ærg&W6‚##b7FFR6†ævW2&F†W"F†âW†—7F–ær6ö×ç’æÖW2à¢ÒWf–FVæ6R–æ6ÇVFW2æ÷fòw2WFöæöÖ÷W2ÖÆ"W&6†6Rg&öÒv–æ¶vòÂ–·F÷2ô6†V×7VVBÖöÆV7VÆW2×Fò×&ö&÷B–çFVw&F–öâÂ&V6¶ÖâôWFöÖFÖöGVÆ"Æ"–çFVw&F–öâÂ÷VçG&öç2ô†–v…&W2ôåd”D”vVçF–2W†V7WF–öâÂ$"õ&ö6†R6Æ–æ–6ÂÖÆ"&ö&÷F–72æBvVå67&—BôÆ–ÆÇ’GVæTÆ"vWBÖÆ"FFvVæW&F–öâà¢Ò7G'V7GW&Â6öæ6ÇW6–öã¢’'VæFæ6R—2Ö÷f–ær66&6—G’F÷v&B&VÆ–&ÆRö–çFW&÷W&&ÆR¢§‡—6–6ÂW‡W&–ÖVçBW†V7WF–öâ¢¢æB7G'V7GW&VBfVVF&6²à¢Ò7G&öævW7B&6†—FV7GW&RÆVFW'2WFöÖFÂ÷VçG&öç2æB†–v…&W2&R&—fFS²F†—2—2â–×÷'FçBæVvF—fRV&Æ–2ÖWV—G’&W7VÇBà¢Òv–æ¶vò&WF–æVB2¢¤Ud”DTä4R%T”ÄBò$ôET5D•¤D”ôâtD4‚¢¢gFW"æÖVBæ÷fòFWÆ÷–ÖVçC²vVå67&—B&WF–æVB2¢¤Ud”DTä4R%T”ÄB¢¢gFW"Æ–ÆÇ’GVæTÆ"vWBÖÆ"'FæW'6†—âæV—F†W"†2Væ÷Vv‚F—66Æ÷6VBÖFW&–Æ—G’öV6öæöÖ–72f÷"Væ–6÷&â&öÖ÷F–öâà¢ÒW†—7F–ær''V¶W"ô6†V×7VVBÂFV6âÂFæ†W"æBF†W&Öòf—6†W"&VÖ–â6ö×&F÷'2VæFW"W†—7F–ær7FFW2à¢ÒæòæWrÆ—7FVB6ö×ç’&öÖ÷FVC²W‡Æ–6—BWfVçBÖG&—fVâ&V÷VâG&–vvW'2&V6÷&FVBâæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#c‚’Æ—V–BÖ6ööÆ–ær6ö×öæVçBF—66÷fW' ¢Ò6öçF–çVVB3#c–çFò6ö×öæVçBÖÆWfVÂÆ—V–B6ööÆ–ær&F†W"F†â'&öB6ööÆ–ærôT×2à¢ÒÖVBV–6²F—66öææV7G2Â6öÆBÆFW2öÖæ–föÆG2ÂV×2÷fÇfW2Â6VÇ2æBÖöæ—F÷&–ær2ÆV²öfÆ÷r÷&VÆ–&–Æ—G’6öç7G&–çG2B&—6–ær’&6²FVç6—G’à¢ÒÄõDU2&VÖ–ç2F†R†–v†W7BÖ–æf÷&ÖF–öâ6ö×öæVçBÆVBÂ'WB7W'&VçB&–Ö'’Wf–FVæ6RFöW2æ÷BW7F&Æ—6‚Æ—V–BÖ6ööÆ–ær&WfVçVRö÷&FW"ÖFW&–Æ—G’Â6öç7G&–æVB66—G’÷"Ö&v–â6öçG&–'WF–öã²&WF–æVB2¢¤Ud”DTä4R%T”ÄB¢¢à¢ÒW&2&WF–æVB2âWf–FVæ6Rö6÷fW&vRv²d2æBÆ&vRF—fW'6–f–VB7WÆ–W'2&VÖ–â6ö×&F÷'2à¢Ò&V6÷&FVB¢¦æVvF—fR&öÖ÷F–öâ&W7VÇB¢¢æBW‡Æ–6—B&V÷VâG&–vvW'2&F†W"F†âW‡æF–ærF†RVæ—fW'6RÖV6†æ–6ÆÇ’à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#cb‡VÖæö–B6fWG’òf÷&6RÖ6öçG&öÂF—66÷fW' ¢Ò6öçF–çVVB3#cg&öÒW&6WF–öâ–çFò–æGW7G&–Â‡VÖæö–B6fWG’öf÷&6R6öçG&öÂà¢ÒÖVB¦ö–çBf÷&6R÷F÷'VR6Vç6–ærÂF7F–ÆRö6öçF7B6Vç6–ærÂ6fWG’6öçG&öÆÆW'2÷'VçF–ÖRæB6W'F–f–6F–öâ÷fÆ–FF–öâà¢Ò&V6÷&FVB¢¦æVvF—fRF—66÷fW'’&W7VÇB¢£¢æòæWr6ÖÆÂÆ—7FVB7WÆ–W"7W'&VçFÇ’†27Vff–6–VçFÇ’7G&öær‡VÖæö–B×7V6–f–2VÆ–f–6F–öâöÖ72×&öGV7F–öâWf–FVæ6RÇW26ö×ç’×G&ç6f÷&Ö–ærW&—G’à¢ÒW†—7F–ærdõ%Bôe$ô"æBå‚&VÖ–â&VÆWfçB¶æ÷vâÖ–çfVçF÷'’6ö×&F÷'2VæFW"F†V—"W†—7F–ærWfVçBG&–vvW'3²F—fW'6–f–VB–æ7VÖ&VçG2÷&—fFR7V6–Æ—7G2fÆ–FFRF†R&÷GFÆVæV6²'WBFòæ÷B§W7F–g’æWrVæ—fW'6RFF—F–öç2à¢Ò–×÷'FçBfÇ6–f–W#¢Ö÷F÷"Ö7W'&VçBöVæ6öFW"W7F–ÖF–öâæB–çFVw&FVB7GVF÷"ö6öçG&öÂ7F6·26â6GW&Rf÷&6RÖ6öçG&öÂV6öæöÖ–72v—F†÷WBFVF–6FVBf÷&6R÷F÷'VR6Vç6÷'2BWfW'’¦ö–çBà¢Ò6fWG’'&æ6‚7F÷2VçF–ÂæÖVB‡VÖæö–BVÆ–f–6F–öâÂ&öGV7F–öâv&BÂ&V7W'&–ær6fWG’&÷–ÇG’÷"6W'F–f–6F–öâÖG&—fVâ&WfVçVR–æfÆV7F–öâV'2à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#cBæ×Vv‡VÖæö–B7FW&VòÖ6ÖW&VæFW'w&—FP ¢ÒFVWVæVB3#c"w2÷WG6–FR×Væ—fW'6RW&6WF–öâF—66÷fW'’–çFòæ×Vv„´õ4D£“S’à¢Ò&–Ö'’æ×VvWf–FVæ6R6öæf—&×24B6Vç6–ær&ö&÷B×ÆFf÷&Ò'FæW'6†—æB&öGV7F–öâÖÆ–æR6WGW²r6W6ö×ç’Öææ÷Væ6VÖVçB&W÷'F–ærFG2ô2÷fW&–f–6F–öâ(i"W†6ÇW6—fR7FW&VòÖ6ÖW&7WÇ’(i"–æ—F–Â##r7WÇ’(i"gVÆÂ×66ÆR##‚&öGV7F–öâf÷"âVææÖVBÆ&vRæ÷'F‚ÖW&–6â‡VÖæö–B6ö×ç’à¢Òæ×Vvw2##R&6Rv2µ%sCS’ã–&â&WfVçVRòµ%s#Rã&âæWB&öf—C²7W'&VçB6W&VfW&Væ6R—2öæÇ’äµ%s#(	3##&âWV—G’Bã‚G&–Æ–ærV&æ–æw2à¢Ò66Væ&–òæÇ—6—26†÷w2&öw&ÖÖRÖFW&–Æ—G’—2†–v†Ç’6Vç6—F—fRFòVæF—66Æ÷6VB&ö&÷BVæ—G2Â6ÖW&2÷&ö&÷BæBÖöGVÆR5²æòfÇ6R&V6—6–öâ—2W6VBà¢ÒBäµ%s#V&âWV—G’Â7‚&WV—&W2µ%scCV&ââB#(	3#W‚V&æ–æw2F†—2–×Æ–W2äµ%s#n(	33&&âæçVÂæWB–æ6öÖRfW'7W2µ%s#Rã&â–â##RÂ6òF†R7F'F–ærfÇVF–öâFöW2æ÷BÖF†VÖF–6ÆÇ’¶–ÆÂF†R7‚F†W6—2à¢Ò6Æ76–f–VB¢¥õDTåD”ÂòTäDU%u$•DR(	B7‚V6öæöÖ–6ÆÇ’ÆW6–&ÆR'WBVçfÆ–FFVC²W‚&WV—&W2Ö¦÷"&ö&÷B×f—6–öâÖFW&–Æ—G“²‚Vç7W÷'FVB¢¢à¢Ò†–v†W7BÖ–æf÷&ÖF–öâG&–vvW"—2f—'7BF—66Æ÷6VB&ö&÷B×f—6–öâ÷&FW"÷&WfVçVRV6öæöÖ–73²æòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#c"‡VÖæö–B6Vç6–æròW&6WF–öâF—66÷fW' ¢ÒW†V7WFVB3#cöâF–ffW&VçB&÷GFÆVæV6²g&öÒ’÷vW#¢Ö72×&öGV7F–öâ‡VÖæö–BW&6WF–öâà¢ÒÖVBF†R7F6²g&öÒ–ÖvRöFWF‚6Vç6÷"F‡&÷Vv‚ÖöGVÆRö6Æ–'&F–öâÂVFvR&ö6W76–ærÂgW6–öâæBÆFf÷&ÒVÆ–f–6F–öâà¢Ò&öÖ÷FVB¢¤æ×Vv„´õ4D£“S’¢¢Fò&÷VæFVBVæFW'w&—FRgFW"r6Wææ÷Væ6VÖVçB&W÷'FVBô2÷FV6†æöÆöw’fW&–f–6F–öâföÆÆ÷vVB'’W†6ÇW6—fR4B7FW&VòÖ6ÖW&7WÇ’æB6öæf—&ÖVBÖ72&öGV7F–öâf÷"æW‡BÖvVæW&F–öâ‡VÖæö–B&öw&ÖÖRBâVææÖVBÆ&vRæ÷'F‚ÖW&–6â&ö&÷B6ö×ç’à¢Ò¶WB÷W7FW"æB6övæW‚õ&VÅ6Vç6R2¶æ÷vâÖ–çfVçF÷'’6ö×&F÷'2&F†W"F†â&WFVæF–ærF†W’&RæWrF—66÷fW&–W3²Æ&vR6Vç6÷"–æ7VÖ&VçG2f–ÂF†R6ö×ç’×G&ç6f÷&Ö–ærW&—G’FW7Bf÷"F†—2'&æ6‚à¢Ò&V6÷&FVB6öÖÖöF—F—6F–öâÂfW'F–6Â–çFVw&F–öâÂ&6†—FV7GW&RVæ6W'F–çG’Â&öw&ÖÖR×föÇVÖRVæ6W'F–çG’æB7W7FöÖW"6öæ6VçG&F–öâ2¶W’fÇ6–f–W'2à¢ÒæW‡B&÷VæFVB7FW—2æ×Vv&öw&ÖÖR×Væ—G29r6öçFVçB9r6†&R(i"6öç6öÆ–FFVBf–ææ6–ÂÖFW&–Æ—G“²Fòæ÷BW‡æBF†R6Vç6–ærVæ—fW'6Rf—'7Bà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#S’&RÖ–æfÆV7F–öâ’÷vW"Ö–çFVw&—G’66à ¢Ò6V&6†VBF†RÆVgBÖ†æB6–FRöbF†Rf–6÷"ôÖVÖ÷'’õD’ÕDT4‚GFW&â&F†W"F†âf÷&6–æræ÷F†W"ÖGW&Rv–ææW"à¢Ò7W&f6VB¢¥7VæÆ÷&Bƒ#3‚’¢¢2âWf–FVæ6RÖ'V–ÆBÆVBöâ66Æ–ærDÅe"÷&FW'2æB’Ö÷&–VçFVBFçFÇVÒVÆ–f–6F–öâÂ'WB&–Ö'’ÖFW&–Æ—G’Wf–FVæ6R&VÖ–ç2–ç7Vff–6–VçBà¢Ò7W&f6VB¢¤DÔTt2ƒ#Sb’¢¢v—F‚fW'’&V6VçB6ö×ç’&W7öç6R6öæf—&Ö–ær66ÆVB6†—Ö–æGV7F÷"&öGV7F–öâÂ&F6‚DÅe"Ö6÷&R7WÇ’FòÆVF–ærFöÖW7F–2ö÷fW'6V27W7FöÖW'2æB÷fW'6V26×Æ–æs²F—fW'6–f–6F–öâÖ¶W26öç6öÆ–FFVBÖFW&–Æ—G’F†R¶W’‡W&FÆRà¢Ò–æf–æVöâw2–çFVw&FVBDÅe"ÖöGVÆR—2&WF–æVB2–×÷'FçB&6†—FV7GW&RfÆ–FF–öâæB7V'7F—GWF–öâ6÷VçFW"ÖWf–FVæ6Rà¢ÒæòæWr6æF–FFR7W'&VçFÇ’†26ÆVæW"Wf–FVæ6Rö7–ÖÖWG'’6WGWF†âD’ÕDT4‚âF†—2—2&V6÷&FVB2fÆ–BæVvF—fRF—66÷fW'’&W7VÇB&F†W"F†âW‡æF–ærF†RVæ—fW'6RÖV6†æ–6ÆÇ’à¢ÒFFVB7F÷6öæF—F–öã¢&V÷VâF†—2'&æ6‚öæÇ’öâæÖVBVÆ–f–6F–öâÂÖFW&–Â’×÷vW"&WfVçVRÂ66—G’÷&W–ÖVçBôÅDWf–FVæ6RÂ÷"æ÷F†W"&6†—FV7GW&RÖ–w&F–öâà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#SrÖVÖ÷'’6–Æ–6öâÖ66—F÷"VæFW'w&—FP ¢ÒFVWVæVB3#S2w26¶vR×÷vW"Ö–çFVw&—G’ÆVB–çFòÖVÖ÷'’…Eu4S£cS3’à¢Ò&–Ö'’Wf–FVæ6R6†÷w2¦î(	4Vr##b&WfVçVR³’ãR’÷“²2Õ6”6FV6†æöÆöw’†26ö×ÆWFVB7W7FöÖW"fÆ–FF–öâöÖ72×&öGV7F–öâ7FW2â6V6öæF'’ÖævVÖVçB&W÷'F–ærWG2"2Õ6”6Bã#rRöb&WfVçVRæB³#s2R’÷’Â6òF†RæWrVæv–æR—2Ç&VG’6ö×ç’ÖÖFW&–Âà¢Ò6×7VærVÆV7G&òÔÖV6†æ–72rµ%sãWFâ##~(	3#‚6–Æ–6öâÖ66—F÷"6öçG&7BfÆ–FFW2F†RÖ&¶WBv†–ÆR&÷f–F–ær7G&öær6ö×WF—F—fR6÷VçFW"ÖWf–FVæ6Rà¢ÒBäåBCc&â7W'&VçBWV—G’Â7‚&WV—&W2åBCCƒ&ã²WfVâBC(	33‚V&æ–æw2F†—2æVVG2äåBC.(	3f&âæçVÂæWB–æ6öÖRfW'7W2äåBC"ãƒ6&âEDÒâF†R'W6–æW72–æfÆV7F–öâ—27G&öævW"F†âF†R7W'&VçB×VÇF–&vvW"6WGWà¢Ò6Æ76–f–VB¢¥õDTåD”ÂòÄDRD•44õdU%’(	B7‚VçfÆ–FFVC²W‚ó‚Vç7W÷'FVB¢¢âF†RGFW&â6†÷VÆB&RW6VBFòf–æBV&Æ–W"&RÖ–æfÆV7F–öâæÆöwVW2à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#SRD’ÕDT4‚’÷vW"ÖÖvæWF–72VæFW'w&—FP ¢ÒFVWVæVB3#S2w2F†W6—2Öf—'7BÆVB–çFòD’ÕDT4‚…EUƒ£33Sr’à¢Ò6öæf—&ÖVB÷vW"–æGV7F÷'2vW&Rc"ãRöb##R&WfVçVS²’W‡÷7W&R†2&W÷'FVFÇ’&—6Vâg&öÒãrRöb&WfVçVR–â##BFòãR–â##RæBã.(	32R–âƒ#bÂv†–ÆR¦î(	4Vr##b6ö×ç’&WfVçVRw&Wr3"ã"R’÷’æB"w&÷72Ö&v–â&V6†VBã3ã‚Rà¢ÒB6öçG&öÆÆVBäåBC#F&âWV—G’&VfW&Væ6RÂ7‚&WV—&W2äåBCs&&ã²B#^(	33‚V&æ–æw2F†—2–×Æ–W2äåBC"ãN(	3"ã–&âæçVÂæWB–æ6öÖRfW'7W2äåBCã#F&âÅDÒâF†—2—2FVÖæF–ær'WBÖFW&–ÆÇ’Ö÷&RfV6–&ÆRF†âf–6÷"w27W'&VçB7F'F–ærfÇVF–öâà¢Ò6÷VçFW"ÖWf–FVæ6R—2–×÷'FçC¢’&VÖ–ç2Ö–æ÷&—G’öb&WfVçVRÂDÅe"6ö×WF—F–öâ÷&–6–ær—26–væ–f–6çBÂ÷&FW"f—6–&–Æ—G’—26†÷'BÂæBFVWW"fW'F–6Â÷vW"–çFVw&F–öâ6âÖ–w&FRF†R&÷GFÆVæV6²v–âà¢Ò6Æ76–f–VB¢¥õDTåD”Â(	B7‚V6öæöÖ–6ÆÇ’ÆW6–&ÆR'WBæ÷BfÆ–FFVC²W‚VçfÆ–FFVC²‚Vç7W÷'FVB¢¢â&öÖ÷F–öâ&WV—&W2’ô55óƒb÷vW"6öçFVçBFò&V6öÖR6ö×ç’×G&ç6f÷&Ö–ærà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#S2ö–çBÖöbÖÆöB÷vW"F¦6Væ7’F—66÷fW' ¢ÒföÆÆ÷vVBf–6÷"w2eB&÷GFÆVæV6²÷WGv&B&F†W"F†â&WVFVFÇ’VæFW'w&—F–ærf–6÷"à¢Ò7W&f6VB¢¥D’ÕDT4‚Gfæ6VBVÆV7G&öæ–72…EUƒ£33Sr’¢¢2F†R7G&öævW7BæWrÆVC¢&÷&–WF'’†–v‚Ö7W'&VçBõDÅe"’×6W'fW"&öGV7G2ÇW26ö×ç’×v–FRÖ(	4Vr##b&WfVçVRw&÷wF‚öb³3‚RFò³c2R’÷’ÂB×V6‚6ÖÆÆW"7F'F–ærWV—G’fÇVRF†âf–6÷"âGG&–'WF–öâFò’õDÅe"&VÖ–ç2F†R¶W’Ö—76–ærWf–FVæ6Rà¢Ò7W&f6VB¢¤ÖVÖ÷'’…Eu4S£cS3’¢¢26¶vR×÷vW"Ö–çFVw&—G’ÆVC¢2Õ6”67W7FöÖW"fÆ–FF–öâöÖ72&öGV7F–öâ—2W7F&Æ—6†VBÂv†–ÆR6×7VærVÆV7G&òÔÖV6†æ–72rµ%sãWFâ##~(	3#‚6–Æ–6öâÖ66—F÷"6öçG&7BfÆ–FFW2F†R'&öFW"7FFR6†ævRà¢Ò&V6÷&FVB&—fFR÷vW&ÆGF–6RôVæ6†—ôÆ÷GW22FV6†æ–6ÂfÆ–FF–öâæB6ö×WF—F—fR6÷VçFW"ÖWf–FVæ6RÂæ÷B–çfW7F&ÆRVæ—fW'6RFF—F–öç2à¢ÒæW‡BF†W6—2Öf—'7BFVWVæFW'w&—FS¢D’ÕDT4ƒ²ÖVÖ÷'’&VÖ–ç2&÷VæFVBföÆÆ÷r×Wà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#P ¢2223#Sf–6÷"eB66&6RÖ6ö×ÆVÖVçBVæFW'w&—FP ¢ÒföÆÆ÷vVB3#C’w2F†W6—2Öf—'7BF—66÷fW'’–çFòf–6÷"&F†W"F†â&öÖ÷F–ær—BÖV6†æ–6ÆÇ’à¢Ò&–Ö'’Wf–FVæ6RfÆ–FFW2F†R7G'V7GW&Â6†–ã¢eB6öÇfW2&—6–ær’ö–çBÖöbÖÆöB6öç7G&–çC²FF—F–öæÂôTÒÆ–6Vç6–ær7&VFW2&÷–ÇG’V6öæöÖ–73²f"Ó—2&ö6†–ær66—G’æBf"Ó"ôf"Ó26—FW2&R&V–ær7V—&VBà¢ÒF†RWV—G’6WGW—2×V6‚ÆW72GG&7F—fRF†âF†R&÷GFÆVæV6²6–væÃ¢&÷VæBC#sb÷6†&RæBâC6&âWV—G’fÇVRöâ#B6WÂ7‚÷WF6öÖR&WV—&W2âC3–&âWV—G’æB&÷Vv†Ç’âCã(	3ã6&âæçVÂV&æ–æw2BC(	33‚à¢Ò6Æ76–f–VBf–6÷"¢¥õDTåD”ÂòtD4‚¢¢Âæ÷BTäDU%u$•DS¢W†6VÆÆVçB÷&–v–æÂ×F†W6—2fÆ–FF–öâÂ'WB7W'&VçBfÇVF–öâÇ&VG’6—FÆ—¦W2Æ&vR'BöbF†R÷÷'GVæ—G’æBF—66Æ÷6VB&÷–ÇG’ö66—G’V6öæöÖ–72Fòæ÷B–WB'&–FvR7‚à¢ÒæW‡BF—66÷fW'’6†÷VÆBföÆÆ÷rö–çBÖöbÖÆöB÷vW"÷WGv&BFò6ÖÆÆW"6¶v–ær÷76—fRöÖvæWF–2÷F†W&ÖÂ7WÆ–W'2&F†W"F†âf÷&6–ærf–6÷"–çFòvFRRà¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#@ ¢2223#C’f—'7B&W7F÷&VBF†W6—2Öf—'7BF—66÷fW'’66à ¢Ò7F'FVBg&öÒF‡&VR&V6VçB&6†—FV7GW&R÷7FFR6†ævW2&F†W"F†âW†—7F–ær6ö×ç’æÖW3¢ö–çBÖöbÖÆöB’÷vW"FVÆ—fW'’Â6ö×öæVçBÖÆWfVÂÆ—V–B6ööÆ–ærÂæB‡VÖæö–B7WÆ–W"–æGW7G&–Æ—6F–öâà¢Ò7W&f6VBf÷W"÷WG6–FR×Væ—fW'6RÆVG3¢¢¥f–6÷"¢¢‡&öÖ÷FRFò&÷VæFVB6ö×ç’VæFW'w&—FR’Â¢¤æ×Vv¢¢†&÷VæFVBWf–FVæ6R72’Â¢¥6Ö‡—Vâ¢¢†Wf–FVæ6R'V–ÆB’ÂæB¢¤ÄõDU2¢¢†Wf–FVæ6R'V–ÆB’à¢Òf–6÷"—2F†R7G&öævW7BæWr6–væÂ&V6W6R&–Ö'’Wf–FVæ6RÆ–æ·2eBÆ–6Vç6–æræB&÷–ÇF–W2Fò&—6VB2wV–Fæ6Rv†–ÆRW†—7F–ærf'&–6F–öâ&ö6†W266—G’æBGvòFF—F–öæÂf"6—FW2&R&V–ær7V—&VBà¢Ò&V6÷&FVBæVvF—fRö6÷fW&vRv2&F†W"F†âÖV6†æ–6ÆÇ’W‡æF–ærF†RVæ—fW'6S²„$Ò&öGV6VBæò7Vff–6–VçFÇ’æWr&6†—FV7GW&R6–væÂ&W–öæBW†—7F–ærv÷&²–âF†—272à¢ÒæòvFRÔR7F–öâ÷"'&ö¶W&vR–ç7G'V7F–öâ6†ævVBà  ¢22##bÓ’Ó#@ ¢2223#Cr&W7F÷&RF†W6—2Öf—'7BVæ–6÷&âF—66÷fW' ¢Ò&RÖæ6†÷&VBF†R&W÷6—F÷'’FòF†R÷&–v–æÂW7G&VÒF†W6—3¢¢§v÷&ÆB6†ævR(i"66&6R6ö×ÆVÖVçBòVÖW&v–ær6öç7G&–çB(i"&÷GFÆVæV6²Ö–w&F–öâ(i"6ö×ç’F—66÷fW'’(i"Wf–FVæ6Röb–æfÆV7F–öâ(i"V6öæöÖ–26GW&R¢¢à¢ÒW‡Æ–6—FÇ’ÖFRF†RS’Ö6ö×ç’&æ¶VBVæ—fW'6R¶æ÷vâÖ÷÷'GVæ—G’–çfVçF÷'’ö&Væ6†Ö&·2&F†W"F†âF†R&÷VæF'’÷"FVfVÇB7F'F–ærö–çBf÷"F—66÷fW'’à¢Ò&W÷6—F–öæVBVæ–6÷&â÷FVçF–Â7‚óW‚ó‚&WfW'6R×VæFW'w&—F–ær2F÷vç7G&VÒfÆ–FF–öâöfÇ6–f–6F–öâæBvFRR26—FÂÆÆö6F–öâÂ&F†W"F†âÆÆ÷v–ærfÇVF–öâ67&VVæ–ærFò&V6öÖRF†RF†W6—2à¢ÒFFVBwV&G&–Ç2v–ç7BWf–FVæ6RÖÖGW&—G’&–2æB–ç7G'V7FVBF—66÷fW'’Fò6VV²÷fW&Æöö¶VBöÖ—66Æ76–f–VBÆ—7FVB6ÖÆÂöÖ–BÖ6&VæVf–6–&–W2÷WG6–FRF†R7W'&VçBVæ—fW'6Rà¢ÒW†—7F–ærvFRÔRÖöæ—F÷'2Â7F–öâ7FæF&G2æB'&ö¶W&vR&÷VæF&–W2&RVæ6†ævVBà  ¢22##bÓ’Ó#@ ¢2223#CRFVW&WfW'6R×VæFW'w&—FRöb&÷VæFVB×67&VVâ7W'f—f÷'0 ¢ÒFVWVæVBF†R6WfVâ7W'f—f÷'2g&öÒ3#C2âf—fR†B7Vff–6–VçB6æöæ–6Â6—FÆ—¦F–öâöV6öæöÖ–2Wf–FVæ6Rf÷"–ÖÖVF–FR&—F†ÖWF–3²&Æ6´&W''’õå‚æB÷W7FW"&R&WF–æVB2Wf–FVæ6R×&Vg&W6‚VæFW'w&—FW2&F†W"F†â76–væ–ærf'&–6FVBçVÖ&W'2à¢Ò&7&W''’’&VÖ–ç2õDTåD”Ã²6×FV²&VÖ–ç2õDTåD”Âö&÷VæFVBà¢ÒÖ–7&öæ–72¦âÂf÷&Ôf7F÷"æB†æÖ’6VÖ–6öæGV7F÷"&Rd”ÄTBõ$´TBf÷"F†R7W'&VçBVæ–6÷&â67&VVâ&V6W6RF†V—"7F'F–ærfÇVF–öç2Ö¶R7‚Vç7W÷'FVBWfVâF†÷Vv‚÷W&F–ær´ã‹h‘éì¶»§q«^u¥±ĞÑ¡”±¥Ù”ÍÕÉ™…”…Ì½¹”½¹Ñ¥¹Õ½ÕÍ±äÉ…¹­•Õ¹¥Ù•ÉÍ”½Ù•É¥¹œ…Ñ”µµ…Á…‰±”¹…µ•ÌÁ±ÕÌ•Ù¥‘•¹”µ‰Õ¥±‘¥¹œ½µÁ…¹¥•Ìì™½Éµ•È¡…±±•¹•ÉÌIA$°‘Ù…¹Ñ• °µ‰…É•±±„…¹­…µ…¤¹½ÜÉ…¹¬‘¥É•Ñ±ä…±½¹Í¥‘”¥¹Õµ‰•¹ÑÌ¸(´‘‘••Ù¥‘•¹”½¹™¥‘•¹”°Í•ÑÕÀ…¹¹•áĞ½Ù•É¹•ÑÉ¥•ÈÑ¼Ñ¡”…ÕÑ¡½É¥Ñ…Ñ¥Ù”±¥Ù”Ñ…‰±”ì±½İ•Èµµ…ÑÕÉ¥Ñä¹…µ•ÌÉ•µ…¥¸Ù¥Í¥‰±”É…Ñ¡•ÈÑ¡…¸‘¥Í…ÁÁ•…É¥¹œ‰•±½Ü…¸…É‰¥ÑÉ…ÉäÕÑ½™˜¸(´!¥ÍÑ½É¥…°Q½À´ÄÀµ…Ñ•É¥…°¥ÌÉ•Ñ…¥¹•‰ÕĞ•áÁ±¥¥Ñ±ä±…‰•±±•¹½¸µ…ÕÑ¡½É¥Ñ…Ñ¥Ù”™½È…Õ‘¥Ñ…‰¥±¥Ñä¸(´UÁ‘…Ñ•I5°UQ=5Q%=8…¹A=IQ=1%<Í¼É½ÍÍ¥¹œÉ…¹¬€ÄÀ¡…Ì¹¼Í¡•‘Õ±•È°É•Í•…É µ…‘µ¥ÍÍ¥½¸½ÈÁ½ÉÑ™½±¥¼µ…Ñ¥½¸µ•…¹¥¹œ¸(´I…¹¬É•µ…¥¹ÌÉ•Í•…É ÁÉ¥½É¥Ñ¥Í…Ñ¥½¸½¹±äì¥Ğ‘½•Ì¹½Ğ…ÕÑ¡½É¥é”‰É½­•É…”•á•ÕÑ¥½¸¸(((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÈà‘Ù…¹Ñ• …Ñ”µÕ¹‘•ÉİÉ¥Ñ”((´½µÁ±•Ñ•½µÁ…¹äµ±•Ù•°Õ¹‘•ÉİÉ¥Ñ”½˜Ñ¡”Í•½¹¡…±±•¹•È•¹•É…Ñ•‰ä€ŒÈÈĞ¸(´½¹™¥Éµ•ÍÑÉ½¹œÁÉ½™¥Ñ…‰±”Í…±”è€Å ÈØÉ•Ù•¹Õ”€¬ÌÈ”°€Ää¸À”½Á•É…Ñ¥¹œµ…É¥¸…¹¹•Ğ¥¹½µ”€¬ØØ”°İ¥Ñ µ…¹…•µ•¹Ğ¥Ñ¥¹œ…•±•É…Ñ¥¹œ$‘•Á±½åµ•¹ÑÌ¸(´5…ÁÁ•]…Ì„Á½Ñ•¹Ñ¥…°É½ÍÌµ¡…É‘İ…É”‘•Ù•±½Áµ•¹Ğ½‘•Á±½åµ•¹Ğ½™±••Ğ±…å•Èİ¡¥±”•áÁ±¥¥Ñ±ä±•…Ù¥¹œÍ½™Ñİ…É”…ÑÑ… ½É•ÕÉÉ¥¹œ•½¹½µ¥ÌÕ¹ÁÉ½Ù•¸¸(´ÕÉÉ•¹ĞÙ…±Õ…Ñ¥½¸€¡øÈä´ÌÉà™½Éİ…É@½ìøÌÍàX½	%Q¤É•…Ñ•Ì„µ•…¹¥¹™Õ°•…É¹¥¹Ì¡ÕÉ‘±”‘•ÍÁ¥Ñ”¡¥¡•È™Õ¹‘…µ•¹Ñ…°ÅÕ…±¥ÑäÑ¡…¸5	¸(´‘Ù…¹Ñ• •¹Ñ•ÉÌÑ¡”¥µµ•‘¥…Ñ”¡…±±•¹•ÈÍ•Ğ…Ì€¨©IMMML½]Q ¨¨ì¹¼Q½À´ÄÀ‘¥ÍÁ±…•µ•¹Ğ½È‰É½­•É…”Q%=8¸(((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÈØµ‰…É•±±„…Ñ”µÕ¹‘•ÉİÉ¥Ñ”((´½µÁ±•Ñ•Ñ¡”™¥ÉÍĞ½µÁ…¹äµ±•Ù•°Õ¹‘•ÉİÉ¥Ñ”•¹•É…Ñ•‰äÑ¡”Ù…±Õ”µ¡…¥¸µ™¥ÉÍĞ‘¥Í½Ù•ÉäÑ•ÍĞ¸(´½¹™¥Éµ•Õ¹ÕÍÕ…±±ä‘¥É•Ğ½µÁ…¹ä…ÁÑÕÉ”è•‘”µ$M½Ìİ•É”€àÀ”½˜dÈÀÈØÉ•Ù•¹Õ”°İ¥Ñ €øÌÜÀÕÍÑ½µ•È$ÁÉ½©•ÑÌ¥¸ÁÉ½‘ÕÑ¥½¸…¹ø€Å‰¸ÕµÕ±…Ñ¥Ù”•‘”µ$É•Ù•¹Õ”¸(´‘‘•ÕÉÉ•¹ĞÙ…±Õ…Ñ¥½¸½ÁÉ½™¥Ğµ½¹Ù•ÉÍ¥½¸¡ÕÉ‘±•Ì°!…¹İ¡„½`Ü…Ñ…±åÍÑÌ°½µÁ•Ñ¥Ñ¥Ù”½Õ¹Ñ•Èµ…Í”…¹Á½ÉÑ™½±¥¼½µÁ…É¥Í½¸¸(´5	•¹Ñ•ÉÌÑ¡”¥µµ•‘¥…Ñ”¡…±±•¹•ÈÍ•Ğ…Ì€¨©IMMML½]Q ¨¨‰ÕĞ‘½•Ì¹½Ğ‘¥ÍÁ±…”Ñ¡”ÕÉÉ•¹ĞQ½À€ÄÀì½Á•É…Ñ¥¹œ±•Ù•É…”…¹ÁÉ½‘ÕÑ¥½¸½¹Ù•ÉÍ¥½¸µÕÍĞ¥µÁÉ½Ù”Ñ¡”€Äàµµ½¹Ñ …Íåµµ•ÑÉä™¥ÉÍĞ¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸(((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÈĞ™¥ÉÍĞÙ…±Õ”µ¡…¥¸µ™¥ÉÍĞ‘¥Í½Ù•ÉäÑ•ÍĞ((´á•ÕÑ•Ñ¡”¹•ÜÍ…¸…É¡¥Ñ•ÑÕÉ”…É½ÍÌÑ¡”™Õ±°$½A¡åÍ¥…°µ$Ù…±Õ”¡…¥¸É…Ñ¡•ÈÑ¡…¸½¹Ù•¹Ñ¥½¹…°Í•Ñ½ÈÑ…á½¹½µ¥•Ì¸(´%‘•¹Ñ¥™¥••‘”½µÁÕÑ”½‘•Á±½åµ•¹Ğ°Í¥µÕ±…Ñ¥½¸½Ù•É¥™¥…Ñ¥½¸…¹™±••Ğ™••‘‰…¬…ÌÑ¡”±•…É•ÍĞÕ¹‘•Èµ½Ù•É•±…å•ÉÌ¸(´MÕÉ™…•€¨©µ‰…É•±±„¨¨…ÌÑ¡”ÍÑÉ½¹•ÍĞ¹•Ü±¥ÍÑ•¡…±±•¹•È…¹€¨©‘Ù…¹Ñ• ¨¨…Ì„É•‘¥‰±”¥¹‘ÕÍÑÉ¥…°µ•‘”µ¥Í±…ÍÍ¥™¥…Ñ¥½¸…¹‘¥‘…Ñ”ìI4…¹AQİ•É”É•Ñ…¥¹•…ÌÍÑÉÕÑÕÉ…°½‰Í•ÉÙ…Ñ¥½¹ÌÁ•¹‘¥¹œ…Íåµµ•ÑÉä½µ…Ñ•É¥…±¥Ñä•Ù¥‘•¹”¸(´I•½É‘•¹•…Ñ¥Ù”ÍÉ••¹Ì™½È‰É½…¥¹‘ÕÍÑÉ¥…°…¹ÁÉ¥Ù…Ñ”µ½¹±ä•áÁ½ÍÕÉ•ÌÑ¼ÁÉ•Ù•¹Ğ¹…ÉÉ…Ñ¥Ù”µ‘É¥Ù•¸ÁÉ½µ½Ñ¥½¸¸(´9¼Q½À´ÄÀ½È‰É½­•É…”Q%=8¡…¹•ì™½±±½ÜµÕÀ½µÁ…¹äÕ¹‘•ÉİÉ¥Ñ¥¹œ¥ÌÉ•ÅÕ¥É•‰•™½É”ÁÉ½µ½Ñ¥½¸¸(((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒY…±Õ”µ¡…¥¸Í…¸‰±¥¹µÍÁ½Ğ™¥à((´½¹Ù•ÉÑ•Ñ¡”IA$½-4‘¥Í½Ù•Éäµ¥ÍÌ¥¹Ñ¼„Á•Éµ…¹•¹ĞÉ•Í•…É µÁÉ½•ÍÌ½¹ÑÉ½°É…Ñ¡•ÈÑ¡…¸„½¹”µ½™˜½‰Í•ÉÙ…Ñ¥½¸¸(´	É½…Õ¹¥Ù•ÉÍ”Í…¹ÌµÕÍĞ¹½ÜÑÉ…Ù•ÉÍ”Ñ¡”™Õ±°$½A¡åÍ¥…°µ$Ù…±Õ”¡…¥¸‰•™½É”Í•Ñ½È±…ÍÍ¥™¥…Ñ¥½¸…¹•áÁ±¥¥Ñ±äÍ•…É ™½È€¨©µ¥Í±…ÍÍ¥™¥•¥¹Õµ‰•¹ÑÌ¨¨İ¡½Í”±•…ä±…‰•±Ì¡¥‘”•µ•É¥¹œ‰½ÑÑ±•¹•¬•áÁ½ÍÕÉ”¸(´‘‘•„É•ÅÕ¥É•½Ù•É…”µ…À½ÕÑÁÕĞ€¡İ•±°½Ù•É•€¼Õ¹‘•Èµ½Ù•É•€¼¹¼É•‘¥‰±”±¥ÍÑ•…ÁÑÕÉ”€¼¥¹Ñ•¹Ñ¥½¹…±±ä•á±Õ‘•¤…¹±¥¹­•Ñ¡”ÁÉ½Ñ½½°¥¹Ñ¼‰…­±½œ…ÕÑ½µ…Ñ¥½¸¸(´Q¡¥Ì¡…¹•Ì‘¥Í½Ù•Éäµ•Ñ¡½‘½±½ä½¹±äì¥Ğ‘½•Ì¹½ĞÁÉ½µ½Ñ”IA$°-4½È…¹ä½Ñ¡•È½µÁ…¹äÑ¼„½Ù•É¹•Q%=8¸(((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÄà€¼€ŒÈÄäÙ…±Õ…Ñ¥½¸…¹½¹ÑÉ…Ğµ•½¹½µ¥Ì•á•ÕÑ¥½¸((´á•ÕÑ•I…ÍÁ‰•ÉÉäA¤Í•¹…É¥¼Ù…±Õ…Ñ¥½¸É…Ñ¡•ÈÑ¡…¸İ…¥Ñ¥¹œ™½ÈÍÑ…±”€ÄM•À½¹Í•¹ÍÕÌÑ¼É•™É•Í ¸Ğ€ÜÔÕÀ°„µ•¡…¹¥…°ÍÕÁÁ½ÉĞ…Í”¥ÌÉ½Õ¡±ä€äÁ´¹½Éµ…±¥é•	%Q…Ğ€ÈÁàì±½İ•È¹½Éµ…±¥é••…É¹¥¹Ì½µÕ±Ñ¥Á±•Ì•áÁ½Í”µ…Ñ•É¥…°‘½İ¹Í¥‘”¸(´á•ÕÑ•­…µ…¤¹Ñ¡É½Á¥Œ…Á¥Ñ…°µÉ•½Ù•ÉäÍÑÉ•ÍÌÑ•ÍĞ¸Q¡”€ÄÄ¸Ù‰¸Í•Ù•¸µå•…È½µµ¥Ñµ•¹Ğ…Ù•É…•ÌøÄ¸ØÙ‰¸½å•…È……¥¹ÍĞøÔ¸Õ‰¸…ÍÍ½¥…Ñ•…Á•àìÍ¥µÁ±”É•½Ù•Éä•½¹½µ¥ÌÉ•ÅÕ¥É”Ù•Éä¡¥ ½¹ÑÉ¥‰ÕÑ¥½¸µ…É¥¹Ì½Èµ•…¹¥¹™Õ°É•Í¥‘Õ…°½É•ÕÍ”Ù…±Õ”¸(´%¹½ÉÁ½É…Ñ•­…µ…¤Ì‰…±…¹”µÍ¡••Ğ½…Á…¥Ñä°İ…ÉÉ…¹Ğ‘¥±ÕÑ¥½¸…¹ÕÍÑ½µ•Èµ½¹•¹ÑÉ…Ñ¥½¸¥µÁ±¥…Ñ¥½¹Ì¸(´	½Ñ É•µ…¥¸IMMML½]Q ì¹¼¹•Ü½Ù•É¹•Q%=8½È‰É½­•É…”ÑÉ…‘”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÄà€¼€ŒÈÄäIA$…¹-4Á½ÉÑ™½±¥¼¥¹Ñ•É…Ñ¥½¸((´I”µÉ…¸Ñ¡”±¥Ù”…Ñ”µ¡…±±•¹•È½µÁ…É¥Í½¸…™Ñ•È½µÁ±•Ñ¥¹œÑ¡”I…ÍÁ‰•ÉÉäA¤…¹­…µ…¤‘••À‘¥Ù•Ì¸(´‘‘•‰½Ñ …Ì¥µµ•‘¥…Ñ”¡…±±•¹•ÉÌİ¥Ñ¡½ÕĞ‘¥ÍÁ±…¥¹œÑ¡”½Ù•É¹•Q½À€ÄÀèIA$¡…ÌÍÑÉ½¹•ÈÕÉÉ•¹Ğ½µÁ…¹äµ…ÁÑÕÉ”•Ù¥‘•¹”‰ÕĞÕ¹É•Í½±Ù•¹½Éµ…±¥é•Ù…±Õ…Ñ¥½¸ì-4ÁÉ½Ù¥‘•ÌÍÑÉ½¹•ÈÉ½ÍÌµÑ¡•µ”‘¥ÍÑÉ¥‰ÕÑ•µ$µ¥¹™É…ÍÑÉÕÑÕÉ”•Ù¥‘•¹”‰ÕĞÕ¹É•Í½±Ù•¥¹É•µ•¹Ñ…°I=%¸(´AÉ½Á……Ñ•Ñ¡”½µ‰¥¹••Ù¥‘•¹”¥¹Ñ¼Ñ¡”…¹½¹¥…°Í…É”µ½µÁ±•µ•¹ÑÌ™É…µ•İ½É¬…Ì„¹•Ü‘¥ÍÑÉ¥‰ÕÑ•µ½µÁÕÑ”€¼•‘”µ‘•Á±½åµ•¹ĞÍ¥¹…°¸(´I•Ñ…¥¹•=IP…Ğ€ŒÄÀÁ•¹‘¥¹œ¥ÑÌÑÉ…¹Í…Ñ¥½¸‘¥Í±½ÍÕÉ”ì¹¼¹•Ü½Ù•É¹•Q%=8½È‰É½­•É…”ÑÉ…‘”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÄà€¼€ŒÈÄäI…ÍÁ‰•ÉÉäA¤…¹­…µ…¤•Ù•¹Ğ‘••À‘¥Ù•Ì((´‘‘•…¹½¹¥…°‘••Àµ‘¥Ù”ÍÕÉ™…•Ì™½ÈI…ÍÁ‰•ÉÉäA¤…¹­…µ…¤™½±±½İ¥¹œÑ¡”€ÈĞM•ÁÑ•µ‰•ÈIA$¥¹Ñ•É¥´É•ÍÕ±ÑÌ…¹-4µ¹Ñ¡É½Á¥Œ…É••µ•¹Ğ¸(´I…ÍÁ‰•ÉÉäA¤èÍ•Á…É…Ñ•‘ÕÉ…‰±”=4½‰…­±½œ½•‘”µ½µÁÕÑ”•Ù¥‘•¹”™É½´Ñ•µÁ½É…Éä±½İ•Èµ½ÍĞµ•µ½Éä¥¹Ù•¹Ñ½Éä•½¹½µ¥ÌìÉ•Ñ…¥¹•Ù…±Õ…Ñ¥½¸…ÌÕ¹É•Í½±Ù•Á•¹‘¥¹œÁ½ÍĞµÉ•ÍÕ±ÑÌ•ÍÑ¥µ…Ñ”É•Í•Ğ¸(´­…µ…¤èÍ•Á…É…Ñ•Ñ¡”€ÄÄ¸Ù‰¸‘•µ…¹Í¥¹…°™É½´Í¡…É•¡½±‘•È•½¹½µ¥ÌìÅÕ…¹Ñ¥™¥•Ñ¡”øÔ¸Õ‰¸…ÍÍ½¥…Ñ•…Á•à°İ…ÉÉ…¹Ğ‘¥±ÕÑ¥½¸…¹½Á•É…Ñ¥¹œµµ…É¥¸¡ÕÉ‘±”ìÉ…¥Í•½¹™¥‘•¹”¥¸‘¥ÍÑÉ¥‰ÕÑ•$¥¹™É…ÍÑÉÕÑÕÉ”‘•µ…¹İ¡¥±”±•…Ù¥¹œ½µÁ…¹äµ±•Ù•°I=%Õ¹É•Í½±Ù•¸(´9¼…ÕÑ½µ…Ñ¥ŒÑÉ…¹Í…Ñ¥½¸¥¹ÍÑÉÕÑ¥½¸½ÈÁ½ÉÑ™½±¥¼ÁÉ½µ½Ñ¥½¸İ…Ì…ÕÑ¡½É¥é•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄÔàÕÉÕ­…İ„±•ÑÉ¥Œ€¼MÕÁ•ÉA½İ•È!QL…Ñ”µÕ¹‘•ÉİÉ¥Ñ”((´I•ÍÑ½É•Ñ¡”‰½Õ¹‘•ÕÉÕ­…İ„½MÕÁ•ÉA½İ•È!QLÕ¹‘•ÉİÉ¥Ñ”½¸„™É•Í ‰É…¹ ‰…Í•½¸ÕÉÉ•¹Ğµ…¥¹€Í¼É•ÅÕ¥É•I•Í•…É ½Ù•É¹…¹”•Ù…±Õ…Ñ•ÌÑ¡”…ÑÕ…°¡•…½‰…Í”‘¥™˜¸(´½¹±ÕÍ¥½¸É•µ…¥¹Ì€¨©]Q €¼É•Í•…É …¹‘¥‘…Ñ”¨¨è‘¥É•Ğ!QL½™ÕÍ¥½¸É•±•Ù…¹”¥Ì•ÍÑ…‰±¥Í¡•°‰ÕĞMÕÁ•ÉA½İ•ÈÉ•Ù•¹Õ”°µ…É¥¸°‰…­±½œ°…¹¹Õ…°…Á…¥Ñä½ÕÑ¥±¥Í…Ñ¥½¸…¹5…É ´ÈÀÈà™¥¹…¹¥…°µ…Ñ•É¥…±¥ÑäÉ•µ…¥¸¥¹ÍÕ™™¥¥•¹Ñ±ä‘¥Í±½Í•¸(´½µÁ•Ñ¥¹œ!QL…Á…¥Ñä•áÁ…¹Í¥½¸É•µ…¥¹Ìµ…Ñ•É¥…°½Õ¹Ñ•Èµ•Ù¥‘•¹”ì¹¼Q½À´ÄÀÁÉ½µ½Ñ¥½¸°Q%=8½È‰É½­•É…”ÑÉ…‘”¥Ì…ÕÑ¡½É¥é•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÄÌ…±¥‰É…Ñ¥½¸½…Õ‘¥ĞÍÕÉ™…”…¹½¹¥…±¥é…Ñ¥½¸((´±…É¥™¥••Ù¥‘•¹”µÅÕ…±¥Ñäµ…Õ‘¥Ğ¹µ‘€…ÌÑ¡”±¥Ù”‘•¥Í¥½¸µÅÕ…±¥Ñä…Õ‘¥Ğ…¹•Ù¥‘•¹”µÅÕ…±¥Ñäµ½ÉÁÕÌµ…Õ‘¥Ğ¹µ‘€…ÌÑ¡”ÍÑÉÕÑÕÉ…°€äĞµ™¥±”…½Õ¹Ñ¥¹œ½½Ù•É¹…¹”…Õ‘¥Ğ¸(´±…É¥™¥•ÁÉ•‘¥Ñ¥½¸µ…±¥‰É…Ñ¥½¸µ±•‘•È¹µ‘€…ÌÑ¡”Í½±”±¥Ù”ÁÉ½ÍÁ•Ñ¥Ù”½ÕÑ½µ”±•‘•ÈìÉ•Ñ…¥¹•‘•¥Í¥½¸µ½ÕÑ½µ”µ…±¥‰É…Ñ¥½¸µ±•‘•È¹µ‘€…Ì„¡¥ÍÑ½É¥…°]…Ù”´ÔÍ••…ÉÑ¥™…ĞÉ…Ñ¡•ÈÑ¡…¸‘•±•Ñ¥¹œ…Õ‘¥Ğ¡¥ÍÑ½Éä¸(´Q¡¥Ì¥Ì½Ù•É¹…¹”½¡å¥•¹”½¹±äè¹¼½µÁ…¹äÍÑ…Ñ”°É…¹­¥¹œ½È‰É½­•É…”…Ñ¥½¸¡…¹•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄäØÉ•Í¥‘Õ…°…±¥‰É…Ñ¥½¸½Ù•É…”ƒŠP€äĞ¼äĞ…½Õ¹Ñ¥¹œ((´I•½Ù•É•Ñ¡”Ù•É¥™¥•É•Í¥‘Õ…°µ…±¥‰É…Ñ¥½¸İ½É¬™É½´ÍÕÁ•ÉÍ•‘•AH€ŒÈÀØ½¹Ñ¼ÕÉÉ•¹Ğµ…¥¸…™Ñ•È½¹™¥Éµ¥¹œ…±°€ÈÌÑ…É•Ğ‘•¥Í¥½¸ÍÕÉ™…•Ìİ•É”Õ¹¡…¹•Í¥¹”Ñ¡…ĞAHÌ‰…Í”°…Ù½¥‘¥¹œ½Ù•ÉİÉ¥Ñ”½˜¹•İ•ÈÉ•Í•…É ¸(´…±¥‰É…Ñ•€ÈÌÉ•Í¥‘Õ…°‘•¥Í¥½¸µ‰•…É¥¹œÍÕÉ™…•Ì…É½ÍÌ•¹•Éä½™ÕÍ¥½¸°µ•µ½Éä°A¡åÍ¥…°$°É½‰½Ñ¥Ìµ…ÑÕ…Ñ½ÉÌ°…Ñ”µÁ½ÉÑ™½±¥¼½¹ÍÑÉÕÑ¥½¸…¹Í¥•¹Ñ¥™¥Œ$¸(´±…ÍÍ¥™¥•€ÜÉ•Í•…É µÁ±…¸½µ½¹¥Ñ½É¥¹œ½ÍÉ••¹¥¹œ™¥±•Ì…ÌÁÉ½•‘ÕÉ…°½¹ÑÉ½±Ì…¹€ÈÑ•µÁ±…Ñ•Ì…Ì…ÕÑ¡½É¥¹œ½¹ÑÉ½±Ìİ¥Ñ ‘•¥Í¥½¸…±¥‰É…Ñ¥½¸8½¸(´I”µÉ…¸ÍÑÉÕÑÕÉ…°…½Õ¹Ñ¥¹œè€¨¨äĞ¼äĞÉ•Í•…É µ…É­‘½İ¸™¥±•Ì…É”¹½Ü…½Õ¹Ñ•™½È¨¨¸Q¡¥Ì±½Í•ÌÑ¡”‘•¹½µ¥¹…Ñ½È…À‰ÕĞ‘½•Ì¹½Ğ±…¥´…±°Õ¹‘•É±å¥¹œ•Ù¥‘•¹”¥Ì•ÅÕ…±±ä™É•Í ¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•™É½´Ñ¡”É•ÑÉ½™¥Ğ¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄÈä•¹ÑÉÕÌ™Õ¹‘•µ…Á…¥Ñä€¼Á•ÈµÍ¡…É”‰É¥‘”…Õ‘¥Ğ((´½µÁ±•Ñ•Ñ¡”]…Ù”´Ô‰½Õ¹‘••Ù¥‘•¹”™½±±½ÜµÕÀİ¥Ñ¡½ÕĞÑÉ•…Ñ¥¹œÑ¡”…±É•…‘äµ…ÍÍ•ÍÍ•¹Ñ…É•Ì•Ù•¹Ğ…Ì„¹•ÜÑÉ¥•È¸(´EÕ…¹Ñ¥™¥•Ñ¡”µ•¡…¹¥…°±¥ÅÕ¥‘¥ÑäÉ•™•É•¹”è€Ä¸àØå‰¸)Õ¹”…Í €¬øĞàå´•ÍÑ¥µ…Ñ•¹•ĞM•ÁÑ•µ‰•È½™™•É¥¹œÁÉ½••‘Ì€ôøÈ¸ÌÔá‰¸‰•™½É”ÍÕ‰Í•ÅÕ•¹ĞÕÍ”ì­•ÁĞøÄ¸ÈÀá‰¸½¹Ù•ÉÑ¥‰±”µ¹½Ñ”ÁÉ¥¹¥Á…°…¹‰É½……Á¥Ñ…°ÕÍ•Ì•áÁ±¥¥ĞÉ…Ñ¡•ÈÑ¡…¸ÑÉ•…Ñ¥¹œ…Í …Ì™É•”ÁÉ½©•Ğ•ÅÕ¥Ñä¸(´M•Á…É…Ñ•Ñ¡”€äÀÁ´µ¥±•ÍÑ½¹”µ‰…Í•=…İ…É…¹Õ¹ÅÕ…¹Ñ¥™¥•`µ•¹•Éä½I…‘¥…¹Ğ½¹Ñ…É•ÌÁÉ•Á…åµ•¹ÑÌ™É½´Õ¹É•ÍÑÉ¥Ñ•…Í ìÕÉÉ•¹ĞÁÕ‰±¥Œ•Ù¥‘•¹”ÍÑ¥±°‘½•Ì¹½Ğ•ÍÑ…‰±¥Í „™Õ±±ä™Õ¹‘•ÍÁ•¥™¥Œ½µµ•É¥…°µ…Á…¥ÑäÑÉ…¹¡”¸(´5…‘”Ñ¡”Ñ¥µ¥¹œµ¥Íµ…Ñ •áÁ±¥¥Ğè•¹ÑÉÕÌÍ…åÌ™¥ÉÍĞ¹•Ü…Á…¥Ñä¥Ì•áÁ•Ñ•½¹±¥¹”¥¸€ÈÀÈä°…™Ñ•ÈÑ¡”5…É ´ÈÀÈàÁ½ÉÑ™½±¥¼İ¥¹‘½Ü¸9•…Èµİ¥¹‘½ÜÙ…±Õ”Ñ¡•É•™½É”‘•Á•¹‘Ì½¸™¥¹…¹¥¹œ½½¹ÍÑÉÕÑ¥½¸‘”µÉ¥Í­¥¹œ…¹‰…­±½œ½¹Ù•ÉÍ¥½¸É…Ñ¡•ÈÑ¡…¸¹•Üµ…Á…¥Ñä•…É¹¥¹Ì¸(´‘‘•‘¥±ÕÑ¥½¸ÍÑ…Ñ•Ì™É½´øÈÄ¸ÜÌå´½µµ½¸µ•ÅÕ¥Ù…±•¹ĞÍ¡…É•Ì…™Ñ•È½µµ½¸€¬ÁÉ”µ™Õ¹‘•¥ÍÍÕ…¹”Ñ¼€Èà¸ÜÌÉ´¥˜…±°¹•Ü½µµ½¸İ…ÉÉ…¹ÑÌ•á•É¥Í”°Á±ÕÌ„Í•Á…É…Ñ”¡¥ÍÑ½É¥…°½¹Ù•ÉÑ¥‰±”µ‘¥±ÕÑ¥½¸ÍÑÉ•ÍÌ½¹Ñ•áĞ¸(´ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸É•µ…¥¹Ì€¨©IMMML€¼]%P¨¨ìøÄÈÃŠLÄÌÀÉ•µ…¥¹Ì„É•…ÍÍ•ÍÍµ•¹ĞÉ•¥½¸°¹½Ğ…¸…ÕÑ½µ…Ñ¥ŒÑÉ…¹Í…Ñ¥½¸¥¹ÍÑÉÕÑ¥½¸¸9¼‰É½­•É…”ÑÉ…‘”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀä=IPI½‰½Ñ¥Ì…¹½¹¥…°ÑÉ…¹Í…Ñ¥½¸…¹É•ÕÉÉ¥¹œµ•½¹½µ¥Ì‘Õ”‘¥±¥•¹”((´‘‘•É•Í•…É ½Á¡åÍ¥…°µ…¤½™½ÉĞµÉ½‰½Ñ¥Ì¹µ‘€…ÌÑ¡”…¹½¹¥…°=IP½I=½µÁ…¹ä½ÑÉ…¹Í…Ñ¥½¸ÍÕÉ™…”¸(´Y•É¥™¥•€ÈÀÈÔÍÑ…¹‘…±½¹”É•Ù•¹Õ”½˜€ÄÄ¸ÔàÕ´€ ¬ØÈ”¤°€ØØ¸È”É½ÍÌµ…É¥¸°€Ğ¸ÔäÉ´½Á•É…Ñ¥¹œ±½ÍÌ°€ÈÄµ…ÑÕÉ”•¹Ñ•ÉÁÉ¥Í”ÕÍÑ½µ•ÉÌ…¹¹¼ÕÍÑ½µ•È…‰½Ù”€ä”½˜€ÈÀÈÔÉ•Ù•¹Õ”™É½´Ñ¡”Mµ™¥±•¥¹Ù•ÍÑ½ÈÁÉ•Í•¹Ñ…Ñ¥½¸¸(´I•‰Õ¥±ĞÑ¡”…¹¹½Õ¹•¹¼µÉ•‘•µÁÑ¥½¸ÑÉ…¹Í…Ñ¥½¸‰É¥‘”è€ÔÀÁ´=IPÉ½±±½Ù•È•ÅÕ¥Ñä°€ÜĞ¸É´¡•…‘±¥¹”ÁÉ¼µ™½Éµ„Í¡…É•Ì°€ÜĞÈ¸Ñ´•ÅÕ¥ÑäÙ…±Õ”…¹€ÔÔØ¸Ù´X…Ğ€ÄÀ°İ¥Ñ €ÄàÔ¸á´…¹¹½Õ¹•ÁÉ¼µ™½Éµ„¹•Ğ…Í ¸(´5…‘”‘¥±ÕÑ¥½¸•áÁ±¥¥Ğè¡•…‘±¥¹”Í¡…É•Ì•á±Õ‘”€à¸Ù´ÁÕ‰±¥Œİ…ÉÉ…¹ÑÌ°€À¸Í´ÁÉ¥Ù…Ñ”İ…ÉÉ…¹ÑÌ…¹€À¸á´½¹Ñ¥¹•¹ĞÍÁ½¹Í½È•…É¹½ÕĞÍ¡…É•Ìì™¥¹…°™Õ±±ä‘¥±ÕÑ•…Á¥Ñ…±¥é…Ñ¥½¸É•µ…¥¹ÌL´Ğ½É•‘•µÁÑ¥½¸‘•Á•¹‘•¹Ğ¸(´¥ÍÑ¥¹Õ¥Í¡•É•Á•…ĞÕÍÑ½µ•ÈÁÕÉ¡…Í¥¹œ™É½´É•ÕÉÉ¥¹œÍ½™Ñİ…É”•½¹½µ¥Ì¸5…¹…•µ•¹ĞÌ‘•Ñ…¥±••µ‰•‘‘•µÍ½™Ñİ…É”½ÍÕ‰ÍÉ¥ÁÑ¥½¸…Í”¥Ì•áÁ±¥¥Ñ±ä¡åÁ½Ñ¡•Ñ¥…°…¹¥Ì¹½Ğ•Ù¥‘•¹”½˜ÕÉÉ•¹ĞIH½ÈÍÕ‰ÍÉ¥ÁÑ¥½¸…ÑÑ… ¸(´=IPÉ•µ…¥¹Ì€¨©]%P¨¨¸€ŒÄÀàÉ•µ…¥¹Ì•Ù•¹Ğµ…Ñ•½¸Ñ¡”L´Ğ½•ÅÕ¥Ù…±•¹Ğ™¥±¥¹œì€ŒÄÀäÉ•µ…¥¹Ì‰±½­•¸9¼É…¹­¥¹œ½ÍÑ…Ñ”ÁÉ½µ½Ñ¥½¸…¹¹¼‰É½­•É…”ÑÉ…‘”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀÜ•Ù¥‘•¹”µÅÕ…±¥Ñä…Õ‘¥Ğ…¹ÁÉ•‘¥Ñ¥½¸±•‘•ÈƒŠP]…Ù”€Ô((´‘‘•É•Í•…É ½•Ù¥‘•¹”µÅÕ…±¥Ñäµ…Õ‘¥Ğ¹µ‘€è½ÉÁÕÌµ±•Ù•°…ÍÍ•ÍÍµ•¹Ğ…™Ñ•È]…Ù•Ì€ÇŠLĞ°¥¹±Õ‘¥¹œÍÑÉ½¹•È½İ•…­•È½Õ¹¡…¹•½¹±ÕÍ¥½¹Ì…¹„‘•¥Í¥½¸µ¥µÁ…ĞµÉ…¹­•…ÀÅÕ•Õ”¸(´‘‘•É•Í•…É ½ÁÉ•‘¥Ñ¥½¸µ…±¥‰É…Ñ¥½¸µ±•‘•È¹µ‘€è™É½é•¸€ÈĞM•ÁÑ•µ‰•È‘•¥Í¥½¸Í¹…ÁÍ¡½ÑÌ™½ÈÑ¡”±¥Ù”Q½À´ÄÀÁ±ÕÌ=ÕÍÑ•È°İ¥Ñ ÍÑÉÕÑÕÉ…°½½µÁ…¹ä½™¥¹…¹¥…°½•ÅÕ¥Ñä½¹™¥‘•¹”Í•Á…É…Ñ•…¹™ÕÑÕÉ”½ÕÑ½µ”™¥•±‘Ì‘•™¥¹•¸(´!¥¡•ÍĞµ¥µÁ…ĞÉ•Í¥‘Õ…°…ÁÌ…É”=IP…¹½¹¥…±¥é…Ñ¥½¸°•¹ÑÉÕÌ™Õ¹‘•½µµ•É¥…°µ…Á…¥Ñä½Á•ÈµÍ¡…É”‰É¥‘”°1…¥™Õ…°É•Á•…ĞµÕÍÑ½µ•È½…Í ½½µÁ•Ñ¥Ñ¥½¸ÁÉ½½˜°…¹5½‘¥¹”Á½ÍĞµÍ•Á…É…Ñ¥½¸•½¹½µ¥Ì¸(´Q¡”±•‘•ÈÁÉ½¡¥‰¥ÑÌ¡¥¹‘Í¥¡ĞÉ•İÉ¥Ñ¥¹œ…¹¥¹Ù•¹Ñ•¹Õµ•É¥…°ÁÉ½‰…‰¥±¥Ñ¥•ÌìÁÉ¥”ÑÉ¥•ÉÌÉ•µ…¥¸É•…ÍÍ•ÍÍµ•¹ĞÉ•¥½¹ÌÉ…Ñ¡•ÈÑ¡…¸…ÕÑ½µ…Ñ¥ŒÑÉ…¹Í…Ñ¥½¸¥¹ÍÑÉÕÑ¥½¹Ì¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀÜ•Ù¥‘•¹”µÅÕ…±¥Ñä…Õ‘¥Ğ…¹ÁÉ•‘¥Ñ¥½¸±•‘•ÈƒŠP]…Ù”€Ô((´‘‘•…¹½¹¥…°É•Í•…É ½•Ù¥‘•¹”µÅÕ…±¥Ñäµ…Õ‘¥Ğ¹µ‘€…™Ñ•È]…Ù•Ì€ÇŠLĞ…¹É…¹­•Ñ¡”É•Í¥‘Õ…°É•Í•…É …ÁÌ‰ä‘•¥Í¥½¸¥µÁ…Ğ¸(´‘‘•É•Í•…É ½ÁÉ•‘¥Ñ¥½¸µ…±¥‰É…Ñ¥½¸µ±•‘•È¹µ‘€…¹™É½é”Ñ¡”€ÈĞM•ÁÑ•µ‰•È±¥Ù”…Ñ”µ‘•¥Í¥½¹ÌÍ¼±…Ñ•È½ÕÑ½µ•Ì…¸‰”½µÁ…É•İ¥Ñ Ñ¡”•Ù¥‘•¹”…Ù…¥±…‰±”…Ğ‘•¥Í¥½¸Ñ¥µ”¸(´Õ‘¥ĞÉ•ÍÕ±Ğè½Ù•É¹…¹”½‰½ÑÑ±•¹•¬•Ù¥‘•¹”¥ÌÍÑÉ½¹œì½µÁ…¹ä…ÁÑÕÉ”…¹™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä…É”Õ¹•Ù•¸ìÉ•µ…¥¹¥¹œµİ¥¹‘½ÜÉ•ÑÕÉ¸ÁÉ•¥Í¥½¸…¹¡¥ÍÑ½É¥…°…±¥‰É…Ñ¥½¸…É”Ñ¡”İ•…­•ÍĞ±…å•ÉÌ¸(´MÑÉ½¹•È½‰•ÑÑ•ÈÍÕÁÁ½ÉÑ•…™Ñ•È…±¥‰É…Ñ¥½¸èE9`‰ÕÍ¥¹•ÍÌÅÕ…±¥Ñä°5)½Á•É…Ñ¥¹œÅÕ…±¥Ñä°5½‘¥¹”•Ù¥‘•¹”µÑ¼µ™¥¹…¹¥…°‰É¥‘”°1…¥™Õ…°ÕÉÉ•¹Ğ½Á•É…Ñ¥¹œ…ÁÑÕÉ”¸5½É”½¹‘¥Ñ¥½¹…°è•¹ÑÉÕÌ•ÅÕ¥Ñä½¹Ù•ÉÍ¥½¸°]••‰¥ĞÉ½å…±Ñä•½¹½µ¥Ì°=ÕÍÑ•È¹½Éµ…±¥é••½¹½µ¥Ì°=IPÑÉ…¹Í…Ñ¥½¸•½¹½µ¥Ì¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•Í½±•±ä™É½´Ñ¡”…Õ‘¥Ğ¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀĞ]…Ù”€ÔÑ•ÍÑ¥¹œƒŠP½ÉÁÕÌ…Õ‘¥Ğ…¹…±¥‰É…Ñ¥½¸±•‘•È((´A•É™½Éµ•„™…¥°µ±½Í•ÍÑÉÕÑÕÉ…°½Ù•É…”Ñ•ÍĞ…™Ñ•È]…Ù•Ì€ÇŠLĞÉ…Ñ¡•ÈÑ¡…¸…ÍÍÕµ¥¹œÑ¡”É•ÑÉ½™¥Ğİ…Ì½µÁ±•Ñ”¸(´Q•ÍĞ™½Õ¹€äĞÉ•Í•…É µ…É­‘½İ¸™¥±•Ìè€ÈØ½µÁ…¹ä°€ÌÀ‘••Àµ‘¥Ù”°€ØÉ½ÍÌµÑ¡•µ”½…ÁÑÕÉ”½É…¹­¥¹œ…¹€ÌÈÉ•Í¥‘Õ…°™¥±•Ì¸	•…ÕÍ”É•Í¥‘Õ…°™¥±•Ì¥¹±Õ‘”‘•¥Í¥½¸µ‰•…É¥¹œÍ¥•¹Ñ¥™¥Œµ$°•Ù…±Õ…Ñ¥½¸½Ù•É¥™¥…Ñ¥½¸°™ÕÍ¥½¸°Á½ÉÑ™½±¥¼°Ñ¡•Í¥Ì…¹…±±½…Ñ¥½¸İ½É¬°€ŒÄäØÉ•µ…¥¹Ì½Á•¸¸(´‘‘•É•Í•…É ½•Ù¥‘•¹”µÅÕ…±¥Ñäµ½ÉÁÕÌµ…Õ‘¥Ğ¹µ‘€İ¥Ñ •áÁ±¥¥ĞAML€¼AIQ%0AML€¼%0µ1=MÑ•ÍÑÌ¸(´‘‘•É•Í•…É ½‘•¥Í¥½¸µ½ÕÑ½µ”µ…±¥‰É…Ñ¥½¸µ±•‘•È¹µ‘€…¹Í••‘•Ñ¡”ÕÉÉ•¹Ğ±¥Ù”Q½À´ÄÀ‘•¥Í¥½¸ÍÑ…Ñ•Ì½ÑÉ¥•ÉÌÍ¼±…Ñ•È½ÕÑ½µ•Ì…¸‰”½µÁ…É•İ¥Ñ ™É½é•¸‘•¥Í¥½¸µ‘…Ñ”•áÁ•Ñ…Ñ¥½¹Ì¸(´Q•ÍÑ¥¹œ½¹™¥Éµ•½Ù•É¹…¹”…¹É•…Í½¹¥¹œµ¥¹Ñ•É¥Ñä½¹ÑÉ½±Ì°İ¡¥±”•áÁ½Í¥¹œ¥¹½µÁ±•Ñ”‘•¹½µ¥¹…Ñ½È½Ù•É…”…¹É•Í¥‘Õ…°™…±Í”µÁÉ•¥Í¥½¸½Í½ÕÉ”µ™É•Í¡¹•ÍÌİ½É¬¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•™É½´Ñ•ÍÑ¥¹œ¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀÈ•Ù¥‘•¹”µ¡…¥¸É•ÑÉ½™¥ĞƒŠP]…Ù”€Ğ((´ÁÁ±¥•Ñ¡”€ŒÄäÌ¼ŒÄäØ…±¥‰É…Ñ¥½¸‰½Õ¹‘…Éä…É½ÍÌÑ¡”½µÁ±•Ñ”€ÌÀµ™¥±”Ñ•¡¹¥…°½‘••Àµ‘¥Ù”½ÉÁÕÌè•¹•Éä°µ•µ½Éä°A¡åÍ¥…°$…¹É½‰½Ñ¥Ì½…ÑÕ…Ñ½ÉÌ¸(´••À‘¥Ù•Ì¹½Ü•áÁ±¥¥Ñ±äÍ•Á…É…Ñ”Ñ•¡¹¥…°‰½ÑÑ±•¹•¬•Ù¥‘•¹”™É½´İ¡•É”Ñ¡”•½¹½µ¥ŒÁÉ½™¥ĞÁ½½°±…¹‘ÌìÉ•ÅÕ¥É”Í½ÕÉ”½™É•Í¡¹•ÍÌ‘¥Í¥Á±¥¹”ì…¹Ñ•ÍĞÍÕÁÁ±äÉ•ÍÁ½¹Í”°ÍÕ‰ÍÑ¥ÑÕÑ¥½¸°Ù•ÉÑ¥…°¥¹Ñ•É…Ñ¥½¸°½µµ½‘¥Ñ¥é…Ñ¥½¸…¹…±Ñ•É¹…Ñ¥Ù”ÁÉ½•ÍÌÁ…Ñ¡Ì…Ì…Ñ¥Ù”½Õ¹Ñ•Èµ•Ù¥‘•¹”¸(´=ÕÍÑ•ÈÉ••¥Ù•„½µÁ…¹äµÍÁ•¥™¥ŒÍ•¹Í¥¹œ½…ÁÑÕÉ”…±¥‰É…Ñ¥½¸ìE9`É•Ñ…¥¹ÌÑ¡”É¥¡•È…Ñ”µ…±¥‰É…Ñ¥½¸…±É•…‘ä…‘‘•¥¸]…Ù”€ÄÉ…Ñ¡•ÈÑ¡…¸‘ÕÁ±¥…Ñ¥¹œ„•¹•É¥Œ‰±½¬¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•™É½´Ñ¡”É•ÑÉ½™¥Ğ¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÈÀÀ•Ù¥‘•¹”µ¡…¥¸É•ÑÉ½™¥ĞƒŠP]…Ù”€Ì((´…±¥‰É…Ñ•Í¥àÉ½ÍÌµÑ¡•µ”½…ÁÑÕÉ”½É…¹­¥¹œÍÕÉ™…•ÌÕ¹‘•È€ŒÄäÌ¼ŒÄäØ¸(´5…‘”Ñ¡”‰½Õ¹‘…Éä•áÁ±¥¥Ğ‰•Ñİ••¸Ñ•¡¹¥…°Í…É¥Ñä…¹¥¹Ù•ÍÑ…‰±”ÁÕ‰±¥Œµ•ÅÕ¥Ñä…ÁÑÕÉ”°…‘‘•‰½ÑÑ±•¹•¬µµ¥É…Ñ¥½¸½ÍÕ‰ÍÑ¥ÑÕÑ¥½¸…Ì…Ñ¥Ù”½Õ¹Ñ•Èµ•Ù¥‘•¹”°…¹Í•Á…É…Ñ•‘½Õµ•¹Ğ™É•Í¡¹•ÍÌ™É½´½‰Í•ÉÙ…Ñ¥½¸™É•Í¡¹•ÍÌ¸(´É½ÍÌµÑ¡•µ”É…¹¬…±½¹”…¹¹½ĞÁÉ½µ½Ñ”„½µÁ…¹äì½µÁ…¹ä…ÁÑÕÉ”°™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä°Ù…±Õ…Ñ¥½¸…¹Á½ÉÑ™½±¥¼½ÉÉ•±…Ñ¥½¸É•ÅÕ¥É”Ñ¡•¥È½İ¸•Ù¥‘•¹”¡…¥¸¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•™É½´Ñ¡¥ÌÉ•ÑÉ½™¥Ğ¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄäà•Ù¥‘•¹”µ¡…¥¸É•ÑÉ½™¥ĞƒŠP]…Ù”€È((´ÁÁ±¥•Ñ¡”€ŒÄäÌ…±¥‰É…Ñ¥½¸‰½Õ¹‘…ÉäÑ¼…±°€ÄàÉ•µ…¥¹¥¹œ…¹½¹¥…°•¹•Éä½µ•µ½Éä½µÁ…¹ä™¥±•Ì…™Ñ•È±¥Ù”…Ñ”µ]…Ù”€Ä¸(´… ™¥±”¹½Ü‘¥ÍÑ¥¹Õ¥Í¡•Ì½‰Í•ÉÙ•Ñ¡•µ”½½µÁ…¹ä•Ù¥‘•¹”™É½´™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä…¹ÍÑ½¬µ±•Ù•°¥¹™•É•¹”°É•ÅÕ¥É•Ì•Ù¥‘•¹”µ™É•Í¡¹•ÍÌ½Í½ÕÉ”µÅÕ…±¥Ñä‘¥Í¥Á±¥¹”°…¹…ÉÉ¥•Ì…¸•áÁ±¥¥Ğ½Õ¹Ñ•Èµ…Í”……¥¹ÍĞ…ÍÍÕµ¥¹œÑ¡…Ğ„½ÉÉ•ĞÑ¡•µ”…ÕÑ½µ…Ñ¥…±±äÁÉ½‘Õ•Ì…ÑÑÉ…Ñ¥Ù”•ÅÕ¥Ñä•½¹½µ¥Ì¸(´Q¡”É•ÑÉ½™¥Ğ‘½•Ì¹½ĞÉ•…Ñ”Q%=8ÍÑ…Ñ•Ì½ÈÁ½¥¹ĞÙ…±Õ…Ñ¥½¸Ñ¡É•Í¡½±‘Ìì™ÕÑÕÉ”…Ñ”µÁÉ½µ½Ñ¥½¸É•ÅÕ¥É•Ì„½Ù•É¹•Õ¹‘•ÉİÉ¥Ñ”İ¥Ñ Ù…±Õ…Ñ¥½¸‰…¹‘Ì½Í•¹Í¥Ñ¥Ù¥Ñä…¹„™Õ¹‘…µ•¹Ñ…°µÙ•ÉÍÕÌµÉ•É…Ñ¥¹œ‰É¥‘”¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄäØ•Ù¥‘•¹”µ¡…¥¸É•ÑÉ½™¥ĞƒŠP]…Ù”€Ä((´áÑ•¹‘•Ñ¡”€ŒÄäÌ¼ŒÄäÔ•Ù¥‘•¹”µ¡…¥¸…±¥‰É…Ñ¥½¸™É½´1…¥™Õ…°…É½ÍÌ•¥¡Ğ…‘‘¥Ñ¥½¹…°±¥Ù”…Ñ”µÉ•Í•…É ™¥±•Ìè•¹ÑÉÕÌ°5½‘¥¹”½5½‘•áÕÌ°	±…­	•ÉÉä½E9`°)4°MUML°!…¥¹…¸)¥¹Á…¸°]••‰¥Ğ9…¹¼…¹5¥É½¹¥Ì)…Á…¸¸(´… É•ÑÉ½™¥ĞÍ•Á…É…Ñ•ÌÍÑÉÕÑÕÉ…°‘•µ…¹°½µÁ…¹ä…ÁÑÕÉ”°™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä…¹É•µ…¥¹¥¹œµİ¥¹‘½Ü•ÅÕ¥Ñä½¹™¥‘•¹”ì¥‘•¹Ñ¥™¥•ÌÑ¡”ÍÑÉ½¹•ÍĞİ•…¬½‘¥Í½¹™¥Éµ¥¹œ‰É¥‘”ìÑÉ•…ÑÌ½Ù•É¹•ÁÉ¥”½¹‘¥Ñ¥½¹Ì…ÌÉ•…ÍÍ•ÍÍµ•¹ĞÉ•¥½¹ÌÉ…Ñ¡•ÈÑ¡…¸™…±Í•±äÁÉ•¥Í”¥¹ÑÉ¥¹Í¥ŒÙ…±Õ•Ìì…¹Í•Á…É…Ñ•Ì™Õ¹‘…µ•¹Ñ…°™É½´É•É…Ñ¥¹œ‘•Á•¹‘•¹”¸(´9¼½µÁ…¹äÍÑ…Ñ”¡…¹•Í½±•±ä‰•…ÕÍ”½˜Ñ¡”µ•Ñ¡½‘½±½äÉ•ÑÉ½™¥Ğ¸(´=IPÉ•µ…¥¹Ì¥¸]…Ù”€ÄÍ½Á”‰ÕĞ¥ÑÌÕÉÉ•¹Ğ•Ù¥‘•¹”¥Ì‘¥ÍÑÉ¥‰ÕÑ•…É½ÍÌÑ¡”A¡åÍ¥…°µ$ÁÉ½É…µµ”½¥ÍÍÕ•ÌÉ…Ñ¡•ÈÑ¡…¸„…¹½¹¥…°½µÁ…¹ä™¥±”ì¥ÑÌ…¹½¹¥…±¥é…Ñ¥½¸İ¥±°‰”¡…¹‘±••áÁ±¥¥Ñ±äÉ…Ñ¡•ÈÑ¡…¸¥¹Ù•¹Ñ¥¹œ„™¥±”Á…Ñ ¸(´1…¥™Õ…°İ…Ì½µÁ±•Ñ•Í•Á…É…Ñ•±ä¥¸€ŒÄäÔ¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ€ŒÄäÌ•Ù¥‘•¹”µ¡…¥¸Á¥±½ĞƒŠP1…¥™Õ…°((´A¥±½Ñ•Ñ¡”¹•Ü•Ù¥‘•¹”µ¡…¥¸½…±¥‰É…Ñ¥½¸ÍÑ…¹‘…É½¸1…¥™Õ…°°Ñ¡”½¹±äÕÉÉ•¹Ğ½Ù•É¹•Q%=8µ½¹¥Ñ½È¸(´M•Á…É…Ñ•‘¥É•Ğ½Á•É…Ñ¥¹œµ…ÁÑÕÉ”•Ù¥‘•¹”™É½´İ•…­•È‘ÕÉ…‰±”µ…Í …¹5…É ´ÈÀÈà•ÅÕ¥Ñä•Ù¥‘•¹”¸(´I•™É…µ•€ğõ!,Ğà…ÌÑ¡”ÕÁÁ•È•‘”½˜Ñ¡”•á¥ÍÑ¥¹œ!,Ğ×ŠLĞà½Ù•É¹••¹ÑÉä‰…¹É…Ñ¡•ÈÑ¡…¸„™…±Í•±äÁÉ•¥Í”¥¹ÑÉ¥¹Í¥ŒµÙ…±Õ”Á½¥¹Ğ¸(´‘‘•±…å•É•½¹™¥‘•¹”°ÍÑÉ½¹•ÍĞ‘¥Í½¹™¥Éµ¥¹œ•Ù¥‘•¹”°•Ù¥‘•¹”™É•Í¡¹•ÍÌ…¹™Õ¹‘…µ•¹Ñ…°µÙ•ÉÍÕÌµÉ•É…Ñ¥¹œ‰É¥‘”¸(´UÁ‘…Ñ•Ñ¡”É•ÕÍ…‰±”½µÁ…¹äÑ•µÁ±…Ñ”Í¼™ÕÑÕÉ”…Ñ”µİ½É¬…¸ÕÍ”Ñ¡”Í…µ”ÍÑÉÕÑÕÉ”¸(´A¥±½Ğ‘¥€¨©¹½Ğ¨¨¡…¹”1…¥™Õ…°ÌÕÉÉ•¹Ğ€Ô”ÍÑ…ÉÑ•Èµ½¹±ä½¹±ÕÍ¥½¸…¹‘¥¹½ĞÁ±…”„‰É½­•É…”ÑÉ…‘”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒÙ¥‘•¹”µÅÕ…±¥Ñä…¹…±¥‰É…Ñ¥½¸‰…­±½œ((´‘‘•€ŒÄäÌ…Ì„Id@Å€É•Í•…É µ½Ù•É¹…¹”½Á½ÉÑ™½±¥¼µ…±¥‰É…Ñ¥½¸¥Ñ•´…™Ñ•È„‘•Ñ…¥±••Ù¥‘•¹”…Õ‘¥Ğ¸(´½Õµ•¹Ñ•Ñ¡”…Ñ”µ€¨©±…¥´€´ø•Ù¥‘•¹”€´ø¥¹™•É•¹”€´ø…Ñ¥½¸¨¨ÍÑ…¹‘…É…¹Í•Á…É…Ñ”½¹™¥‘•¹”±…å•ÉÌ™½ÈÍÑÉÕÑÕÉ…°‰½ÑÑ±•¹•¬°½µÁ…¹ä…ÁÑÕÉ”°™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä…¹É•µ…¥¹¥¹œµİ¥¹‘½Ü•ÅÕ¥Ñä…Í”¸(´‘‘••áÁ±¥¥Ğ½Õ¹Ñ•Èµ•Ù¥‘•¹”°•Ù¥‘•¹”µ™É•Í¡¹•ÍÌ°Ù…±Õ…Ñ¥½¸µ‰…¹½Í•¹Í¥Ñ¥Ù¥Ñä…¹•…É¹¥¹ÌµÙ•ÉÍÕÌµÉ•É…Ñ¥¹œÉ•ÅÕ¥É•µ•¹ÑÌ¸(´ÍÑ…‰±¥Í¡•‘•¥Í¥½¸½½ÕÑ½µ”¡¥ÍÑ½Éä…ÌÑ¡”‰…Í¥Ì™½È™ÕÑÕÉ”…±¥‰É…Ñ¥½¸É…Ñ¡•ÈÑ¡…¸Õ¹ÍÕÁÁ½ÉÑ•¹Õµ•É¥…°ÁÉ½‰…‰¥±¥Ñ¥•Ì¸(´	É½…‘¥Í½Ù•Éä¥Ì‘•ÁÉ¥½É¥Ñ¥é•‰•¡¥¹€ŒÄäÌÕ¹±•ÍÌ„ÍÁ•¥™¥Œ¹•ÜÍ¥¹…°½Õ±µ…Ñ•É¥…±±ä¡…¹”…±±½…Ñ¥½¸¸(´9¼½µÁ…¹äÍÑ…Ñ”½È‰É½­•É…”ÑÉ…‘”¡…¹•™É½´Ñ¡¥Ìµ•Ñ¡½‘½±½äÕÁ‘…Ñ”¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒA½ÉÑ™½±¥¼…¹½¹¥…°µÍÕÉ™…”±•…¹ÕÀ((´I•µ½Ù•Ñ¡”ÍÑ…±”€ÄÔM•À½µÁ…¹ä‘•¥Í¥½¸ÍÕÉ™…”…¹•…É±äÉ”µÉ…¹¬™É½´A=IQ=1%<¹µ‘€¸(´A=IQ=1%<¹µ‘€¹½Ü‘•™•ÉÌ±¥Ù”É…¹¬½ÑÉ¥•ÈÍÑ…Ñ”Ñ¼É•Í•…É ½Ñ½ÀÄÀµÕ¹¥½É¸µÁÉ¥½É¥Ñä¹µ‘€°UQ=5Q%=8¹µ‘€…¹±¥Ù”¥ÍÍÕ”µ•Ñ…‘…Ñ„°É•‘Õ¥¹œ™ÕÑÕÉ”ÍÑ…Ñ”‘É¥™Ğ¸(´AÉ•Í•ÉÙ•½¹±äÑ¡”ÕÉÉ•¹Ğ€ÈĞM•ÀÁ½ÉÑ™½±¥¼¥¹Ñ•ÉÁÉ•Ñ…Ñ¥½¸è1…¥™Õ…°½¹‘¥Ñ¥½¹…°ÍÑ…ÉÑ•È°•¹ÑÉÕÌ½5½‘¥¹”…Ì±•…‘¥¹œ¥¹‘•Á•¹‘•¹Ğ…±Ñ•É¹…Ñ¥Ù•Ì°E9`…¹=ÕÍÑ•È¥¸IMMML€¼]%P¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ	…­±½œ…¹…¹½¹¥…°µ‘½Œ¡å¥•¹”((´I•½¹¥±•±¥Ù”¥ÍÍÕ”µ•Ñ…‘…Ñ„İ¥Ñ µ•É•İ½É¬èE9`€ŒÄÀØµ½Ù•™É½´ÍÑ…±”IU99%9Ñ¼Á½ÍĞµDÈ]%Q%9ì5)€ŒÄÈàÍÑ…±”AHµÉ•µ•‘¥…Ñ¥½¸Ñ•áĞİ…ÌÉ•µ½Ù•ì€ŒÄÄÀ¹½ÜÁ½¥¹ÑÌÑ¼Ñ¡”…¹½¹¥…°±¥Ù”É…¹­¥¹œ¥¹ÍÑ•…½˜…ÉÉå¥¹œ„‘É¥™Ñ¥¹œ€äM•ÀÍ¹…ÁÍ¡½Ğ¸(´I•™É•Í¡•I5½UQ=5Q%=8½A=IQ=1%<ÍÕÉ™…•Ì…™Ñ•ÈÑ¡”E9`…¹=ÕÍÑ•È€ÈĞM•Àİ½É¬…¹Ñ¡”Í…É”µ½µÁ±•µ•¹ÑÌÉ•µ…À¸(´MÑ…Ñ¥Œ‘½Õµ•¹Ñ…Ñ¥½¸¹½Ü‘•™•ÉÌÑ¼±¥Ù”¥ÍÍÕ”µ•Ñ…‘…Ñ„€¼É•Í•…É ½Ñ½ÀÄÀµÕ¹¥½É¸µÁÉ¥½É¥Ñä¹µ‘€İ¡•É”‘ÕÁ±¥…Ñ¥½¸İ…ÌÉ•…Ñ¥¹œ‘É¥™Ğ¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ=ÕÍÑ•È…Ñ”µÙ…±Õ…Ñ¥½¸((´AÉ½µ½Ñ•€ŒÄàÜ…Ñ”µİ½É¬¥¹Ñ¼€ŒÄàä‰½Õ¹‘•…Ñ”µÙ…±Õ…Ñ¥½¸…™Ñ•ÈAH€ŒÄààÁ…ÍÍ•½Ù•É¹…¹”…¹µ•É•¸(´9½Éµ…±¥é•DÈ¡•…‘±¥¹”€Ğä”@É½ÍÌµ…É¥¸™½ÈÑ¡”‘¥Í±½Í•ULÔ¸Ñ´%A‘ÕÑäÉ•™Õ¹ìµ•¡…¹¥…°•àµÉ•™Õ¹µ…É¥¸¥ÌøÌä”°µ…­¥¹œµ…É¥¸ÅÕ…±¥Ñä„­•äÑ¡•Í¥ÌÙ…É¥…‰±”¸(´‘‘•Í¡…É”µ½Õ¹Ğ½‘¥±ÕÑ¥½¸‰É¥‘”°)Õ±äULÈÀÁ´•ÅÕ¥ÑäÉ…¥Í”½¹Ñ•áĞ°€ÈÀÈÜ‰•…È½‰…Í”½ÕÁÍ¥‘”½Á•É…Ñ¥¹œÍ•¹…É¥½Ì…¹5…É ´ÈÀÈàÙ…±Õ…Ñ¥½¸Í•¹Í¥Ñ¥Ù¥Ñ¥•Ì¸(´ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸è€¨©IMMML€¼]%PƒŠP¹¼Q½À´ÄÀÁÉ½µ½Ñ¥½¸¨¨¸AÉ¥”µ±•™¥ÉÍĞÉ”µÕ¹‘•ÉİÉ¥Ñ”é½¹”€ğõùULÈÔìULÈ×ŠLÌÀ…Ñ¥Ù”İ…Ñ ì…‰½Ù”ULÌÀÉ•ÅÕ¥É•ÌÁÉ½É•ÍÍ¥Ù•±äÍÑÉ½¹•È•Ù¥‘•¹”¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ=ÕÍÑ•ÈÍ•¹Í¥¹œ½Á•É•ÁÑ¥½¸…Ñ”µ((´á•ÕÑ•€ŒÄàÜ…™Ñ•È€ŒÄÜÌÍ•¹Í¥¹œµ…Àµ•É•Ù¥„AH€ŒÄàØ¸(´‘‘•É•Í•…É ½Á¡åÍ¥…°µ…¤½‘••Àµ‘¥Ù•Ì½½ÕÍÑ•È¹µ‘€¸(´=ÕÍÑ•È±•…ÉÌ…Ñ”µ™½È„‰½Õ¹‘•…Ñ”µÙ…±Õ…Ñ¥½¸Õ¹‘•ÉİÉ¥Ñ”èDÈÉ•Ù•¹Õ”ULÔÕ´€ ¬ÔØ”ä½ä¤°ÁÉ½‘ÕĞÉ•Ù•¹Õ”ULÔÍ´€ ¬ÔÄ”¤°€øÄİ¬½µ‰¥¹•Í•¹Í½ÈÍ¡¥Áµ•¹ÑÌ°€Ğä”@É½ÍÌµ…É¥¸…¹ULÈØÍ´±¥ÅÕ¥‘¥Ñä¸(´MÑ•É•½±…‰Ì•áÁ…¹‘ÌÑ¡”Ñ¡•Í¥Ì™É½´‘¥ÍÉ•Ñ”±¥‘…È¥¹Ñ¼…µ•É…Ì°$½µÁÕÑ”°Í•¹Í½È™ÕÍ¥½¸…¹Á•É•ÁÑ¥½¸Í½™Ñİ…É”°‰ÕĞÍ½™Ñİ…É”½É•Ñ•¹Ñ¥½¸½ÁÉ¥¥¹œ…ÁÑÕÉ”É•µ…¥¹ÌÕ¹ÁÉ½Ù•¸¸(´ÕÉÉ•¹Ğ±…ÍÍ¥™¥…Ñ¥½¸è€¨©AI=5=QQ<QµIMI €¼¹¼Q½À´ÄÀ¡…¹”å•Ğ¨¨¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒM•¹Í¥¹œ€¼Á¡åÍ¥…°µİ½É±‘…Ñ„‰½ÑÑ±•¹•¬µ…À((´á•ÕÑ•€ŒÄÜÌ™¥ÉÍĞµÁ…ÍÌÍ…É”µ½µÁ±•µ•¹ĞÍÉ••¸…™Ñ•ÈÑ¡”¥Ñ!ÕˆİÉ¥Ñ”Á…Ñ É•½Ù•É•¸(´‘‘•É•Í•…É ½É½ÍÌµÑ¡•µ”½Í•¹Í¥¹œµ‰½ÑÑ±•¹•­Ì¹µ‘€…¹É•©•Ñ••¹•É¥Œ€‰Í•¹Í½ÉÌ‰•¹•™¥Ğ™É½´A¡åÍ¥…°$ˆ…Ì¥¹ÍÕ™™¥¥•¹Ğ¸(´%‘•¹Ñ¥™¥•€Í±¥‘…È½Á•É•ÁÑ¥½¸…¹¥¹‘ÕÍÑÉ¥…°µ…¡¥¹”Ù¥Í¥½¸½‘•ÁÑ …ÌÑ¡”™¥ÉÍĞÑİ¼•½¹½µ¥Œµ…ÁÑÕÉ”±…¹•ÌÑ¼Õ¹‘•ÉİÉ¥Ñ”¸(´=ÕÍÑ•È‰•½µ•ÌÑ¡”™¥ÉÍĞ@Ä…Ñ”µ…¹‘¥‘…Ñ”‰•…ÕÍ”DÈ€ÈÀÈØÁÉ½‘ÕĞÉ•Ù•¹Õ”É•Ü€ÔÄ”ä½äİ¥Ñ €øÄÜ°ÀÀÀÍ•¹Í½ÉÌÍ¡¥ÁÁ•°‰ÕĞÁÉ½™¥Ñ…‰¥±¥Ñä°¹½Éµ…±¥é•µ…É¥¸°M@½Ù½±Õµ”°Íİ¥Ñ¡¥¹œ½ÍÑÌ…¹Í½™Ñİ…É”…ÁÑÕÉ”ÍÑ¥±°É•ÅÕ¥É”ÁÉ½½˜¸(´½¹•à½I•…±M•¹Í”‰•½µ•ÌÑ¡”Í•½¹@Ä•Ù•¹ĞÕ¹‘•ÉİÉ¥Ñ”…™Ñ•ÈÑ¡”€ÈÈM•À‘•™¥¹¥Ñ¥Ù”…ÅÕ¥Í¥Ñ¥½¸…É••µ•¹Ğ¸(´9¼ÍÑ½¬É…¹­¥¹œ½ÈÁ½ÉÑ™½±¥¼…Ñ¥½¸¡…¹•ì¹¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈĞ((ŒŒŒ	±…­	•ÉÉä€¼E9`dÈÜDÈ…Ñ”µÉ•™É•Í ((´=Á•¹•€ŒÄàÌ…¹½µÁ±•Ñ•„@ÀÁ½ÍĞµÉ•ÍÕ±ÑÌÕ¹‘•ÉİÉ¥Ñ”Í•Á…É…Ñ¥¹œE9`™Õ¹‘…µ•¹Ñ…±Ì™É½´Ñ¡”€ÈĞM•À•Ù•¹ĞµÑÉ…‘”½ÕÑ½µ”¸(´E9`DÈ•Ù¥‘•¹”µ…Ñ•É¥…±±ä¥µÁÉ½Ù•ÌèULàÀ¸Í´É•Ù•¹Õ”€ ¬ÈÜ”ä½ä¤°€àÜ”É½ÍÌµ…É¥¸°ULÈå´…‘©ÕÍÑ•	%Q€ ¬ĞÄ”¤°É…¥Í•dÈÜE9`Õ¥‘…¹”°É½å…±Ñäµ‰…­±½œ½¹Ù•ÉÍ¥½¸…¹Ñ¡”™¥ÉÍĞ½±…É•ÍĞ±±½ä-½É”‘•Í¥¸İ¥¸¸(´‘‘•ULĞÀÁ´€¼ULÔÀÁ´€¼ULØÔÁ´E9`É•Ù•¹Õ”Í•¹…É¥½Ì°•áÁ±¥¥Ğµ…É¥¸…ÍÍÕµÁÑ¥½¹Ì°‰…­±½œ½½¹Ñ•¹ĞµÁ•ÈµÙ•¡¥±”Õ…É‘É…¥±Ì…¹„	±…­	•ÉÉäM=Q@Í•¹Í¥Ñ¥Ù¥Ñä¸(´ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸è€¨©IMMML€¼]%PƒŠP¹½ĞQ%=8…ĞùULà¸ÏŠLà¸Ô¨¨¸E9`ÅÕ…±¥Ñä¥Ì¡¥¡•È°‰ÕĞÕÉÉ•¹Ğ•ÅÕ¥ÑäÙ…±Õ”…±É•…‘äÉ•ÅÕ¥É•ÌÍÕ‰ÍÑ…¹Ñ¥…°ÍÕ•ÍÌì€ğõùULÜ¥ÌÑ¡”™¥ÉÍĞÁÉ¥”µ±•É”µÕ¹‘•ÉİÉ¥Ñ”ÑÉ¥•È…‰Í•¹ĞÍÑÉ½¹•È•Ù¥‘•¹”¸(´E9`É•µ…¥¹Ì€ŒĞ¥¸Ñ¡”±¥Ù”Q½À´ÄÀÉ…Ñ¡•ÈÑ¡…¸‰•¥¹œÁÉ½µ½Ñ•Í½±•±ä½¸Ñ¡”•…É¹¥¹Ì‰•…Ğ¸(´I•½É‘•Ñ¡”•Ù•¹ĞµÑÉ…‘”±•ÍÍ½¸è™Õ¹‘…µ•¹Ñ…°•Ù¥‘•¹”…¸¥µÁÉ½Ù”İ¡¥±”¥µµ•‘¥…Ñ”ÁÉ¥”É•ÍÁ½¹Í”É•µ…¥¹Ìİ•…¬ì™ÕÑÕÉ”•Ù•¹ĞÑÉ…‘•ÌÉ•ÅÕ¥É”‰½Ñ •Ù¥‘•¹”ÍÕÉÁÉ¥Í”…¹µ¥ÍÁÉ¥¥¹œ¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•‰äÑ¡”É•Á½Í¥Ñ½Éä¸((ŒŒ€ÈÀÈØ´Àä´ÈÌ((ŒŒŒ1…¥™Õ…°É•Á•…ĞQ%=8ÑÉ¥•È‘••Á•¹•((´I”µÕ¹‘•ÉİÉ½Ñ”€ŒàØ…™Ñ•È…¸•á•ÕÑ…‰±”!,ĞØ¸ÄÀÅÕ½Ñ”É”µ™¥É•Ñ¡”½Ù•É¹•€ğõ!,Ğà…Ñ¥½¸½¹‘¥Ñ¥½¸¸(´É•Í ¥ÍÍÕ•ÈÍ…¸™½Õ¹¹¼¹•Ü½µÁ…¹äµ±•Ù•°½Á•É…Ñ¥¹œ½È™¥¹…¹¥¹œ‘¥Í±½ÍÕÉ”Ñ¡…Ğ‰É•…­ÌÑ¡” ÄÑ¡•Í¥ÌìÙ½±Õµ”°ÕÑ¥±¥é…Ñ¥½¸°Õ¹¥Ğµ½ÍĞ…¹µ…É¥¸•Ù¥‘•¹”É•µ…¥¸¥¹Ñ…Ğ¸(´‘‘•„ÍÑÉ½¹•È½µÁ•Ñ¥Ñ¥½¸ÍÑÉ•ÍÌÑ•ÍĞè1…¥™Õ…°¡¥ÍÑ½É¥…±±äÕÍ•±½İ•ÈMAÌÑ¼İ¥¸Í¡…É”°İ¡¥±”Í•½¹‘…Éä¥¹‘ÕÍÑÉäİ½É¬Á½¥¹ÑÌÑ¼É…Á¥¡¥¹•Í”¡…Éµ½¹¥ŒµÉ•‘Õ•È…Á…¥Ñä•áÁ…¹Í¥½¸Ñ¡É½Õ €ÈÀÈÜ¸I•‘Õ•ÈÍ…É¥Ñä¥ÌÑ¡•É•™½É”İ•…­•¹¥¹œ•Ù•¸…Ì1…¥™Õ…°Ì½µÁ…¹äµÍÁ•¥™¥Œ½Á•É…Ñ¥¹œ…ÁÑÕÉ”¥µÁÉ½Ù•Ì¸(´Ğ!,ĞØ¸ÄÀÑ¡”•á¥ÍÑ¥¹œÍ•¹…É¥¼•½µ•ÑÉä¥µÁÉ½Ù•ÌÑ¼É½Õ¡±ä€´ĞØ”Ñ¼€´ÈĞ”‰•…È€¼€¬Ää”Ñ¼€¬ØÌ”‰…Í”€¼€¬ÄÀØ”Ñ¼€¬ÄÜÄ”ÕÁÍ¥‘”ìÑ¡”ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸É•µ…¥¹Ì€¨©Q%=8ƒŠP€Ô”ÍÑ…ÉÑ•È½¹±ä¨¨°¹½Ğ…¸¥¹É•…Í”¥¸½¹Ù¥Ñ¥½¸¸(´9¼…‘…‰½Ù”€Ô”İ¥Ñ¡½ÕĞ™É•Í É•Á•…ĞµÕÍÑ½µ•È°µ…É¥¸‘ÕÉ…‰¥±¥Ñä°‰…­±½œµ½¹Ù•ÉÍ¥½¸…¹Á½Í¥Ñ¥Ù”…Í •Ù¥‘•¹”¸9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸(((ŒŒŒM¥µÕ±…Ñ¥½¸€¼•Ù…±Õ…Ñ¥½¸€¼Ù•É¥™¥…Ñ¥½¸•½¹½µ¥Ì((´½µÁ±•Ñ•€ŒÄÜÈ‰½ÑÑ±•¹•¬½…ÁÑÕÉ”µ…À…É½ÍÌ•¹•É¥ŒÍ¥µÕ±…Ñ¥½¸°‘½µ…¥¸µ…±¥‰É…Ñ•‘¥¥Ñ…°Ñİ¥¹Ì°Í•¹…É¥¼½½Ù•É…”…ÍÍ•ÑÌ…¹½¹Ñ¥¹Õ½ÕÌÉ•±•…Í”…Ñ¥¹œ¸(´5•‘¥Õ´µ½¹™¥‘•¹”½¹±ÕÍ¥½¸è€¨©ÑÉÕÍÑ•É•ÕÉÉ¥¹œÉ•±•…Í”½ÅÕ…±¥™¥…Ñ¥½¸•Ù¥‘•¹”¨¨¥ÌÑ¡”ÍÑÉ½¹•ÈÍ…É”µ½µÁ±•µ•¹Ğ¡åÁ½Ñ¡•Í¥Ìì•¹•É¥ŒÍ¥µÕ±…Ñ¥½¸…±½¹”¥Ì¥¹É•…Í¥¹±ä•áÁ½Í•Ñ¼Á±…Ñ™½É´½½Á•¸µÑ½½°ÍÕ‰ÍÑ¥ÑÕÑ¥½¸¸(´½É•Ñ•±±¥à…¹ÁÁ±¥•%¹ÑÕ¥Ñ¥½¸…É”Ñ¡”±•…¹•ÍĞÁÉ¥Ù…Ñ”…É¡•ÑåÁ•ÌìM¥•µ•¹Ì…¹Må¹½ÁÍåÌ½¹ÍåÌ…É”±¥ÍÑ•‰•¹¡µ…É­Ì‰ÕĞÕÉÉ•¹Ñ±äÑ½¼‘¥Ù•ÉÍ¥™¥•™½È„™½ÕÍ•Á½ÉÑ™½±¥¼ÁÉ½µ½Ñ¥½¸¸(´•™¥¹•µ¥É…Ñ¥½¸¥¹‘¥…Ñ½ÉÌ…¹•áÁ±¥¥ĞÉ”µ½Á•¸ÑÉ¥•ÉÌ…É½Õ¹É•ÕÉÉ¥¹œX™X•½¹½µ¥Ì°™½Éµ…°É•±•…Í”É•ÅÕ¥É•µ•¹ÑÌ…¹¥¹Ù•ÍÑ…‰¥±¥Ñä¸(´9¼…Ñ”µ°±¥Ù”Q½À´ÄÀ½ÈÁ½ÉÑ™½±¥¼…±±½…Ñ¥½¸¡…¹”¸(((ŒŒŒQ•…¸Í¥•¹Ñ¥™¥Œµ$…Ñ”µÍÉ••¸((´‘‘•„‰½Õ¹‘•Q•…¸Õ¹‘•ÉİÉ¥Ñ”Ñ•ÍÑ¥¹œİ¡•Ñ¡•È±…ˆ…ÕÑ½µ…Ñ¥½¸°¥¹ÍÑ…±±•µ™±••ĞÑ•±•µ•ÑÉä°É•ÕÉÉ¥¹œ½¹ÍÕµ…‰±•Ì½Í•ÉÙ¥”…¹…•¹Ñ¥Œ½Á•É…Ñ¥½¹Ì…¸…ÁÑÕÉ”Ñ¡”Í¥•¹Ñ¥™¥Œµ$•á•ÕÑ¥½¸‰½ÑÑ±•¹•¬¸(´ Ä€ÈÀÈØ1¥™”M¥•¹•ÌÉ•ÕÉÉ¥¹œÉ•Ù•¹Õ”™É½´Í•ÉÙ¥•Ì°½¹ÍÕµ…‰±•Ì…¹É•…•¹ÑÌÉ•…¡•€¨¨ØĞ¸Ğ”¨¨½˜Í•µ•¹ĞÍ…±•Ìì%¹ÑÉ½ÍÁ•Ğ¡…Ì€¨¨øÄ°ÀÀÀ½¹¹•Ñ•¥¹ÍÑÉÕµ•¹ÑÌ¨¨°ÁÉ½Ù¥‘¥¹œÍÑÉ½¹•È¥¹ÍÑ…±±•µ™±••Ğ½É•ÕÉÉ¥¹œ•Ù¥‘•¹”Ñ¡…¸…¸$™•…ÑÕÉ”…¹¹½Õ¹•µ•¹Ğ…±½¹”¸(´Q•…¸¥ÌÑ¡”±•…¹•È…ÕÑ½µ…Ñ¥½¸½½Á•É…Ñ¥½¹…°µ™••‘‰…¬•áÁ½ÍÕÉ”Ù•ÉÍÕÌ	ÉÕ­•Èì	ÉÕ­•ÈÉ•Ñ…¥¹Ì‰É½…‘•Èµ•…ÍÕÉ•µ•¹Ğ€¬½É¡•ÍÑÉ…Ñ¥½¸‰É•…‘Ñ …¹Ñ¡”ÍÑÉ½¹•È‘¥É•Ğ$µ±¥¹­•‰½½­¥¹ÌÍ¥¹…°¸(´ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸¥Ì€¨©]Q €¼•Ù¥‘•¹”µ‰Õ¥±‘¥¹œƒŠP¹¼…Ñ”µÁÉ½µ½Ñ¥½¸…¹¹¼Q½À´ÄÀ‘¥ÍÁ±…•µ•¹Ğ¨¨‰•…ÕÍ”%¹ÑÉ½ÍÁ•Ğ½…•¹Ñ¥Œµ$É•Ù•¹Õ”°Á…¥…ÑÑ… °¥¹É•µ•¹Ñ…°½É‘•ÉÌ…¹½¹Í½±¥‘…Ñ••…É¹¥¹ÌÍ•¹Í¥Ñ¥Ù¥ÑäÉ•µ…¥¸Õ¹‘¥Í±½Í•¸(´ĞÑ¡”€ÈÈM•À!ÈÄà¸ĞÀÉ•™•É•¹”°Í¥µÁ±¥™¥••ÅÕ¥ÑäÙ…±Õ”¥Ìù!È¸Øå‰¸…¹Xù!È¸ØÉ‰¸ìÑ¡¥Ì¥ÌøÈÁà…¹¹Õ…±¥é• Ä…‘©ÕÍÑ•	%Q…¹øÄÍàµ…¹…•µ•¹ĞÌ€ÈÀÈà!ÈÀÁ´	%Q…µ‰¥Ñ¥½¸‰•™½É”…Í •¹•É…Ñ¥½¸½•á•ÕÑ¥½¸…‘©ÕÍÑµ•¹ÑÌ¸(´9•áĞ¡•­Á½¥¹Ğ¥ÌÑ¡”€Ô9½Ø€ÈÀÈØDÌÕÁ‘…Ñ”½È•…É±¥•Èµ…Ñ•É¥…°‘¥Í±½ÍÕÉ”½˜Á…¥%¹ÑÉ½ÍÁ•Ğ½$…‘½ÁÑ¥½¸½È$µ±¥¹­•…ÕÑ½µ…Ñ¥½¸½É‘•ÉÌ¸()Q¡¥Ì™¥±”É•½É‘ÌÍÕ‰ÍÑ…¹Ñ¥Ù”¡…¹•ÌÑ¼É•Í•…É ½¹±ÕÍ¥½¹Ì°½¹™¥‘•¹”°ÁÉ¥½É¥Ñ¥Í…Ñ¥½¸…¹½Ù•É¹…¹”¸5¥¹½Èİ½É‘¥¹œ½È™½Éµ…ÑÑ¥¹œ•‘¥ÑÌ‘¼¹½Ğ¹••…¸•¹ÑÉä¸((ŒŒ€ÈÀÈØ´Àä´ÈÈ((ŒŒŒ	ÉÕ­•È€¼¡•µÍÁ••€¼M¥dÍ¥•¹Ñ¥™¥Œµ$…Ñ”µÕ¹‘•ÉİÉ¥Ñ”((´••Á•¹•Ñ¡”Í¥•¹Ñ¥™¥Œµ$•á•ÕÑ¥½¸±…¹”İ¥Ñ „	ÉÕ­•ÈÕ¹‘•ÉİÉ¥Ñ”…É½ÍÌµ•…ÍÕÉ•µ•¹Ğ°¡•µÍÁ••Á¡åÍ¥…°…ÕÑ½µ…Ñ¥½¸…¹M¥d½É¡•ÍÑÉ…Ñ¥½¸¸(´9•ÜÁÉ¥µ…Éä•Ù¥‘•¹”ÍÑÉ•¹Ñ¡•¹ÌÍÑÉ…Ñ•¥Œ™¥Ğè	ÉÕ­•ÈÉ•Á½ÉÑ•ÍÑÉ½¹œ$µ‘É¥Ù•¸‘•µ…¹¥¸M¥d±…‰½É…Ñ½ÉäÍ½™Ñİ…É”¥¸DÄ€ÈÀÈØİ¡¥±”	M$‰½½­¥¹ÌÉ•Ü¡¥ µÍ¥¹±”‘¥¥ÑÌ½É…¹¥…±±ä…¹‰½½¬µÑ¼µ‰¥±°É•µ…¥¹•…‰½Ù”€Ä¸Áà¸(´-•ÁĞ	ÉÕ­•È…Ğ€¨©]Q €¼•Ù¥‘•¹”µ‰Õ¥±‘¥¹œ¨¨É…Ñ¡•ÈÑ¡…¸…Ñ”µè¡•µÍÁ••½M¥d™¥¹…¹¥…°µ…Ñ•É¥…±¥Ñä…¹É•ÕÉÉ¥¹œ•½¹½µ¥ÌÉ•µ…¥¸¥¹ÍÕ™™¥¥•¹Ñ±ä‘¥Í±½Í•É•±…Ñ¥Ù”Ñ¼	ÉÕ­•ÈÌøÌ¸Ù‰¸dÈÀÈØÉ•Ù•¹Õ”‰…Í”¸(´•™¥¹••Ù•¹Ğµ‘É¥Ù•¸ÁÉ½µ½Ñ¥½¸Ñ•ÍÑÌ…É½Õ¹É•Á•…Ñ•$µ±¥¹­•‰½½­¥¹Ì°¹…µ•µÕ±Ñ¤µÍ¥Ñ”M0‘•Á±½åµ•¹ÑÌ°É•ÕÉÉ¥¹œÍ½™Ñİ…É”½Í•ÉÙ¥”…ÑÑ… …¹½¹Í½±¥‘…Ñ••…É¹¥¹Ìµ…Ñ•É¥…±¥Ñä¸(´Q•…¸É•µ…¥¹ÌÑ¡”­•ä½µÁ…É…Ñ¥Ù”ÍÉ••¸‰•…ÕÍ”%¹ÑÉ½ÍÁ•ĞÁÉ½Ù¥‘•Ì„µ½É”…ÕÑ½µ…Ñ¥½¸µÁÕÉ”¥¹ÍÑ…±±•µ™±••ĞÍ½™Ñİ…É”½‘…Ñ„±½½À¸(((ŒŒŒ•¹ÑÉÕÌ¹Ñ…É•ÌÑÉ¥•È…ÍÍ•ÍÍ•…¹±¥Ù”Q½À´ÄÀÉ•™É•Í¡•((´‘‘•Ñ¡”€ÄÜM•ÁÑ•µ‰•È•¹ÑÉÕÌ½¹Ñ…É•Ì‘•™¥¹¥Ñ¥Ù”!1T½¹ÑÉ…Ğ…¹ÕÍÑ½µ•ÈµÁÉ•Á…åµ•¹Ğ•Ù¥‘•¹”Ñ¼Ñ¡”…¹½¹¥…°•¹ÑÉÕÌ…Ñ”µÕ¹‘•ÉİÉ¥Ñ”¸(´I•Á•…ĞÁÉ”µ™Õ¹‘¥¹œ…É½ÍÌ`µ•¹•Éä°I…‘¥…¹Ğ…¹¹Ñ…É•ÌÍÑÉ•¹Ñ¡•¹ÌÑ¡”½µµ•É¥…°µ‘•µ…¹½™Õ¹‘¥¹œµÍÑ…¬Ñ¡•Í¥Ì°‰ÕĞ…µ½Õ¹ÑÌ½Ñ¥µ¥¹œÉ•µ…¥¸Õ¹‘¥Í±½Í•…¹‘¼¹½Ğå•Ğ•ÍÑ…‰±¥Í „5…É ´ÈÀÈà™Õ¹‘•µ…Á…¥Ñä‰É¥‘”¸(´•¹ÑÉÕÌÉ•µ…¥¹Ì€¨©IMMML€¼]%PƒŠP¹½ĞQ%=8¨¨ìÑ¡”•á¥ÍÑ¥¹œøÄÈÃŠLÄÌÀÁÉ¥”µ±•É•…ÍÍ•ÍÍµ•¹ĞÉ…¹”…¹•Ù¥‘•¹”µ±••¹ÑÉäÑ•ÍÑÌ…É”Õ¹¡…¹•¸1TÌ€ÈÄM•ÁÑ•µ‰•È±½Í”½˜€ÄÔĞ¸àÔ¥Ì…‰½Ù”Ñ¡…ĞÉ…¹”¸(´I•™É•Í¡•Ñ¡”…ÕÑ¡½É¥Ñ…Ñ¥Ù”±¥Ù”Q½À´ÄÀ½Ù•É±…äè1…¥™Õ…°É•µ…¥¹Ì€ŒÄ°•¹ÑÉÕÌ€ŒÈ°5½‘¥¹”€ŒÌ°…¹E9`µ½Ù•Ì€ŒàƒŠH€ŒĞ…¡•…½˜¥ÑÌ€ÈĞM•ÁÑ•µ‰•È@ÀÉ•ÍÕ±ÑÌ•Ù•¹Ğ¸5•µ½Éä…¹‘¥‘…Ñ•Ìµ½Ù”‘½İ¸½¹”Á±…”İ¡•É”…ÁÁ±¥…‰±”…ÌÑ¡”Í…É”µ½µÁ±•µ•¹ÑÌÉ•µ…ÀÉ…¥Í•ÌÑ¡”µ…É¥¹…°½ÉÉ•±…Ñ¥½¸¡ÕÉ‘±”¸(´9¼‰É½­•É…”ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÈÈ((ŒŒŒM¥•¹Ñ¥™¥Œµ$•á•ÕÑ¥½¸€¼…ÕÑ½µ…Ñ•µ±…ˆ‰½ÑÑ±•¹•¬‘••À‘¥Ù”((´=Á•¹•Ñ¡”Í¥•¹Ñ¥™¥Œµ$•á•ÕÑ¥½¸±…¹”¥‘•¹Ñ¥™¥•‰äÑ¡”Í…É”µ½µÁ±•µ•¹ĞÉ•µ…À…¹µ…ÁÁ•Ñ¡”±½Í•µ±½½À•áÁ•É¥µ•¹ĞÍÑ…¬™É½´¡åÁ½Ñ¡•Í¥ÌÑ¡É½Õ Á¡åÍ¥…°•á•ÕÑ¥½¸°µ•…ÍÕÉ•µ•¹Ğ°ÁÉ½Ù•¹…¹”½E…¹™••‘‰…¬¸(´ÕÉÉ•¹Ğ5•‘¥Õ´µ½¹™¥‘•¹”½¹±ÕÍ¥½¸èÑ¡”ÍÑÉ½¹•ÈÍ…É”½µÁ±•µ•¹Ğ¥Ì±¥­•±äÑ¡”€¨©Ù…±¥‘…Ñ••áÁ•É¥µ•¹Ñ…°ÍåÍÑ•´¨¨ƒŠP¥¹Ñ•É…Ñ•Á¡åÍ¥…°¡…¹‘±¥¹œ°ÑÉÕÍÑ•µ•…ÍÕÉ•µ•¹Ğ°½É¡•ÍÑÉ…Ñ¥½¸°ÁÉ½Ù•¹…¹”…¹•á•ÁÑ¥½¸É•½Ù•ÉäƒŠPÉ…Ñ¡•ÈÑ¡…¸•¹•É¥Œ±…‰½É…Ñ½ÉäÉ½‰½Ñ¥Ì…±½¹”¸(´	ÉÕ­•È½¡•µÍÁ••½M¥d…¹Q•…¸…‘Ù…¹”Ñ¼‰½Õ¹‘•½µÁ…¹äÍÉ••¹ÌìQ¡•Éµ¼¥Í¡•È…¹…¹…¡•ÈÉ•µ…¥¸‰É½…•½¹½µ¥Œµ…ÁÑÕÉ”‰•¹¡µ…É­Ì¸(´‘‘•µ¥É…Ñ¥½¸½™…±Í¥™¥…Ñ¥½¸¥¹‘¥…Ñ½ÉÌÍ¼Ñ¡”±…¹”…¸‰”‘½İ¹É…‘•¥˜•áÁ•É¥µ•¹Ğ‘•µ…¹°ÕÑ¥±¥Í…Ñ¥½¸½ÈÍÕÁÁ±¥•È…ÁÑÕÉ”™…¥±ÌÑ¼•µ•É”¸(´9¼…Ñ”µÁ½ÉÑ™½±¥¼…Ñ¥½¸°…±±½…Ñ¥½¸½È•á¥ÍÑ¥¹œ½µÁ…¹äÉ…¹­¥¹œ¡…¹•Ì¸(((ŒŒŒI•Í•…É Õ¹¥Ù•ÉÍ”É•µ…ÁÁ•…É½Õ¹Í…É”½µÁ±•µ•¹ÑÌ((´‘‘•Ñ¡”…¹½¹¥…°Í…É”µ½µÁ±•µ•¹Ğ½Ù•É…”µ…À±¥¹­¥¹œÕÉÉ•¹ĞÉ•Í•…É ÍÑÉ•…µÌ…¹½Ù•É¹•…¹‘¥‘…Ñ•ÌÑ¼‰½ÑÑ±•¹•¬°•½¹½µ¥Œµ…ÁÑÕÉ”…¹µ¥É…Ñ¥½¸Ñ•ÍÑÌ¸(´%‘•¹Ñ¥™¥•µ•µ½Éä½‘…Ñ„µ½Ù•µ•¹Ğ…ÌÑ¡”µ½ÍĞÉ½İ‘•ÕÉÉ•¹ĞÉ•Í•…É ±…¹”…¹É…¥Í•Ñ¡”µ…É¥¹…°¡ÕÉ‘±”™½È…‘‘¥Ñ¥½¹…°½ÉÉ•±…Ñ•µ•µ½Éäİ½É¬¸(´%‘•¹Ñ¥™¥•Í¥•¹Ñ¥™¥Œµ$•á•ÕÑ¥½¸€¼…ÕÑ½µ…Ñ•±…‰Ì…ÌÑ¡”±•…É•ÍĞÕÉÉ•¹Ğ‰±¥¹ÍÁ½Ğ°İ¥Ñ Í¥µÕ±…Ñ¥½¸½•Ù…±Õ…Ñ¥½¸½Ù•É¥™¥…Ñ¥½¸…¹Í•¹Í¥¹œ…Ìİ•…­•Èµ½Ù•É•‘½İ¹ÍÑÉ•…´½µÁ±•µ•¹ÑÌ¸(´I•™É…µ•™ÕÑÕÉ”‘¥Í½Ù•ÉäÁÉ¥½É¥ÑäÑ½İ…É¥¹‘•Á•¹‘•¹Ğ‰½ÑÑ±•¹•¬•áÁ½ÍÕÉ•Ì…¹µ¥ÍÍ¥¹œÍ…É”½µÁ±•µ•¹ÑÌÉ…Ñ¡•ÈÑ¡…¸…‘‘¥¹œ¹…µ•ÌÑ¼…±É•…‘äÉ½İ‘•Ñ¡•µ•Ì¸(´9¼½µÁ…¹äÉ…¹­¥¹œ°…Ñ”µ…Ñ¥½¸Ñ¡É•Í¡½±½ÈÁ½ÉÑ™½±¥¼…±±½…Ñ¥½¸¡…¹•™É½´Ñ¡¥ÌÉ•µ…À¸(((ŒŒŒÉ½ÍÌµÑ¡•µ”Í…É”µ½µÁ±•µ•¹ÑÌ™É…µ•İ½É¬™½Éµ…±¥Í•((´‘‘•„…¹½¹¥…°É½ÍÌµÑ¡•µ”Íå¹Ñ¡•Í¥Ì±…å•Èè€¨©‰Õ¹‘…¹Ğ%¹Ñ•±±¥•¹”ƒŠHM…É”½µÁ±•µ•¹ÑÌƒŠH	½ÑÑ±•¹•¬5¥É…Ñ¥½¸ƒŠH…Á¥Ñ…°±±½…Ñ¥½¸¨¨¸(´5½Ù•Ñ¡”€ÈÈM•Àµ½‘•°µ½µµ½‘¥Ñ¥Í…Ñ¥½¸İ½É¬¥¹Ñ¼Ñ¡”É½ÍÌµÑ¡•µ”™É…µ•İ½É¬É…Ñ¡•ÈÑ¡…¸±•…Ù¥¹œ„ÍÑ…¹‘…±½¹”É½½Ğµ±•Ù•°É•Í•…É ¹½Ñ”¸(´5…ÁÁ•A¡åÍ¥…°$°É½‰½Ñ¥Ì½…ÑÕ…Ñ¥½¸°µ•µ½Éä…¹•¹•Éä¥¹Ñ¼„Í¡…É•‰½ÑÑ±•¹•¬µµ¥É…Ñ¥½¸±•¹Ìİ¡¥±”ÁÉ•Í•ÉÙ¥¹œÑ¡•µ”™¥±•Ì…ÌÑ¡”…ÕÑ¡½É¥Ñ…Ñ¥Ù”‘•Ñ…¥±••Ù¥‘•¹”¸(´‘‘••áÁ±¥¥ĞÑ•ÍÑÌ™½ÈÍ…É¥Ñä°ÍÕ‰ÍÑ¥ÑÕÑ¥½¸°•½¹½µ¥Œ…ÁÑÕÉ”°¥¹™É…ÍÑÉÕÑÕÉ”½¹•¹ÑÉ…Ñ¥½¸…¹‰½ÑÑ±•¹•¬µ¥É…Ñ¥½¸¸(´9¼İ…Ñ¡±¥ÍĞ°Q½À´ÄÀ°…Ñ”µ…±±½…Ñ¥½¸½È…Ñ¥½¸µÑ¡É•Í¡½±¡…¹•Ì¸((ŒŒŒ$µ½‘•°½µµ½‘¥Ñ¥Í…Ñ¥½¸€¼Í…É”µ½µÁ±•µ•¹ÑÌ¡åÁ½Ñ¡•Í¥Ì…ÁÑÕÉ•((´‘‘•„É½ÍÌµÑ¡•µ”É•Í•…É ¹½Ñ”™É½´MÑ•Ù”¥Íµ…¸Ì9	¥¹Ñ•ÉÙ¥•Ü½¸½Á•¸µİ•¥¡Ğ½µÁ•Ñ¥Ñ¥½¸°™É½¹Ñ¥•Èµµ½‘•°•½¹½µ¥Ì…¹Á½ÍÍ¥‰±”É•Õ±…Ñ½Éäµµ½…Ğ•™™•ÑÌ¸(´I•™É…µ•Ñ¡”¥¹Ù•ÍÑ…‰±”ÅÕ•ÍÑ¥½¸…Ì€¨©İ¡…ĞÉ•µ…¥¹ÌÍ…É”İ¡•¸µ½‘•°¥¹Ñ•±±¥•¹”‰•½µ•Ì…‰Õ¹‘…¹Ğ¨¨°½¹¹•Ñ¥¹œµ½‘•°½µµ½‘¥Ñ¥Í…Ñ¥½¸Ñ¼Ñ¡”É•Á½Í¥Ñ½ÉäÌ•á¥ÍÑ¥¹œ‰½ÑÑ±•¹•¬µµ¥É…Ñ¥½¸…¹A¡åÍ¥…°$™É…µ•İ½É¬¸(´‘‘•™É½¹Ñ¥•Èµ±…ˆ½¹•¹ÑÉ…Ñ¥½¸°¥¹™É…ÍÑÉÕÑÕÉ”™Õ¹¥‰¥±¥Ñä…¹Í…É”µ½µÁ±•µ•¹Ğ½İ¹•ÉÍ¡¥À…ÌÉ•Í•…É ÍÑÉ•ÍÌÑ•ÍÑÌ¸(´¥Íµ…¸Ì±…¥µÌ…‰½ÕĞ‘•±¥‰•É…Ñ”É•Õ±…Ñ½Éä…ÁÑÕÉ”½È•½ÍåÍÑ•´µÁÉ½Ñ•Ñ¥½¸µ½Ñ¥Ù•Ì…É”É•Ñ…¥¹•½¹±ä…Ì…ÑÑÉ¥‰ÕÑ•¡åÁ½Ñ¡•Í•Ì°¹½Ğ•ÍÑ…‰±¥Í¡•™…ÑÌ¸(´9¼İ…Ñ¡±¥ÍĞ°Q½À´ÄÀ°É…¹­¥¹œ½ÈÁ½ÉÑ™½±¥¼…Ñ¥½¸¡…¹•Ì¸((ŒŒ€ÈÀÈØ´Àä´Ää((ŒŒŒ5½‘¥¹”€¼•¹Ñ¡•É´ÑÉ…¹Í…Ñ¥½¸•½¹½µ¥ÌÉ•™É•Í¡•((´UÁ‘…Ñ•Ñ¡”…¹½¹¥…°5½‘¥¹”…Ñ”µÕ¹‘•ÉİÉ¥Ñ”™½ÈÑ¡”€ÄÜM•ÁÑ•µ‰•È•¹Ñ¡•É´½5½‘¥¹”ÑÉ…¹Í…Ñ¥½¸…‘©ÕÍÑµ•¹Ğ¸(´Q¡”•áÁ•Ñ•MÁ¥¹¼…Í ‘¥ÍÑÉ¥‰ÕÑ¥½¸Ñ¼5½‘¥¹”¥Ì¹½Ü€ÄÔå´É…Ñ¡•ÈÑ¡…¸€ÈÄÁ´ìÑ¡”ÍÑÉÕÑÕÉ”…±Í¼½¹Ñ•µÁ±…Ñ•Ì…ÁÁÉ½á¥µ…Ñ•±ä€È¸äÀÉ´…‘‘¥Ñ¥½¹…°•¹Ñ¡•É´Í¡…É•Ì…¹…¸•ÍÑ¥µ…Ñ•€Ôà¸ÌÕ´ÍÁ•¥…°‘¥Ù¥‘•¹Ñ¼ÁÉ”µ±½Í”•¹Ñ¡•É´¡½±‘•ÉÌ¸(´Q¡”Á…ÉÑ¥•ÌÍÑ…Ñ”Ñ¡…ĞÑ¡”•á¡…¹”µÉ…Ñ¥¼µ•¡…¹¥Í´¥Ì¥¹Ñ•¹‘•Ñ¼ÁÉ•Í•ÉÙ”¹•½Ñ¥…Ñ•É•±…Ñ¥Ù”•ÅÕ¥ÑäÙ…±Õ•Ì…¹¡…Ù”„¹•ÕÑÉ…°•™™•Ğ½¸ÑÉ…¹Í…Ñ¥½¸•½¹½µ¥Ì°Í¼Ñ¡”±½İ•È…Í ‘¥ÍÑÉ¥‰ÕÑ¥½¸¥Ì¹½ĞÑÉ•…Ñ•µ•¡…¹¥…±±ä…ÌÙ…±Õ”±•…­…”¸(´ÕÉÉ•¹Ğ½¹±ÕÍ¥½¸É•µ…¥¹Ì€¨©IMMML€¼]%PƒŠP¹½ĞQ%=8¨¨…¹Ñ¡”•á¥ÍÑ¥¹œ…ÁÁÉ½á¥µ…Ñ•±ä€ÄÔ×ŠLÄØÔÁÉ¥”µ±•½¹‘¥Ñ¥½¸¥ÌÕ¹¡…¹•¸(´¥¹…°•á¡…¹”É…Ñ¥¼°±½Í¥¹œ…µ½Õ¹ÑÌ°½¹Ñ¥¹Õ¥¹œµ½µÁ…¹ä‰…±…¹”Í¡••Ğ…¹Á½ÍĞµÍ•Á…É…Ñ¥½¸Õ¥‘…¹”É•µ…¥¸½Á•¸¥¹ÁÕÑÌ™½ÈÑ¡”™¥¹…°Á•ÈµÍ¡…É”‰É¥‘”¸9¼ÑÉ…‘”İ…ÌÁ±…•¸((ŒŒ€ÈÀÈØ´Àä´ÄÜ((ŒŒŒÕÍ¥½¸•¹…‰±¥¹œµ¥¹™É…ÍÑÉÕÑÕÉ”‘¥Í½Ù•Éä½µÁ±•Ñ•((´‘‘•Ñ¡”…¹½¹¥…°™ÕÍ¥½¸•¹…‰±¥¹œµ¥¹™É…ÍÑÉÕÑÕÉ”‰½ÑÑ±•¹•¬µ…À°Í½ÕÉ”ÁÉ½Ù•¹…¹”°…¹‘¥‘…Ñ”É•¥ÍÑ•È°ÍÉ••¹¥¹œÉÕ±•Ì°µ½¹¥Ñ½É¥¹œÑÉ¥•ÉÌ…¹É•Í•…É µÁ±…¸¡…¹‘½™˜¸(´¥ÉÍĞµÁ…ÍÌ•Ù¥‘•¹”¥¹‘¥…Ñ•Ì!QL½¥¹Ñ•É…Ñ•µ…¹•ĞÍåÍÑ•µÌ¡…Ù”Ñ¡”ÍÑÉ½¹•ÍĞ‘¥É•Ğ‰½ÑÑ±•¹•¬•Ù¥‘•¹”ìÙ…ÕÕ´°É•µ½Ñ”µ…¥¹Ñ•¹…¹”°‘¥…¹½ÍÑ¥Ì°Á½İ•È…¹•áÑÉ•µ”µ…Ñ•É¥…±ÌÉ•µ…¥¸Ñ•¡¹¥…±±äÉ•±•Ù…¹Ğ…É•…Ì™½È‰½Õ¹‘•µ½¹¥Ñ½É¥¹œ¸(´‘‘•™½ÕÍ•É•Í•…É ÍÑÕ‰Ì™½ÈÕÉÕ­…İ„±•ÑÉ¥Œ€¼MÕÁ•ÉA½İ•È…¹YPÉ½ÕÀ¸ÕÉÕ­…İ„½MÕÁ•ÉA½İ•È…‘Ù…¹•Ì½¹±äÑ¼„‰½Õ¹‘•…Ñ”µ™½±±½ÜµÕÀìYPÉ•µ…¥¹Ì„½µÁ…É…Ñ½È½µ½¹¥Ñ½È¸(´9¼Á½ÉÑ™½±¥¼½ÈQ½À´ÄÀ¡…¹”¥Ìµ…‘”¸•Ù•±½Á•ÈÑ¥µ•±¥¹•Ì…¹1=…É”¹½ĞÑÉ•…Ñ•…Ì•ÍÑ…‰±¥Í¡•™…ÑÌì½µÁ…¹äµ±•Ù•°…ÁÑÕÉ”°™Õ¹‘•‘•µ…¹°ÅÕ…±¥™¥…Ñ¥½¸½Í…É¥Ñä°Ù…±Õ…Ñ¥½¸½‘½İ¹Í¥‘”…¹…¸€Äàµµ½¹Ñ •Ù¥‘•¹”Á…Ñ É•µ…¥¸É•ÅÕ¥É•‰•™½É”…¹äÁÉ½µ½Ñ¥½¸¸((ŒŒ€ÈÀÈØ´Àä´ÄÔ((ŒŒŒA½ÉÑ™½±¥¼ÍÕÉ™…”É•™É•Í¡•™½È™¥ÉÍĞ±¥Ù”…Ñ”µQ%=8((´€ŒàØ1…¥™Õ…°¥Ì¹½ÜÑ¡”™¥ÉÍĞ½Ù•É¹•€¨©Q%=8¨¨¥¸Ñ¡”ÕÉÉ•¹Ğ…Ñ”µå±”…™Ñ•ÈAH€ŒÄÔÌÁ…ÍÍ•I•Í•…É ½Ù•É¹…¹”¸(´Q¡”…Ñ¥½¸¥Ì‘•±¥‰•É…Ñ•±ä±¥µ¥Ñ•Ñ¼„€¨¨Ô”ÍÑ…ÉÑ•ÈÉ•Í•…É Í±••Ù”€¡û
+ŒÈ°ÀÀÀ½˜ƒ
+ŒĞÁ¬¤¨¨…Ğ…¸•á•ÕÑ…‰±”ÁÉ¥”€¨¨ğõ!,Ğà¨¨ìÑ¡”•á¥ÍÑ¥¹œ€¨¨à”ÁÉ”µÁÉ½½˜¨¨…¹€¨¨ÄÃŠLÄÈ”Á½ÍĞµÁÉ½½˜¨¨•¥±¥¹ÌÉ•µ…¥¸Õ¹¡…¹•¸(´9¼‰É½­•É…”ÑÉ…‘”¡…Ì‰••¸Á±…•¸U¹Ñ¥°µ…¹Õ…°•á•ÕÑ¥½¸°Ñ¡”…ÑÕ…°‰É½­•É…”Á½ÉÑ™½±¥¼¥ÌÕ¹¡…¹•ìÑ¡”É•Í•…É …±±½…Ñ¥½¸Í¥¹…°¥Ì€¨¨Ô”1…¥™Õ…°€¼€äÔ”Ñ…Ñ¥…°…Í ¨¨¸(´1…¥™Õ…°É•µ…¥¹ÌÉ…¹­•€ŒÄ¥¸Ñ¡”±¥Ù”Q½À´ÄÀ¸Q¡”½É‘•È½˜Ñ¡”É•µ…¥¹¥¹œ…¹‘¥‘…Ñ•Ì¥ÌÕ¹¡…¹•¸(´UÁ‘…Ñ•A=IQ=1%<°…Ñ”µ½¹ÍÑÉÕÑ¥½¸°Q½À´ÄÀ±¥Ù”½Ù•É±…ä…¹UQ=5Q%=8Í¼Ñ¡”…¹½¹¥…°Á½ÉÑ™½±¥¼ÍÕÉ™…”¹¼±½¹•ÈÍÑ…Ñ•ÌÑ¡…ĞÑ¡•É”…É”é•É¼Q%=8Í¥¹…±Ì¸(((ŒŒŒ1…¥™Õ…°ÁÉ¥”ÑÉ¥•È™¥É•ìÍÑ…ÉÑ•È…Ñ”µQ%=8•ÍÑ…‰±¥Í¡•((´É•Í¡•¹•€¨¨ŒàØ¨¨…™Ñ•È„ÕÍ•ÈµÍÕÁÁ±¥•%	-HÅÕ½Ñ”½˜€¨©!,ĞÜ¸Èà¨¨•¹Ñ•É•Ñ¡”½Ù•É¹•€¨©!,Ğ×ŠLĞà¨¨É•…ÍÍ•ÍÍµ•¹Ğé½¹”¸(´ÕÉÉ•¹ĞÑ¡•Í¥Ì¡•¬™½Õ¹¹¼µ…Ñ•É¥…°½Á•É…Ñ¥¹œ‘•Ñ•É¥½É…Ñ¥½¸¥¸ÁÕ‰±¥Œ‘¥Í±½ÍÕÉ•ÌÑ¡É½Õ €ÄÔM•ÁÑ•µ‰•È¸ ÄÉ•Ù•¹Õ”İ…Ì€¨©I5ÄĞÈ¸É´€ ¬àÀ¸Ä”¤¨¨°É•‘Õ•ÈÉ½ÍÌµ…É¥¸€¨¨Èä¸Ø”¨¨°ÕÑ¥±¥é…Ñ¥½¸€¨¨äÔ¸Ä”¨¨°)Õ±ä‘•Í¥¹•…Á…¥Ñä€¨¨ØĞ¸á¬Õ¹¥ÑÌ½µ½¹Ñ ¨¨°…¹½ÕÑÍÑ…¹‘¥¹œÉ•‘Õ•È½É‘•ÉÌ•á••‘•€¨¨ĞÀÁ¬Õ¹¥ÑÌ…Ğ€ÌÄ)Õ±ä¨¨¸(´½Õ¹Ñ•Èµ•Ù¥‘•¹”É•µ…¥¹Ìµ…Ñ•É¥…°è Ä½Á•É…Ñ¥¹œ…Í ™±½Üİ…Ì€¨¨µI5ÈÀ¸å´¨¨°…Á•àİ…Ì€¨©I5ÜÜ¸á´¨¨°…‘©ÕÍÑ•¹•Ğ¥¹½µ”É•µ…¥¹•¹•…Ñ¥Ù”°…¹Ñ¡”½µÁ…¹ä¡…ÌÁÉ½Á½Í•ÕÀÑ¼€¨©I5Ä¸Õ‰¸¨¨½˜É•‘¥Ğ™…¥±¥Ñ¥•ÌÑ¡…Ğ¡…¹½Ğå•Ğ‰••¸•¹Ñ•É•¥¹Ñ¼…Ì½˜Ñ¡”€ÈàÕÕÍĞ…¹¹½Õ¹•µ•¹Ğ¸(´á¥ÍÑ¥¹œ5…É ´ÈÀÈàÍ•¹…É¥¼‰½Õ¹‘…É¥•Ì…É”Õ¹¡…¹•…Ğ€¨©!,È×ŠLÌÔ‰•…È€¼!,Ô×ŠLÜÔ‰…Í”€¼!,ä×ŠLÄÈÔÕÁÍ¥‘”€¼!,ÄÔÃŠLÈÀÀ¬ÍÑÉ•Ñ ¨¨¸É½´!,ĞÜ¸ÈàÑ¡½Í”¥µÁ±äÉ½Õ¡±ä€¨¨´ĞÜ”Ñ¼€´ÈØ”€¼€¬ÄØ”Ñ¼€¬Ôä”€¼€¬ÄÀÄ”Ñ¼€¬ÄØĞ”€¼€¬ÈÄÜ”Ñ¼€¬ÌÈÌ”¬¨¨¸(´Q¡”ÕÉÉ•¹ĞÉ•Í•…É Í¥¹…°‰•½µ•Ì€¨©Q%=8ƒŠPÍÑ…ÉÑ•ÈÍ±••Ù”½¹±ä…Ğ…¸•á•ÕÑ…‰±”ÁÉ¥”€ğõ!,Ğà¨¨¸%¹¥Ñ¥…°É•Í•…É Í¥é”¥Ì€¨¨Ô”½˜Ñ¡”ƒ
+ŒĞÁ¬…Ñ”µÁ½½°€¡û
+ŒÈ°ÀÀÀ¤¨¨ìÑ¡”€¨¨à”ÁÉ”µÁÉ½½˜µ…á¥µÕ´¨¨…¹€¨¨ÄÃŠLÄÈ”Á½ÍĞµÁÉ½½˜µ…á¥µÕ´¨¨…É”É•Ñ…¥¹•¸(´¼¹½Ğ¡…Í”…‰½Ù”!,Ğàİ¥Ñ¡½ÕĞÍÑÉ½¹•È½Á•É…Ñ¥¹œ•Ù¥‘•¹”¸ÑÕ…°‰É½­•É…”•á•ÕÑ¥½¸É•µ…¥¹Ìµ…¹Õ…°¸(´AÕ‰±¥Œ‘•±…å•ÁÉ¥”™••‘Ìİ•É”¥¹½¹Í¥ÍÑ•¹Ğ½¸€ÄÔM•ÁÑ•µ‰•È°Í¼Ñ¡”…Ñ¥½¸½¹‘¥Ñ¥½¸¥ÌÑ¥•Ñ¼Ñ¡”•á•ÕÑ…‰±”‰É½­•ÈÅÕ½Ñ”É…Ñ¡•ÈÑ¡…¸„Í¥¹±”‘•±…å•ÁÕ‰±¥ŒÁÉ¥¹Ğ¸(((ŒŒŒ…É±ä…Ñ”µÁ½ÉÑ™½±¥¼É”µÉ…¹¬½µÁ±•Ñ•…™Ñ•È•¹ÑÉÕÌ…¹5)É•™É•Í ((´½µÁ±•Ñ•…¸•…É±ä€¨¨ŒÄÌÈ¨¨Á½ÉÑ™½±¥¼É”µÉ…¹¬…™Ñ•ÈÑ¡”™É•Í •¹ÑÉÕÌÁ½ÍĞµ™¥¹…¹¥¹œÕ¹‘•ÉİÉ¥Ñ”…¹½Ù•É¹•5¥É½¹¥Ì)…Á…¸µ•É”¸(´€¨©9¼½µÁ…¹äÕÉÉ•¹Ñ±ä¡…Ì„½Ù•É¹•Q%=9€•¹ÑÉäÍ¥¹…°¸¨¨Q…Ñ¥…°…Í É•µ…¥¹ÌÑ¡”•á•ÕÑ…‰±”‘•™…Õ±ĞìÑ¡”Á½ÉÑ™½±¥¼½¹Ñ¥¹Õ•ÌÑ¼ÕÍ”½¹‘¥Ñ¥½¹…°Í±••Ù•ÌÉ…Ñ¡•ÈÑ¡…¸™½É•‘•Á±½åµ•¹Ğ¸(´…¹‘¥‘…Ñ”‰É•…‘Ñ ¥Ìµ…Ñ•É¥…±±ä‰•ÑÑ•ÈÑ¡…¸Ñ¡”½É¥¥¹…°€ŒÄÌÄ™½ÕÈµ¹…µ”½¹ÍÑÉÕÑ¥½¸èÕÉÉ•¹Ğ½Ù•É¹•Õ¹‘•ÉİÉ¥Ñ•Ì¹½Ü¥¹±Õ‘”€¨©)¥¹Á…¸°5½‘¥¹”°5¥É½¹¥Ì)…Á…¸…¹•¹ÑÉÕÌ¨¨¥¸…‘‘¥Ñ¥½¸Ñ¼)4°MUML°]••‰¥Ğ…¹1…¥™Õ…°¸((ŒŒ€ÈÀÈØ´Àä´ÈÔƒŠP½Õµ•¹Ñ…Ñ¥½¸…ÕÑ¡½É¥Ñä½¹Í½±¥‘…Ñ¥½¸€ ŒÌÌä¤((´5…É­•İ…Ñ¡±¥ÍĞ¹µ‘€…¹Ñ¡•µ”Íå¹Ñ¡•Í¥ÌÉ…¹­¥¹Ì…ÌI%Y¹…Ù¥…Ñ¥½¸½Íå¹Ñ¡•Í¥ÌÍÕÉ™…•Ìİ¥Ñ •áÁ±¥¥Ğ…ÕÑ¡½É¥Ñä‰½Õ¹‘…É¥•Ì¸(´5…É­•½µÁ±•Ñ•…Ñ”µ½¹ÍÑÉÕÑ¥½¸½ÍÁÉ¥¹Ğ…ÉÑ¥™…ÑÌ…Ì!%MQ=I%0…¹Á½¥¹Ñ•±¥Ù”Á½ÉÑ™½±¥¼½É…¹­¥¹œ½µ½¹¥Ñ½ÈÍÑ…Ñ”Ñ¼A=IQ=1%<¹µ‘€°É•Í•…É ½Ñ½ÀÄÀµÕ¹¥½É¸µÁÉ¥½É¥Ñä¹µ‘€…¹¥Ñ!Õˆ¥ÍÍÕ•Ì½UQ=5Q%=8¹µ‘€¸(´9¼½µÁ…¹äÑ¡•Í¥Ì°É…¹­¥¹œ½É‘•È°…Ñ”µ½¹±ÕÍ¥½¸°ÑÉ…¹Í…Ñ¥½¸ÉÕ±”°½È€ŒÈØÄ™É½é•¸É•½É¡…¹•¸((ŒŒ€ÈÀÈØ´Àä´ÈÔƒŠP½Ù•É¹•‘½Õµ•¹Ğµ•Ñ…‘…Ñ„ÍÑ…¹‘…É€ ŒÌĞÀ¤((´‘‘•±¥¡Ñİ•¥¡Ğ±¥™•å±”½™É•Í¡¹•ÍÌ½ÕÁÍÑÉ•…´½ÍÕÁ•ÉÍ•ÍÍ¥½¸Õ¥‘…¹”…¹É•ÁÉ•Í•¹Ñ…Ñ¥Ù”½µÁ…¹ä½Ñ¡•µ”Ñ•µÁ±…Ñ”µ•Ñ…‘…Ñ„¸(´‘‘•‘•Ñ•Éµ¥¹¥ÍÑ¥Œ¡•­Ì™½È¥¹Ù…±¥±¥™•å±”‘•±…É…Ñ¥½¹Ì°µ¥ÍÍ¥¹œI%YÕÁÍÑÉ•…´…ÕÑ¡½É¥Ñä…¹I%Y½9=9%0½¹™±¥ÑÌ¸(´9¼É•Í•…É ½¹±ÕÍ¥½¸°É…¹­¥¹œ°Á½ÉÑ™½±¥¼ÉÕ±”½È€ŒÈØÄ™É½é•¸É•½É¡…¹•¸((ŒŒ€ÈÀÈØ´Àä´ÈÔƒŠP…¹½¹¥…°É…¹­¥¹œÁ…Ñ µ¥É…Ñ¥½¸€ ŒÌÌĞ¤((´5½Ù•É•Í•…É ½Ñ½ÀÄÀµÕ¹¥½É¸µÁÉ¥½É¥Ñä¹µ‘€Ñ¼É•Í•…É ½É…¹­•µÕ¹¥Ù•ÉÍ”¹µ‘€İ¥Ñ¡½ÕĞ¡…¹¥¹œÑ¡”É…¹­•É•Í•…É ½¹Ñ•¹Ğ¸!¥ÍÑ½É¥…°¡…¹•±½œ•¹ÑÉ¥•ÌÉ•Ñ…¥¸Ñ¡”™½Éµ•ÈÁ…Ñ …ÌÉ•½É‘•…ĞÑ¡”Ñ¥µ”¸(´I•Á…¥É•±¥Ù”É•™•É•¹•Ì°…ÕÑ¡½É¥Ñäµ…À…¹¥¹Ñ•É¥Ñä¡•­Ì¸9¼½µÁ…¹ä±…ÍÍ¥™¥…Ñ¥½¸°É…¹¬°Á½ÉÑ™½±¥¼ÑÉ…¹Í…Ñ¥½¸ÉÕ±”½È€ŒÈØÄ™É½é•¸É•½É¡…¹•¸((ŒŒ€ÈÀÈØ´Àä´ÈÔƒŠPMÑ…ÉĞµ¡•É”…¹…•¹Ğ¹…Ù¥…Ñ¥½¸€ ŒÌÌØ¤((´I•Á±…•Ñ¡”I5½Á•É…Ñ¥½¹…°É•…Àİ¥Ñ ‘¥É•ĞÑ…Í¬É½ÕÑ•ÌÑ¼µ•Ñ¡½‘½±½ä°‘¥Í½Ù•Éä°½µÁ…¹ä•Ù¥‘•¹”°É…¹­¥¹œ½Á½ÉÑ™½±¥¼°µ½¹¥Ñ½É¥¹œ…¹Ù…±¥‘…Ñ¥½¸¸±¥¹•9QL°UQ=5Q%=8…¹=9QI%	UQ%9±¥¹­Ìİ¥Ñ Ñ¡”…ÕÑ¡½É¥Ñäµ…ÀìÉ•µ½Ù•„‘ÕÁ±¥…Ñ”9QL•Ù¥‘•¹”µÍÑ…¹‘…ÉÍ•Ñ¥½¸¸9¼É•Í•…É ½ÈÑÉ…¹Í…Ñ¥½¸½¹±ÕÍ¥½¸¡…¹•¸((ŒŒ€ÈÀÈØ´Àä´ÈÔƒŠPAÉ½ÍÁ•Ñ¥Ù”‘•¥Í¥½¸½¹ÑÉ…Ğ€ ŒÌÈÔ¤((´I•¥ÍÑ•É•™É½é•¸¡¥ÍÑ½É¥…°ØÄ‰ä½µµ¥Ğ…¹•áÁ•É¥µ•¹Ñ…°ÁÉ½ÍÁ•Ñ¥Ù”ØÈ‰äÁÉ½Ñ½½°°İ¥Ñ PÀÑ•µÁ±…Ñ•Ì°Í•…±•…ÁÁ•¹µ½¹±ä‘•¥Í¥½¹Ì°€Ì¼Ø¼ÄÈ¼Äàµµ½¹Ñ ¡•­Á½¥¹ÑÌ…¹‘•Ñ•Éµ¥¹¥ÍÑ¥Œ½Ù•É¹…¹”Ñ•ÍÑÌ¸9¼½µÁ…¹ä‘•¥Í¥½¸İ…ÌÉ•¥ÍÑ•É•½È…±Ñ•É•…¹¹¼±¥Ù”¥¹Ù•ÍÑµ•¹ĞÉÕ±”¡…¹•¸
