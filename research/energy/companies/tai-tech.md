@@ -117,3 +117,8 @@ Park/downgrade if:
 ## Next thesis-first step
 
 Do not immediately reverse-underwrite every passive-component company. The next discovery question is whether **package-level silicon capacitors** provide an even more convex version of the same power-integrity bottleneck. AP Memory remains the bounded comparison from #253.
+
+
+## Gate E — 25 September 2026
+
+**State: ACTION / starter eligible.** Controlled reference ~NT$206. Entry band **NT$190–210** while revenue/margin acceleration and AI-mix direction remain intact; preferred add zone **<=NT$185**. Initial portfolio size **5%**, ceiling 7.5% before stronger AI/CSP evidence. March-2028 base bridge uses ~NT$18–21 EPS and 20–22x (~NT$360–460); bear ~NT$170–225; bull ~NT$550–730. Add only on price plus intact thesis or AI mix >=20% / named qualification. Reassess if AI mix stalls low-teens or TLVR pricing compresses margins. See `research/gate-e-thesis-first-entry-sprint.md`.
