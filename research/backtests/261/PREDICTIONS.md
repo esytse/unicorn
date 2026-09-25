@@ -31,6 +31,12 @@ Predictions are appended **before** outcome reveal. Never rewrite a frozen entry
 | D04 | 2019-01-02 | EV SiC inverter modules | ROHM | EVIDENCE-BUILD | Low | 2018 Formula E module demonstration | road-vehicle volume and economics unverified | racing prototype -> mass-production OEM socket/profit | 2026-09-25 |
 
 
+| D05 | 2019-07-01 | warehouse vision/ID, fleet mobility and integration | Cognex | EVIDENCE-BUILD | Medium | logistics customer revenue >50% growth in 2018 | logistics gross margin lower; group revenue +5%; absolute mix unisolated | repeat installations -> group operating leverage | 2026-09-25 |
+| D05 | 2019-07-01 | warehouse system integration/picking | KION / Dematic | REJECT | Medium | SCS orders €2.425bn, +15.5% | incumbent scale, 8.8% adjusted EBIT margin vs 9.4% | projects -> incremental durable group FCF/asymmetry | 2026-09-25 |
+| D05 | 2019-07-01 | autonomous transport fleets | Teradyne / MiR | EVIDENCE-BUILD | Low | acquired MiR; $12m 2017 sales, $5m Q1 2018 | no warehouse fleet/group profit isolation, acquisition confound | logistics volume -> MiR margin -> parent materiality | 2026-09-25 |
+| D05 | 2019-07-01 | warehouse capture/mobile computing | Zebra Technologies | REJECT | Medium | EVM +13.4% organic FY18 | broad mature end markets; robotics incremental economics unisolated | fleet integration -> distinct recurring group profit | 2026-09-25 |
+
+
 ## Discipline
 
 A case may legitimately end with no PROMOTE. Record negative searches and DATA-LIMITED outcomes explicitly. Outcome information belongs only in `OUTCOMES.md`.
