@@ -37,6 +37,27 @@ Predictions are appended **before** outcome reveal. Never rewrite a frozen entry
 | D05 | 2019-07-01 | warehouse capture/mobile computing | Zebra Technologies | REJECT | Medium | EVM +13.4% organic FY18 | broad mature end markets; robotics incremental economics unisolated | fleet integration -> distinct recurring group profit | 2026-09-25 |
 
 
+| D06 | 2020-01-02 | fine-pitch chiplet package yield/bonding | Amkor | EVIDENCE-BUILD | Medium | advanced TSV/fan-out wins, $422m broad advanced quarterly sales | chiplet-specific margin unisolated; foundry integration | qualified chiplet volume -> incremental merchant FCF | 2026-09-25 |
+| D06 | 2020-01-02 | fine-pitch bonding tools | Kulicke & Soffa | EVIDENCE-BUILD | Low | wafer-level/advanced packaging equipment portfolio | new chiplet tool orders unisolated | qualification -> repeat orders -> group profit | 2026-09-25 |
+| D06 | 2020-01-02 | 2.5D/3D integration | TSMC | REJECT | Medium | CoWoS/HBM2 and multi-chip InFO production | mature captive foundry; package profit unisolated | package-specific group materiality/equity asymmetry | 2026-09-25 |
+| D06 | 2020-01-02 | EMIB/Foveros integration | Intel | REJECT | Medium | announced internal EMIB/Foveros | no external merchant bridge | independent repeat package economics | 2026-09-25 |
+| D07 | 2020-01-15 | mRNA manufacturing and LNP delivery | Moderna | EVIDENCE-BUILD | Medium | Norwood GMP scale, parallel programmes | no approved medicine; collaboration revenue volatile | efficacy -> commercial doses -> durable profit | 2026-09-25 |
+| D07 | 2020-01-15 | RNA manufacture/delivery | BioNTech | EVIDENCE-BUILD | Low | IPO F-1 internal GMP/IP | no approved product/external commercial manufacturing | clinical success -> repeated profitable supply | 2026-09-25 |
+| D07 | 2020-01-15 | biologic fill/finish/CDMO | Catalent | EVIDENCE-BUILD | Low | biologics/Paragon capacity and customer base | RNA-specific qualification/profit unisolated; acquisition risk | programme bookings -> doses -> cash returns | 2026-09-25 |
+| D08 | 2022-01-03 | direct liquid cooling flow and integration | Asetek | REJECT | Medium | HPE direct-liquid collaboration | management exited HPC emphasis after poor cash returns | funded repeat direct-liquid gross profit | 2026-09-25 |
+| D08 | 2022-01-03 | CDU/cooling system integration | Vertiv | EVIDENCE-BUILD | Medium | OCP liquid concepts and broad backlog | no liquid-only revenue; inflation | qualified fleets -> liquid margin/group FCF | 2026-09-25 |
+| D08 | 2022-01-03 | heat rejection / Airedale | Modine | EVIDENCE-BUILD | Low | established cooling subsidiary | no pre-T0 direct-liquid revenue/qualification | liquid sockets -> group materiality | 2026-09-25 |
+| D08 | 2022-01-03 | enclosures/electrical channel | nVent | REJECT | Low | data-centre contractor channels | no direct-liquid qualified engine | product socket -> recurring liquid profit | 2026-09-25 |
+| D09 | 2022-11-30 | accelerator board/rack power | Vicor | EVIDENCE-BUILD | Medium | advanced products used at hyperscalers | Q3 sequential sales decline and ~$6m return | socket -> repeat profit and FCF | 2026-09-25 |
+| D09 | 2022-11-30 | accelerator thermal/power systems | Vertiv | EVIDENCE-BUILD | Medium | Sep backlog $4.7bn +46% | broad/non-AI backlog, inflation | AI orders -> incremental margin/cash | 2026-09-25 |
+| D09 | 2022-11-30 | 400G cloud networking | Arista | REJECT | Medium | Q3 revenue $1.177bn, strong cloud adoption | already scaling before generative demand; AI attribution absent | AI network profit/valuation surprise | 2026-09-25 |
+| D09 | 2022-11-30 | initiating accelerator architecture comparator | NVIDIA | REJECT | Medium | H100 samples, $3.83bn data-centre quarter | core GPU not overlooked complement; mature scale | unrecognised complement-specific bridge | 2026-09-25 |
+| D10 | 2021-01-04 | grid transformers | Hammond Power Solutions | EVIDENCE-BUILD | Low | dry-type production, Q3 margin/cash | COVID sales -14.6%; grid order mix unknown | utility backlog -> margin/group FCF | 2026-09-25 |
+| D10 | 2021-01-04 | utility T&D components | Hubbell | REJECT | Medium | Utility Solutions profitable Q3 2020 | mature business; storm/acquisition mix | renewable grid orders -> distinct group profit | 2026-09-25 |
+| D10 | 2021-01-04 | engineered switchgear | Powell Industries | REJECT | Medium | qualified engineered equipment and backlog | 2020 big order industrial, not grid | utility orders -> repeat profit | 2026-09-25 |
+| D10 | 2021-01-04 | broad electrical systems | Eaton | REJECT | Medium | established electrical portfolio | grid-specific inflection absent | interconnection orders -> unrecognised profit | 2026-09-25 |
+
+
 ## Discipline
 
 A case may legitimately end with no PROMOTE. Record negative searches and DATA-LIMITED outcomes explicitly. Outcome information belongs only in `OUTCOMES.md`.

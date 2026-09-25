@@ -1,3 +1,9 @@
+## 2026-09-25 — #306 D06–D10 frozen development predictions
+
+- Froze five remaining development T0 packets together before inspecting any post-T0 outcome: D06 chiplet packaging, D07 RNA manufacturing, D08 direct liquid cooling, D09 accelerator physical complements, D10 grid interconnection. All yield **no PROMOTE**, with pre-T0 primary sources, individual candidate states/bridges and negative searches retained.
+- D06 Besi exposed to later search-result claims before clean review and was excluded; D09 stacked-memory discovery remains sealed for H04. D07 does not assume a later pandemic; D10 distinguishes queued projects from equipment orders. Search-result leakage and weak isolated attribution lower confidence; no v1 or live portfolio change.
+- D01–D05 are revealed; their development observations include two initial PROMOTE conversions with subsequent durability failures, three no-pick cases and possible economic false negatives. Final denominators await the remaining development and holdouts.
+
 ## 2026-09-25 — #305 D05 outcome reveal
 
 - Revealed D05 after frozen prediction PR #317 merged. Cognex logistics became its largest market in 2021 with substantial group sales conversion; concentration, lower logistics gross margin and a 2023 large-customer capex pause temper durability. It is a possible economic false negative, with T0 equity opportunity unscored.
