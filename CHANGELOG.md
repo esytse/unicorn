@@ -868,3 +868,9 @@ This file records substantive changes to research conclusions, confidence, prior
 - Completed an early **#132** portfolio re-rank after the fresh Centrus post-financing underwrite and governed Micronics Japan merge.
 - **No company currently has a governed `ACTION` entry signal.** Tactical cash remains the executable default; the portfolio continues to use conditional sleeves rather than forced deployment.
 - Candidate breadth is materially better than the original #131 four-name construction: current governed underwrites now include **Jinpan, Modine, Micronics Japan and Centrus** in addition to JEM, SUSS, Weebit and Laifual.
+
+## 2026-09-25 — Documentation authority consolidation (#339)
+
+- Marked `watchlist.md` and theme synthesis rankings as DERIVED navigation/synthesis surfaces with explicit authority boundaries.
+- Marked completed Gate-E construction/sprint artifacts as HISTORICAL and pointed live portfolio/ranking/monitor state to `PORTFOLIO.md`, `research/top10-unicorn-priority.md` and GitHub issues/`AUTOMATION.md`.
+- No company thesis, ranking order, Gate-E conclusion, transaction rule, or #261 frozen record changed.
