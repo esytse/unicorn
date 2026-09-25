@@ -24,6 +24,13 @@ Predictions are appended **before** outcome reveal. Never rewrite a frozen entry
 | D03 | 2018-01-02 | 5G RF filtering/integration, GaN amplification and test complexity | Skyworks | REJECT | Medium | broad established RF portfolio; FY17 revenue +11% | no 5G-specific inflection; mature mobile base | attributable 5G content -> incremental group profit beyond 4G | 2026-09-25 |
 
 
+| D04 | 2019-01-02 | EV SiC substrate yield, power-device qualification and module packaging | Cree / Wolfspeed | EVIDENCE-BUILD | Medium | >$85m wafer LTA; Wolfspeed 31.2% of September-quarter group sales | mixed SiC/RF segment and acquired RF revenue; already late-stage | organic EV SiC volume -> yield/FCF -> unrecognised group profit | 2026-09-25 |
+| D04 | 2019-01-02 | EV SiC substrates | II-VI | EVIDENCE-BUILD | Low | SiC power substrates; Performance Products +24% FY18 | SiC EV revenue unisolated within diversified segment | automotive qualification -> isolated material profit | 2026-09-25 |
+| D04 | 2019-01-02 | EV power modules and SiC wafer supply | Infineon | REJECT | Medium | CoolSiC and Cree supply agreement | mature diversified group; high-volume cost hurdles | EV SiC shipments -> incremental group profit/asymmetry | 2026-09-25 |
+| D04 | 2019-01-02 | EV SiC power devices | STMicroelectronics | EVIDENCE-BUILD | Low | SiC MOSFET in 2017 portfolio | no isolated EV production/sales economics | qualification -> automotive volume/profit | 2026-09-25 |
+| D04 | 2019-01-02 | EV SiC inverter modules | ROHM | EVIDENCE-BUILD | Low | 2018 Formula E module demonstration | road-vehicle volume and economics unverified | racing prototype -> mass-production OEM socket/profit | 2026-09-25 |
+
+
 ## Discipline
 
 A case may legitimately end with no PROMOTE. Record negative searches and DATA-LIMITED outcomes explicitly. Outcome information belongs only in `OUTCOMES.md`.
