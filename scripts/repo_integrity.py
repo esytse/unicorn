@@ -56,6 +56,15 @@ def check(root):
             if not resolved.exists():
                 fail('LINK', f'{path.relative_to(root)} -> {target}: missing local target')
         # Metadata applies only where an explicit lifecycle contract is declared.
+        lifecycle = re.search(r'^\*\*Lifecycle:\*\*\s*(CANONICAL|DERIVED|HISTORICAL|GUIDANCE|LOG|ARCHIVE)\b', body, re.M | re.I)
+        declared = re.search(r'^\*\*Lifecycle:\*\*\s*(\S+)', body, re.M | re.I)
+        if declared and not lifecycle:
+            fail('METADATA', f'{path.relative_to(root)} invalid Lifecycle {declared.group(1)}')
+        if lifecycle and lifecycle.group(1).upper() == 'DERIVED':
+            if re.search(r'^\*\*Authority:\*\*\s*CANONICAL\b', body, re.M):
+                fail('METADATA', f'{path.relative_to(root)} DERIVED cannot declare CANONICAL authority')
+            if not (re.search(r'^\*\*Canonical upstream:\*\*', body, re.M) or re.search(r'^\*\*Upstream authorities:\*\*', body, re.M)):
+                fail('METADATA', f'{path.relative_to(root)} DERIVED requires upstream authority metadata')
         for key in ('Supersedes', 'Superseded-by', 'Canonical upstream'):
             for target in re.findall(r'^\*\*' + key + r':\*\*\s*`([^`]+)`', body, re.M):
                 if not (root / target).is_file():

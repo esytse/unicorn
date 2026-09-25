@@ -1,5 +1,6 @@
 # Company Name
 
+**Lifecycle:** CANONICAL
 **Research stream:**  
 **Status:** Research queue  
 **Confidence:** Low  
@@ -79,6 +80,8 @@ Separate the operating/earnings contribution from the valuation-multiple/reratin
 - 
 
 ## Open questions
+
+**OPEN QUESTION:**
 
 1. 
 

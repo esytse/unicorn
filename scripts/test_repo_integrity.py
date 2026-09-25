@@ -47,6 +47,17 @@ class IntegrityTests(unittest.TestCase):
         path.write_text(path.read_text().replace('**As of:** 2026-09-25', '**As of:** unknown'))
         self.assert_detects('FRESHNESS')
 
+    def test_invalid_lifecycle_and_derived_contract(self):
+        self.append('README.md', '\n**Lifecycle:** CURRENT\n')
+        self.assert_detects('METADATA')
+        path = self.root / 'README.md'
+        path.write_text(path.read_text().replace('**Lifecycle:** CURRENT', '**Lifecycle:** DERIVED'))
+        self.assert_detects('METADATA')
+
+    def test_derived_cannot_claim_canonical(self):
+        self.append('README.md', '\n**Lifecycle:** DERIVED\n**Canonical upstream:** `PORTFOLIO.md`\n**Authority:** CANONICAL\n**Concept:** bad\n')
+        self.assert_detects('METADATA')
+
     def test_invalid_supersession(self):
         self.append('docs/DOCUMENTATION_AUDIT.md', '\n**Superseded-by:** `docs/absent.md`\n')
         self.assert_detects('LIFECYCLE')
