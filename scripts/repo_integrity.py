@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import unquote
 from prospective import validate as validate_prospective
 from performance import validate as validate_performance
+from discovery_coverage import validate as validate_discovery_coverage
 
 MAP = Path('docs/REPOSITORY_GOVERNANCE.md')
 FROZEN = Path('scripts/frozen-261.json')
@@ -163,6 +164,8 @@ def check(root, base_ref=None):
                     fail('KEY', f'{name}: unknown case {key[0]}')
     errors.extend(validate_prospective(root, base_ref))
     errors.extend(validate_performance(root, base_ref))
+    discovery_errors, _ = validate_discovery_coverage(root)
+    errors.extend(discovery_errors)
     return errors
 
 

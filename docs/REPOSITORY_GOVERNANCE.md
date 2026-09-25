@@ -60,6 +60,7 @@ Only READY enters the executable queue. RUNNING is excluded unless a stale claim
 | Cross-theme candidate index | `watchlist.md` | theme rankings | DERIVED; company evidence resolves upstream |
 | Live ranked research universe | `research/ranked-universe.md` | watchlist/theme rankings | live canonical |
 | Multibagger discovery / reverse-underwrite funnel | `research/unicorn-potential.md` | company files | live canonical |
+| Cross-theme discovery coverage / negative-search outcomes | `research/discovery/COVERAGE.md` | `research/discovery/coverage-ledger.json`, dated scans and theme plans | live canonical |
 | Live prospective calibration checkpoints | `research/prediction-calibration-ledger.md` | issue checkpoints | live canonical |
 | Wave-5 seed calibration snapshot | `research/decision-outcome-calibration-ledger.md` | none | HISTORICAL |
 | Historical Gate-D valuation layer | `research/top10-capital-allocation.md` | none | HISTORICAL |

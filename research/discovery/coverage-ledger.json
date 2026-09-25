@@ -1,0 +1,607 @@
+{
+  "as_of": "2026-09-25",
+  "thesis_chain": "Abundant Intelligence -> Scarce Complements -> Bottleneck Migration -> Economic Capture -> Capital Allocation",
+  "allowed_results": [
+    "ACTIVE_CANDIDATES",
+    "CANDIDATES_FOUND_BUT_REJECTED",
+    "NO_CREDIBLE_LISTED_CAPTURE",
+    "COVERAGE_INCOMPLETE",
+    "INTENTIONALLY_EXCLUDED"
+  ],
+  "lanes": [
+    {
+      "id": "memory-data-movement",
+      "world_change": "AI models increase bandwidth, packaging and test intensity",
+      "scarce_complement": "HBM, advanced packaging, process control and known-good-die test",
+      "coverage": "CROWDED",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "memory producers",
+        "bonding and lithography tools",
+        "inspection and metrology",
+        "probe cards and test",
+        "interface and CXL silicon"
+      ],
+      "active_listed_examples": [
+        "JEM",
+        "SUSS MicroTec",
+        "Micronics Japan",
+        "Onto Innovation",
+        "Camtek",
+        "FormFactor",
+        "Weebit Nano"
+      ],
+      "rejected_or_parked_examples": [
+        "Montage Technology: valuation removed current asymmetry"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "EV Group: private hybrid-bonding equipment benchmark"
+      ],
+      "remaining_gap": "Further names are likely correlated with the existing memory cycle; a new architecture or materially better asymmetry is required.",
+      "rescan_triggers": [
+        "new package or memory architecture changes the limiting step",
+        "new qualification or order evidence outside existing candidates",
+        "valuation or capacity reset changes relative asymmetry"
+      ],
+      "sources": [
+        "research/memory/research-plan.md",
+        "research/cross-theme/scarce-complement-map.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "electricity-grid-power",
+      "world_change": "AI data-centre load increases the value of deliverable power and speed to energisation",
+      "scarce_complement": "generation, transformers, grid equipment and interconnection execution",
+      "coverage": "STRONG",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "turbines",
+        "transformers",
+        "grid equipment",
+        "transmission EPC",
+        "nuclear fuel",
+        "power-system second-order components"
+      ],
+      "active_listed_examples": [
+        "Centrus Energy",
+        "Siemens Energy",
+        "nVent",
+        "Hainan Jinpan",
+        "HD Hyundai Electric",
+        "Huaming Power Equipment"
+      ],
+      "rejected_or_parked_examples": [
+        "800 VDC narrow supplier concentration: no Gate-A candidate",
+        "transformer inputs: weaker capture than equipment"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Weidmann: private transformerboard specialist",
+        "Trench/HSP: private bushing specialist",
+        "Maschinenfabrik Reinhausen: private OLTC benchmark"
+      ],
+      "remaining_gap": "Several real second-order bottlenecks have private or diluted public ownership; existing lanes dominate current coverage.",
+      "rescan_triggers": [
+        "new qualified supplier concentration",
+        "material capacity or regulation change",
+        "new physical bottleneck outside the mapped system",
+        "funded orders make a second-order layer company-material"
+      ],
+      "sources": [
+        "research/energy/research-plan.md",
+        "research/energy/second-order-ranking.md",
+        "research/energy/deep-dives/transformer-second-order-suppliers.md"
+      ]
+    },
+    {
+      "id": "rack-power-800vdc",
+      "world_change": "AI rack power rises toward architectures that reduce conversion stages and copper losses",
+      "scarce_complement": "qualified DC protection, conversion and distribution at rack and row level",
+      "coverage": "MEDIUM",
+      "search_result": "CANDIDATES_FOUND_BUT_REJECTED",
+      "searched_families": [
+        "DC breakers and protection",
+        "power conversion",
+        "busway and rack distribution",
+        "broad electrical platforms"
+      ],
+      "active_listed_examples": [],
+      "rejected_or_parked_examples": [
+        "ABB: credible platform but no concentrated lock-in",
+        "Schneider Electric: strong exposure but diluted company sensitivity",
+        "nVent/Eaton/Vertiv: relevant broader platforms without a separate narrow 800 VDC promotion"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "The architecture is credible, but no narrow supplier concentration or company-transforming economics cleared Gate A.",
+      "rescan_triggers": [
+        "named platform standard and production award",
+        "qualified component shortage or pricing power",
+        "revenue mix becomes material to a listed supplier",
+        "multi-vendor architecture narrows"
+      ],
+      "sources": [
+        "research/energy/deep-dives/electrical-backbone-800vdc.md",
+        "research/energy/second-order-ranking.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "thermal-cooling-loop",
+      "world_change": "AI rack density raises heat flux and liquid-loop reliability requirements",
+      "scarce_complement": "heat rejection, CDUs, cold plates, manifolds and leak-free quick disconnects",
+      "coverage": "MEDIUM_STRONG",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "cooling systems",
+        "CDUs",
+        "cold plates and manifolds",
+        "quick disconnects",
+        "heat rejection"
+      ],
+      "active_listed_examples": [
+        "Modine/Modexus",
+        "Vertiv",
+        "Impro Precision",
+        "LOTES"
+      ],
+      "rejected_or_parked_examples": [
+        "broad incumbents: insufficient company-transforming purity",
+        "Auras: primary financial and qualification evidence insufficient"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "private direct-to-chip vendors and ODMs"
+      ],
+      "remaining_gap": "Component qualification, order contribution and margins remain weakly disclosed.",
+      "rescan_triggers": [
+        "named platform qualification",
+        "cooling product mix or margin disclosure",
+        "leak/reliability standard creates concentrated qualification",
+        "capacity utilisation or shortage evidence"
+      ],
+      "sources": [
+        "research/cross-theme/liquid-cooling-components.md",
+        "research/energy/deep-dives/cooling-heat-rejection.md",
+        "research/cross-theme/thesis-first-discovery-2026-09-24.md"
+      ]
+    },
+    {
+      "id": "precision-actuation",
+      "world_change": "Physical AI moves from prototypes toward repeatable robot production",
+      "scarce_complement": "precision reducers, screws, motors and integrated actuator industrialisation",
+      "coverage": "STRONG",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "harmonic and cycloidal reducers",
+        "roller and ball screws",
+        "motors and drives",
+        "brakes",
+        "integrated joint manufacture and test"
+      ],
+      "active_listed_examples": [
+        "Laifual Drive",
+        "Harmonic Drive",
+        "Schaeffler",
+        "MinebeaMitsumi",
+        "Nabtesco",
+        "THK"
+      ],
+      "rejected_or_parked_examples": [
+        "brakes and locks: deprioritised",
+        "common components without named production evidence"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Rollvis: private planetary roller-screw benchmark"
+      ],
+      "remaining_gap": "Architecture share, named OEM production and unit economics remain uncertain across many component families.",
+      "rescan_triggers": [
+        "named mass-production award",
+        "capacity utilisation and repeat orders",
+        "architecture standardisation",
+        "new production evidence makes a common component scarce"
+      ],
+      "sources": [
+        "research/robotics-actuators/research-plan.md",
+        "research/robotics-actuators/synthesis-ranking.md",
+        "research/robotics-actuators/deep-dives/linear-actuation.md"
+      ]
+    },
+    {
+      "id": "safety-runtime-certification",
+      "world_change": "Autonomous physical systems require predictable control and certifiable safety",
+      "scarce_complement": "deterministic runtime, functional safety and cross-OEM certification",
+      "coverage": "STRONG",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "deterministic runtime",
+        "functional-safety platforms",
+        "machine safety",
+        "certification and validation"
+      ],
+      "active_listed_examples": [
+        "BlackBerry/QNX",
+        "FORT Robotics/FROB"
+      ],
+      "rejected_or_parked_examples": [
+        "large industrial incumbents: humanoid contribution too diluted"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Robotiq and other private safety specialists",
+        "UL: certification benchmark"
+      ],
+      "remaining_gap": "Recurring software economics, transaction dilution and protection from platform bundling remain unresolved.",
+      "rescan_triggers": [
+        "certified cross-OEM design wins",
+        "recurring software or subscription disclosure",
+        "S-4 or final capital structure",
+        "runtime bundled by silicon/OEM platform"
+      ],
+      "sources": [
+        "research/physical-ai/humanoid-safety-discovery.md",
+        "research/physical-ai/fort-robotics.md",
+        "research/cross-theme/scarce-complement-map.md"
+      ]
+    },
+    {
+      "id": "edge-compute-deployment",
+      "world_change": "Physical AI requires local inference under power, latency and deployment constraints",
+      "scarce_complement": "production-qualified edge compute and industrial deployment infrastructure",
+      "coverage": "MEDIUM",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "edge AI SoCs",
+        "industrial computers",
+        "low-cost OEM compute",
+        "device deployment and management"
+      ],
+      "active_listed_examples": [
+        "Ambarella",
+        "Advantech",
+        "Raspberry Pi",
+        "Arm"
+      ],
+      "rejected_or_parked_examples": [
+        "broad architecture exposure without company-level asymmetry"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "ZEDEDA/device orchestration: private pure-play exposure"
+      ],
+      "remaining_gap": "AI-specific incremental margins and recurring deployment economics are often unisolated.",
+      "rescan_triggers": [
+        "production design-in converts to disclosed revenue",
+        "recurring fleet-management attach",
+        "margin or backlog inflection tied to Physical AI",
+        "custom silicon changes capture"
+      ],
+      "sources": [
+        "research/physical-ai/edge-production-readiness.md",
+        "research/cross-theme/scarce-complements.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "simulation-evaluation-verification",
+      "world_change": "Physical AI policies need sim-to-real testing, rare-event coverage and release gating",
+      "scarce_complement": "validated simulation, evaluation and continuous fleet feedback",
+      "coverage": "UNDER_COVERED",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "digital twins",
+        "robot simulation",
+        "synthetic data",
+        "validation harnesses",
+        "deployment feedback"
+      ],
+      "active_listed_examples": [
+        "Grid Dynamics",
+        "PTC"
+      ],
+      "rejected_or_parked_examples": [
+        "ABB and Dassault Systemes: exposure too diluted for the theme alone"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Foretellix",
+        "Applied Intuition",
+        "dSPACE",
+        "Wandelbots",
+        "SKAI Intelligence"
+      ],
+      "remaining_gap": "The cleanest release-gating businesses are private; listed candidates must prove recurring platform economics over services.",
+      "rescan_triggers": [
+        "recurring or usage revenue disclosed",
+        "independent validation becomes a release gate",
+        "listed pure-play emerges",
+        "open-source or incumbent bundling removes scarcity"
+      ],
+      "sources": [
+        "research/physical-ai/simulation-validation-discovery.md",
+        "research/physical-ai/evaluation-verification-economics.md",
+        "research/cross-theme/scarce-complements.md"
+      ]
+    },
+    {
+      "id": "fleet-feedback-data",
+      "world_change": "Deployed robots create rare-failure and operational data unavailable from generic models",
+      "scarce_complement": "rights to feedback data, cross-customer learning and fleet operations",
+      "coverage": "UNDER_COVERED",
+      "search_result": "NO_CREDIBLE_LISTED_CAPTURE",
+      "searched_families": [
+        "fleet orchestration",
+        "robot operations",
+        "feedback and maintenance loops",
+        "cross-customer data platforms"
+      ],
+      "active_listed_examples": [],
+      "rejected_or_parked_examples": [
+        "PTC and Ambarella: indirect or diluted exposure",
+        "robot OEM captive loops: no merchant listed capture"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Brain Corp",
+        "Skild AI",
+        "InOrbit",
+        "ZEDEDA"
+      ],
+      "remaining_gap": "No clean listed company has demonstrated rights to pool cross-customer feedback and retain recurring economics.",
+      "rescan_triggers": [
+        "listed supplier discloses reusable cross-customer data rights",
+        "private platform lists or is acquired by a material public owner",
+        "recurring fleet revenue and retention become visible"
+      ],
+      "sources": [
+        "research/cross-theme/scarce-complement-map.md",
+        "research/physical-ai/thesis.md",
+        "research/physical-ai/synthesis-ranking.md"
+      ]
+    },
+    {
+      "id": "sensing-perception",
+      "world_change": "Physical intelligence needs qualified observations of geometry, motion and environment",
+      "scarce_complement": "physics-constrained sensing, depth and perception modules",
+      "coverage": "MEDIUM",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "lidar",
+        "machine vision",
+        "depth cameras",
+        "edge perception SoCs",
+        "humanoid stereo modules"
+      ],
+      "active_listed_examples": [
+        "Ouster",
+        "Cognex/RealSense",
+        "Namuga",
+        "Ambarella"
+      ],
+      "rejected_or_parked_examples": [
+        "generic sensors without qualification or company materiality"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "Named production volumes, sensor-specific profit and resistance to integration remain uneven.",
+      "rescan_triggers": [
+        "named mass-production programme",
+        "sensor mix becomes company-material",
+        "modality or integration changes the bottleneck",
+        "margin evidence survives volume ramp"
+      ],
+      "sources": [
+        "research/cross-theme/sensing-bottlenecks.md",
+        "research/physical-ai/humanoid-perception-discovery.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "scientific-ai-execution",
+      "world_change": "AI can generate scientific hypotheses faster than labs can execute and validate them",
+      "scarce_complement": "validated physical execution, measurement, orchestration and provenance",
+      "coverage": "EMERGING",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "lab automation",
+        "measurement",
+        "orchestration",
+        "sample handling",
+        "consumables",
+        "provenance and QC"
+      ],
+      "active_listed_examples": [
+        "Tecan",
+        "Bruker/Chemspeed/SciY"
+      ],
+      "rejected_or_parked_examples": [
+        "Thermo Fisher and Danaher: broad benchmark exposure with weak AI-specific materiality",
+        "generic lab robotics: weaker standalone moat"
+      ],
+      "private_or_uninvestable_benchmarks": [
+        "Automata",
+        "Opentrons",
+        "HighRes Biosolutions",
+        "Hamilton"
+      ],
+      "remaining_gap": "Order growth, recurring attach and company-level AI materiality are unproven; provenance/QC has no clean public capture.",
+      "rescan_triggers": [
+        "AI-linked automation order or utilisation inflection",
+        "recurring software/service/consumable attach",
+        "provenance becomes regulated release gate",
+        "private integrated platform lists"
+      ],
+      "sources": [
+        "research/scientific-ai/execution-bottlenecks.md",
+        "research/cross-theme/scientific-ai-execution.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "distributed-compute",
+      "world_change": "Frontier AI demand expands beyond hyperscalers into distributed merchant infrastructure",
+      "scarce_complement": "funded CPU/accelerator capacity and deployable distributed infrastructure",
+      "coverage": "UNDER_COVERED",
+      "search_result": "ACTIVE_CANDIDATES",
+      "searched_families": [
+        "distributed cloud",
+        "merchant compute",
+        "edge infrastructure"
+      ],
+      "active_listed_examples": [
+        "Akamai"
+      ],
+      "rejected_or_parked_examples": [
+        "generic cloud exposure without incremental returns"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "Capital intensity, concentration and incremental ROIC may absorb the economics.",
+      "rescan_triggers": [
+        "contracted demand converts to funded utilisation",
+        "incremental ROIC and cash disclosure",
+        "additional non-hyperscaler architecture signal",
+        "capacity commoditises"
+      ],
+      "sources": [
+        "research/cross-theme/akamai.md",
+        "research/cross-theme/scarce-complements.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "networking-data-path",
+      "world_change": "Distributed and clustered AI raises data-path orchestration requirements",
+      "scarce_complement": "networking architecture and DPU/SmartNIC control",
+      "coverage": "UNDER_COVERED",
+      "search_result": "COVERAGE_INCOMPLETE",
+      "searched_families": [
+        "DPU and SmartNIC CPU architecture",
+        "cluster networking"
+      ],
+      "active_listed_examples": [
+        "Arm: comparator only"
+      ],
+      "rejected_or_parked_examples": [
+        "broad vendors where capture and valuation are unisolated"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "No bounded architecture-first public supplier search has established a company-transforming scarce layer.",
+      "rescan_triggers": [
+        "new constrained networking architecture",
+        "qualification or order inflection",
+        "company-level materiality and pricing evidence"
+      ],
+      "sources": [
+        "research/cross-theme/scarce-complements.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "industrial-control",
+      "world_change": "Physical AI must connect inference to deterministic machine control",
+      "scarce_complement": "industrial control, policy execution and functional integration",
+      "coverage": "UNDER_COVERED",
+      "search_result": "COVERAGE_INCOMPLETE",
+      "searched_families": [
+        "industrial computers",
+        "automation incumbents",
+        "policy-control platforms"
+      ],
+      "active_listed_examples": [
+        "Advantech",
+        "Grid Dynamics"
+      ],
+      "rejected_or_parked_examples": [
+        "Siemens and broad automation incumbents: incremental Physical-AI economics unisolated"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "Control-specific scarce economics and recurring capture have not been isolated from broad automation/services.",
+      "rescan_triggers": [
+        "named production policy-control programme",
+        "recurring platform revenue",
+        "control becomes separately disclosed and material"
+      ],
+      "sources": [
+        "research/cross-theme/scarce-complements.md",
+        "research/physical-ai/simulation-validation-discovery.md",
+        "research/ranked-universe.md"
+      ]
+    },
+    {
+      "id": "workflow-permissions-distribution",
+      "world_change": "Abundant agents require trusted access to enterprise systems and transactions",
+      "scarce_complement": "identity, permissions, workflow integration and distribution",
+      "coverage": "BLIND_SPOT",
+      "search_result": "COVERAGE_INCOMPLETE",
+      "searched_families": [
+        "high-level conceptual map only"
+      ],
+      "active_listed_examples": [],
+      "rejected_or_parked_examples": [],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "The lane is broad and has no bounded value-chain search or tested company-capture mechanism.",
+      "rescan_triggers": [
+        "bounded architecture question identifies a release gate",
+        "switching cost or transaction economics become testable",
+        "portfolio need justifies a focused scan"
+      ],
+      "sources": [
+        "research/cross-theme/scarce-complement-map.md"
+      ]
+    },
+    {
+      "id": "model-providers-generic-accelerators",
+      "world_change": "Model and accelerator capabilities continue to improve",
+      "scarce_complement": "none by default; this is the initiating abundance layer",
+      "coverage": "EXCLUDED",
+      "search_result": "INTENTIONALLY_EXCLUDED",
+      "searched_families": [
+        "models",
+        "generic training and inference accelerators"
+      ],
+      "active_listed_examples": [],
+      "rejected_or_parked_examples": [
+        "generic AI beneficiaries without a scarce-complement bridge"
+      ],
+      "private_or_uninvestable_benchmarks": [],
+      "remaining_gap": "Re-enter only if a specific sub-layer becomes a scarce complement rather than the initiating technology.",
+      "rescan_triggers": [
+        "architecture change creates a new constrained complement inside the layer"
+      ],
+      "sources": [
+        "research/cross-theme/scarce-complements.md",
+        "research/backtests/261/SPEC.md"
+      ]
+    }
+  ],
+  "familiarity_audit": {
+    "scope": "Top 20 rows of research/ranked-universe.md at 2026-09-25, classified by primary exposure",
+    "total": 20,
+    "buckets": {
+      "memory_data_movement": [
+        "Japan Electronic Materials",
+        "SUSS MicroTec",
+        "Onto Innovation",
+        "Weebit Nano",
+        "Micronics Japan"
+      ],
+      "energy_power_cooling": [
+        "Centrus Energy",
+        "Modine / Modexus",
+        "Siemens Energy",
+        "nVent",
+        "Hainan Jinpan",
+        "Vertiv",
+        "Huaming Power Equipment"
+      ],
+      "physical_ai": [
+        "Laifual Drive",
+        "BlackBerry / QNX",
+        "Advantech",
+        "Raspberry Pi",
+        "Ambarella",
+        "FORT Robotics / FROB",
+        "Ouster"
+      ],
+      "distributed_compute": [
+        "Akamai"
+      ],
+      "scientific_ai": [],
+      "workflow_permissions": []
+    },
+    "interpretation": "The top 20 is concentrated in the three most familiar research programmes. This is an observable coverage bias, not proof that their ranks are wrong. Marginal discovery should prefer independent under-covered bottlenecks when evidence quality and portfolio contribution are comparable."
+  }
+}

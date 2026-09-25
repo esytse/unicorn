@@ -911,3 +911,8 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Added append-only, survivorship-aware performance supplements for each future #325 checkpoint, derived scorecards for adjusted returns, maximum drawdown, economic/recognition/thesis-break timing and matched opportunity costs, plus guarded cohort precision/recall/transformation capture. Synthetic tests exercise acquisition, delisting missingness, return arithmetic and incomplete cohorts.
 - No market prices fabricated: there are no prospective checkpoints yet and #261 remains 0/63 scored adjusted equity series. This framework changes neither methodology promotion rules nor live ranking/portfolio actions.
+
+## 2026-09-25 — #330 discovery coverage and negative-search ledger
+
+- Consolidated existing AI and Physical-AI discovery evidence into 16 architecture-first lanes with explicit active, rejected, no-listed-capture, incomplete and intentionally excluded outcomes, private/uninvestable benchmarks and rescan triggers. Deterministic checks protect source paths, state consistency and top-20 familiarity counts.
+- The audit finds 12 of the top 20 ranked observations in memory or energy/power/cooling, while scientific AI and workflow/permissions have none. This is a coverage/evidence-maturity bias, not a reranking result. No company research, ranking, portfolio action or frozen #261 record changed.
