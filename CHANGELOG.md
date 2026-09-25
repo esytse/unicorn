@@ -1,6 +1,30 @@
 ## 2026-09-25 — Canonical ACTION underwrites
 Closed the documentation-integrity gap for the three current Gate-E ACTION candidates. Confirmed Laifual already has a full canonical company underwrite at research/robotics-actuators/companies/laifual-drive.md; upgraded TAI-TECH and Impro company files so their thesis chains, evidence hierarchy, March-2028 scenario bridges, counter-cases/falsifiers, Gate-E rules and source IDs live with the company research rather than only in the Gate-E sprint. Added central source-register entries for TAI-TECH and Impro and explicitly distinguished primary evidence from secondary management reporting. Gate-E files remain portfolio summaries, not the primary research record.
 
+## 2026-09-25 — #302 D01 outcome reveal
+
+- Revealed D01 only after its prediction commit merged.
+- AAOI PROMOTE validated the initial economic-conversion chain: 2015–2017 revenue roughly doubled, data-center mix reached 80.2%, and 2017 margins inflected strongly; later customer concentration and architecture replacement impaired durability.
+- Oclaro validated the bottleneck/capture but confirmed the frozen classification was already late-stage; NeoPhotonics was a partial architecture/capture validation with severe concentration.
+- D01 exposes customer concentration + architecture-replacement durability as a future-v2 consideration; frozen v1 remains unchanged.
+- Equity checkpoint returns remain unscored until a reliable point-in-time price series is recovered.
+
+## 2026-09-25 — #302 D01 frozen prediction
+
+- Executed the prediction phase of the first #261 point-in-time historical case at T0 4 Jan 2016.
+- PROMOTE: Applied Optoelectronics, based on pre-T0 hyperscale 100G design wins, vertical laser/light-engine integration and accelerating group revenue.
+- EVIDENCE-BUILD: Oclaro and NeoPhotonics; both already had very high 100G mix, making them later-stage architecture validators rather than clean 5–15% pre-inflection discoveries.
+- REJECT for D01 promotion: Lumentum, due to insufficient T0 hyperscale-100G state-change evidence.
+- Acacia excluded because it was not publicly listed at T0. No post-T0 outcome evidence was used in the frozen prediction.
+
+## 2026-09-25 — #300 #261 historical validation framework
+
+- Added a frozen point-in-time backtest protocol for the #261 architecture-first discovery thesis.
+- Pre-registered 10 development and 5 sealed holdout architecture transitions before company discovery.
+- Added separate prediction, outcome, failure/miss and aggregate-summary ledgers to prevent hindsight rewriting.
+- Frozen anti-leakage rules require publication-date cutoffs, architecture-first candidate formation, negative-search retention and prediction commits before outcome reveal.
+- No #261 rule change is permitted until development work is complete and the holdout sequence is respected.
+
 ## 2026-09-25 — Gate-E portfolio refresh
 Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190–210) and Impro Precision (HK$6.6–7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing £6,000 / 15% of the £40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
 
