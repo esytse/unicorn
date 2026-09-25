@@ -14,6 +14,10 @@ Preserve errors. Do not edit them away when the methodology changes later.
 | D03 | Resonant | timing / acquisition before royalty proof | IP licensing might monetize scarce filter designs but recurring royalties unproved | Murata paid for 5G XBAR development and acquired Resonant; 2021 revenue remained $2.2m and loss $35.97m | T0 design-fee revenue and 9–18-month development lag | distinguish strategic acquisition value from independently demonstrated recurring economic conversion |
 
 
+| D04 | Cree / Wolfspeed | capital intensity / dilution / capacity utilisation | genuine SiC wafer contracts could scale, but financial conversion and T0 equity asymmetry not verified; EVIDENCE-BUILD | power/material revenue scaled, while new-fab underutilisation and cash burn led to Chapter 11 and old-share cancellation with fractional new-share recovery | 2018 investor day already projected large capacity investment; mixed segment obscured organic EV economics | distinguish contracted demand from funded, yield-qualified and FCF-positive manufacturing scale; preserve as a v2 hypothesis only |
+| D04 | II-VI / Coherent | attribution / ownership | SiC substrate economics were unisolated in a broad company | strategic $1bn third-party investment validated business value but diluted parent ownership; group profit unisolated | FY2018 segment bundled unrelated products | track parent-share economic capture and segment attribution, not just subsidiary valuation |
+
+
 ## Error types
 
 Architecture wrong; bottleneck migration; capture failure; substitution/integration; materiality failure; valuation; dilution/capital intensity; timing; false negative; data limitation.

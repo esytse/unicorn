@@ -1,3 +1,8 @@
+## 2026-09-25 — #305 D04 outcome reveal
+
+- Revealed D04 only after frozen prediction PR #315 merged; preserved no-PROMOTE states and the post-T0 search-snippet caveat. SiC power/material revenue scaled, but Wolfspeed's fab underutilisation and financing culminated in Chapter 11, cancellation of old shares and fractional new-share recovery. FY2023 RF-included and later continuing bases are kept distinct.
+- II-VI/Coherent's SiC subsidiary gained $1bn of strategic partner capital; parent profit attribution and equity checkpoints remain unresolved. Infineon's SiC EV capture is credible but unisolated; ST and ROHM are DATA-LIMITED. Added failure and source ledgers, with capacity/financing durability proposed only for future v2. No live portfolio or frozen v1 change.
+
 ## 2026-09-25 — #305 D04 frozen prediction
 
 - Reconstructed EV power-electronics SiC bottleneck at T0 2 Jan 2019. Froze **no PROMOTE**: Cree/Wolfspeed, II-VI, ST and ROHM EVIDENCE-BUILD; Infineon REJECT for early company transformation. Cree's >$85m wafer contract and rapid mixed-segment growth are strong, but EV-specific organic profit and valuation are unisolated and its segment already exceeds the early discovery window.

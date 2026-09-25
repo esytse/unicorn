@@ -50,3 +50,21 @@ Searched upstream substrates (II-VI and Cree), merchant power devices/modules (I
 ## Frozen prediction
 
 **No PROMOTE.** SiC wafer scarcity and contracted demand are substantial; Cree is already a sizeable, mixed and partly acquisition-driven segment by T0. II-VI, ST and ROHM lack isolated EV production economics, and Infineon is a mature group. **HYPOTHESIS:** Cree's materials bottleneck could convert economically even if the equity case is too late or capital-intensive. This null-promotion outcome is retained as a possible false negative to test after the prediction merge. No v1 rule or current watchlist conclusion changes.
+
+## Outcome reveal — 25 September 2026
+
+The prediction was merged in PR #315 before any post-T0 outcome research. Frozen rows above are unchanged. Post-T0 sources below are registered separately.
+
+**FACT — architecture:** Silicon-carbide power products and wafer materials achieved substantial production revenue. Wolfspeed's FY2023 power products were $408.9m, versus $132.8m in FY2021; materials were $349.3m versus $241.6m. Infineon's 2024 report describes SiC across EVs and fast charging, with capacity and qualified wafer sourcing still central. [SRC-BT261-D04-O01, O05]
+
+**Cree/Wolfspeed — PARTIAL technical capture, FAILED durable shareholder capture / High:** FY2023 including RF reported $921.9m revenue, 30.3% gross margin and $380.6m continuing-operations operating loss. After RF classification as discontinued, the comparable FY2023 continuing revenue is $758.5m; FY2024 continuing revenue was $807.2m, gross profit $77.4m (~9.6% margin), with $124.4m fab underutilisation costs and $671.3m continuing operating cash outflow. These reporting bases must not be mixed as a growth series. Wolfspeed filed Chapter 11 on 30 June 2025. Its September reorganisation cancelled old shares and distributed new shares to former holders at 0.008352 per old share. [SRC-BT261-D04-O01–O03]
+
+**INTERPRETATION:** The T0 wafer scarcity and device demand translated into sales, but scaling a new 200-mm fab destroyed gross-margin/cash conversion, and debt dilution/restructuring overwhelmed the equity. The frozen EVIDENCE-BUILD correctly withheld shareholder promotion, while the technology capture is real. The 2019-to-2025 adjusted shareholder return and interim drawdown remain unscored; the reorganisation demonstrates a severe impairment, not literally zero recovery.
+
+**II-VI/Coherent — PARTIAL strategic validation, group materiality DATA-LIMITED / Medium:** Coherent's FY2023 filing discussed strategic alternatives for the SiC business. October 2023 agreements gave Denso and Mitsubishi Electric 12.5% each of the SiC subsidiary for a combined $1bn commitment, leaving Coherent 75%. This validates strategic value and external customer alignment, but neither EV-specific SiC revenue nor its consolidated profit bridge is isolated here. The 2022 Coherent acquisition confounds group comparisons. [SRC-BT261-D04-O04]
+
+**Infineon — PARTIAL incumbent capture / Medium:** Its FY2024 report describes a developed SiC power portfolio, production expansion and EV use. This supports the mature-incumbent capture mechanism but does not isolate an EV SiC group-profit or T0 valuation surprise, so the REJECT for a clean early company transformation is not falsified. [SRC-BT261-D04-O05]
+
+**ST and ROHM — DATA-LIMITED company-specific EV conversion / Low:** The registered evidence in this pass does not isolate comparable 2019–2024 EV SiC revenue, profit and equity bridges for these two. They are not silently scored as failures or successes. Their frozen EVIDENCE-BUILD states remain unresolved on economic conversion; later general automotive/SiC product listings alone would not suffice.
+
+**Scoring:** Zero PROMOTEs, thus no promotion-precision denominator. The strongest architecture beneficiary identified at T0 produced material revenue but failed durable cash/shareholder capture. A v2 hypothesis is to test capacity/financing runway and fab utilisation *as a separate durability gate* even when wafer LTAs are real. This is an observation, not a change to frozen v1. The post-T0 business-combination and reporting restatement, limited competitor attribution and missing adjusted equity series constrain any stronger claim.
