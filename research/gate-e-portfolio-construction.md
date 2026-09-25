@@ -20,6 +20,41 @@
 
 ---
 
+
+## Portfolio refresh — 25 September 2026: three simultaneous ACTION conditions
+
+**Purpose:** reconcile the canonical portfolio surface with the latest governed company Gate-E work. This is a research allocation signal; brokerage execution remains manual and each price must be rechecked when its market is executable.
+
+### Current governed ACTION surface
+
+| Candidate | Latest controlled reference | Governed condition | Research state | Initial sleeve | £40k envelope |
+|---|---:|---|---|---:|---:|
+| **Laifual Drive** | HK$45.82 (24 Sep close) | **<=HK$48**, thesis intact | **ACTION condition met** | **5%** | **£2,000** |
+| **TAI-TECH** | ~NT$209 | **NT$190–210**, acceleration intact | **ACTION condition met** | **5%** | **£2,000** |
+| **Impro Precision** | ~HK$7.12 | **HK$6.6–7.2**, H2 ramp thesis intact | **ACTION condition met** | **5%** | **£2,000** |
+
+**Combined initial research allocation: 15% / £6,000. Tactical cash and future triggered sleeves: 85% / £34,000.**
+
+### Why all three can coexist
+
+The three signals are not duplicates. Laifual expresses Physical-AI precision actuation; TAI-TECH expresses AI power/magnetics; Impro expresses distributed-power engines, liquid cooling and turbine components. Their catalysts and principal failure modes differ enough that the portfolio should not suppress one merely because the other two are simultaneously executable.
+
+The initial 5% sizing is deliberately below each evidence-supported ceiling. Concentration must still be earned through subsequent operating evidence. No automatic add follows from a starter condition being met.
+
+### Pre-execution controls
+
+1. Recheck executable price when each local market is open; do not use a stale close as an order instruction.
+2. Confirm no overnight filing, earnings, dilution, customer or architecture evidence has broken the thesis.
+3. Do not chase above the governed entry band merely to complete the three-position basket.
+4. Treat the three sleeves independently: a failed price/evidence check in one does not invalidate the other two.
+5. Preserve the remaining 85% for stronger price-led entries, evidence-led adds and independent return engines.
+
+### Portfolio implication
+
+The prior portfolio text stating that only Laifual was governed ACTION is now stale. The latest thesis-first Gate-E sprint has independently promoted TAI-TECH and Impro to starter-eligible states, while Laifual's 24 Sep close is inside its existing <=HK$48 condition. Therefore the current canonical research surface is **three conditional 5% starters**, not one.
+
+This does not change the structural/unicorn ranking. Structural rank and Gate-E deployability remain separate axes.
+
 ## Executive conclusion
 
 **INTERPRETATION:** The first four current Gate-E underwrites are sufficient to construct a meaningful portfolio decision surface, but they are **not sufficient to support full deployment or a credible £80k path on their own**.
