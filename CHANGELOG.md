@@ -1,3 +1,9 @@
+## 2026-09-25 — Raspberry Pi Gate-E entry reassessment
+
+- Added evidence-conditioned entry bands after the 24 September H1 result and repricing.
+- Raspberry Pi remains REASSESS / WAIT at 755p; <=550p is the first price-led ACTION-candidate zone, while 550–650p requires stronger normalized FY27/28 earnings evidence.
+- Consolidated the valuation section around the refreshed ~193.7m share count and retained memory normalization, backlog conversion, inventory funding and OEM concentration as key risks.
+
 ## 2026-09-25 — Akamai Gate-E economics refresh
 
 - Incorporated management's disclosed mid-60s to mid-70s non-GAAP cash gross-margin range and take-or-pay structure for large CIS deals into the Anthropic contract assessment.
