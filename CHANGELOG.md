@@ -1,3 +1,10 @@
+## 2026-09-25 — #305 D03 frozen prediction
+
+- Reconstructed 5G RF architecture as known by 2 January 2018 after the first non-standalone NR specification, using only contemporaneously published evidence.
+- Froze **no PROMOTE**: Qorvo, Akoustis, Resonant and Keysight are EVIDENCE-BUILD; MACOM, Cree/Wolfspeed and Skyworks are REJECT for a clean 5G-specific pre-inflection promotion. Small suppliers lacked production/royalty economics; large suppliers lacked an isolated, unrecognised company-transformation bridge.
+- Registered primary sources and the negative search. Search-result exposure to post-T0 filings for Akoustis/Resonant is documented; no later performance claim was used. Outcome reveal must follow the merged prediction, not this commit alone.
+- No v1 methodology, current watchlist, ranking or Gate-E portfolio change.
+
 ## 2026-09-25 — #305 D02 outcome reveal
 
 - Appended post-T0 outcomes only after frozen prediction PR #311 merged; preserved v1 rules and the Largan/InvenSense/Hutchinson search-snippet leakage caveat.
