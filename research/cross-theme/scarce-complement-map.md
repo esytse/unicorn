@@ -5,6 +5,8 @@
 **Parent framework:** `research/cross-theme/scarce-complements.md`  
 **Purpose:** show where Unicorn already has evidence, where exposures overlap, and which missing bottlenecks deserve research.
 
+This document maps the structural lanes. The current searched/rejected/absent/incomplete state and rescan triggers are canonical in the [discovery coverage ledger](../discovery/COVERAGE.md).
+
 > **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**
 
 This map is a research-prioritisation surface, not a stock ranking. A bottleneck can be structurally important without producing supplier rents, and a company can have bottleneck exposure without clearing Gate-E valuation, catalyst or downside requirements.
