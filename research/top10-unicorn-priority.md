@@ -9,7 +9,7 @@
 
 ## Authoritative live ranking — full-repository audit, 24 September 2026
 
-**Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. This audit expands the live universe from 25 to **59 company entries**.
+**Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. The original audit expanded the universe to 59 entries; governed thesis-first discoveries now expand the live universe to **65 company entries**.
 
 | Rank | Company | Primary exposure | State | Evidence / setup summary |
 |---:|---|---|---|---|
@@ -36,7 +36,7 @@
 | **21** | **HD Hyundai Electric** | Transformers | WATCH | Strong specialist capture; prior price well above normalized return zone |
 | **22** | **Camtek** | AP inspection/metrology | WATCH | Direct HBM/AP orders; strong capture, demanding valuation |
 | **23** | **FormFactor** | HBM test / probe | WATCH | Ships HBM probe cards to all three majors; valuation main constraint |
-| **24** | **Montage Technology** | DDR5/MRDIMM interfaces | WATCH | Oligopoly/high margins; size and valuation reduce asymmetry |
+| **24** | **Montage Technology** | DDR5/MRDIMM + CXL 3.2 controllers | FAILED / PARKED | CXL thesis strengthened by Samsung/SK hynix integration, but current valuation removes Unicorn asymmetry |
 | **25** | **ASMPT** | HBM/AP bonding | WATCH | Multi-customer HBM4 + architecture breadth; diluted sensitivity |
 | **26** | **Technoprobe** | Advanced probe cards | WATCH | Exceptional margins/growth; operating benchmark, valuation gate |
 | **27** | **Hanmi Semiconductor** | HBM TC bonding | WATCH | Extreme current capture/margins; customer/transition/valuation risk |
@@ -72,6 +72,13 @@
 | **57** | **Hitachi / Hitachi Energy** | Transformers / grid equipment | COMPARATOR | Strong structural transformer exposure; parent-company dilution limits clean capture |
 | **58** | **Thermo Fisher Scientific** | Scientific-AI execution | COMPARATOR | Broad lab/instrument benchmark; AI-specific economics insufficiently isolated |
 | **59** | **Danaher** | Scientific-AI execution | COMPARATOR | Broad life-science tools benchmark; AI-specific financial capture insufficiently isolated |
+
+| **60** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | POTENTIAL | Early company-material AI mix; 3x economically plausible but not validated |
+| **61** | **Namuga** | Humanoid 3D sensing | POTENTIAL / UNDERWRITE | PoC→verification→sole-source→production transition; programme economics still undisclosed |
+| **62** | **Grid Dynamics** | Physical-AI simulation / validation / deployment | POTENTIAL / EVIDENCE BUILD | Small starting equity and live commercial programs; recurring/platform economics unproven |
+| **63** | **Impro Precision Industries** | AI distributed power + liquid cooling | POTENTIAL / EVIDENCE BUILD | High-horsepower engines already material; current mix/backlog/margins/valuation need resolution |
+| **64** | **Vicor** | Vertical power delivery | POTENTIAL / WATCH | Structural capture validated; discovered after major rerating, current equity setup weaker |
+| **65** | **AP Memory** | Silicon capacitors / package power integrity | POTENTIAL / LATE DISCOVERY | Business inflection validated; starting valuation already reflects substantial success |
 
 ### Audit provenance and exclusions
 
