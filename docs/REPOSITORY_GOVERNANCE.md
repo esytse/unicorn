@@ -1,81 +1,115 @@
-# Repository architecture and canonical-source map
+# Repository architecture and lifecycle model
 
 **As of:** 2026-09-25  
-**Issues:** #331, #333, #338  
-**Status:** baseline before structural migration
+**Issue:** #332  
+**Status:** CANONICAL repository architecture and authority map
 
-## Purpose
+## Purpose and thesis invariant
 
-Unicorn is a research system, not a collection of independent Markdown notes. This map defines which artifact owns each live concept so refactoring can preserve provenance and avoid competing truths.
+Unicorn is a thesis-first research system. Repository structure exists to support, never replace, the original chain:
 
-## Canonical-source rules
+> **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**
 
-1. One live concept has one canonical source.
-2. Issues own workflow state; documents own durable knowledge.
-3. Derived views may summarize canonical sources but must not silently become authoritative.
-4. Historical/frozen records are append-only or immutable according to their own rules.
-5. Git history is the detailed version record; do not create version-suffixed duplicates.
-6. A move is not allowed until inbound references and regression tests are known.
-7. Repo cleanup must not change a research conclusion, portfolio rule or frozen validation result.
+Discovery therefore starts with architecture/change and scarcity, not a generic stock screen. Repo hygiene must not alter investment conclusions or the frozen #261 corpus.
+
+## Authority rules
+
+1. **One canonical authority per live concept.**
+2. **Issues are workflow; documents are durable knowledge.** An issue may coordinate work or preserve execution history, but durable conclusions land in the appropriate document.
+3. **Derived views name their upstream authority.** They may rank, index or summarize; they do not become a second live truth.
+4. **Historical/frozen material cannot silently become live.** Re-adoption requires an explicit new live artifact/change, not editing history.
+5. Git history is the detailed version record. Prefer stable paths/indexes over moves that create reference churn.
+6. Superseded material remains discoverable but is explicitly non-current.
+7. Cleanup cannot change research conclusions, portfolio rules, or #261 frozen content.
+
+## Lifecycle vocabulary
+
+| Class | Role | Mutation rule |
+|---|---|---|
+| **CANONICAL** | Sole current authority for a defined live concept | Update in place with evidence/governance; Git preserves versions |
+| **DERIVED** | Index, ranking, synthesis or report computed/summarized from authority | Must identify upstream; refresh rather than independently redefine truth |
+| **HISTORICAL** | Point-in-time/frozen evidence, validation or superseded snapshot retained for provenance | Do not rewrite into current state; immutable where declared frozen |
+| **GUIDANCE** | Human/agent operating instructions, templates and navigation | May evolve, but must point to canonical authorities rather than duplicate mutable conclusions |
+| **LOG** | Chronological record of changes/events | Append/record what happened; never treat as current truth |
+| **ARCHIVE** | Intentionally retired material retained when Git history alone is insufficient | Non-current; must not be routed to for live decisions |
+
+A document can support another class, but only one artifact owns each live concept. Classification describes authority, not folder location.
+
+## Deterministic issue-state semantics
+
+| State | Meaning | Executable? |
+|---|---|---:|
+| **READY** | Prerequisites satisfied; concrete next action can start now | yes |
+| **RUNNING** | Claimed and actively being executed; owner/context must prevent duplicate execution | no new claim |
+| **WAITING** | Needs an external/date/evidence trigger; trigger is explicit | no |
+| **BLOCKED** | Needs an internal prerequisite/dependency; dependency is explicit | no |
+| **PARKED** | Intentionally deprioritized until an explicit reactivation condition | no |
+| **EPIC** | Coordination/parent surface, never a work item itself | no |
+| **DONE** | Completion gate satisfied; durable findings recorded; GitHub issue should be closed | no |
+
+Only READY enters the executable queue. RUNNING is excluded unless a stale claim is explicitly recovered. WAITING becomes READY only when its trigger fires; BLOCKED becomes READY only when dependencies resolve; PARKED requires an explicit reactivation decision. Two selections against unchanged repository/issue state must produce the same queue order.
 
 ## Canonical source map
 
 | Concept | Canonical source | Derived / supporting views | Lifecycle |
 |---|---|---|---|
-| Repository purpose / navigation | `README.md` | `CONTRIBUTING.md` | live guidance |
-| Agent operating rules | `AGENTS.md` | README workflow summary | live guidance |
+| Repository purpose / navigation | `README.md` | `CONTRIBUTING.md` | GUIDANCE |
+| Agent operating rules | `AGENTS.md` | README workflow summary | GUIDANCE |
 | Queue states / scheduler protocol | `AUTOMATION.md` | issue metadata, README summary | live canonical |
 | Portfolio mandate / Gate-E operating rules | `PORTFOLIO.md` | company monitors, ranking views | live canonical |
-| Cross-theme candidate index | `watchlist.md` | theme rankings | **derived index**; not authority for company evidence |
+| Cross-theme candidate index | `watchlist.md` | theme rankings | DERIVED; company evidence resolves upstream |
 | Live ranked research universe | `research/top10-unicorn-priority.md` | watchlist/theme rankings | live canonical |
 | Multibagger discovery / reverse-underwrite funnel | `research/unicorn-potential.md` | company files | live canonical |
 | Live prospective calibration checkpoints | `research/prediction-calibration-ledger.md` | issue checkpoints | live canonical |
-| Wave-5 seed calibration snapshot | `research/decision-outcome-calibration-ledger.md` | none | historical; no parallel live updates |
-| Historical Gate-D valuation layer | `research/top10-capital-allocation.md` | none | historical context |
+| Wave-5 seed calibration snapshot | `research/decision-outcome-calibration-ledger.md` | none | HISTORICAL |
+| Historical Gate-D valuation layer | `research/top10-capital-allocation.md` | none | HISTORICAL |
 | Current company evidence/thesis | relevant canonical company/deep-dive file | watchlist, ranking, issue | live canonical per company |
 | Theme thesis / value chain | each theme's `thesis.md` / `value-chain.md` | synthesis/deep dives | live canonical per theme |
-| Theme research queue/plan | each theme's `research-plan.md` | GitHub issues | research-plan document; GitHub issue state wins for execution |
-| Theme ranking | each theme's `synthesis-ranking.md` | watchlist/top-level ranking | derived theme view |
-| Historical validation #261 | `research/backtests/261/**` | `SUMMARY.md` as entry point | frozen historical corpus |
-| Source provenance | `sources/source-register.md` plus recoverable inline sources | company/deep-dive citations | canonical provenance register |
-| Change history | `CHANGELOG.md` | Git history / PRs | log, never current truth |
+| Theme research queue/plan | each theme's `research-plan.md` | GitHub issues | durable plan; issue state wins execution |
+| Theme ranking | each theme's `synthesis-ranking.md` | watchlist/top-level ranking | DERIVED |
+| Historical validation #261 | `research/backtests/261/**` | `SUMMARY.md` entry point | HISTORICAL, frozen |
+| Source provenance | `sources/source-register.md` plus recoverable inline sources | citations | canonical provenance |
+| Change history | `CHANGELOG.md` | Git history / PRs | LOG |
 
-## Target information architecture
+## Target architecture: conceptual homes and lifecycle
 
-Do **not** bulk-move files yet. The safe target is conceptual first:
+Physical folders are not required when existing stable paths already make authority clear.
 
-- `methodology/` or a methodology index for versioned research rules.
-- `discovery/` for architecture-first scans and negative-search records.
-- existing theme/company trees for canonical research.
-- `portfolio/` or a portfolio index for live allocation/ranking/transaction-rule surfaces.
-- `validation/historical/` and `validation/prospective/` conceptually separated.
-- monitors remain GitHub issues; durable findings land in canonical documents.
-- `archive/` only for genuinely superseded material where Git history alone is insufficient.
+| Domain | Live authority / home | Lifecycle |
+|---|---|---|
+| **Methodology** | methodology rules remain in canonical methodology/control documents indexed from governance/README; Git records revisions until #325 establishes prospective version boundaries | CANONICAL; old versions become HISTORICAL, never parallel live rules |
+| **Thesis-first discovery** | cross-theme/theme discovery records under `research/`; start from world/architecture change → scarcity → bottleneck, then companies | CANONICAL evidence; dated scans may become HISTORICAL |
+| **Company research** | one canonical company/deep-dive record per company/question | CANONICAL; rankings/watchlist/issues reference it |
+| **Live ranked universe** | `research/top10-unicorn-priority.md` despite legacy filename; universe is uncapped | CANONICAL |
+| **Portfolio / Gate E** | `PORTFOLIO.md` owns mandate/construction/transaction rules; company evidence + issue monitors supply current inputs | CANONICAL |
+| **Historical validation** | `research/backtests/261/**` for v1 frozen corpus and any explicitly historical validation records | HISTORICAL/frozen |
+| **Prospective validation** | `research/prediction-calibration-ledger.md` now; #325 defines the prospective/versioning boundary before methodology changes | CANONICAL prospective record |
+| **Monitors / triggers** | GitHub issues + `AUTOMATION.md` semantics | workflow state in issues; durable findings flow back to CANONICAL docs |
+| **Evidence / provenance** | `sources/source-register.md` + recoverable inline citations | CANONICAL provenance/support |
+| **Derived reports** | rankings/syntheses/articles that explicitly point upstream | DERIVED; regenerable/refreshable |
+| **Superseded / historical material** | retain stable path with explicit status or Git history; use archive only where discoverability requires a retained retired artifact | HISTORICAL/ARCHIVE |
 
-Whether these become physical folders is deferred to #332. Stable paths may be preferable to cosmetic moves.
+## Routing cases
 
-## Migration sequence
+| Task | Route | Why |
+|---|---|---|
+| Add a new bottleneck discovery | relevant `research/cross-theme/` or theme discovery/thesis artifact, then company discovery if warranted | preserves thesis-first sequence |
+| Update a company thesis | that company's canonical deep-dive/company file | one durable authority |
+| Find current cross-theme ranking | `research/top10-unicorn-priority.md` | sole live cross-theme order |
+| Find current portfolio rules | `PORTFOLIO.md` | sole Gate-E mandate/rule authority |
+| Record a live monitor | GitHub issue using `AUTOMATION.md` contract | issues own workflow/trigger state |
+| Record historical validation | historical validation corpus/record; #261 stays frozen | cannot masquerade as live |
+| Record a prospective prediction | `research/prediction-calibration-ledger.md` under the prospective boundary | prevents hindsight rewriting |
+| Change/version methodology | update the canonical methodology/control surface only after respecting #325 prospective/version boundary; preserve prior version via Git/HISTORICAL record when materially required | prevents rule changes contaminating validation |
 
-1. Finish documentation/backlog baseline (#338/#333).
-2. Add integrity tests (#335/#341).
-3. Codify target lifecycle/structure (#332).
-4. Consolidate duplicate live state (#339).
-5. Define lightweight metadata/templates (#340).
-6. Migrate only where the benefit exceeds reference churn (#334).
-7. Rewrite start-here navigation after paths settle (#336).
-8. Run independent post-migration regression audit (#337).
+## Navigation and migration policy
 
-## Known ambiguity to resolve before migration
-
-- `watchlist.md` contains current-status language but is now explicitly a derived index.
-- top-level ranking, theme rankings and company files must not independently own the same company state.
-- `top10-capital-allocation.md` is historical context, while Gate-E live action semantics belong to `PORTFOLIO.md`, current company files/monitors and the live ranked universe.
-- the two calibration ledgers already declare their roles; only `prediction-calibration-ledger.md` is live.
-- issue bodies may contain execution history, but completed research conclusions must be reflected in canonical documents.
+Prefer adding authority labels, indexes and references over moving coherent theme/company trees. A move is justified only when it materially removes ambiguity and every inbound reference can be repaired in the same governed batch. No aesthetic bulk migration.
 
 ## Invariants
 
-- #261 frozen prediction/outcome corpus must not change during repo hygiene.
-- live portfolio/company conclusions must not change merely because files move.
-- every open automation-relevant issue must carry State, Priority, Type, Trigger, Dependencies, Parent, Next action and Completion gate.
-- only READY is executable; RUNNING is already claimed; WAITING/BLOCKED/PARKED/EPIC are not selectable.
+- #261 frozen prediction/outcome corpus is immutable during hygiene.
+- Live portfolio/company conclusions do not change merely because authority or paths are clarified.
+- Every automation-relevant open issue carries State, Priority, Type, Trigger, Dependencies, Parent, Next action and Completion gate.
+- Only READY is executable.
+- The ranked universe remains a consequence of thesis-first discovery, not the boundary of discovery.
