@@ -1,5 +1,11 @@
 # Robotics Actuators — Gate-A Synthesis & Supplier-Hunting Ranking
 
+**Lifecycle:** DERIVED  
+**As of:** 2026-09-25  
+**Canonical upstream:** company evidence belongs to the relevant actuator company/deep-dive files; current cross-theme order is `research/top10-unicorn-priority.md`.  
+**Authority rule:** this theme synthesis may compare actuator candidates but does not own cross-theme rank or portfolio action state.
+
+
 **Status:** Gate-A discovery complete; moving to company Investment Capture  
 **Backlog:** #83  
 **Confidence:** **Medium**  
