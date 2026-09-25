@@ -1,5 +1,9 @@
 # Research Changelog
 
+## 2026-09-25 — #284
+Impro Precision evidence resolution completed; thesis corrected toward distributed power and cooling exposure. Research classification remains evidence-building.
+
+
 ## 2026-09-25
 
 ### #282 AI power-generation hot-section component discovery
