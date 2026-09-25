@@ -1,0 +1,32 @@
+# #328 sensitivity, ablation and complexity control
+
+**Status:** HISTORICAL challenge, 2026-09-25. **Inputs:** [#326's complete T0 coding and outcome separation](../early-promotion-326/RESULT.md), the immutable [#261 corpus](../../backtests/261/SUMMARY.md), and [#327's durability contrasts](../durability-327/RESULT.md). Reproduce the exact sets with `python3 scripts/ablation_experiment.py`. These variants were examined after the historical outcomes were visible. The H01–H05 partition is preserved for reporting but **is not an independent v2 holdout**. No version, historical label, ranking or portfolio action was changed.
+
+## Baseline and fixed comparison
+
+The frozen v1 baseline has **2 development PROMOTEs** (both initial economic conversions with later durability impairment), **0 holdout PROMOTEs**, and the clear SK hynix operating miss. Every candidate alternative retains the 2 historical v1 PROMOTEs. Counts below are *additional* EVIDENCE-BUILD observations, not recommendations or equity successes.
+
+| Rule / ablation | Development additions | Holdout additions | Discrimination and cost |
+|---|---|---|---|
+| Minimal `Q+P` | Oclaro, NeoPhotonics, Sunny, Cognex (4) | PacBio, SK hynix, Enphase (3) | Recovers Cognex and SK initial operating capture; also funded failure PacBio, early timing loss Enphase, rerated Sunny and late Oclaro/Neo. |
+| Remove qualification: `P` | Same 4 | Same 3 | **No difference**: with this strict T0 coding, all seven production observations already establish customer validation. Qualification is empirically redundant *within this annotated subset*, not in new cases. |
+| Remove production: `Q` | Above plus Akoustis, Resonant, Cree/Wolfspeed, Vicor (8) | Same 3 | Adds Akoustis funded failure and Wolfspeed durable shareholder failure, plus IP-only/ambiguous observations. Production is useful for excluding unscaled design/prototype evidence. |
+| Add acceleration: `Q+P+A` | Cognex (1) | PacBio, Enphase (2) | Removes SK hynix, Sunny and the two late optics companies, **retains both adverse holdout cases**. Removing A restores `Q+P`. |
+| Add attributable materiality: `Q+P+M` | Oclaro, NeoPhotonics (2) | Enphase (1) | Selects already large/core engines, removes SK hynix and Cognex. Removing M restores `Q+P`. |
+| Add T0 financial inflection: `Q+P+F` | none | Enphase (1) | T0 GAAP profit was followed by 2015–16 losses; removing F restores `Q+P`. This is *not* per-share capture. |
+| Exclude explicit rerating/late stage: `Q+P+V` | Cognex (1) | PacBio, SK hynix (2) | Removes four timing/recognition concerns but retains PacBio. `V` merely means no **explicit** warning in the frozen row; SK and PacBio valuation are UNKNOWN, not positively attractive. |
+| Exclude explicit durability warnings: `Q+P+D` | Oclaro, NeoPhotonics (2) | SK hynix (1) | Removes PacBio and Enphase, but also Cognex and Sunny; retains already mature optics names. The four warnings are frozen T0 low margin, logistics gross margin, capital risk and warranty-adjusted cash gaps. Other missing risk evidence is UNKNOWN, not a pass. |
+| More complex `Q+P+V+D` | none | SK hynix (1) | A superficially perfect historical single-case selector. It discards Cognex and depends entirely on SK hynix while counting unknown valuation/durability as absence of veto. **Reject as retrospective fitting.** |
+| Full `Q+P+A+M+V+D` | none | none | Additional complexity loses every potential early operating miss. |
+
+The #327 questions on retained economics, funded conversion and per-share capture are **qualitative monitoring prompts**, not validated binary gates. We tested the narrow explicit-warning `D` proxy only to challenge a hard veto. Removing its contribution recovers the `Q+P` set. No comparable incremental ROIC, working-capital conversion, adjusted shareholder return, or T0 valuation panel exists for a genuine per-share factor ablation. Claiming that an absent warning is safe would be a data error.
+
+## Boundary and stability tests
+
+- **Numerical materiality:** Among the seven `Q+P` additions, architecture-specific numerical T0 group mix is recoverable only for Oclaro (47%) and NeoPhotonics (57%). Both clear hypothetical 5%, 15% and 30% cutoffs; only NeoPhotonics clears 50%. Both were already late-stage at T0. Cree's 31.2% mixed segment and Ypsomed's 56% broad device segment cannot be assigned to the nominated architecture. SK hynix had no group-mix percentage at T0. Thus varying the v1 ~5–15% heuristic cannot discriminate the early operating miss; no numeric boundary is validated. The main sensitivity is categorical: `Q` admits prototype failures, `Q+P` admits funded/timing failures, and `Q+P+A` misses SK hynix.
+- **Single-case dependence:** `Q+P+V+D` has only **one** new observation. Removing H04 SK hynix leaves **zero**; the apparent clean result vanishes. `Q+P` without H04 retains six additions, including PacBio and Enphase, and has no clear holdout conversion. Removing PacBio or Enphase changes the adverse count, not the unknown equity verdict. Cognex's removal leaves only late/partial development additions. No out-of-case stability is established.
+- **Small denominators:** The development/holdout partition is 46/17 candidate observations across 10/5 selected architecture cases, not independent random stocks. The holdout has no v1 PROMOTEs and was already revealed before #326/#328 coding. There is no meaningful promotion precision, recall, statistical threshold or alpha estimate for v2. REJECT rows and excluded contaminated names are not silently relabelled or removed.
+
+## Decision
+
+**NO ROBUST IMPROVEMENT over v1 demonstrated; prospective/equity discrimination DATA-LIMITED.** Production evidence does remove some weak qualification-only names, yet simple early promotion adds a funded failure and timing/recognition problems. Acceleration and materiality erase the clear operating miss; a valuation/durability composite appears to recover only SK hynix because it is fragile and treats unknown as safe. Complexity adds no genuine independent discrimination. Keep the frozen v1 classification benchmark. Retain `v2-prospective-2026-09-25` as **EXPERIMENTAL** registration and ask the #327 retained-economics/cash/per-share questions at checkpoints; do not adopt a newly validated PROMOTE threshold. Independent predeclared cases with T0 adjusted price/benchmark and funded economics are needed to test whether earlier detection translates into shareholder alpha.
