@@ -23,6 +23,17 @@
 **Current research signal:** **ACTION — starter sleeve only at an executable price <=HK$48**, after the 15 September price trigger fired and a fresh thesis check remained intact.  
 **Research watchlist:** remains **Investigating**. The action is deliberately small because durable profit/cash conversion and named repeat humanoid-customer evidence are still incomplete.
 
+## Canonical ACTION documentation note — 25 September 2026
+
+This existing company file is the canonical Laifual underwrite. Gate-E portfolio files should reference it rather than recreate the thesis.
+
+**Evidence chain:** precision-motion bottleneck → harmonic-reducer volume → small-reducer/humanoid mix → utilization and unit-cost leverage → durable profit/free-cash conversion.
+
+The ACTION state remains deliberately narrower than the operating thesis: **5% starter only at executable <=HK$48 with thesis intact**. H1 evidence proves operating capture—revenue RMB142.2m (+80.1%), reducer shipments 239.5k (+112%), reducer gross margin 29.6%, adjusted EBITDA RMB12.4m and ~95% utilization—but does not yet prove durable per-share cash economics. The primary filing also records negative H1 operating cash flow and material planned capacity expansion, so volume growth must not be mistaken for shareholder cash capture.
+
+**Primary source register:** SRC-ACT-LAI-001 through SRC-ACT-LAI-003 in sources/source-register.md.
+
+
 ---
 
 ## 1. What the company actually sells

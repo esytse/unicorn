@@ -1,3 +1,6 @@
+## 2026-09-25 — Canonical ACTION underwrites
+Closed the documentation-integrity gap for the three current Gate-E ACTION candidates. Confirmed Laifual already has a full canonical company underwrite at research/robotics-actuators/companies/laifual-drive.md; upgraded TAI-TECH and Impro company files so their thesis chains, evidence hierarchy, March-2028 scenario bridges, counter-cases/falsifiers, Gate-E rules and source IDs live with the company research rather than only in the Gate-E sprint. Added central source-register entries for TAI-TECH and Impro and explicitly distinguished primary evidence from secondary management reporting. Gate-E files remain portfolio summaries, not the primary research record.
+
 ## 2026-09-25 — #302 D01 outcome reveal
 
 - Revealed D01 only after its prediction commit merged.
