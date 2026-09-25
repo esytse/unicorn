@@ -116,6 +116,10 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 ### Current company work
 - #86 Laifual Drive — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve is supported only at an executable price <=HK$48 with thesis intact; revert to REASSESS above the price condition unless evidence improves.
+- #292 TAI-TECH — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve at NT$190–210 while revenue/margin acceleration and AI-mix direction remain intact; notify only on a new material change because the current condition has already been surfaced.
+- #293 Impro Precision — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve at HK$6.6–7.2 while FY26 growth guidance and the Mexico/cooling ramp remain intact; notify only on a new material change because the current condition has already been surfaced.
+- #294 Namuga — `WAITING` P1 on <=KRW13–14k with award/timing intact or first material robot-programme order/revenue economics; no current ACTION.
+- #295 Grid Dynamics — `WAITING` P1 on stronger recurring/platform evidence plus roughly US$6.5–7.2; price alone does not create ACTION.
 - #125 JEM — `WAITING` P1 on <=~¥6,100 with thesis intact or material HBM4/HBM4E / earnings / cash evidence.
 - #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
 - #127 Weebit Nano — `WAITING` P1 on ~A$2.5–2.7 with thesis intact or meaningful production royalty/adoption/capital evidence.
@@ -130,7 +134,7 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
 
-**Current portfolio interpretation (24 Sep 2026):** Laifual remains the only governed Gate-E `ACTION`: a **starter 5% research sleeve only at executable <=HK$48**. Brokerage execution remains manual. Centrus and Modine remain the leading independent-return-engine alternatives. QNX's dated Q2 event has been assessed and is now `REASSESS / WAIT`; Ouster's sensing/Gate-E work has also completed and remains ranked REASSESS / WAIT pending a materially better valuation/evidence setup.
+**Current portfolio interpretation (25 Sep 2026):** the governed Gate-E `ACTION` surface contains three independent conditional starters: **Laifual 5% at executable <=HK$48**, **TAI-TECH 5% at NT$190–210**, and **Impro Precision 5% at HK$6.6–7.2**, each only with the documented thesis intact and a fresh executable-price check. Total initial research allocation is capped at 15% / £6,000; the remaining 85% stays tactical cash. Brokerage execution remains manual. Namuga and Grid Dynamics remain WAIT / REASSESS rather than ACTION. Centrus and Modine remain leading independent-return-engine alternatives. QNX and Ouster remain REASSESS / WAIT pending materially better valuation or evidence.
 
 
 ## Research-quality priority — #207 / #193

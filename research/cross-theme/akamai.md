@@ -75,7 +75,6 @@ Akamai generated $699m FCF in FY25 and $221m in H1 2026. The incremental 2026 ca
 
 **Gate-E interpretation:** the deal passes the **demand validation** test but not yet the **shareholder-return** test. Promotion requires evidence that contribution margins, utilization/reuse and financing produce incremental ROIC comfortably above the cost of capital after warrant dilution.
 
-#
 ## Gate-E reassessment — 25 September 2026
 
 **State: REASSESS / WATCH — upgraded economics confidence, but do not chase the post-announcement rerating without a controlled entry bridge.**
@@ -136,4 +135,6 @@ Akamai Anthropic announcement (24 Sep); Q2 2026 results (6 Aug); FY25 10-K/resul
 
 ## Change history
 2026-09-24: deep dive initiated; structural AI-infrastructure confidence raised, company-return confidence remains medium.
-2026-09-24: #219 hurdle model executed. The $11.6bn contract averages ~$1.66bn/year against ~$5.5bn associated capex; initial conservative hurdle retained REASSESS/WATCH pending contract economics.\n2026-09-25: Gate-E reassessment incorporated Q2 disclosure that signed large CIS deals typically carry mid-60s to mid-70s non-GAAP cash gross margins and take-or-pay structures. This materially improves preliminary contract economics; AKAM promoted to next-entry-underwrite priority, but remains REASSESS/WATCH pending post-rerating valuation and 2027–2028 FCF/ROIC bridge.
+2026-09-24: #219 hurdle model executed. The $11.6bn contract averages ~$1.66bn/year against ~$5.5bn associated capex; initial conservative hurdle retained REASSESS/WATCH pending contract economics.
+
+2026-09-25: Gate-E reassessment incorporated Q2 disclosure that signed large CIS deals typically carry mid-60s to mid-70s non-GAAP cash gross margins and take-or-pay structures. This materially improves preliminary contract economics; AKAM was promoted to next-entry-underwrite priority, but remains REASSESS/WATCH pending a post-rerating valuation and 2027–2028 FCF/ROIC bridge.

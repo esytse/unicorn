@@ -119,6 +119,33 @@ Park/downgrade if:
 Do not immediately reverse-underwrite every passive-component company. The next discovery question is whether **package-level silicon capacitors** provide an even more convex version of the same power-integrity bottleneck. AP Memory remains the bounded comparison from #253.
 
 
+## Canonical source-backed underwrite — 25 September 2026
+
+This file is the canonical company research record. Gate-E portfolio files consume this underwrite; they are not substitutes for it.
+
+### Thesis chain
+AI accelerator power density → fast-transient point-of-load power → high-current magnetics / TLVR → rising AI/CSP content → consolidated earnings materiality.
+
+### Evidence hierarchy
+- **Primary company revenue series:** Jan–Aug 2026 revenue NT$5.605bn, +32.2% y/y; May–Aug y/y growth +37.8%, +57.4%, +63.3%, +53.1%.
+- **Primary product/company materials:** power inductors are the majority of product revenue and TAI-TECH markets high-current/TLVR products for AI GPU/ASIC power delivery.
+- **Secondary management evidence:** AI mix is reported at ~12–13% in H1 2026 versus ~10% in 2025 and ~7% in 2024. Treat this mix as secondary until reproduced in a primary filing.
+
+### Financial bridge and valuation discipline
+At an NT$190–210 entry, internal March-2028 scenario boundaries are: bear EPS ~NT$12–14 at 14–16x (~NT$170–225); base EPS ~NT$18–21 at 20–22x (~NT$360–460); bull EPS ~NT$23–27 at 24–27x (~NT$550–730). These are internal scenario boundaries, not external targets.
+
+**Gate-E rule:** 5% starter at NT$190–210 only while company revenue/margin acceleration and AI-mix direction remain intact; stronger price-led asymmetry <=NT$185. Ceiling 7.5% until AI reaches ~20% or named CSP/ASIC/next-generation qualification materially strengthens evidence.
+
+### Counter-case / falsifiers
+AI remains a minority of revenue; automotive or other end markets may explain much of current acceleration. TLVR can face price competition, short order visibility and architecture substitution as voltage regulation moves closer to the package. Reassess if AI mix stalls in the low teens, margins compress, or inventory/capex rises without cash conversion.
+
+### Source register
+- SRC-ACT-TAI-001 — TAI-TECH monthly revenue series (primary).
+- SRC-ACT-TAI-002 — TAI-TECH product / AI power materials (primary).
+- SRC-ACT-TAI-003 — 2025 company financial/presentation evidence (primary).
+- SRC-ACT-TAI-004 — management AI-mix / TLVR commentary (secondary; lower confidence).
+
+
 ## Gate E — 25 September 2026
 
 **State: ACTION / starter eligible.** Controlled reference ~NT$206. Entry band **NT$190–210** while revenue/margin acceleration and AI-mix direction remain intact; preferred add zone **<=NT$185**. Initial portfolio size **5%**, ceiling 7.5% before stronger AI/CSP evidence. March-2028 base bridge uses ~NT$18–21 EPS and 20–22x (~NT$360–460); bear ~NT$170–225; bull ~NT$550–730. Add only on price plus intact thesis or AI mix >=20% / named qualification. Reassess if AI mix stalls low-teens or TLVR pricing compresses margins. See `research/gate-e-thesis-first-entry-sprint.md`.
