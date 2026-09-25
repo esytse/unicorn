@@ -901,3 +901,8 @@ This file records substantive changes to research conclusions, confidence, prior
 
 - Audited all 34 frozen EVIDENCE-BUILD rows against the full 63-row #261 corpus with separate T0 factors and post-T0 outcomes. Three fixed rules (`Q+P`, `Q+P+A`, `P+A+M`) retain both v1 PROMOTEs and add respectively 7, 3 and 1 historical observations.
 - `Q+P` recovers SK hynix and Cognex operating misses, but also promotes funded-failure PacBio, timing-impaired Enphase, rerated Sunny and already-material Oclaro/NeoPhotonics. Adding acceleration loses SK hynix without resolving PacBio/Enphase. No automatic earlier promotion is supported; adjusted equity return and T0 market recognition remain DATA-LIMITED. Frozen #261, live rankings and portfolio actions unchanged.
+
+## 2026-09-25 — #328 sensitivity and ablation
+
+- Compared v1 with fixed early-promotion variants and explicit-warning durability/valuation proxies. Production excludes weak qualification-only failures; acceleration and materiality remove SK hynix; no T0 financial, valuation or durability threshold has independent demonstrated discrimination. A composite that selects only SK hynix loses its sole addition when that case is removed.
+- Concluded NO ROBUST IMPROVEMENT; prospective v2 remains EXPERIMENTAL, v1 remains the benchmark, and shareholder alpha remains DATA-LIMITED. Frozen #261, ranking and portfolio actions unchanged.
