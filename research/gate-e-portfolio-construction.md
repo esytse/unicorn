@@ -2,7 +2,7 @@
 
 **Lifecycle:** HISTORICAL  
 **As of:** 2026-09-25  
-**Superseded live authority:** current portfolio mandate, construction and transaction rules are in `PORTFOLIO.md`; current cross-theme order is in `research/top10-unicorn-priority.md`.  
+**Superseded live authority:** current portfolio mandate, construction and transaction rules are in `PORTFOLIO.md`; current cross-theme order is in `research/ranked-universe.md`.
 **Authority rule:** retain this completed construction snapshot for provenance only. Do not update its candidate conclusions as a parallel live portfolio surface.
 
 

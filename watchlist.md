@@ -2,7 +2,7 @@
 
 **Lifecycle:** DERIVED  
 **As of:** 2026-09-25  
-**Canonical upstream:** company evidence comes from the relevant canonical company/deep-dive file; cross-theme order comes from `research/top10-unicorn-priority.md`; portfolio rules come from `PORTFOLIO.md`.  
+**Canonical upstream:** company evidence comes from the relevant canonical company/deep-dive file; cross-theme order comes from `research/ranked-universe.md`; portfolio rules come from `PORTFOLIO.md`.
 **Authority rule:** this file is a research-prioritisation index. Its status/rationale rows are navigation snapshots and must not independently redefine a company thesis, cross-theme rank, or Gate-E action rule.
 
 

@@ -2,7 +2,7 @@
 
 **Lifecycle:** DERIVED  
 **As of:** 2026-09-25  
-**Canonical upstream:** company evidence belongs to the relevant memory company/deep-dive files; current cross-theme order is `research/top10-unicorn-priority.md`.  
+**Canonical upstream:** company evidence belongs to the relevant memory company/deep-dive files; current cross-theme order is `research/ranked-universe.md`.
 **Authority rule:** this theme synthesis may compare memory candidates but does not own cross-theme rank or portfolio action state.
 
 

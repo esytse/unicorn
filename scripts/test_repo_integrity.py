@@ -76,7 +76,7 @@ class IntegrityTests(unittest.TestCase):
 
     def test_portfolio_reference(self):
         path = self.root / 'PORTFOLIO.md'
-        path.write_text(path.read_text().replace('research/top10-unicorn-priority.md', 'research/moved-ranking.md'))
+        path.write_text(path.read_text().replace('research/ranked-universe.md', 'research/moved-ranking.md'))
         self.assert_detects('RANKING')
 
     def test_frozen_record(self):
