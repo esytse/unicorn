@@ -1,5 +1,7 @@
 # [Theme name]
 
+**Lifecycle:** CANONICAL
+**Research stream:**  
 **Status:** Working research
 **Confidence:** Low | Medium | High
 **Last substantive update:** YYYY-MM-DD
@@ -43,6 +45,8 @@ Link to company files. Do not promote candidates solely because they participate
 What evidence would weaken or falsify the thesis?
 
 ## Open questions
+
+### OPEN QUESTION
 
 - ...
 
