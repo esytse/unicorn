@@ -382,3 +382,27 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-D10-O03 — Powell FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/80420/000008042024000086/powl-20240930.htm — primary; end-market split isolates oil/gas, petrochemical, electric utility.
 - **SRC-BT261-D10-O04 — Eaton FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm — primary; diversified organic electrical drivers.
 - **SRC-BT261-D06-O06 — Intel FY2024 10-K:** https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm — primary; external foundry sales -60% driven by traditional packaging and equipment, not a pure chiplet measure.
+
+### #261 H01–H05 — sealed-holdout pre-T0 packets (publication date <= each registered T0)
+- **SRC-BT261-H01-001 — Mobileye Q3 2016 release (2016-11-15):** https://www.sec.gov/Archives/edgar/data/1607310/000157104916019889/t1602768_ex99-1.htm — OEM EyeQ revenue/ASP.
+- **SRC-BT261-H01-002 — Autoliv Q3 2016 10-Q:** https://www.sec.gov/Archives/edgar/data/1034670/000156459016026325/alv-10q_20160930.htm — radar/camera Active Safety mix.
+- **SRC-BT261-H01-003 — ON Q3 2016 10-Q:** https://www.sec.gov/Archives/edgar/data/1097864/000119312516761289/d217509d10q.htm — Image Sensor Group -9.4% y/y, not ADAS-only.
+- **SRC-BT261-H01-004 — ON Aptina announcement (2014-06):** https://www.sec.gov/Archives/edgar/data/1097864/000119312514230420/d740917dex991.htm — automotive sensor capability.
+- **SRC-BT261-H01-005 — Ambarella July 2016 10-Q:** https://www.sec.gov/Archives/edgar/data/1280263/000156459016025032/amba-10q_20160731.htm — aftermarket camera, operating income decline.
+- **SRC-BT261-H02-001 — Illumina Q3 2017 10-Q:** https://www.sec.gov/Archives/edgar/data/1110803/000111080317000045/fy2017q310-q.htm — NovaSeq, installed consumables and margin.
+- **SRC-BT261-H02-002 — PacBio Q3 2017 10-Q:** https://www.sec.gov/Archives/edgar/data/1299130/000129913017000071/pacb-20170930x10q.htm — Sequel consumables, gross margin, Roche termination.
+- **SRC-BT261-H02-003 — Brooks FY2017 10-K (filed 2017):** https://www.sec.gov/Archives/edgar/data/933974/000155837017009004/brks-20170930x10k.htm — life science cold sample-management portfolio.
+- **SRC-BT261-H03-001 — Novo Wegovy supply update (2021-12-17):** https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=92023 — contract fill cGMP stop.
+- **SRC-BT261-H03-002 — Lilly Mounjaro approval (2022-05-13):** https://investor.lilly.com/node/47231 — diabetes label, no later obesity assumption.
+- **SRC-BT261-H03-003 — Ypsomed FY2021/22 release (2022-05-25):** https://www.ypsomed.com/en/investors/ad-hoc-announcements/ad-hoc-detail-page/ypsomed-increases-sales-by-15-2-and-triples-its-operating-profit — CHF259m Delivery Systems, group CHF464.8m, capex and segment mix.
+- **SRC-BT261-H03-004 — West FY2021 10-K (filed 2022):** https://www.sec.gov/Archives/edgar/data/105770/000162828022003342/wst-20211231.htm — injectable containment/delivery broad business.
+- **SRC-BT261-H04-001 — SK hynix HBM3/NVIDIA release (2022-06-08):** https://news.skhynix.com/en/sk-hynix-to-supply-industrys-first-hbm3-dram-to-nvidia/ — production/customer socket, not group profit.
+- **SRC-BT261-H04-002 — Micron FY2022 Q3 prepared remarks (2022-06):** https://investors.micron.com/static-files/1c0dc58e-6638-4501-8bb7-6a6310babbed — volume HBM2E and AI/ML demand.
+- **SRC-BT261-H04-003 — Micron FY2022 10-K (filed 2022):** https://www.sec.gov/Archives/edgar/data/723125/000072312522000048/mu-20220901.htm — HBM2E without HBM-specific group economics.
+- **SRC-BT261-H04-004 — Samsung HBM-PIM announcement (2021-08):** https://news.samsung.com/global/samsung-brings-in-memory-processing-power-to-wider-range-of-applications — R&D/applications, no HBM3 customer economics.
+- **SRC-BT261-H05-001 — Enphase Q3 2014 results (2014-11):** https://www.sec.gov/Archives/edgar/data/1463101/000146310114000019/enph093020148-kex991.htm — revenue/GM/net income.
+- **SRC-BT261-H05-002 — Enphase Q3 2014 10-Q:** https://www.sec.gov/Archives/edgar/data/1463101/000146310114000021/enph0930201410-q.htm — microinverter/monitoring architecture and warranty risk.
+- **SRC-BT261-H05-003 — SMA nine-month 2014 report (2014-11-06):** https://www.sma.de/fileadmin/content/global/Investor_Relations/Documents/Publications/Finanzberichte/2014/en/2014-11-06_SMA-Q3-2014-en_web.pdf?v=1653312345 — dated pre-T0 inverter sales/earnings.
+- **SRC-BT261-H05-004 — Advanced Energy Q3 2014 release:** https://www.sec.gov/Archives/edgar/data/927003/000092700314000074/exhibit991q32014pressrelea.htm — pricing/project risk.
+- **SRC-BT261-H05-005 — Advanced Energy strategic review (2014-12-22):** https://www.sec.gov/Archives/edgar/data/927003/000092700314000087/form8-kinverterimpairment.htm — announced inverter alternatives review.
+- **SRC-BT261-H05-006 — SolarEdge S-1 filing chronology (2015-02-18):** https://www.sec.gov/Archives/edgar/data/1419612/000104746915000911/a2223102zs-1.htm — **post-T0 listing-status audit only**, not a prediction source.

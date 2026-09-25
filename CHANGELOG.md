@@ -1,3 +1,8 @@
+## 2026-09-25 — #308 sealed H01–H05 frozen v1 predictions
+
+- After PR #321 merged, constructed five holdout T0 packets from primary records published by each cutoff. Froze 17 listed candidate states before any post-T0 outcome inspection: four ADAS, three sequencing/lab, four peptide/device, three stacked-memory and three solar inverter. All yield no PROMOTE under the unchanged v1 early group-profit/recognition tests.
+- Explicit negative searches include private lidar/lab suppliers, no verified pre-T0 HBM tool commercial economics, and SolarEdge's post-T0 public filing/listing. Later-result snippets were excluded. Equity valuation checkpoints remain unrecovered. Outcome inspection is gated on prediction PR merge; no live portfolio change.
+
 ## 2026-09-25 — #261 development review and prospective v2 proposal
 
 - Reviewed all 10 development cases before opening holdouts: 46 frozen candidate states, 2 initial economic PROMOTE conversions, two subsequent durability impairments, and insufficient independent supplier universe or adjusted price series to score capture rate/equity asymmetry.
