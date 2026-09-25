@@ -55,4 +55,7 @@ jobs:
             fi
           done
 
+          python3 -m unittest discover -s scripts -p "test_*.py"
+          python3 scripts/repo_integrity.py
+
           echo "Research governance checks passed."
