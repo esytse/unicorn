@@ -17,6 +17,8 @@ class ProspectiveTests(unittest.TestCase):
         shutil.copytree(SOURCE / 'research/prospective', self.root / 'research/prospective')
         shutil.copytree(SOURCE / 'research/backtests/261', self.root / 'research/backtests/261')
         self.home = self.root / 'research/prospective'
+        (self.home / 'decisions').mkdir(exist_ok=True)
+        (self.home / 'checkpoints').mkdir(exist_ok=True)
         self.record = json.loads((self.home / 'T0.template.json').read_text())
         self.record['decision_id'] = 'P-20260925-TEST-001'
         self.record['candidate_id'] = 'TEST:001'
