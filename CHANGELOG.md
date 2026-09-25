@@ -1,5 +1,15 @@
 # Research Changelog
 
+## 2026-09-25
+
+### #286 canonical integration of thesis-first discoveries
+
+- Integrated six sufficiently researched listed discoveries into the continuous research universe: TAI-TECH, Namuga, Grid Dynamics, Impro Precision, Vicor and AP Memory.
+- Expanded the canonical live universe from 59 to 65 entries without creating a new admission cutoff.
+- Updated Montage Technology to FAILED / PARKED for the Unicorn screen after its CXL thesis strengthened but valuation eliminated the desired asymmetry.
+- Weak evidence-only leads remain outside the ranked universe until company-level evidence is sufficient.
+- Rankings remain research-priority metadata, not trade instructions; no Gate-E action changed.
+
 ## 2026-09-25 — #284
 Impro Precision evidence resolution completed; thesis corrected toward distributed power and cooling exposure. Research classification remains evidence-building.
 
