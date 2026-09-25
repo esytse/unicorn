@@ -1,5 +1,11 @@
 # Gate E — Initial £40k Portfolio Construction
 
+**Lifecycle:** HISTORICAL  
+**As of:** 2026-09-25  
+**Superseded live authority:** current portfolio mandate, construction and transaction rules are in `PORTFOLIO.md`; current cross-theme order is in `research/top10-unicorn-priority.md`.  
+**Authority rule:** retain this completed construction snapshot for provenance only. Do not update its candidate conclusions as a parallel live portfolio surface.
+
+
 **Status:** Initial construction complete for current evidence set  
 **Reference date:** 2026-09-10  
 **Target date:** March 2028  

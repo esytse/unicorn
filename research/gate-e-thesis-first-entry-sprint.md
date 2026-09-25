@@ -1,5 +1,11 @@
 # Gate E entry sprint — thesis-first candidates
 
+**Lifecycle:** HISTORICAL  
+**As of:** 2026-09-25  
+**Superseded live authority:** current Gate-E rules are in `PORTFOLIO.md`; current cross-theme order is in `research/top10-unicorn-priority.md`; live monitor state is in GitHub issues under `AUTOMATION.md`.  
+**Authority rule:** this completed sprint preserves the decision-time analysis. Do not maintain its entry/action table as parallel mutable state.
+
+
 **Backlog:** #290  
 **Decision date:** 25 September 2026  
 **Portfolio objective:** £40k starting pool; primary target £80k by March 2028.  

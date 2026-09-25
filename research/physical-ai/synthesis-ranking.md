@@ -1,5 +1,11 @@
 # Physical AI — Gate-A Synthesis and Profit-Pool Ranking
 
+**Lifecycle:** DERIVED  
+**As of:** 2026-09-25  
+**Canonical upstream:** company evidence belongs to the relevant Physical-AI company/deep-dive files; current cross-theme order is `research/top10-unicorn-priority.md`.  
+**Authority rule:** this theme synthesis may compare Physical-AI candidates but does not own cross-theme rank or portfolio action state.
+
+
 **Issue:** #99  
 **Status:** Gate A complete; merchant-capture research next  
 **Confidence:** Medium-High on structural ranking; Medium-Low on merchant/public-company capture  

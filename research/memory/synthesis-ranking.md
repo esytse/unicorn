@@ -1,5 +1,11 @@
 # AI Memory — Synthesis & Capital-Allocation Ranking
 
+**Lifecycle:** DERIVED  
+**As of:** 2026-09-25  
+**Canonical upstream:** company evidence belongs to the relevant memory company/deep-dive files; current cross-theme order is `research/top10-unicorn-priority.md`.  
+**Authority rule:** this theme synthesis may compare memory candidates but does not own cross-theme rank or portfolio action state.
+
+
 **Status:** Capital-allocation synthesis + architectural optionality  
 **Confidence:** Medium-High on structural/current-company evidence; Medium on valuation scenarios; Medium on Weebit commercial-adoption conclusion  
 **Last substantive update:** 2026-09-07  
