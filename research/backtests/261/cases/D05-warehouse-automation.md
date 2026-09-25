@@ -41,3 +41,21 @@ Searched robotic transport, item vision/ID, integrated systems, motion/safety co
 ## Frozen prediction
 
 **No PROMOTE.** Cognex's logistics revenue signal is strongest, but margins moved adversely and its incremental group-profit bridge is missing. KION/Dematic and Zebra are already material incumbents; MiR is small within Teradyne and acquisition-confounded. **HYPOTHESIS:** integration, logistics vision and/or mobile fleets will scale, but the merchant margin may accrue differently from the most visible robot hardware. Outcome research follows the merged prediction, not this draft.
+
+## Outcome reveal — 25 September 2026
+
+The prediction above merged in PR #317 before post-T0 results were inspected. Frozen states remain intact.
+
+**Architecture — VALIDATED with cyclical reversal / High:** KION Supply Chain Solutions orders reached €4.329bn in 2021, up 18.5%, and revenue €3.796bn, up 44.5%, with €409.5m adjusted EBIT/10.8% margin. In 2022 orders fell 22.3%; 2023 revenue fell 21.3% to €2.997bn with 1.5% adjusted EBIT margin. The shift to scaled deployment occurred, then customer project timing, supply cost and demand normalisation weakened capture. [SRC-BT261-D05-O01–O03]
+
+**Cognex — VALIDATED initial logistics group materiality, PARTIAL durability / Medium-High:** Logistics became Cognex's largest market in 2021; group revenue reached $1.037bn (+28%) and gross margin fell to 73% from 75% in 2020, partly due to lower-margin logistics projects and higher input costs. One logistics customer represented ~17% of group revenue. In 2023 logistics revenue fell ~21% as a few large e-commerce customers paused investments, while broader logistics customers kept growing; group revenue fell 17% to $837.5m. [SRC-BT261-D05-O04–O05]
+
+**INTERPRETATION:** The frozen vision bottleneck and emerging large revenue engine converted; gross profit contribution is plausible but isolated logistics profit is unavailable. EVIDENCE-BUILD may be a **false negative for economic transformation** under a less strict process. The T0 equity upside and whether a 2019 investor could anticipate the pandemic-driven spike remain DATA-LIMITED without adjusted return/valuation data. Customer concentration and project margin were visible downside channels at T0; the exact later pause was not.
+
+**KION/Dematic — PARTIAL incumbent economic capture / Medium:** The 2021 revenue/adjusted-EBIT jump shows integration could capture profit. The later 2023 margin collapse and 2021 single-customer revenue of €1.635bn (predominantly SCS) constrain durable/independent capture. The frozen REJECT for *early* supplier discovery remains defensible, though KION was a meaningful architecture beneficiary. [SRC-BT261-D05-O01–O03]
+
+**Teradyne/MiR — PARTIAL robotics expansion, warehouse-specific materiality DATA-LIMITED / Low:** The later Robotics segment includes both Universal Robots and MiR; management said robotics revenue contracted 7% in 2023. No warehouse-only MiR profitability or fleet penetration is isolated by the sources reviewed. Segment growth alone cannot validate the original warehouse motion hypothesis. [SRC-BT261-D05-O06]
+
+**Zebra — PARTIAL infrastructure capture, D05-specific transformation DATA-LIMITED / Medium:** EVM sales reached $3.899bn in 2021 from $2.795bn in 2018, but include many workflows/end markets; by 2023 EVM sales fell 25.6% to $2.933bn and operating income to $343m from $711m in 2022. This supports broad data capture and cyclicality, not a distinct fleet-robotics breakthrough. [SRC-BT261-D05-O07]
+
+**Scoring/lesson:** No PROMOTE denominator. Cognex is a possible economic false negative, but a firm equity missed-winner claim is unscored. A v2 hypothesis is a distinct *early customer revenue/standardisation* path for vision software and data capture with explicit deployment gross-margin and concentration checks. Preserve the early cycle's real economics and subsequent reversal separately; frozen v1 unchanged.
