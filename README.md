@@ -19,7 +19,7 @@ Git history is the authoritative version record. Do not create duplicate files s
 - `AUTOMATION.md` — canonical live backlog-driven automation, alerting, queue-state and scheduler-capacity protocol
 - `CHANGELOG.md` — human-readable record of substantive research changes
 - `watchlist.md` — cross-theme research candidates and current status
-- `research/top10-unicorn-priority.md` — canonical continuously ranked research universe; full-repository audit currently covers 59 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
+- `research/top10-unicorn-priority.md` — canonical continuously ranked research universe; full-repository audit currently covers 65 listed/directly investable company entries, with provenance from company files, watchlist rows and synthesis candidates
 - `research/unicorn-potential.md` — canonical multibagger-discovery funnel; separates broad research ranking from Unicorn Candidates and reverse-underwrites 1x/3x/5x/10x equity outcomes before Gate E
 - `research/top10-capital-allocation.md` — historical Gate-D valuation/downside layer; useful context but not the current 18-month action framework
 - `PORTFOLIO.md` — Gate-E aggressive dynamic portfolio strategy for the £40k / 18-month objective through March 2028; defines concentration, catalyst timing, buy/add/trim/sell/rotation rules and bottleneck migration
@@ -78,7 +78,7 @@ A useful notification should state what changed, why it matters, the current res
 
 Epics are coordination surfaces and are not selected directly. Monthly and quarterly reviews are represented as due backlog items (#132 / #133) rather than separate schedulers.
 
-Current Gate-E company work is read from live issue metadata rather than maintained as a static README list. The main live monitors are #86 Laifual, #125 JEM, #126 SUSS, #127 Weebit, #128 Micronics Japan, #106 BlackBerry/QNX, #108 FORT, #129 Centrus, #130 Jinpan and #146 Modine/Modexus. #85 Harmonic Drive is parked; #109 QNX-vs-FORT is blocked pending fresh FORT transaction evidence. Ouster #189 completed on 24 Sep via PR #190 and remains a ranked REASSESS candidate. The canonical universe is not capped at ten.
+Current Gate-E company work is read from live issue metadata rather than maintained as a static README list. The main live monitors include #86 Laifual, #292 TAI-TECH, #293 Impro Precision, #294 Namuga, #295 Grid Dynamics, #125 JEM, #126 SUSS, #127 Weebit, #128 Micronics Japan, #106 BlackBerry/QNX, #108 FORT, #129 Centrus, #130 Jinpan and #146 Modine/Modexus. #85 Harmonic Drive is parked; #109 QNX-vs-FORT is blocked pending fresh FORT transaction evidence. Ouster #189 completed on 24 Sep via PR #190 and remains a ranked REASSESS candidate. The canonical universe is not capped at ten.
 
 Initial portfolio construction **#131 is complete**. The live allocation loop now runs through event-driven company monitors plus **#132** for monthly or material-event portfolio re-ranking; #132 was refreshed early on 15 Sep 2026 after the Centrus financing/repricing and is next due on the normal cadence around 15 Oct 2026 unless another material portfolio-wide event fires first.
 
