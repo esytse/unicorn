@@ -1,3 +1,11 @@
+## 2026-09-25 — #300 #261 historical validation framework
+
+- Added a frozen point-in-time backtest protocol for the #261 architecture-first discovery thesis.
+- Pre-registered 10 development and 5 sealed holdout architecture transitions before company discovery.
+- Added separate prediction, outcome, failure/miss and aggregate-summary ledgers to prevent hindsight rewriting.
+- Frozen anti-leakage rules require publication-date cutoffs, architecture-first candidate formation, negative-search retention and prediction commits before outcome reveal.
+- No #261 rule change is permitted until development work is complete and the holdout sequence is respected.
+
 ## 2026-09-25 — Gate-E portfolio refresh
 Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190–210) and Impro Precision (HK$6.6–7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing £6,000 / 15% of the £40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
 
