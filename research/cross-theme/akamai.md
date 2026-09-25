@@ -75,7 +75,39 @@ Akamai generated $699m FCF in FY25 and $221m in H1 2026. The incremental 2026 ca
 
 **Gate-E interpretation:** the deal passes the **demand validation** test but not yet the **shareholder-return** test. Promotion requires evidence that contribution margins, utilization/reuse and financing produce incremental ROIC comfortably above the cost of capital after warrant dilution.
 
-### Return bridge
+#
+## Gate-E reassessment — 25 September 2026
+
+**State: REASSESS / WATCH — upgraded economics confidence, but do not chase the post-announcement rerating without a controlled entry bridge.**
+
+The prior simple capital-recovery hurdle was intentionally conservative and is now incomplete. Akamai's Q2 2026 management disclosure says its signed large CIS deals and active pipeline typically carry **non-GAAP cash gross margins in the mid-60s to mid-70s** and are structured with **take-or-pay commitments**. This materially improves the economic interpretation of the Anthropic contract versus treating contract EBITDA margin as unknown.
+
+### Revised contract economics
+
+On the $11.6bn initial commitment, applying a 65–75% cash gross-margin range gives roughly **$7.54–8.70bn cumulative cash gross profit** over the contract life. Against Akamai's stated **~$5.5bn associated capex**, that leaves a simple **~$2.0–3.2bn gross-profit-minus-initial-capex spread** before corporate/cloud operating costs, tax, financing, refresh capex and warrant dilution. This is not FCF or NPV, but it makes the earlier 50%+ EBITDA-margin hurdle too punitive as the central framing.
+
+The 8-K describes dedicated cloud capacity and managed support under two project plans, with payment subject to delivery/service availability and termination provisions. Supply execution is being locked in through a seven-year Lenovo statement of work and a Jabil build request authorizing ~**$1.7bn of memory procurement**.
+
+### Equity setup after announcement
+
+- 24 Sep regular-session close: **$114.02**; the stock rose roughly **17–22% after hours**, implying a post-news reference around **$130–139** rather than the pre-announcement price.
+- Warrant strike: **$111.33**; initial commitment is expected to vest ~2% dilution, with up to ~5% total if the relationship expands by an additional $9bn.
+- Akamai had **$4.6bn cash + marketable securities** at Q2, aided by a $3.5bn zero-coupon convertible issuance, so the build is fundable, but it changes capital intensity materially.
+- No change to 2026 revenue guidance means the value bridge is predominantly a **2027–2028 ramp**, which fits Gate E but raises execution/timing risk for the March-2028 objective.
+
+### March-2028 decision bridge
+
+The investment question is no longer whether CIS demand exists. It is whether the 2027–2028 revenue ramp converts the disclosed 65–75% cash gross margins into attractive consolidated FCF after depreciation, power/network costs, financing and refresh capex.
+
+**Promotion triggers:** (1) management confirms Anthropic economics are consistent with the disclosed 65–75% CIS cash-gross-margin range; (2) 2027 revenue guidance exposes a material contract ramp; (3) incremental cloud operating margin/FCF or ROIC can be bounded; (4) post-rerating valuation still supports the March-2028 return hurdle.
+
+**Downgrade triggers:** material capex escalation above ~$5.5bn without contract expansion; economics below the disclosed CIS range; delays in service starts; financing materially raises cost of capital; concentration/termination terms weaken expected cash recovery.
+
+### Current conclusion
+
+**Upgrade from “demand validated / shareholder economics largely unknown” to “demand validated / preliminary economics plausibly attractive.”** The new evidence is sufficient to move AKAM into the **next-entry-underwrite group**, but not enough to label it ACTION after a ~20% after-hours rerating. A fresh controlled price and 2027–2028 earnings/FCF bridge is required before setting an entry band or position size.
+
+## Return bridge
 Operating upside requires CIS ramp plus acceptable contribution margins/utilization. Equity rerating requires proof incremental ROIC exceeds cost of capital after dilution.
 
 ## Interpretation
@@ -104,4 +136,4 @@ Akamai Anthropic announcement (24 Sep); Q2 2026 results (6 Aug); FY25 10-K/resul
 
 ## Change history
 2026-09-24: deep dive initiated; structural AI-infrastructure confidence raised, company-return confidence remains medium.
-2026-09-24: #219 hurdle model executed. The $11.6bn contract averages ~$1.66bn/year against ~$5.5bn associated capex; simple capital recovery requires very high contribution economics or meaningful residual/reuse value. Retain REASSESS/WATCH pending contract margin, deployment and financing disclosure.
+2026-09-24: #219 hurdle model executed. The $11.6bn contract averages ~$1.66bn/year against ~$5.5bn associated capex; initial conservative hurdle retained REASSESS/WATCH pending contract economics.\n2026-09-25: Gate-E reassessment incorporated Q2 disclosure that signed large CIS deals typically carry mid-60s to mid-70s non-GAAP cash gross margins and take-or-pay structures. This materially improves preliminary contract economics; AKAM promoted to next-entry-underwrite priority, but remains REASSESS/WATCH pending post-rerating valuation and 2027–2028 FCF/ROIC bridge.
