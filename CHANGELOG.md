@@ -1,3 +1,6 @@
+## 2026-09-25 — Gate-E portfolio refresh
+Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190–210) and Impro Precision (HK$6.6–7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing £6,000 / 15% of the £40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
+
 # Research Changelog
 ## 2026-09-25 — #290
 Gate-E entry sprint converted TAI-TECH, Impro Precision, Namuga and Grid Dynamics into March-2028 decision rules. TAI-TECH is research-level ACTION for a 5% starter at NT$190–210 with thesis intact; Impro is ACTION for a 5% starter at HK$6.6–7.2. Namuga remains WAIT pending <=KRW13–14k speculative pricing or material robot-programme economics; GDYN remains REASSESS/WAIT pending productization evidence. Position ceilings, catalysts, downside and add/trim/sell rules are documented in research/gate-e-thesis-first-entry-sprint.md. Brokerage execution remains manual; no trade is assumed from repository state.
