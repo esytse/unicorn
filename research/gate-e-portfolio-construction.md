@@ -20,7 +20,46 @@
 
 ---
 
-## Executive conclusion
+
+## Portfolio refresh — 25 September 2026: three simultaneous ACTION conditions
+
+**Purpose:** reconcile the canonical portfolio surface with the latest governed company Gate-E work. This is a research allocation signal; brokerage execution remains manual and each price must be rechecked when its market is executable.
+
+### Current governed ACTION surface
+
+| Candidate | Latest controlled reference | Governed condition | Research state | Initial sleeve | £40k envelope |
+|---|---:|---|---|---:|---:|
+| **Laifual Drive** | HK$45.82 (24 Sep close) | **<=HK$48**, thesis intact | **ACTION condition met** | **5%** | **£2,000** |
+| **TAI-TECH** | ~NT$209 | **NT$190–210**, acceleration intact | **ACTION condition met** | **5%** | **£2,000** |
+| **Impro Precision** | ~HK$7.12 | **HK$6.6–7.2**, H2 ramp thesis intact | **ACTION condition met** | **5%** | **£2,000** |
+
+**Combined initial research allocation: 15% / £6,000. Tactical cash and future triggered sleeves: 85% / £34,000.**
+
+### Why all three can coexist
+
+The three signals are not duplicates. Laifual expresses Physical-AI precision actuation; TAI-TECH expresses AI power/magnetics; Impro expresses distributed-power engines, liquid cooling and turbine components. Their catalysts and principal failure modes differ enough that the portfolio should not suppress one merely because the other two are simultaneously executable.
+
+The initial 5% sizing is deliberately below each evidence-supported ceiling. Concentration must still be earned through subsequent operating evidence. No automatic add follows from a starter condition being met.
+
+### Pre-execution controls
+
+1. Recheck executable price when each local market is open; do not use a stale close as an order instruction.
+2. Confirm no overnight filing, earnings, dilution, customer or architecture evidence has broken the thesis.
+3. Do not chase above the governed entry band merely to complete the three-position basket.
+4. Treat the three sleeves independently: a failed price/evidence check in one does not invalidate the other two.
+5. Preserve the remaining 85% for stronger price-led entries, evidence-led adds and independent return engines.
+
+### Portfolio implication
+
+The prior portfolio text stating that only Laifual was governed ACTION is now stale. The latest thesis-first Gate-E sprint has independently promoted TAI-TECH and Impro to starter-eligible states, while Laifual's 24 Sep close is inside its existing <=HK$48 condition. Therefore the current canonical research surface is **three conditional 5% starters**, not one.
+
+This does not change the structural/unicorn ranking. Structural rank and Gate-E deployability remain separate axes.
+
+## Historical #131 construction record — superseded on 25 September 2026
+
+The remaining material in this file records the 10–15 September initial construction and early re-rank. It is retained for audit context only. Its statements about the number of live ACTION signals, reference prices and executable allocation are superseded by the 25 September portfolio refresh above.
+
+### Executive conclusion
 
 **INTERPRETATION:** The first four current Gate-E underwrites are sufficient to construct a meaningful portfolio decision surface, but they are **not sufficient to support full deployment or a credible £80k path on their own**.
 
@@ -29,7 +68,7 @@ The current evidence set is:
 - Japan Electronic Materials (JEM) — evidence-backed HBM / memory probe-card asymmetry, but current signal `NO ACTION`;
 - SUSS MicroTec — evidence-backed HBM / advanced-packaging asymmetry, but current signal `NO ACTION`;
 - Weebit Nano — speculative pre-royalty optionality, current signal `NO ACTION`;
-- Laifual Drive — Physical-AI / precision-motion operating inflection, current signal `REASSESS — not ACTION`.
+- Laifual Drive — Physical-AI / precision-motion operating inflection; its 10 September signal was `REASSESS — not ACTION`.
 
 **FACT:** None of the four current company underwrites authorizes a research-level current `Buy` at the reference setup. Therefore the executable portfolio today is **tactical cash plus conditional sleeves**, not forced purchases.
 
@@ -37,7 +76,7 @@ The current evidence set is:
 
 ---
 
-## Early portfolio re-rank — 15 September 2026
+### Early portfolio re-rank — 15 September 2026
 
 **Status:** completed under recurring issue #132 after the Centrus financing/repricing trigger.
 
@@ -45,7 +84,7 @@ The current evidence set is:
 
 **FACT:** Laifual now has the first governed research-level `ACTION` entry signal in the current cycle: a **starter 5% sleeve at executable <=HK$48**. Actual brokerage execution remains manual, so this is a research allocation signal rather than a recorded holding.
 
-### Current marginal portfolio ranking
+#### Current marginal portfolio ranking
 
 | Rank | Candidate | Why it matters now | Governed condition / next evidence |
 |---:|---|---|---|
@@ -62,23 +101,23 @@ The current evidence set is:
 
 **INTERPRETATION:** the ranking intentionally differs from the old structural Top-10 order. Under Gate E, an independent candidate can outrank a higher-quality correlated memory name when it has greater marginal contribution to the £40k→£80k objective.
 
-### What changed versus the initial #131 construction
+#### What changed versus the initial #131 construction
 
 - **Candidate breadth improved.** Centrus, Modine and Jinpan provide independent nuclear/cooling/electrical return engines; MJC adds a high-quality but correlated memory comparator.
 - **The portfolio objective is still not solved.** None of those new underwrites currently authorizes entry, and their base cases do not by themselves create a robust £80k path.
 - **No evidence-based reason exists to breach the original company position ceilings.** Concentration should increase only after trigger confirmation, not because the portfolio target is difficult.
 - **Cash remains an active position.** It protects the ability to enter near-trigger setups or rotate after dated catalysts rather than forcing capital into base cases that do not clear the hurdle.
 
-### Next dated portfolio events
+#### Next dated portfolio events
 
 1. **24 Sep 2026 — BlackBerry/QNX Q2 FY2027:** refresh QNX SOTP and non-auto/Physical-AI economics.
 2. **1 Oct 2026 — expected Modine Performance Technologies / Gentherm close:** refresh the combined continuing-MOD + distributed-Gentherm value and post-spin guidance.
 3. Price/evidence triggers remain active for Laifual, JEM, SUSS, Centrus, Jinpan, Weebit and MJC.
 
-**CONCLUSION:** the research portfolio now has one governed starter action: **5% Laifual / 95% tactical cash**, conditional on manual execution at <=HK$48. The remaining portfolio should move only when another governed trigger is confirmed and the refreshed company case beats cash and competing sleeves on remaining-window expected return, catalyst timing, downside and correlation.
+**HISTORICAL 15 SEPTEMBER CONCLUSION:** at that checkpoint the research portfolio had one governed starter action: **5% Laifual / 95% tactical cash**, conditional on manual execution at <=HK$48. This conclusion is superseded by the three-starter 25 September refresh above.
 
 ---
-## 1. Current candidate decision surface
+### 1. Initial candidate decision surface
 
 | Candidate | Reference | Gate-E role | Current state | Initial size if condition confirms | Current max ceiling | Key trigger |
 |---|---:|---|---|---:|---:|---|
@@ -91,7 +130,7 @@ The current evidence set is:
 
 ---
 
-## 2. Common scenario assumptions
+### 2. Common scenario assumptions
 
 For portfolio arithmetic only, use the midpoint of range-based scenarios where necessary.
 
@@ -106,7 +145,7 @@ For portfolio arithmetic only, use the midpoint of range-based scenarios where n
 
 ---
 
-## 3. Portfolio A — aggressive baseline conditional construction
+### 3. Portfolio A — aggressive baseline conditional construction
 
 This is the preferred **conditional target structure** for the current four-name evidence set. It is not a recommendation to deploy immediately while entry conditions remain false.
 
@@ -118,7 +157,7 @@ This is the preferred **conditional target structure** for the current four-name
 | Weebit | 6% | £2,400 | high optionality but commercialization/dilution risk requires smaller sizing |
 | Tactical cash / future candidates | **62%** | **£24,800** | reserved for triggered entries and new Gate-E candidates |
 
-### March-2028 scenario value
+#### March-2028 scenario value
 
 | Common outcome | Approx portfolio value | Multiple |
 |---|---:|---:|
@@ -131,9 +170,9 @@ This is the preferred **conditional target structure** for the current four-name
 
 ---
 
-## 4. Portfolio B — aggressive + tactical cash
+### 4. Portfolio B — aggressive + tactical cash
 
-This construction treats the current absence of `ACTION` signals as economically meaningful and starts only with smaller conditional entry envelopes.
+This 10 September construction treated the then-absence of `ACTION` signals as economically meaningful and started only with smaller conditional entry envelopes.
 
 | Sleeve | Weight | £ envelope |
 |---|---:|---:|
@@ -143,7 +182,7 @@ This construction treats the current absence of `ACTION` signals as economically
 | Weebit | 3% | £1,200 |
 | Tactical cash / future candidates | **77%** | **£30,800** |
 
-### March-2028 scenario value
+#### March-2028 scenario value
 
 | Common outcome | Approx portfolio value | Multiple |
 |---|---:|---:|
@@ -156,7 +195,7 @@ This construction treats the current absence of `ACTION` signals as economically
 
 ---
 
-## 5. Portfolio C — maximum-asymmetry stress case
+### 5. Portfolio C — maximum-asymmetry stress case
 
 This is a **stress boundary**, not a recommended live allocation. It assumes each current candidate has earned its present maximum evidence-supported ceiling.
 
@@ -168,7 +207,7 @@ This is a **stress boundary**, not a recommended live allocation. It assumes eac
 | Weebit | 8% | £3,200 |
 | Tactical cash / future candidates | **54%** | **£21,600** |
 
-### March-2028 scenario value
+#### March-2028 scenario value
 
 | Common outcome | Approx portfolio value | Multiple |
 |---|---:|---:|
@@ -181,11 +220,11 @@ This is a **stress boundary**, not a recommended live allocation. It assumes eac
 
 ---
 
-## 6. What is required to bridge the portfolio milestones?
+### 6. What is required to bridge the portfolio milestones?
 
 Under Portfolio C, the all-stretch value is about **£70.3k**.
 
-### Primary £80k objective
+#### Primary £80k objective
 
 The remaining gap is roughly **£9.7k**. If a new candidate replaces cash and achieves the stated return from its eventual entry price, the approximate additional allocation required is:
 
@@ -198,7 +237,7 @@ The remaining gap is roughly **£9.7k**. If a new candidate replaces cash and ac
 
 From the more conservative **all-upside** Portfolio C value of ~£56.0k, bridging to £80k would require roughly 60% allocation to a new 2x return engine, 30% to a 3x, 20% to a 4x, or 15% to a 5x.
 
-### Intermediate and stretch objectives
+#### Intermediate and stretch objectives
 
 Starting from the same ~£70.3k all-stretch value of the current four:
 
@@ -214,7 +253,7 @@ Starting from the same ~£70.3k all-stretch value of the current four:
 
 ---
 
-## 7. Winner / partial-winner / loser logic
+### 7. Winner / partial-winner / loser logic
 
 The portfolio should not assume all positions resolve together.
 
@@ -228,7 +267,7 @@ The portfolio should not assume all positions resolve together.
 
 ---
 
-## 8. Best alternative use of capital
+### 8. Best alternative use of capital
 
 | Current candidate | Best competing use of capital today |
 |---|---|
@@ -239,7 +278,7 @@ The portfolio should not assume all positions resolve together.
 
 ---
 
-## 9. Next-work decision from #131
+### 9. Next-work decision from #131
 
 **CONCLUSION:** The next company underwrite should be **#130 Hainan Jinpan before #128 Micronics Japan**, unless a higher-priority external trigger fires first.
 
@@ -255,14 +294,14 @@ Rationale:
 
 ---
 
-## 10. Monitoring / rotation rules
+### 10. Monitoring / rotation rules
 
-### Current state
+#### Current state
 - No current company has an `ACTION` entry signal.
 - Therefore **no brokerage trade is implied or authorized by this construction**.
 - The scheduler should monitor the governed company triggers and promote only material events/price conditions.
 
-### Rotation
+#### Rotation
 Reallocate a sleeve only when fresh Gate-E evidence shows that the replacement offers better remaining-window asymmetry after considering:
 - evidence quality;
 - catalyst timing/probability;
@@ -271,12 +310,12 @@ Reallocate a sleeve only when fresh Gate-E evidence shows that the replacement o
 - position ceiling;
 - remaining time to March 2028.
 
-### Portfolio-level thesis breaker
+#### Portfolio-level thesis breaker
 The £80k path should be explicitly downgraded if, after enough independent current underwrites exist, the portfolio still requires widespread stretch outcomes or unsupported >4–5x assumptions merely to reach the primary objective.
 
 ---
 
-## 11. Current conclusion
+### 11. Current conclusion
 
 **FACT:** #131 can now be run meaningfully because four current Gate-E underwrites exist and the portfolio can explicitly retain tactical cash.
 

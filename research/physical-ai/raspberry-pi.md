@@ -3,7 +3,7 @@
 **Research stream:** Physical AI / edge compute
 **Status:** Active challenger; scenario valuation complete, consensus reset pending
 **Confidence:** Medium
-**Last substantive update:** 2026-09-24
+**Last substantive update:** 2026-09-25
 
 ## Snapshot
 Raspberry Pi sells low-cost computing platforms, silicon and accessories. Its commercial mix has shifted toward industrial/OEM use; management estimates industrial applications at roughly 75% of end markets in H1 2026.
@@ -50,25 +50,6 @@ Raspberry Pi sells low-cost computing platforms, silicon and accessories. Its co
 ### Strongest disconfirming evidence
 Revenue +90% on units +17% reveals major ASP/memory-cycle distortion. Management says exceptional H1 economics moderated. High-end edge-AI alternatives offer much more compute.
 
-### Valuation sensitivity
-
-The official consensus still reflects 1 Sep estimates: FY26 adjusted EBITDA $57.8m and FY27 $56.8m. H1 alone delivered $40.3m and management now expects FY26 above that old consensus, so the old FY26/FY27 estimates are stale rather than a usable base case.
-
-At 755p, approximate equity value is ~£1.3bn. Using ~175m shares and a working GBP/USD rate of 1.34 gives an equity/enterprise-value scale of roughly $1.75-1.8bn before future inventory financing. The following is a **hurdle matrix, not a target**:
-
-| Normalized FY27/28 EBITDA | Exit EV/EBITDA | Indicative equity-equivalent price* | Read-through |
-|---:|---:|---:|---|
-| $65m | 15x | ~416p | normalization/bear case: today's price is vulnerable |
-| $90m | 20x | ~768p | roughly supports the current 755p area |
-| $120m | 25x | ~1,279p | requires a strong OEM/edge-AI growth + premium-multiple outcome |
-
-*Mechanical EV-to-equity approximation using ~175m shares and 1.34 GBP/USD; excludes future net debt/cash changes and is deliberately not a price target.
-
-A second near-term hurdle is FY26 EBITDA. $60m/$65m/$70m/$75m implies H2 EBITDA of only $19.7m/$24.7m/$29.7m/$34.7m after H1's $40.3m. That makes a FY26 beat likely on current guidance, but it does **not** solve the FY27 normalization question because memory-driven ASP/unit economics are already moderating.
-
-**Gate-E interpretation:** 755p approximately requires a normalized ~$90m EBITDA business at a ~20x multiple to look conventionally supported. Until revised FY27/FY28 estimates or H2 evidence demonstrate that earnings bridge, RPI remains REASSESS/WATCH rather than ACTION.
-
-#
 ## Gate-E entry reassessment — 25 September 2026
 
 **State: REASSESS / WAIT at 755p. Strong operating result; current price already requires substantial normalized earnings growth.**
@@ -137,14 +118,12 @@ Raspberry Pi H1 2026 results (24 Sep); investor consensus (1 Sep); FY25 investor
 ## Change history
 2026-09-24: deep dive initiated after H1 repricing; operating evidence strengthened.
 2026-09-24: #218 scenario valuation executed. At 755p, current price roughly corresponds to a ~$90m normalized EBITDA / 20x outcome; retain REASSESS/WATCH pending revised FY27-28 estimates and H2 normalization evidence.
+2026-09-25: Gate-E entry reassessment added explicit evidence-conditioned entry bands: <=550p ACTION candidate; 550–650p conditional reassess; 650–800p evidence-led WAIT; >800p WAIT absent ~$100–120m+ normalized EBITDA evidence.
 
 ## Unicorn Potential reverse-underwrite — 24 September 2026
 
-**Reference:** 755p and ~£1.3bn equity value. Mechanical hurdles are **~£3.9bn / 2,265p (3x), ~£6.5bn / 3,775p (5x), ~£13bn / 7,550p (10x)** before future financing effects.
+**Reference:** 755p, ~193.7m shares and ~£1.46bn equity value. Mechanical hurdles are **~£4.39bn / 2,265p (3x), ~£7.31bn / 3,775p (5x), ~£14.62bn / 7,550p (10x)** before future financing effects.
 
 The existing normalized-EBITDA hurdle already shows 755p roughly corresponds to ~$90m EBITDA at 20x. A 3x equity outcome therefore needs a much larger OEM/industrial earnings base than the current post-memory-cycle evidence supports; 5x/10x require platform-scale economics far beyond the disclosed base.
 
 **Unicorn state: POTENTIAL — 3x is conceivable if OEM backlog converts into a durable industrial platform with materially higher normalized EBITDA; 5x unvalidated; 10x unsupported.** Do not annualize H1 memory-assisted economics. The next estimate reset and H2 margin normalization are decisive.
-
-
-2026-09-25: Gate-E entry reassessment added explicit evidence-conditioned entry bands: <=550p ACTION candidate; 550–650p conditional reassess; 650–800p evidence-led WAIT; >800p WAIT absent ~$100–120m+ normalized EBITDA evidence.
