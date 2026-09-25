@@ -317,3 +317,12 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-D05-003 — Teradyne FY2018 10-K (filed 2019-03):** https://www.sec.gov/Archives/edgar/data/97210/000119312519059974/d652525d10k.htm — primary; MiR acquisition, combined Industrial Automation composition and parent scale.
 - **SRC-BT261-D05-004 — Teradyne/MiR acquisition release (2018-04-25):** https://www.sec.gov/Archives/edgar/data/97210/000119312518129876/d574937dex992.htm — primary; MiR 2017 and Q1 2018 pre-acquisition revenue/profitability claim.
 - **SRC-BT261-D05-005 — Zebra FY2018 10-K (filed 2019-02):** https://www.sec.gov/Archives/edgar/data/877212/000087721219000011/a10k12312018zebra.htm — primary; EVM organic sales and broad capture portfolio.
+
+### #261 D05 — post-prediction outcome sources (unsealed after PR #317 merged)
+- **SRC-BT261-D05-O01 — KION 2021 SCS report:** https://reports.kiongroup.com/2021/ar/management-report/financial-position-and-financial-performance/business-situation-and-financial-performance-of-the-segments/supply-chain-solutions.html — primary; orders/revenue/adjusted EBIT and margin.
+- **SRC-BT261-D05-O02 — KION 2022 SCS report:** https://reports.kiongroup.com/2022/ar/management-report/financial-position-and-financial-performance/business-situation-and-financial-performance-of-the-segments/supply-chain-solutions.html — primary; orders decline and revenue.
+- **SRC-BT261-D05-O03 — KION 2023 SCS report:** https://reports.kiongroup.com/2023/ar/management-report/financial-position-and-financial-performance/business-situation-and-financial-performance-of-the-segments/supply-chain-solutions.html — primary; revenue and adjusted EBIT margin contraction.
+- **SRC-BT261-D05-O04 — Cognex 2021 10-K:** https://www.sec.gov/Archives/edgar/data/851205/000085120522000008/cgnx-20211231.htm — primary; logistics largest market, large customer 17%, revenue and margin.
+- **SRC-BT261-D05-O05 — Cognex 2023 10-K:** https://www.sec.gov/Archives/edgar/data/851205/000085120524000027/cgnx-20231231.htm — primary; logistics -21%, big-customer pause, group sales.
+- **SRC-BT261-D05-O06 — Teradyne 2023 shareholder letter:** https://www.sec.gov/Archives/edgar/data/97210/000095017024038549/ter-ars-20241.pdf — primary; robotics revenue -7% and MiR/UR go-to-market context; no MiR warehouse profit split.
+- **SRC-BT261-D05-O07 — Zebra 2023 10-K:** https://www.sec.gov/Archives/edgar/data/877212/000087721224000029/zbra-20231231.htm — primary; EVM 2021–23 sales/profit and broad mix.

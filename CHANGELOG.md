@@ -1,3 +1,8 @@
+## 2026-09-25 — #305 D05 outcome reveal
+
+- Revealed D05 after frozen prediction PR #317 merged. Cognex logistics became its largest market in 2021 with substantial group sales conversion; concentration, lower logistics gross margin and a 2023 large-customer capex pause temper durability. It is a possible economic false negative, with T0 equity opportunity unscored.
+- KION/Dematic converted system orders to 2021 profit then saw 2023 margin compression; MiR's warehouse-specific profit and Zebra's incremental warehouse contribution remain unisolated. Added outcome/failure/source entries. Development D01–D05 complete; no v1 or live portfolio change.
+
 ## 2026-09-25 — #305 D05 frozen prediction
 
 - Reconstructed warehouse fleet-scale automation at T0 1 Jul 2019 from contemporaneous filings. Froze no PROMOTE: Cognex and Teradyne/MiR EVIDENCE-BUILD; KION/Dematic and Zebra REJECT for an early unrecognised group transformation. Cognex's logistics growth exceeds 50% but lower logistics gross margin and unisolated contribution stop promotion.

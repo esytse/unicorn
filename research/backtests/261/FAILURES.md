@@ -18,6 +18,10 @@ Preserve errors. Do not edit them away when the methodology changes later.
 | D04 | II-VI / Coherent | attribution / ownership | SiC substrate economics were unisolated in a broad company | strategic $1bn third-party investment validated business value but diluted parent ownership; group profit unisolated | FY2018 segment bundled unrelated products | track parent-share economic capture and segment attribution, not just subsidiary valuation |
 
 
+| D05 | Cognex | possible false negative / customer concentration | >50% logistics growth and lower gross margin merited evidence-build until absolute mix/profit and equity attribution emerged | logistics became largest 2021 market and a single customer ~17% group, then large e-commerce projects paused and logistics revenue fell 21% in 2023 | T0 >50% logistics growth and adverse mix were both visible | test whether repeat customer-driven vision revenue can be promoted with a bounded margin/concentration gate; do not retroactively upgrade |
+| D05 | KION / Dematic | timing / project concentration | mature integrator orders lacked clean early component scarcity | 2021 SCS profit grew strongly, then adjusted margin fell to 1.5% in 2023 | 2018 orders +15.5% but margin already slipped to 8.8% | assess order-to-cash conversion and large-customer exposure |
+
+
 ## Error types
 
 Architecture wrong; bottleneck migration; capture failure; substitution/integration; materiality failure; valuation; dilution/capital intensity; timing; false negative; data limitation.

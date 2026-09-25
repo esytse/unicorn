@@ -31,6 +31,12 @@ Do not add an outcome until the corresponding prediction is committed and frozen
 | D04 | ROHM | SiC EV opportunity remained | road-vehicle conversion economics not isolated in this pass | DATA-LIMITED | unscored | no clean attribution | DATA-LIMITED | 2026-09-25 |
 
 
+| D05 | Cognex | warehouse/e-commerce vision strengthened through 2021, reversed at large customers in 2023 | logistics became largest 2021 market, one customer ~17% group sales | FY21 group $1.037bn +28%, GM 73% vs 75%; FY23 logistics -21%, group $837.5m -17%; logistics profit unisolated | unscored | concentration, deployment margin, investment pause | VALIDATED initial materiality / PARTIAL durability; possible economic false negative | 2026-09-25 |
+| D05 | KION / Dematic | large-scale deployment peaked then normalised | FY21 SCS €3.796bn sales and €409.5m adjusted EBIT | FY23 SCS €2.997bn, margin 1.5%; concentration/project risk | unscored | order cyclicality and project execution | PARTIAL incumbent capture, early REJECT defensible | 2026-09-25 |
+| D05 | Teradyne / MiR | mobile robotics expanded | combined Robotics segment; 2023 revenue -7% | MiR warehouse profit/group bridge unisolated | unscored | parent attribution and cycle | PARTIAL robotics relevance, warehouse economics DATA-LIMITED | 2026-09-25 |
+| D05 | Zebra | warehouse data capture demand rose then cycled | EVM FY21 $3.899bn; FY23 $2.933bn | FY23 EVM operating income $343m vs $711m FY22; warehouse-specific incremental profit unavailable | unscored | diversified incumbent/weak 2023 demand | PARTIAL infrastructure capture; D05 transformation DATA-LIMITED | 2026-09-25 |
+
+
 ## Result labels
 
 - **VALIDATED:** predicted mechanism converted economically.
