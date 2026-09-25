@@ -874,3 +874,9 @@ This file records substantive changes to research conclusions, confidence, prior
 - Marked `watchlist.md` and theme synthesis rankings as DERIVED navigation/synthesis surfaces with explicit authority boundaries.
 - Marked completed Gate-E construction/sprint artifacts as HISTORICAL and pointed live portfolio/ranking/monitor state to `PORTFOLIO.md`, `research/top10-unicorn-priority.md` and GitHub issues/`AUTOMATION.md`.
 - No company thesis, ranking order, Gate-E conclusion, transaction rule, or #261 frozen record changed.
+
+## 2026-09-25 — Governed document metadata standard (#340)
+
+- Added lightweight lifecycle/freshness/upstream/supersession guidance and representative company/theme template metadata.
+- Added deterministic checks for invalid lifecycle declarations, missing DERIVED upstream authority and DERIVED/CANONICAL conflicts.
+- No research conclusion, ranking, portfolio rule or #261 frozen record changed.
