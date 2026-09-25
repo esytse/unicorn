@@ -1,5 +1,11 @@
 # AI Energy — Cross-Layer Bottleneck Ranking
 
+**Lifecycle:** DERIVED  
+**As of:** 2026-09-25  
+**Canonical upstream:** company evidence belongs to the relevant energy company/deep-dive files; current cross-theme order is `research/top10-unicorn-priority.md`.  
+**Authority rule:** this theme synthesis may compare energy candidates but does not own cross-theme rank or portfolio action state.
+
+
 **Status:** Common-basis structural / economic-capture ranking complete  
 **Confidence:** **Medium-High** on the relative top tier; **Medium** on company-level capture before underwriting  
 **Last substantive update:** 2026-09-07  
