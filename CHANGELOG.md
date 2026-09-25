@@ -1,3 +1,9 @@
+## 2026-09-25 — #300/#308 completed #261 historical validation
+
+- Finalised `research/backtests/261/SUMMARY.md`: all 15 registered cases and 63 candidate states revealed; development 2/2 initial PROMOTE conversions but both later durability impairment; holdout has zero PROMOTEs and one clear economic miss (SK hynix HBM). West and several incumbents remain possible/mixed false negatives.
+- Transformation capture rate, consistent lead time, and adjusted equity return/drawdown are DATA-LIMITED; 0/63 fully scored at prescribed equity checkpoints. The selected architecture cases and excluded contaminated candidates limit generalisation.
+- Decision: v1 is useful for research triage but has not established repeatable pre-recognition equity alpha. Preserve live #261 discovery methodology/portfolio states; v2 is a separate prospective-test proposal only. All outcomes, failure modes, negative searches and source chronology remain in case files and ledgers. No further work scheduled for this run.
+
 ## 2026-09-25 — #308 H01–H05 outcome reveal
 
 - After holdout prediction PR #322 passed governance and merged, revealed all 17 candidate outcomes using primary later filings/releases. SK hynix's frozen EVIDENCE-BUILD HBM3 production socket became >40% of Q4 2024 DRAM revenue and material group profit, a clear economic false negative. West's GLP-1 components reached 17% of Q4 2025 company sales; pre-T0 drug-specific qualification was not recovered.
