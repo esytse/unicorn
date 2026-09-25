@@ -1,3 +1,6 @@
+## 2026-09-25 — Canonical ACTION underwrites
+Closed the documentation-integrity gap for the three current Gate-E ACTION candidates. Confirmed Laifual already has a full canonical company underwrite at research/robotics-actuators/companies/laifual-drive.md; upgraded TAI-TECH and Impro company files so their thesis chains, evidence hierarchy, March-2028 scenario bridges, counter-cases/falsifiers, Gate-E rules and source IDs live with the company research rather than only in the Gate-E sprint. Added central source-register entries for TAI-TECH and Impro and explicitly distinguished primary evidence from secondary management reporting. Gate-E files remain portfolio summaries, not the primary research record.
+
 ## 2026-09-25 — Gate-E portfolio refresh
 Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190–210) and Impro Precision (HK$6.6–7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing £6,000 / 15% of the £40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
 
