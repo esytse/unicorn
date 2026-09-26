@@ -1,84 +1,98 @@
 # Unicorn Ranked Research Universe
 
 **Status:** Active canonical cross-theme ranking  
-**Live Gate-E refresh:** 2026-09-25
-**Parent backlog:** #110  
-**Purpose:** Continuously rank every company with sufficient evidence by structural bottleneck quality, company capture, financial materiality, valuation/setup, marginal portfolio contribution and evidence confidence.
+**Lifecycle:** CANONICAL
+**Live Gate-E refresh:** 2026-09-26
+**Parent backlog:** #110 / #356
+**Purpose:** Preserve the uncapped thesis-first research universe while separately ordering the same companies for the March-2028 capital objective.
 
-> This is a **research-prioritisation surface, not an investment recommendation list**. Rank does not authorize a trade. There is no Top-10 admission or displacement gate: every sufficiently researched company belongs in the same ordered universe. A Top-10 view, if used, is only a derived display.
+> This is a **research and capital-prioritisation surface, not an investment recommendation list**. Capital rank does not authorize a trade. Current signal, sizing and transaction rules remain upstream in `PORTFOLIO.md`, `AUTOMATION.md`, live monitor issues and canonical company research.
 
-## Authoritative live ranking — full-repository audit, 25 September 2026
+## Two axes, one complete inventory
 
-**Universe rule:** every **listed or directly investable company/SPAC vehicle** with company-level evidence in a canonical company file, watchlist row, or governed deep dive is included below. Theme-only concepts and private archetypes are not assigned fake equity ranks. The original audit expanded the universe to 59 entries; governed thesis-first discoveries now expand the live universe to **65 company entries**.
+**Structural research priority** asks whether a scarce complement can produce company-level economic capture and potentially material per-share value. It weighs bottleneck strength, capture, financial materiality, multibagger mechanism and evidence maturity. It preserves thesis-first discovery and is not a deployment order.
 
-| Rank | Company | Primary exposure | State | Evidence / setup summary |
-|---:|---|---|---|---|
-| **1** | **Laifual Drive** | Robotics actuation | ACTION monitor | Governed 5% starter at <=HK$48 with thesis intact |
-| **2** | **Centrus Energy** | LEU / HALEU | REASSESS | High strategic scarcity; funded-capacity/dilution gate |
-| **3** | **Modine / Modexus** | AI cooling | WAIT | Independent cooling engine; separation + valuation catalyst |
-| **4** | **BlackBerry / QNX** | Runtime / functional safety | REASSESS | High-margin QNX evidence; current price embeds substantial success |
-| **5** | **Siemens Energy** | Turbines / grid | WATCH | Energy programme's preferred capital monitor; ~12% zone near prior reference |
-| **6** | **Japan Electronic Materials** | HBM probe cards | WAIT | Strong memory valuation/asymmetry lead; socket/FCF proof incomplete |
-| **7** | **SUSS MicroTec** | HBM advanced packaging | WAIT | Small-cap sensitivity + strong 2027 backlog; concentration risk |
-| **8** | **nVent** | Electrical / cooling | WATCH | Smaller architecture-resilient power/cooling platform; valuation near prior hurdle |
-| **9** | **Hainan Jinpan** | AI power / transformers | WAIT | Exceptional AIDC order growth; qualification/cash evidence weaker |
-| **10** | **Advantech** | Industrial edge / fleet deployment | REASSESS | Profitable Physical-AI deployment exposure; premium valuation |
-| **11** | **Raspberry Pi** | Edge compute / industrial OEM | REASSESS | Strong OEM/backlog evidence; normalized post-rerating earnings unresolved |
-| **12** | **Onto Innovation** | AP process control | WATCH | HBM4 tool-of-record + >$240m VPA; strong margins, valuation gate |
-| **13** | **Weebit Nano** | ReRAM | WAIT | High optionality; recurring royalty/mass-production proof missing |
-| **14** | **Micronics Japan** | HBM probe cards | WAIT | Excellent operating franchise; valuation/customer concentration |
-| **15** | **Ambarella** | Edge-AI silicon | REASSESS | Very direct AI capture; profit conversion + valuation hurdle |
-| **16** | **Vertiv** | AI electrical / thermal | WATCH | Direct infrastructure quality leader; prior valuation above 12% zone |
-| **17** | **FORT Robotics / FROB** | Physical-AI safety | WAIT | Clean horizontal safety optionality; S-4/dilution/recurrence unresolved |
-| **18** | **Akamai** | Distributed AI compute | REASSESS | Anthropic validates demand; capex/dilution/incremental ROIC unresolved |
-| **19** | **Huaming Power Equipment** | Transformer OLTC | INVESTIGATING | Strongest energy second-order discovery; near prior Gate-C hurdle |
-| **20** | **Ouster** | Lidar / perception | REASSESS | Real sensing capture; normalized margin/FCF/valuation gate |
-| **21** | **HD Hyundai Electric** | Transformers | WATCH | Strong specialist capture; prior price well above normalized return zone |
-| **22** | **Camtek** | AP inspection/metrology | WATCH | Direct HBM/AP orders; strong capture, demanding valuation |
-| **23** | **FormFactor** | HBM test / probe | WATCH | Ships HBM probe cards to all three majors; valuation main constraint |
-| **24** | **Montage Technology** | DDR5/MRDIMM + CXL 3.2 controllers | FAILED / PARKED | CXL thesis strengthened by Samsung/SK hynix integration, but current valuation removes Unicorn asymmetry |
-| **25** | **ASMPT** | HBM/AP bonding | WATCH | Multi-customer HBM4 + architecture breadth; diluted sensitivity |
-| **26** | **Technoprobe** | Advanced probe cards | WATCH | Exceptional margins/growth; operating benchmark, valuation gate |
-| **27** | **Hanmi Semiconductor** | HBM TC bonding | WATCH | Extreme current capture/margins; customer/transition/valuation risk |
-| **28** | **Eaton** | Electrical / thermal | WATCH | Architecture resilience + Boyd; broad scale and valuation dilute asymmetry |
-| **29** | **GE Vernova** | Turbines / grid | WATCH | Operational energy leader; current-price asymmetry weakest in prior primary screen |
-| **30** | **Advantest** | AI / memory test | WATCH | High evidence of test-content capture; durability vs valuation needs normalization |
-| **31** | **Teradyne** | Memory test / robotics | WATCH | HBM test evidence plus robotics optionality; total-company sensitivity lower |
-| **32** | **Harmonic Drive Systems** | Robotics actuation | PARKED | Technical benchmark; valuation capitalizes large humanoid success |
-| **33** | **Cameco** | Nuclear fuel / Westinghouse | WATCH comparator | Durable diversified nuclear exposure; lower bottleneck purity/asymmetry |
-| **34** | **Mitsubishi Heavy Industries** | Gas turbines | WATCH comparator | Strong third turbine OEM; conglomerate dilution |
-| **35** | **Quanta Services** | Transmission / EPC | WATCH comparator | Huge backlog validates demand; project/labor capture less proprietary |
-| **36** | **DISCO** | Wafer thinning / singulation | WATCH | Architecture-resilient process role; HBM-specific materiality not isolated |
-| **37** | **Micron** | AI memory | WATCH comparator | Direct memory benchmark; commodity-cycle capture lowers scarce-complement purity |
-| **38** | **Ibiden** | AI package substrates | RESEARCH QUEUE | Large AI substrate investment; incremental ROIC/pricing proof missing |
-| **39** | **Amkor** | Advanced packaging | RESEARCH QUEUE | Strong NVIDIA/TSMC qualification; capital intensity/margin capture unresolved |
-| **40** | **Tecan** | Scientific-AI lab automation | EVIDENCE-BUILDING | Installed-fleet/recurring evidence; AI financial materiality not isolated |
-| **41** | **Bruker / Chemspeed / SciY** | Scientific-AI execution | EVIDENCE-BUILDING | Measurement + automation + orchestration; group materiality unresolved |
-| **42** | **Furukawa Electric / SuperPower** | Fusion HTS | BOUNDED FOLLOW-UP | Strong fusion-enabling lane; funded demand/materiality need proof |
-| **43** | **VAT Group** | Vacuum / fusion infrastructure | MONITOR | Structural comparator; direct fusion financial capture unresolved |
-| **44** | **Cognex / RealSense** | Machine vision / depth | EVENT UNDERWRITE | Sensing lane relevant; post-transaction economics/valuation need work |
-| **45** | **PTC** | Simulation / verification / fleet feedback | DISCOVERY | Potential under-covered software layer; incremental AI economics unproven |
-| **46** | **Arm** | Edge/cloud/Physical-AI architecture | DISCOVERY comparator | Strong structural exposure; broad valuation/capture asymmetry unresolved |
-| **47** | **Schaeffler** | Actuator industrialization | DISCOVERY / Gate-B candidate | Strong humanoid industrialization evidence; group earnings materiality is the gate |
-| **48** | **MinebeaMitsumi** | Integrated actuator components | DISCOVERY / Gate-B candidate | Broad humanoid content and mass-production thesis; bottleneck purity lower |
-| **49** | **Caterpillar** | Autonomous physical machines | COMPARATOR | Deployment evidence, but AI/autonomy too diluted in consolidated economics |
-| **50** | **Nabtesco** | Cycloidal/RV + humanoid transmissions | COMPARATOR | Industrial-robot durability benchmark; named humanoid production evidence still weak |
-| **51** | **THK** | Precision ball screws / linear motion | COMPARATOR | Relevant humanoid content; no established scarce-company capture case |
-| **52** | **Howmet Aerospace** | Turbine hot-section components | COMPARATOR | Exceptional physical bottleneck/capture; large rerated valuation limits discovery asymmetry |
-| **53** | **Anhui Yingliu Electromechanical** | Turbine precision castings | COMPARATOR | Smaller hot-section exposure; high valuation and weak cash conversion |
-| **54** | **Cleveland-Cliffs** | GOES / transformer input | COMPARATOR | Strategic input but weaker listed economic capture than transformer equipment |
-| **55** | **ABB** | Electrical / DC protection | COMPARATOR | Credible multi-vendor 800VDC/electrical platform; concentrated lock-in not established |
-| **56** | **Schneider Electric** | Data-centre electrical backbone | COMPARATOR | High-quality architecture exposure; broad scale reduces asymmetric purity |
-| **57** | **Hitachi / Hitachi Energy** | Transformers / grid equipment | COMPARATOR | Strong structural transformer exposure; parent-company dilution limits clean capture |
-| **58** | **Thermo Fisher Scientific** | Scientific-AI execution | COMPARATOR | Broad lab/instrument benchmark; AI-specific economics insufficiently isolated |
-| **59** | **Danaher** | Scientific-AI execution | COMPARATOR | Broad life-science tools benchmark; AI-specific financial capture insufficiently isolated |
+**March-2028 capital priority** asks which existing governed opportunity can contribute responsibly inside the remaining window. It weighs live signal, catalyst timing and quality, downside/permanent-loss exposure, valuation/setup, evidence confidence, dilution/capital intensity, responsible size ceiling, correlation and the best alternative use of capital. Tactical cash can remain preferable to a lower-ranked candidate.
 
-| **60** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | ACTION monitor | Governed 5% starter at NT$190–210 while acceleration and AI-mix direction remain intact |
-| **61** | **Namuga** | Humanoid 3D sensing | POTENTIAL / UNDERWRITE | PoC→verification→sole-source→production transition; programme economics still undisclosed |
-| **62** | **Grid Dynamics** | Physical-AI simulation / validation / deployment | POTENTIAL / EVIDENCE BUILD | Small starting equity and live commercial programs; recurring/platform economics unproven |
-| **63** | **Impro Precision Industries** | AI distributed power + liquid cooling | ACTION monitor | Governed 5% starter at HK$6.6–7.2 while FY26 guidance and the Mexico/cooling ramp remain intact |
-| **64** | **Vicor** | Vertical power delivery | POTENTIAL / WATCH | Structural capture validated; discovered after major rerating, current equity setup weaker |
-| **65** | **AP Memory** | Silicon capacitors / package power integrity | POTENTIAL / LATE DISCOVERY | Business inflection validated; starting valuation already reflects substantial success |
+The table is the sole complete 65-company inventory. Each company appears once with both ranks. It consumes live states from `AUTOMATION.md` and company monitors; it does not redefine them. The capital order reflects the negative validation boundaries from #326–#328: operating capture is not automatically durable per-share capture, no robust early-promotion rule was demonstrated, and shareholder alpha remains data-limited.
+
+<!-- OBJECTIVE-RANKING:START -->
+| Capital rank | Structural rank | Company | Primary exposure | Capital tier | Live state | Objective-aligned reason |
+|---:|---:|---|---|---|---|---|
+| **1** | **4** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | Current ACTION | ACTION | 5% starter at NT$190–210; strongest current earnings-led base bridge, capped at 7.5% pre-proof |
+| **2** | **1** | **Laifual Drive** | Robotics actuation | Current ACTION | ACTION | 5% starter at <=HK$48; convex upside, but cash conversion, ASP pressure and capacity cap pre-proof size |
+| **3** | **10** | **Impro Precision Industries** | Distributed power / liquid cooling | Current ACTION | ACTION | 5% starter at HK$6.6–7.2; visible earnings engine and independent drivers, with cash/certification gate |
+| **4** | **3** | **Modine / Modexus** | AI cooling | Next trigger | WAIT | Leading independent return-engine alternative; separation, margin/FCF and $155–165 reassessment gate |
+| **5** | **2** | **Centrus Energy** | LEU / HALEU | Next trigger | REASSESS | Exceptional scarcity and low thematic correlation; funded-capacity, timing and dilution still gate capital |
+| **6** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | WAIT | Attractive profitable small-cap bridge; HBM socket/share and FCF evidence required near <=~¥6,100 |
+| **7** | **8** | **SUSS MicroTec** | HBM advanced packaging | Next trigger | WAIT | Visible 2027 backlog; process durability and ~€60–62 valuation trigger precede deployment |
+| **8** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | WAIT | Independent AIDC engine; named qualification, cash conversion and ~CNY54–57 gate remain open |
+| **9** | **15** | **Namuga** | Humanoid 3D sensing | Next trigger | WAIT | Sole-source programme creates convexity; <=KRW13–14k or disclosed order economics needed |
+| **10** | **22** | **Grid Dynamics** | Physical-AI deployment | Next trigger | REASSESS | Modest starting value and live programs; recurring/platform proof plus $6.5–7.2 needed |
+| **11** | **16** | **Weebit Nano** | ReRAM | Next trigger | WAIT | Royalty optionality is large but binary; A$2.5–2.7 plus intact commercialization or production proof |
+| **12** | **17** | **Micronics Japan** | HBM probe cards | Next trigger | WAIT | Strong franchise; entry setup and customer concentration remain weaker than JEM |
+| **13** | **5** | **BlackBerry / QNX** | Runtime / functional safety | Next trigger | REASSESS | Profitable recurring engine, but current valuation embeds success; <=~US$7 or stronger new evidence |
+| **14** | **9** | **nVent** | Electrical / cooling | Quality / valuation watch | WATCH | Resilient platform and useful diversification; present setup does not outrank nearer governed triggers |
+| **15** | **6** | **Siemens Energy** | Turbines / grid | Quality / valuation watch | WATCH | Strong capture but larger rerated base reduces remaining-window asymmetry |
+| **16** | **14** | **Onto Innovation** | AP process control | Quality / valuation watch | WATCH | Direct HBM4 capture and strong economics; valuation limits responsible contribution |
+| **17** | **12** | **Advantech** | Industrial edge | Quality / valuation watch | REASSESS | Profitable deployment exposure, but broad earnings base and premium setup dilute 18-month asymmetry |
+| **18** | **13** | **Raspberry Pi** | Edge compute / industrial OEM | Next trigger | REASSESS | OEM/backlog proof; <=550p or normalized FY27/28 earnings bridge required |
+| **19** | **23** | **Akamai** | Distributed AI compute | Next trigger | REASSESS | Contract economics improved, but capex, FCF/ROIC and controlled entry still unresolved |
+| **20** | **25** | **Ouster** | Lidar / perception | Next trigger | REASSESS | Real sensing capture; normalized margin, FCF and entry valuation gate capital |
+| **21** | **21** | **FORT Robotics / FROB** | Physical-AI safety | Speculative / evidence build | WAIT | Horizontal safety option; transaction, dilution and recurring economics unresolved |
+| **22** | **24** | **Huaming Power Equipment** | Transformer OLTC | Next trigger | INVESTIGATING | Strong second-order capture; current Gate-E entry bridge is not yet governed enough to deploy |
+| **23** | **20** | **Vicor** | Vertical power delivery | Speculative / evidence build | WATCH | Structural capture is real, but discovery followed a large rerating and current setup is weaker |
+| **24** | **27** | **AP Memory** | Silicon capacitors / power integrity | Speculative / evidence build | LATE DISCOVERY | Business inflection is visible; valuation already capitalizes substantial success |
+| **25** | **19** | **Vertiv** | AI electrical / thermal | Quality / valuation watch | WATCH | Direct quality leader; scale and rerating limit marginal portfolio contribution |
+| **26** | **28** | **Camtek** | AP inspection / metrology | Quality / valuation watch | WATCH | Strong direct orders and capture; demanding valuation and HBM correlation lower priority |
+| **27** | **29** | **FormFactor** | HBM test / probe | Quality / valuation watch | WATCH | Broad customer proof; present valuation and correlation trail JEM/SUSS alternatives |
+| **28** | **31** | **ASMPT** | HBM/AP bonding | Quality / valuation watch | WATCH | Architecture breadth offsets lower sensitivity; no near-window entry edge over leaders |
+| **29** | **32** | **Technoprobe** | Advanced probe cards | Quality / valuation watch | WATCH | Excellent economics are substantially recognized; comparator before capital candidate |
+| **30** | **33** | **Hanmi Semiconductor** | HBM TC bonding | Quality / valuation watch | WATCH | Exceptional capture with concentrated transition and valuation risk |
+| **31** | **26** | **HD Hyundai Electric** | Transformers | Quality / valuation watch | WATCH | Proven specialist capture; prior setup well above normalized return zone |
+| **32** | **34** | **Eaton** | Electrical / thermal | Quality / valuation watch | WATCH | Durable architecture exposure; broad scale limits asymmetric purity |
+| **33** | **35** | **GE Vernova** | Turbines / grid | Quality / valuation watch | WATCH | Operating leader; large recognized value weakens objective contribution |
+| **34** | **36** | **Advantest** | AI / memory test | Quality / valuation watch | WATCH | Strong content capture; valuation and cycle durability need normalization |
+| **35** | **37** | **Teradyne** | Memory test / robotics | Quality / valuation watch | WATCH | Multiple options but lower total-company sensitivity and HBM correlation |
+| **36** | **18** | **Ambarella** | Edge-AI silicon | Speculative / evidence build | REASSESS | Direct AI exposure, but profit conversion and valuation remain unbalanced |
+| **37** | **30** | **Montage Technology** | DDR5/MRDIMM + CXL controllers | Quality / valuation watch | PARKED | CXL thesis strengthened; valuation removes current Unicorn asymmetry |
+| **38** | **38** | **Harmonic Drive Systems** | Robotics actuation | Quality / valuation watch | PARKED | Technical benchmark; valuation capitalizes major humanoid success |
+| **39** | **42** | **DISCO** | Wafer processing | Research comparator | WATCH | Resilient process role; HBM-specific materiality and entry edge not isolated |
+| **40** | **43** | **Micron** | AI memory | Research comparator | WATCH | Direct benchmark; commodity-cycle capture and scale reduce scarce-complement purity |
+| **41** | **44** | **Ibiden** | AI package substrates | Speculative / evidence build | RESEARCH QUEUE | Large investment; incremental ROIC and pricing capture remain unproven |
+| **42** | **45** | **Amkor** | Advanced packaging | Speculative / evidence build | RESEARCH QUEUE | Qualification is strong; capital intensity and merchant-margin capture unresolved |
+| **43** | **46** | **Tecan** | Scientific-AI lab automation | Speculative / evidence build | EVIDENCE-BUILDING | Installed-fleet/recurring base; AI-specific materiality not isolated |
+| **44** | **47** | **Bruker / Chemspeed / SciY** | Scientific-AI execution | Speculative / evidence build | EVIDENCE-BUILDING | Integrated stack is promising; consolidated materiality remains weakly evidenced |
+| **45** | **48** | **Furukawa Electric / SuperPower** | Fusion HTS | Speculative / evidence build | BOUNDED FOLLOW-UP | Scarce enabling lane; funded demand and materiality need proof |
+| **46** | **49** | **VAT Group** | Vacuum / fusion infrastructure | Research comparator | MONITOR | Structural exposure without isolated fusion economics |
+| **47** | **50** | **Cognex / RealSense** | Machine vision / depth | Speculative / evidence build | EVENT UNDERWRITE | Transaction economics and valuation must be resolved first |
+| **48** | **51** | **PTC** | Simulation / fleet feedback | Speculative / evidence build | DISCOVERY | Potential software layer; incremental AI economics unproven |
+| **49** | **52** | **Arm** | Edge/cloud/Physical-AI architecture | Research comparator | DISCOVERY | Strong structural exposure; broad recognized valuation limits clean asymmetry |
+| **50** | **53** | **Schaeffler** | Actuator industrialization | Speculative / evidence build | DISCOVERY | Industrialization evidence is real; group materiality remains the gate |
+| **51** | **54** | **MinebeaMitsumi** | Actuator components | Speculative / evidence build | DISCOVERY | Broad humanoid content; bottleneck purity and company materiality are lower |
+| **52** | **39** | **Cameco** | Nuclear fuel / Westinghouse | Research comparator | COMPARATOR | Durable nuclear exposure; lower purity/asymmetry than Centrus |
+| **53** | **40** | **Mitsubishi Heavy Industries** | Gas turbines | Research comparator | COMPARATOR | Strong OEM exposure diluted by conglomerate scale |
+| **54** | **41** | **Quanta Services** | Transmission / EPC | Research comparator | COMPARATOR | Backlog validates demand; project/labor economics are less proprietary |
+| **55** | **55** | **Caterpillar** | Autonomous machines | Research comparator | COMPARATOR | Deployment proof exists, but autonomy is too diluted in group economics |
+| **56** | **56** | **Nabtesco** | Cycloidal/RV transmissions | Research comparator | COMPARATOR | Useful durability benchmark; named humanoid production evidence is weak |
+| **57** | **57** | **THK** | Ball screws / linear motion | Research comparator | COMPARATOR | Relevant content without established scarce-company capture |
+| **58** | **58** | **Howmet Aerospace** | Turbine hot-section components | Research comparator | COMPARATOR | Excellent bottleneck/capture; rerated scale limits discovery asymmetry |
+| **59** | **59** | **Anhui Yingliu Electromechanical** | Turbine precision castings | Research comparator | COMPARATOR | Smaller exposure offset by high valuation and weak cash conversion |
+| **60** | **60** | **Cleveland-Cliffs** | GOES / transformer input | Research comparator | COMPARATOR | Strategic material with weaker listed capture than equipment suppliers |
+| **61** | **61** | **ABB** | Electrical / DC protection | Research comparator | COMPARATOR | Credible platform; concentrated lock-in not established |
+| **62** | **62** | **Schneider Electric** | Data-centre electrical backbone | Research comparator | COMPARATOR | High-quality broad exposure with limited asymmetric purity |
+| **63** | **63** | **Hitachi / Hitachi Energy** | Transformers / grid | Research comparator | COMPARATOR | Strong structural exposure diluted at parent level |
+| **64** | **64** | **Thermo Fisher Scientific** | Scientific-AI execution | Research comparator | COMPARATOR | Broad benchmark; AI-specific capture insufficiently isolated |
+| **65** | **65** | **Danaher** | Scientific-AI execution | Research comparator | COMPARATOR | Broad benchmark; AI-specific capture insufficiently isolated |
+<!-- OBJECTIVE-RANKING:END -->
+
+### Capital-tier interpretation
+
+- **Current ACTION:** only the three governed conditional 5% starters. All require a fresh executable-condition and thesis check; no brokerage action is assumed.
+- **Next trigger:** a bounded existing price/evidence/event rule can promote the candidate. Until it fires, tactical cash is the better capital state.
+- **Speculative / evidence build:** a potentially material engine exists, but evidence confidence, dilution, capital intensity or binary execution caps size or blocks entry.
+- **Quality / valuation watch:** structural/company quality may be high while the current remaining-window setup is inferior.
+- **Research comparator:** useful for thesis, substitution or capture benchmarking; not a current capital solution.
 
 ### Audit provenance and exclusions
 
@@ -94,7 +108,7 @@ This is an **audit-complete company inventory, not a claim that every row has eq
 
 ## Ranking rules
 
-Rank is continuous rather than membership-based. A company moves **up** when direct evidence strengthens company capture, financial materiality, recurring economics, funding/dilution, valuation asymmetry or marginal portfolio contribution. It moves **down** when price outruns evidence, concentration or substitution risk increases, economics prove cyclical, capital intensity/dilution absorbs the upside, or evidence confidence weakens.
+Both ranks are continuous rather than membership-based. Structural rank moves with bottleneck, capture, materiality, multibagger mechanism and evidence. Capital rank moves with remaining-window contribution, governed state/trigger, downside, valuation, confidence, dilution/capital intensity, ceiling, correlation and alternative use of capital. A structural winner can therefore remain a low capital priority.
 
 Companies are not excluded because they fall below an arbitrary cutoff. Where evidence is insufficient for meaningful relative placement, keep the company in discovery/theme research until a bounded company screen can establish a rank.
 

@@ -100,7 +100,7 @@ Initial evidence-backed portfolio construction was completed in **#131**. The li
 
 ## Live portfolio checkpoint — 25 September 2026
 
-The authoritative live ranking is `research/ranked-universe.md`; this strategy file defines the rules rather than duplicating a static ranking.
+The authoritative live ranking is `research/ranked-universe.md`; its structural-research and March-2028 capital-priority ranks are separate. This strategy file defines the rules rather than duplicating either order.
 
 Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
