@@ -1,0 +1,179 @@
+{
+  "as_of": "2026-09-26",
+  "starting_capital_gbp": 40000,
+  "horizon": "March 2028",
+  "purpose": "Probability-free feasibility boundaries, not a forecast, promise, price target or trade instruction.",
+  "upstream_authorities": [
+    "PORTFOLIO.md",
+    "AUTOMATION.md",
+    "research/ranked-universe.md",
+    "canonical company underwrites and live issue monitors"
+  ],
+  "candidates": {
+    "TAI-TECH": {
+      "canonical_name": "TAI-TECH Advanced Electronics",
+      "state": "ACTION",
+      "ceiling_pct": 7.5,
+      "scenario_multiples": {"bear": 0.85, "base": 2.0, "upside": 3.0},
+      "entry": "NT$190–210 with revenue/margin acceleration and AI-mix direction intact.",
+      "add": "<=NT$185 with thesis intact, or AI mix >=20% / named CSP, ASIC or next-generation qualification.",
+      "trim": "Above about NT$350 before EPS and AI mix catch up materially.",
+      "sell": "Reassess or exit if AI mix stalls in the low teens or TLVR pricing compresses margins.",
+      "thesis_break": "Architecture reduces external magnetics content or company acceleration fails to convert into cash earnings.",
+      "driver_split": "Primarily operating/EPS growth; premium valuation retention contributes in upside.",
+      "catalyst_sequence": "Monthly revenue and earnings/margins -> AI mix 15–20% -> named CSP/ASIC or 800V production evidence.",
+      "downside_permanent_loss": "Cyclical/automotive growth may be misattributed to AI; pricing and architecture substitution can impair the earnings bridge.",
+      "correlation": "AI power; partially correlated with Impro and data-centre capex, less with robotics and nuclear."
+    },
+    "Laifual": {
+      "canonical_name": "Laifual Drive",
+      "state": "ACTION",
+      "ceiling_pct": 8.0,
+      "scenario_multiples": {"bear": 0.625, "base": 1.35, "upside": 2.3},
+      "entry": "Executable <=HK$48 with thesis intact; no chase above the condition.",
+      "add": "Only after positive cash/profit, repeat orders, durable about 28–30% reducer margin or backlog conversion without ASP concessions.",
+      "trim": "Cancel or trim if price exceeds the condition without stronger evidence or valuation outruns cash earnings.",
+      "sell": "Exit/reassess on material customer loss, margin collapse, destructive capacity finance or prolonged negative cash conversion.",
+      "thesis_break": "Volume is bought through price cuts, the new facility lacks utilisation, or harmonic-reducer architecture loses share.",
+      "driver_split": "Large operating earnings conversion plus continued growth valuation; unit shipments alone are insufficient.",
+      "catalyst_sequence": "Repeat humanoid orders -> margin/cash conversion -> high utilisation -> 800k-facility ramp and joint-module economics.",
+      "downside_permanent_loss": "Pre-profit valuation, ASP pressure, customer concentration and simultaneous capacity expansion create severe downside.",
+      "correlation": "Robotics/China; independent of memory and nuclear, but correlated with Namuga humanoid timing."
+    },
+    "Impro": {
+      "canonical_name": "Impro Precision Industries",
+      "state": "ACTION",
+      "ceiling_pct": 7.5,
+      "scenario_multiples": {"bear": 0.6, "base": 1.35, "upside": 2.0},
+      "entry": "HK$6.6–7.2 while FY26 growth and Mexico/cooling ramp evidence remain intact.",
+      "add": "<=HK$6.3 with intact backlog, or after Mexico certification plus margin/cash confirmation.",
+      "trim": "Above HK$10 before the earnings bridge reaches about HK$1.1bn or if an alternative offers better asymmetry.",
+      "sell": "Reassess or exit on certification delay, guidance failure for thesis reasons, mix reversal or persistently poor cash conversion.",
+      "thesis_break": "Capacity and working capital absorb the profit inflection or AI-linked cooling/power exposure reverses.",
+      "driver_split": "Mostly operating earnings growth and mix; moderate rerating supplies the upper bridge.",
+      "catalyst_sequence": "Mexico certification -> H2 cooling acceleration -> FY26 guidance delivery -> margin and free-cash conversion.",
+      "downside_permanent_loss": "Diversified exposure reduces binary risk, but capital intensity and weak free-cash conversion can erode per-share capture.",
+      "correlation": "Power/cooling; partially correlated with TAI-TECH and Modine but with distinct end-market engines."
+    },
+    "Modine": {
+      "canonical_name": "Modine / Modexus",
+      "state": "WAIT",
+      "ceiling_pct": 15.0,
+      "scenario_multiples": {"bear": 0.8, "base": 1.55, "upside": 2.2},
+      "entry": "Fresh reassessment near $155–165 with thesis intact, or clean close and materially stronger post-spin EBITDA/FCF evidence.",
+      "add": "Only after post-spin margin/FCF, multi-customer conversion and capacity-ramp evidence improve.",
+      "trim": "If price capitalizes upside/stretch before margin and FCF arrive or concentration rises materially.",
+      "sell": "Reject if the >$4bn agreement fails to convert economically, normalized FCF stays weak or separation impairs per-share value.",
+      "thesis_break": "Data Centers margin fails to recover toward high teens/about 20%, customer demand breaks or capacity becomes commoditized.",
+      "driver_split": "Operating revenue, margin and FCF recovery are primary; post-separation rerating is a secondary contributor.",
+      "catalyst_sequence": "Transaction close -> continuing-company guidance -> margin recovery -> multi-customer capacity conversion and FCF.",
+      "downside_permanent_loss": "Customer concentration, margin compression, separation complexity and another capital cycle can absorb strong demand.",
+      "correlation": "Independent cooling engine, though still exposed to aggregate AI data-centre capex."
+    },
+    "Centrus": {
+      "canonical_name": "Centrus Energy",
+      "state": "REASSESS",
+      "ceiling_pct": 12.0,
+      "scenario_multiples": {"bear": 0.75, "base": 1.55, "upside": 2.45},
+      "entry": "Fresh reassessment near $120–130 with DOE/customer/manufacturing thesis intact, or a disclosed funded-capacity bridge.",
+      "add": "Only as funded capacity, non-equity funding, manufacturing milestones and dilution-adjusted economics improve.",
+      "trim": "If valuation capitalizes upside/stretch before funded-capacity proof or dilution rises faster than funded value.",
+      "sell": "Reject if capacity remains unfunded/late, support weakens, milestones slip or equity becomes the dominant funding source.",
+      "thesis_break": "Expansion cost, dilution or customer/reactor delay overwhelms the strategic scarcity economics.",
+      "driver_split": "Mostly funding/schedule de-risking and franchise rerating inside the horizon; new-capacity earnings arrive later.",
+      "catalyst_sequence": "Funded tranche -> centrifuge manufacturing -> construction milestones -> firm customer schedules and dilution-adjusted value.",
+      "downside_permanent_loss": "Project finance, policy, warrant/convertible dilution and 2029 operating timing create material per-share risk.",
+      "correlation": "Best independent nuclear/policy engine; low correlation with HBM, cooling and robotics."
+    },
+    "JEM": {
+      "canonical_name": "Japan Electronic Materials",
+      "state": "WAIT",
+      "ceiling_pct": 14.0,
+      "scenario_multiples": {"bear": 0.68, "base": 1.35, "upside": 2.0},
+      "entry": "<=about ¥6,100 with guidance/thesis intact, or investor-grade HBM4/HBM4E production evidence and 60%+ refreshed upside.",
+      "add": "Only after production share, FY2028 earnings, FCF, utilisation or valuation improves without offsetting deterioration.",
+      "trim": "When rerating outruns evidence/earnings or documented remaining-window upside falls below about 30%.",
+      "sell": "Exit if HBM participation fails, another dilutive raise is needed or accounting earnings persistently fail to convert to cash.",
+      "thesis_break": "Growth proves conventional-cycle leverage, important sockets are lost or existing capacity cannot support the horizon bridge.",
+      "driver_split": "EPS/mix and cash conversion plus an HBM-evidence rerating; the post-horizon factory is excluded.",
+      "catalyst_sequence": "HBM production disclosure -> FY2027 delivery -> FY2028 guidance -> existing-factory FCF without dilution.",
+      "downside_permanent_loss": "Customer concentration, memory cyclicality, weak cash conversion and prior dilution limit per-share durability.",
+      "correlation": "Memory/HBM; highly correlated with SUSS and the semiconductor capital cycle."
+    },
+    "SUSS": {
+      "canonical_name": "SUSS MicroTec",
+      "state": "WAIT",
+      "ceiling_pct": 12.0,
+      "scenario_multiples": {"bear": 0.95, "base": 1.55, "upside": 2.15},
+      "entry": "Fresh reassessment around €60–62 with backlog/process thesis intact, or stronger HBM process/backlog evidence.",
+      "add": "Only if backlog conversion, margin, HBM process share or qualification improves.",
+      "trim": "If rerating outruns earnings/evidence or a better independent engine offers superior asymmetry.",
+      "sell": "Exit on loss of a major process-of-record, architecture displacement or sustained conversion below the earnings path.",
+      "thesis_break": "Hybrid-bonding/process changes reduce content or 2027 backlog fails to convert at expected margins.",
+      "driver_split": "Backlog-led EPS/margin expansion plus some premium multiple retention.",
+      "catalyst_sequence": "Q3 execution -> 2027 backlog conversion -> HBM4/HBM4E process share -> hybrid-bond qualification.",
+      "downside_permanent_loss": "Customer/process concentration and architecture transition can reverse operating leverage quickly.",
+      "correlation": "Memory/HBM; correlated with JEM, so combined size needs an explicit cap."
+    }
+  },
+  "portfolios": [
+    {
+      "id": "current-governed-signals",
+      "name": "Current governed signals",
+      "initial_deployment_pct": 15.0,
+      "staged_deployment_pct": 15.0,
+      "cash_pct": 85.0,
+      "positions": [
+        {"candidate": "TAI-TECH", "initial_weight_pct": 5.0, "staged_weight_pct": 5.0},
+        {"candidate": "Laifual", "initial_weight_pct": 5.0, "staged_weight_pct": 5.0},
+        {"candidate": "Impro", "initial_weight_pct": 5.0, "staged_weight_pct": 5.0}
+      ],
+      "scenario_values_gbp": {"bear": 38150, "base": 43400, "upside": 48600},
+      "two_failure_stress": {"failed_candidates": ["TAI-TECH", "Laifual"], "assumption": "zero terminal value for both; all other sleeves at base", "value_gbp": 36700},
+      "cash_deployment_condition": "No deployment beyond the three 5% starters without an existing governed add or new-candidate trigger."
+    },
+    {
+      "id": "evidence-led-deployment",
+      "name": "Evidence-led deployment",
+      "initial_deployment_pct": 15.0,
+      "staged_deployment_pct": 54.0,
+      "cash_pct": 46.0,
+      "positions": [
+        {"candidate": "TAI-TECH", "initial_weight_pct": 5.0, "staged_weight_pct": 7.5},
+        {"candidate": "Laifual", "initial_weight_pct": 5.0, "staged_weight_pct": 8.0},
+        {"candidate": "Impro", "initial_weight_pct": 5.0, "staged_weight_pct": 7.5},
+        {"candidate": "Modine", "initial_weight_pct": 0.0, "staged_weight_pct": 9.0},
+        {"candidate": "JEM", "initial_weight_pct": 0.0, "staged_weight_pct": 12.0},
+        {"candidate": "SUSS", "initial_weight_pct": 0.0, "staged_weight_pct": 10.0}
+      ],
+      "scenario_values_gbp": {"bear": 34694, "base": 51030, "upside": 66880},
+      "two_failure_stress": {"failed_candidates": ["Laifual", "SUSS"], "assumption": "zero terminal value for both; all other sleeves at base", "value_gbp": 40510},
+      "cash_deployment_condition": "Deploy staged capital only after each existing price/evidence/event trigger fires; retain 46% cash until independent alternatives earn entry."
+    },
+    {
+      "id": "maximum-credible-asymmetry",
+      "name": "Maximum credible asymmetry",
+      "initial_deployment_pct": 15.0,
+      "staged_deployment_pct": 76.0,
+      "cash_pct": 24.0,
+      "positions": [
+        {"candidate": "TAI-TECH", "initial_weight_pct": 5.0, "staged_weight_pct": 7.5},
+        {"candidate": "Laifual", "initial_weight_pct": 5.0, "staged_weight_pct": 8.0},
+        {"candidate": "Impro", "initial_weight_pct": 5.0, "staged_weight_pct": 7.5},
+        {"candidate": "Modine", "initial_weight_pct": 0.0, "staged_weight_pct": 15.0},
+        {"candidate": "Centrus", "initial_weight_pct": 0.0, "staged_weight_pct": 12.0},
+        {"candidate": "JEM", "initial_weight_pct": 0.0, "staged_weight_pct": 14.0},
+        {"candidate": "SUSS", "initial_weight_pct": 0.0, "staged_weight_pct": 12.0}
+      ],
+      "scenario_values_gbp": {"bear": 32718, "base": 55710, "upside": 78440},
+      "two_failure_stress": {"failed_candidates": ["Laifual", "Centrus"], "assumption": "zero terminal value for both; all other sleeves at base", "value_gbp": 43950},
+      "cash_deployment_condition": "Reach documented maximum ceilings only after the associated proof gates; retain 24% cash for failed triggers, drawdown control or a demonstrably superior independent engine."
+    }
+  ],
+  "hurdles": [
+    {"target_gbp": 80000, "classification": "TRIGGER-DEPENDENT", "requirement": "All major staged triggers must fire, 76% of capital must become responsibly deployable, and the controlled maximum-asymmetry upside must improve by £1,560 through upper-band delivery or governed rotation."},
+    {"target_gbp": 120000, "classification": "MATHEMATICALLY POSSIBLE BUT OPERATIONALLY IMPLAUSIBLE", "requirement": "Beyond the controlled upside, the remaining £9,600 cash would need about 5.33x by itself or several independent sleeves would need stretch outcomes plus successful rotation."},
+    {"target_gbp": 160000, "classification": "MATHEMATICALLY POSSIBLE BUT OPERATIONALLY IMPLAUSIBLE", "requirement": "Beyond the controlled upside, the remaining cash would need about 9.50x by itself or repeated multi-bagger rotation without permanent-loss interruption."},
+    {"target_gbp": 200000, "classification": "UNSUPPORTED BY CURRENT EVIDENCE", "requirement": "The current governed underwrites provide no responsible path to the additional £121,560 above controlled upside; a cash-only bridge would require about 13.66x."}
+  ]
+}

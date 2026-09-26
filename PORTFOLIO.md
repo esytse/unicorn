@@ -102,6 +102,12 @@ Initial evidence-backed portfolio construction was completed in **#131**. The li
 
 The authoritative live ranking is `research/ranked-universe.md`; its structural-research and March-2028 capital-priority ranks are separate. This strategy file defines the rules rather than duplicating either order.
 
+### March-2028 feasibility checkpoint — 26 September 2026
+
+The governed [portfolio feasibility and contribution analysis](research/portfolio-feasibility-2028.md) finds the **£80,000 primary hurdle TRIGGER-DEPENDENT, not evidence-supported today**. Current signals reach £48,600 at the controlled upside boundary; evidence-led deployment reaches £66,880; maximum credible post-trigger deployment reaches £78,440 while retaining 24% cash. The main bottleneck is staged deployable return capacity, not a shortage of structural themes.
+
+The £120,000 and £160,000 hurdles are **MATHEMATICALLY POSSIBLE BUT OPERATIONALLY IMPLAUSIBLE**; £200,000 is **UNSUPPORTED BY CURRENT EVIDENCE**. These classifications are feasibility boundaries, not forecasts or trade instructions. No company state, entry band, ceiling or transaction rule changes merely because of the portfolio arithmetic.
+
 Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
 The governed research-level ACTION surface contains three independent conditional 5% starters: **Laifual at executable <=HK$48**, **TAI-TECH at NT$190–210**, and **Impro Precision at HK$6.6–7.2**, in each case only while the documented thesis remains intact. Together they represent a maximum initial research allocation of 15% / £6,000; the remaining 85% stays tactical cash. No brokerage execution is assumed by the repository.
