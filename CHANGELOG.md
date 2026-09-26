@@ -133,6 +133,13 @@ Reconciled the canonical portfolio construction surface with the latest governed
 
 # Research Changelog
 
+## 2026-09-26 — #357 March-2028 portfolio feasibility
+
+- Tested current governed signals, evidence-led deployment and maximum credible asymmetry using existing company scenarios, triggers and size ceilings; all weights, cash and contribution arithmetic reconcile in a machine-readable model.
+- Classified £80k as TRIGGER-DEPENDENT, £120k/£160k as MATHEMATICALLY POSSIBLE BUT OPERATIONALLY IMPLAUSIBLE, and £200k as UNSUPPORTED BY CURRENT EVIDENCE. No hurdle is evidence-supported today.
+- Identified staged deployable return capacity as the main bottleneck: 15% current deployment needs about 7.67x on the deployed sleeve to double the pool, while the maximum credible controlled upside reaches £78,440.
+- Preserved all company states, entry/add/trim/sell rules, frozen #261 evidence and manual brokerage control. Added only one portfolio-level, trigger-bounded follow-up; existing company monitors remain the research authority.
+
 ## 2026-09-26 — #356 objective-aligned dual-axis ranking
 
 - Rebuilt the canonical 65-company universe as one complete inventory with separate structural-research and March-2028 capital-priority ranks.

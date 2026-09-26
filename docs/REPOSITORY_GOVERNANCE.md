@@ -56,7 +56,7 @@ Only READY enters the executable queue. RUNNING is excluded unless a stale claim
 | Repository purpose / navigation | `README.md` | `CONTRIBUTING.md` | GUIDANCE |
 | Agent operating rules | `AGENTS.md` | README workflow summary | GUIDANCE |
 | Queue states / scheduler protocol | `AUTOMATION.md` | issue metadata, README summary | live canonical |
-| Portfolio mandate / Gate-E operating rules | `PORTFOLIO.md` | company monitors, ranking views | live canonical |
+| Portfolio mandate / Gate-E operating rules | `PORTFOLIO.md` | company monitors, ranking views, `research/portfolio-feasibility-2028.md` | live canonical |
 | Cross-theme candidate index | `watchlist.md` | theme rankings | DERIVED; company evidence resolves upstream |
 | Live ranked research universe | `research/ranked-universe.md` | watchlist/theme rankings | live canonical |
 | Multibagger discovery / reverse-underwrite funnel | `research/unicorn-potential.md` | company files | live canonical |
