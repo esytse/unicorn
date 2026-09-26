@@ -21,19 +21,19 @@ def ranked_top(path, n=20):
     rows = []
     in_live_table = False
     for line in path.read_text().splitlines():
-        if line.startswith('## Authoritative live ranking'):
+        if line == '<!-- OBJECTIVE-RANKING:START -->':
             in_live_table = True
             continue
+        if line == '<!-- OBJECTIVE-RANKING:END -->':
+            break
         if not in_live_table:
             continue
         cells = [x.strip().strip('*') for x in line.strip('|').split('|')]
-        if len(cells) < 2 or not re.fullmatch(r'\d+', cells[0]):
+        if len(cells) < 3 or not re.fullmatch(r'\d+', cells[1]):
             continue
-        rank = int(cells[0])
+        rank = int(cells[1])
         if rank <= n:
-            rows.append((rank, cells[1]))
-        if rank == n:
-            break
+            rows.append((rank, cells[2]))
     rows.sort()
     return [name for _, name in rows]
 

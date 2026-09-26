@@ -4,7 +4,7 @@ Unicorn is a thesis-first research system for finding companies that can capture
 
 > **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**
 
-Start with a change in the world and the scarce complement it creates. The [ranked universe](research/ranked-universe.md) is the current research order for known candidates, not the boundary of discovery or a trade instruction.
+Start with a change in the world and the scarce complement it creates. The [ranked universe](research/ranked-universe.md) preserves separate structural-research and March-2028 capital-priority ranks for the same uncapped inventory; neither is the boundary of discovery or a trade instruction.
 
 ## Start here
 

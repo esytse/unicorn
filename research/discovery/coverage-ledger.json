@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-26",
   "thesis_chain": "Abundant Intelligence -> Scarce Complements -> Bottleneck Migration -> Economic Capture -> Capital Allocation",
   "allowed_results": [
     "ACTIVE_CANDIDATES",
@@ -568,7 +568,7 @@
     }
   ],
   "familiarity_audit": {
-    "scope": "Top 20 rows of research/ranked-universe.md at 2026-09-25, classified by primary exposure",
+    "scope": "Top 20 structural-research ranks of research/ranked-universe.md at 2026-09-26, classified by primary exposure",
     "total": 20,
     "buckets": {
       "memory_data_movement": [
@@ -581,27 +581,26 @@
       "energy_power_cooling": [
         "Centrus Energy",
         "Modine / Modexus",
+        "TAI-TECH Advanced Electronics",
         "Siemens Energy",
         "nVent",
+        "Impro Precision Industries",
         "Hainan Jinpan",
         "Vertiv",
-        "Huaming Power Equipment"
+        "Vicor"
       ],
       "physical_ai": [
         "Laifual Drive",
         "BlackBerry / QNX",
         "Advantech",
         "Raspberry Pi",
-        "Ambarella",
-        "FORT Robotics / FROB",
-        "Ouster"
+        "Namuga",
+        "Ambarella"
       ],
-      "distributed_compute": [
-        "Akamai"
-      ],
+      "distributed_compute": [],
       "scientific_ai": [],
       "workflow_permissions": []
     },
-    "interpretation": "The top 20 is concentrated in the three most familiar research programmes. This is an observable coverage bias, not proof that their ranks are wrong. Marginal discovery should prefer independent under-covered bottlenecks when evidence quality and portfolio contribution are comparable."
+    "interpretation": "The structural top 20 remains concentrated in the three most familiar research programmes. This is an observable coverage bias, not proof that their ranks are wrong. Marginal discovery should prefer independent under-covered bottlenecks when evidence quality and portfolio contribution are comparable."
   }
 }

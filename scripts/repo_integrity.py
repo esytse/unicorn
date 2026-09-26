@@ -9,6 +9,7 @@ from urllib.parse import unquote
 from prospective import validate as validate_prospective
 from performance import validate as validate_performance
 from discovery_coverage import validate as validate_discovery_coverage
+from objective_ranking import validate as validate_objective_ranking
 
 MAP = Path('docs/REPOSITORY_GOVERNANCE.md')
 FROZEN = Path('scripts/frozen-261.json')
@@ -166,6 +167,7 @@ def check(root, base_ref=None):
     errors.extend(validate_performance(root, base_ref))
     discovery_errors, _ = validate_discovery_coverage(root)
     errors.extend(discovery_errors)
+    errors.extend(validate_objective_ranking(root))
     return errors
 
 

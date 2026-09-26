@@ -132,6 +132,13 @@ Closed the documentation-integrity gap for the three current Gate-E ACTION candi
 Reconciled the canonical portfolio construction surface with the latest governed Gate-E work. Laifual (<=HK$48), TAI-TECH (NT$190–210) and Impro Precision (HK$6.6–7.2) are documented as three independent conditional 5% starter signals when thesis and executable-price checks pass, representing £6,000 / 15% of the £40k research pool. The remaining 85% stays undeployed for stronger price-led entries, evidence-led adds and independent return engines. Structural ranking remains separate from Gate-E deployability; brokerage execution remains manual.
 
 # Research Changelog
+
+## 2026-09-26 — #356 objective-aligned dual-axis ranking
+
+- Rebuilt the canonical 65-company universe as one complete inventory with separate structural-research and March-2028 capital-priority ranks.
+- Integrated TAI-TECH, Laifual and Impro as the leading governed conditional ACTION candidates, followed by bounded next-trigger, speculative/evidence-build, quality/valuation and comparator tiers; no company was mechanically appended or removed.
+- Preserved thesis-first discovery and the #326–#328 negative validation boundaries: operating capture does not establish durable per-share capture, a robust early-promotion rule or shareholder alpha.
+- Added deterministic checks for exact inventory membership, continuous independent ranks, canonical monitor-state consistency, ACTION ordering and axis/authority disclosure. No price, transaction, frozen #261 evidence or brokerage action changed.
 ## 2026-09-25 — #290
 Gate-E entry sprint converted TAI-TECH, Impro Precision, Namuga and Grid Dynamics into March-2028 decision rules. TAI-TECH is research-level ACTION for a 5% starter at NT$190–210 with thesis intact; Impro is ACTION for a 5% starter at HK$6.6–7.2. Namuga remains WAIT pending <=KRW13–14k speculative pricing or material robot-programme economics; GDYN remains REASSESS/WAIT pending productization evidence. Position ceilings, catalysts, downside and add/trim/sell rules are documented in research/gate-e-thesis-first-entry-sprint.md. Brokerage execution remains manual; no trade is assumed from repository state.
 

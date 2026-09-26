@@ -3,7 +3,7 @@
 **Lifecycle:** CANONICAL  
 **Authority:** CANONICAL  
 **Concept:** Cross-theme discovery coverage and negative-search outcomes  
-**As of:** 2026-09-25  
+**As of:** 2026-09-26
 **Issue:** #330  
 **Machine ledger:** [coverage-ledger.json](coverage-ledger.json)
 
@@ -56,18 +56,18 @@ Their presence is architecture evidence, not a licence to promote the closest li
 
 ## Familiarity-bias test
 
-The canonical ranking's top 20 divides as follows:
+The canonical ranking's top 20 **structural-research ranks** divide as follows. The March-2028 capital order is deliberately excluded because it measures deployment setup rather than discovery familiarity.
 
 | Primary programme | Top-20 observations |
 |---|---:|
-| Energy / power / cooling | 7 |
-| Physical AI | 7 |
+| Energy / power / cooling | 9 |
+| Physical AI | 6 |
 | Memory / data movement | 5 |
-| Distributed compute | 1 |
+| Distributed compute | 0 |
 | Scientific AI | 0 |
 | Workflow / permissions | 0 |
 
-**Interpretation:** 12 of 20 top-ranked observations sit in memory or energy/power/cooling, the repository's deepest established programmes. Physical AI supplies seven more, while newer scientific-AI and workflow lanes supply none. This does not show that the current ranks are wrong: ranking reflects evidence depth, valuation and portfolio usefulness as well as discovery coverage. It does show that universe construction and evidence maturity favour familiar lanes.
+**Interpretation:** 14 of 20 structurally top-ranked observations sit in memory or energy/power/cooling, the repository's deepest established programmes. Physical AI supplies the remaining six, while distributed compute, newer scientific-AI and workflow lanes supply none. This does not show that the current ranks are wrong: structural ranking reflects evidence depth, capture and materiality as well as discovery coverage. It does show that universe construction and evidence maturity favour familiar lanes.
 
 The control is therefore procedural: every thesis-first scan must start from the cross-theme lane map; record the searched value-chain families; preserve private/uninvestable benchmarks; state whether the result was active, rejected, absent, incomplete or excluded; and attach a concrete rescan trigger. New memory or power candidates face a higher marginal-research hurdle when they duplicate existing exposures. Under-covered independent lanes receive priority only when a bounded search could improve the portfolio opportunity set.
 
