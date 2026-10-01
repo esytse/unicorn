@@ -1,12 +1,20 @@
 # FORT Robotics / FROB — Canonical Transaction and Economics Underwrite
 
 **Status:** WAIT / event-gated  
-**As of:** 24 September 2026  
+**As of:** 1 October 2026
 **Backlog:** #209; transaction monitor #108; comparison #109  
 **Decision horizon:** March 2028  
 **Confidence:** structural bottleneck **Medium-High**; company capture **Medium**; financial materiality **Low-Medium**; equity/valuation **Low**
 
-> This file canonicalizes what is knowable before the Form S-4/proxy is filed. It does not promote FORT, authorize a trade, or substitute management's illustrative software model for observed recurring revenue.
+> This file canonicalizes what is knowable before a public Form S-4/proxy becomes available. It does not promote FORT, authorize a trade, or substitute management's illustrative software model for observed recurring revenue.
+
+## Confidential S-4 checkpoint — 1 October 2026
+
+**FACT:** [FORT and Newbury announced on 30 September](https://www.fortrobotics.com/news/fort-robotics-and-newbury-street-ii-acquisition-corp-announce-confidential-submission-of-draft-registration-statement-on-form-s-4) that a draft S-4 was confidentially submitted to the SEC. Public filing remains intended; expected closing is Q4 2026 or Q1 2027, subject to approvals and SEC review.
+
+**INTERPRETATION:** Submission is transaction progress, but the draft's operating disclosures and capitalization are unavailable for public inspection. It does not satisfy #108's decision-quality evidence gate. Repeated 2025 growth, gross margin, deployed-unit and no-redemption proceeds figures are not new recurring-revenue or cash-conversion proof.
+
+**ACTION IMPLICATION:** WAIT; preserve transaction sensitivities and confidence. Require the publicly accessible S-4/proxy or equivalent usable disclosures to rebuild fully diluted capitalization, redemptions/cash delivered, revenue mix, retention and burn. The 24 September negative-search note below is historical: replace “nothing submitted” with “confidential draft submitted; usable public disclosure still pending.”
 
 ## Executive conclusion
 
