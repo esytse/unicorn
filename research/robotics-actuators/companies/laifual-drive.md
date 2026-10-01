@@ -4,7 +4,7 @@
 **Ticker:** HKEX: 03952  
 **Status:** Investigating  
 **Confidence:** Medium on current operating capture; Low-Medium on March-2028 stock return  
-**Last substantive update:** 2026-09-23  
+**Last substantive update:** 2026-10-01 (full-report check; signal unchanged)
 **Backlog:** #86
 
 ## Snapshot
@@ -519,3 +519,18 @@ The deeper pass did **not** find a new issuer-level thesis break. Operating evid
 7. **Competitive supply:** Leaderdrive/other Chinese capacity additions and ASP/margin behavior.
 
 **Execution boundary:** research signal only; no brokerage trade is placed by the repository or automation.
+
+
+## Full-report refresh — 1 October 2026
+
+**FACT:** HKEX posted the full 2026 interim report on 28 September. It reports H1 results, with the financial statements authorised on 28 August; this is not a new H2 trading result. It confirms the existing growth/margin baseline, negative operating cash flow of RMB20.851m and RMB77.820m asset/intangible expenditure. Its post-period section covers over-allotment and corporate changes rather than new H2 commercial proof (SRC-ACT-LAI-004).
+
+**INTERPRETATION:** documentary freshness improved; the underlying economic observation date did not. The report does not clear the positive cash/profit, repeat-customer or margin-durability add tests. The outstanding-order observation remains dated 31 July, not 28 September. Preserve the existing competition/ASP counter-case and distinguish adjusted operating progress from durable shareholder cash returns.
+
+**Current decision:** retain **ACTION / conditional 5% starter at executable <=HK$48** with thesis intact. No higher conviction, add above 5%, ceiling increase, scenario-boundary change or rerank is supported by republication of H1 evidence. A newer report is not itself a new catalyst success. Price-only averaging down remains outside the add rule.
+
+**Confidence:** Medium on current operating capture; Low-Medium on the March-2028 equity case, unchanged. The fresh primary report improves recoverability, not economic-capture confidence. The bounded issuer-index scan found this as the latest listed filing; it does not establish absence of undisclosed adverse developments.
+
+**HYPOTHESIS / OPEN QUESTION:** the next capacity ramp could turn volume into cash if margins hold, but needs fresh realized evidence. Monitor repeat/bulk customer orders, H2 reducer margin, actual utilization against capacity, backlog conversion, working capital, operating cash, capex and drawdown of the previously proposed credit envelope. No new credit utilisation or H2 result is inferred from the report's publication date. Higher bond yields strengthen the existing earnings/cash-versus-rerating stress requirement in PORTFOLIO; they do not mechanically change a company signal.
+
+Sources: [full interim report](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800612.pdf), especially printed pages 4, 6–9, 14, 23, 29–30; [HKEX issuer index](https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748).
