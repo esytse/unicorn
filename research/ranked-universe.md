@@ -24,7 +24,7 @@ The table is the sole complete 65-company inventory. Each company appears once w
 | **3** | **10** | **Impro Precision Industries** | Distributed power / liquid cooling | Current ACTION | ACTION | 5% starter at HK$6.6–7.2; visible earnings engine and independent drivers, with cash/certification gate |
 | **4** | **3** | **Modine / Modexus** | AI cooling | Next trigger | WAIT | Leading independent return-engine alternative; separation, margin/FCF and $155–165 reassessment gate |
 | **5** | **2** | **Centrus Energy** | LEU / HALEU | Next trigger | REASSESS | Exceptional scarcity and low thematic correlation; funded-capacity, timing and dilution still gate capital |
-| **6** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | WAIT | Attractive profitable small-cap bridge; HBM socket/share and FCF evidence required near <=~¥6,100 |
+| **6** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | WAIT | Thailand shutdown: recovery/guidance/cash risk gate before price/HBM-led entry |
 | **7** | **8** | **SUSS MicroTec** | HBM advanced packaging | Next trigger | WAIT | Visible 2027 backlog; process durability and ~€60–62 valuation trigger precede deployment |
 | **8** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | WAIT | Independent AIDC engine; named qualification, cash conversion and ~CNY54–57 gate remain open |
 | **9** | **15** | **Namuga** | Humanoid 3D sensing | Next trigger | WAIT | Sole-source programme creates convexity; <=KRW13–14k or disclosed order economics needed |
@@ -117,6 +117,27 @@ Both ranks are continuous rather than membership-based. Structural rank moves wi
 Companies are not excluded because they fall below an arbitrary cutoff. Where evidence is insufficient for meaningful relative placement, keep the company in discovery/theme research until a bounded company screen can establish a rank.
 
 **Current allocation conclusion:** Laifual, TAI-TECH and Impro Precision each have a governed conditional 5% starter ACTION. The combined initial research allocation is capped at 15% / £6,000, with 85% tactical cash. Structural rank and Gate-E deployability remain separate axes: rank alone never creates an ACTION. Brokerage execution is manual.
+
+## Remaining leading-candidate evidence sweep — 1 October 2026
+
+**Scope:** the 11 leading monitored candidates other than Laifual/Impro, plus FORT. This is an issuer-event/decision-gate sweep, not a refreshed executable-price screen or a complete 65-company re-underwrite. No rank change is justified by the bounded check; JEM's risk gate is tightened.
+
+| Candidate | Observation / access boundary | Decision implication |
+|---|---|---|
+| TAI-TECH | [Primary monthly series](https://www.tai-tech.com.tw/data-136722) still ends in August; September blank. Jan–Aug NT$5.605bn / +32.22% is already captured | Conditional starter ACTION unchanged; no new AI-mix/add proof |
+| Modine | September issuer/SEC transaction materials still specify expected 1 October closing; closing confirmation not recovered in this check | WAIT; verify completion, exchange ratio and post-spin value before using the old price band mechanically |
+| Centrus | [Issuer feed](https://investors.centrusenergy.com/node/5816) latest operating announcement is 17 September Antares; financing/prepayment baseline already captured | REASSESS; no newly quantified funded-capacity/commissioning bridge recovered |
+| JEM | [30 September flood notice](https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf): Thailand stopped, damage/restart unknown | WAIT; recovery/guidance/cash bridge now required before entry; near-window confidence reduced |
+| SUSS | 1 October GreenTec/GT200 launch; 300 mm HVM roadmap 2027 | WAIT; qualification/orders/economics remain unquantified |
+| Jinpan | 23 September dividend/conversion announcements located; direct SSE PDF retrieval failed | WAIT; no verified new AIDC qualification/cash evidence; mechanical adjustment not silently applied to entry band |
+| Namuga | [Issuer news](https://namuga.com/eng/invest/news.php) visible September items concern business expansion/events | WAIT; no new quantified robot-program economics recovered |
+| Grid Dynamics | 29 September issuer release dates Q3 results to 29 October | REASSESS; test recurring deployment/bookings/margin at results |
+| Weebit | [Issuer homepage](https://www.weebit-nano.com/) labels 29 September item media coverage; PR index latest 31 July. ASX widget did not expose filings | WAIT; no new production-royalty proof recovered; incomplete filing coverage, not proof of absence |
+| Micronics Japan | [Issuer news](https://www.mjc.co.jp/en/news/) and financial library retrieved, but dynamic records not exposed | WAIT; filing freshness not fully verified; no upgrade from incomplete retrieval |
+| QNX / BlackBerry | [Issuer newsroom](https://qnx.software/en/press-release) latest 22 September Coretura; 24 September earnings already in canonical underwrite | REASSESS; no new non-auto economics recovered |
+| FORT | 30 September confidential S-4 submission announcement | WAIT; usable public disclosure trigger remains unmet |
+
+**Evidence boundary:** “not recovered” means a bounded search result, not an assertion that no later filing exists. Existing price rules/ceilings are retained pending a fresh quote and company-specific gates. See the JEM, SUSS, Grid Dynamics and FORT canonical checkpoints for durable conclusions; live issues own follow-up timing.
 
 ## Historical ranking material
 
