@@ -3,9 +3,17 @@
 **Research stream:** AI memory — HBM wafer thinning / temporary bonding / hybrid bonding  
 **Status:** Watch  
 **Confidence:** Medium  
-**Last substantive update:** 2026-09-10  
+**Last substantive update:** 2026-10-01
 **Backlog:** #126
 
+
+## GreenTec product-launch checkpoint — 1 October 2026
+
+**FACT:** [SUSS announced GreenTec Solutions and GT200 today](https://www.suss.com/en/news/corporate-news/2026/suss-enters-wafer-cleaning-market-with-launch-of-greentec-solutions-product-line-and-first-gt200-system). GT200 targets 200 mm development, qualification and production. Management plans a dedicated 300 mm high-volume platform in 2027 and a 200 mm HVM platform in 2028.
+
+**INTERPRETATION:** Wafer-level cleaning extends photomask process expertise and creates an additional commercialization path. The announcement does not quantify customer orders, revenue, margins or capacity share, and does not establish HBM bonding/process-transition capture. The 2027 roadmap could fall inside the active horizon; earnings contribution is unproven.
+
+**ACTION IMPLICATION:** WAIT, existing €60–62 reassessment band and confidence unchanged. Monitor #126 should test named customer qualification, orders and cash/margin conversion, alongside the existing bonding/thinning transition risk. Do not credit the addressable market as company revenue or promote on launch alone.
 
 ## Evidence-chain calibration — 24 September 2026
 
