@@ -2,10 +2,11 @@
 
 **Ticker:** HKEX:1286
 **Origin:** #282 / #284
-**State:** POTENTIAL / EVIDENCE BUILD
+**Current Gate-E state:** ACTION / conditional 5% starter; entry and add proof remain distinct
+**Last evidence refresh:** 2026-10-01
 **Boundary:** research only; no brokerage action.
 
-## Evidence correction
+## Evidence correction — historical discovery framing
 
 The #282 lead was framed as possible gas-turbine hot-section exposure. Better evidence changes that interpretation.
 
@@ -47,9 +48,9 @@ Before full reverse-underwrite:
 - current valuation and earnings bridge;
 - durability after capacity additions.
 
-## Classification
+## Classification — historical pre-Gate-E discovery
 
-**POTENTIAL / EVIDENCE BUILD.**
+**POTENTIAL / EVIDENCE BUILD** was the discovery-stage conclusion; the 25 September Gate-E underwrite below supersedes it for current capital decisions.
 
 Promote only if current segment evidence plus valuation shows the AI-power/cooling engine can create asymmetric consolidated earnings growth.
 
@@ -85,3 +86,20 @@ The strongest caution is cash conversion: H1 free cash flow from operations was 
 ## Gate E — 25 September 2026
 
 **State: ACTION / starter eligible.** 23 Sep close HK$7.085. Entry band **HK$6.6–7.2** while FY26 20–25% growth guidance and Mexico/cooling ramp remain intact; preferred add **<=HK$6.3**. Initial size **5%**, ceiling 7.5% pending H2 margin/cash conversion and Mexico certification. March-2028 base earnings-power case HK$1.05–1.20bn at 15–17x; bull HK$1.30–1.50bn at 18–20x; bear HK$0.70–0.80bn at 10–12x. Reassess on certification delay, guidance failure for thesis reasons, mix reversal or poor cash conversion. See `research/gate-e-thesis-first-entry-sprint.md`.
+
+
+## Evidence refresh — 1 October 2026
+
+**FACT:** Impro's 28 September release reports commissioning of its Mexico SLP campus 230kV/45MVA substation on 27 September (Mexico time), following government certification and grid connection. Management says this removes the campus power constraint (SRC-ACT-IMP-004).
+
+**INTERPRETATION:** a specific infrastructure prerequisite has progressed, reducing one ramp risk. Substation approval is not customer/product certification, production acceptance, incremental orders or evidence of profitable utilization. It therefore does not satisfy the existing certification/mass-production **plus margin-confirmation** add gate.
+
+**Counter-evidence rechecked:** the issuer's H1 financial highlights retain operating cash HK$689.1m but free cash flow from operations only HK$7.4m, versus HK$116.6m in H1 2025. Adjusted EBITDA margin is 27.4% versus 29.2%, despite gross margin rising to 28.4% from 27.8%. Higher sales and gross margin have not yet established stronger total-company cash capture (SRC-ACT-IMP-002).
+
+**Current decision:** retain conditional **ACTION / 5% starter at HK$6.6–7.2** with FY26 growth and Mexico/cooling thesis intact. No evidence-led add, ceiling increase, earnings/multiple upgrade or rerank follows from commissioning alone. Existing <=HK$6.3 price-led add and >HK$10 reassessment rules still require a fresh executable-price/thesis check. No market price or personal account information is used in this public refresh.
+
+**Confidence:** High in the issuer-reported infrastructure milestone; Medium in consolidated operating capture; financial materiality of this milestone remains unquantified; March-2028 equity confidence is unchanged. The new observation narrows infrastructure uncertainty without resolving utilization, certification or per-share cash returns.
+
+**HYPOTHESIS / OPEN QUESTION:** stable campus power could support planned expansion, but quantify incremental output, customer acceptance, margin and cash before attributing earnings. Next checkpoint: a material production/certification disclosure, then the next trading/results update with growth, margins and cash conversion. No announcement date is assumed. The accessible issuer announcement list still ends with the 1 September monthly return; this scan is bounded, not proof that every possible filing has been captured.
+
+Sources: [commissioning release](https://www.improprecision.com/news/230kv-high-voltage-substation-officially-commissioned-at-impro-mexico-slp-campus/); [financial highlights](https://www.improprecision.com/investors/financial-information/); [issuer announcement list](https://improprecision.website.wisdomir.com/en/ir_announcements_3.php).
