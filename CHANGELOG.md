@@ -1,3 +1,10 @@
+## 2026-10-01 — Remaining leading-candidate evidence sweep
+
+- Checked the 11 remaining leading monitored candidates plus FORT against current issuer/event sources. Recorded dynamic-feed and direct-PDF retrieval gaps explicitly; this is not an executable-price refresh or full 65-company re-underwrite.
+- JEM's 30 September Thailand flood shutdown tightens the entry gate: require recovery/damage/delivery and guidance/cash evidence before any entry. Near-window confidence reduced to Low-Medium; WAIT retained; loss magnitude unknown, so no manufactured scenario haircut or numerical rerank.
+- Added today's SUSS GreenTec launch, FORT's confidential S-4 submission and Grid Dynamics' 29 October results checkpoint. Product roadmap, transaction progress and scheduled results do not substitute for observed economics; existing WAIT/REASSESS states and sizing remain.
+- Updated source provenance, watchlist and ranking evidence boundaries. Public company research only; no personal account data, trades, portfolio feasibility rerun or frozen #261 changes.
+
 ## 2026-10-01 — Laifual / Impro primary-evidence refresh
 
 - Added Impro's 27 September Mexico substation commissioning, published 28 September, as a specific infrastructure milestone. Distinguished government/grid approval of the substation from customer/product certification and margin proof; the evidence-led add gate remains unmet.

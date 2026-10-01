@@ -5,6 +5,12 @@
 **State:** **POTENTIAL / EVIDENCE BUILD — attractive small-cap exposure, but services economics currently dominate**  
 **Boundary:** research conclusion only; no brokerage action.
 
+## Dated results checkpoint — 1 October 2026
+
+**FACT:** The [29 September issuer announcement](https://www.griddynamics.com/press-releases/third-quarter-2026-financial-results-announcement) schedules Q3 results and a call for **29 October 2026, 4:30 p.m. ET**, with results released before the call.
+
+**ACTION IMPLICATION / INTERPRETATION:** Retain REASSESS / no entry absent the existing price/evidence conditions. This supplies a concrete #295 checkpoint, not new earnings proof. Test GAIN/FDE recurring revenue, repeat deployments, bookings and margin/cash leverage; broader AI/services growth alone does not establish a repeatable Physical-AI platform.
+
 ## Thesis
 
 Physical AI creates a scarce integration/validation layer:

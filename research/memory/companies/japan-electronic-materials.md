@@ -4,9 +4,19 @@
 **Ticker:** TSE 6855  
 **Status:** Investigating  
 **Gate-E portfolio role:** Watch / pre-entry catalyst-asymmetric candidate  
-**Confidence:** Medium on current operating capture; Medium-Low on deployability / HBM-generation proof  
-**Last substantive update:** 2026-09-09
+**Confidence:** Medium on current operating capture; Low-Medium on remaining-window deployability after Thailand shutdown
+**Last substantive update:** 2026-10-01
 
+
+## Thailand shutdown / risk gate — 1 October 2026
+
+**FACT:** The [30 September issuer notice](https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf) reports flooding around and inside JEM Thailand's site at Amata City, Chonburi following heavy rain from 24 September. Operations are stopped. No employee casualties were confirmed; building/equipment impacts, infrastructure recovery and restart prospects remain under assessment.
+
+**OPEN QUESTION:** Duration, damaged capacity, delivery disruption, insurance recovery and earnings/cash impact are not quantified. No inference about the subsidiary's share of group HBM output is justified by this notice. Previously cited FY2027 guidance is the pre-flood baseline, not a newly reaffirmed forecast.
+
+**INTERPRETATION:** This directly challenges the near-window case based on existing-factory utilization. Structural HBM demand remains intact; confidence in near-window earnings/cash delivery falls from Medium to Low-Medium until recovery evidence resolves the exposure.
+
+**ACTION IMPLICATION:** Retain WAIT / no entry. The historical ~¥6,100 reassessment band is insufficient alone: require an issuer restart/damage/delivery update and a refreshed guidance/cash bridge before considering entry at any price. No automatic permanent thesis break or numerical rerank is inferred while the loss magnitude remains unknown. This risk gate overrides the older guidance-intact entry wording below; monitor #125 owns the next checkpoint.
 
 ## Evidence-chain calibration — 24 September 2026
 
