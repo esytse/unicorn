@@ -86,6 +86,10 @@ The table is the sole complete 65-company inventory. Each company appears once w
 | **65** | **65** | **Danaher** | Scientific-AI execution | Research comparator | COMPARATOR | Broad benchmark; AI-specific capture insufficiently isolated |
 <!-- OBJECTIVE-RANKING:END -->
 
+### Bounded evidence refresh — 1 October 2026
+
+The canonical [Impro refresh](energy/companies/impro-precision.md#evidence-refresh--1-october-2026) records Mexico substation commissioning as infrastructure progress, not product certification/margin proof. The [Laifual refresh](robotics-actuators/companies/laifual-drive.md#full-report-refresh--1-october-2026) distinguishes the 28 September full-report publication from the older H1 economic observation. Neither clears an add gate or changes either capital/structural rank, existing conditional starter signal or ceiling. The portfolio's bond-market stress context remains applicable; no full-universe rerank is implied.
+
 ### Capital-tier interpretation
 
 - **Current ACTION:** only the three governed conditional 5% starters. All require a fresh executable-condition and thesis check; no brokerage action is assumed.
