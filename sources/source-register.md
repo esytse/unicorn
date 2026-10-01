@@ -4,6 +4,7 @@ Use this register for sources that support multiple research files or are import
 
 | ID | Source | Type | Publication date | Accessed | Used for | Notes |
 |---|---|---|---|---|---|---|
+| SRC-MACRO-FT-20261001 | Financial Times, [Global bond sell-off deepens as 10-year Treasury yield hits highest since 2002](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3) | Credible secondary financial reporting | 2026-10-01 | 2026-10-01 | PORTFOLIO macro stress context | Reported US 10y 5.34%, UK 10y 5.51%, UK 30y >6%; no independent executable-rate refresh. Inflation/forced-selling explanation attributed to report. Does not establish a company thesis break. |
 | SRC-BT261-D03-O01 | Qorvo FY2021 10-K: https://www.sec.gov/Archives/edgar/data/1604778/000160477821000032/rfmd-20210403.htm | Regulatory filing | 2021-05 | 2026-09-25 | D03 Qorvo outcome | FY21 growth/margin/profit/FCF; 5G and Wi-Fi drivers; Apple concentration. |
 | SRC-BT261-D03-O02 | Qorvo FY2022 10-K: https://www.sec.gov/Archives/edgar/data/1604778/000160477822000029/rfmd-20220402.htm | Regulatory filing | 2022-05 | 2026-09-25 | D03 Qorvo durability | $4.646bn revenue, 49.2% gross margin; China 5G handset weakness, ASP erosion. |
 | SRC-BT261-D03-O03 | Akoustis FY2024 10-K: https://www.sec.gov/Archives/edgar/data/1584754/000121390024085984/ea0209774-10k_akoustis.htm | Regulatory filing | 2024-10 | 2026-09-25 | D03 Akoustis outcome | $16.16m RF filters, negative filter margin, net loss and financing/legal stress. |
