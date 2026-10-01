@@ -112,6 +112,16 @@ Since the 15 Sep checkpoint, the scarce-complements remap has increased the marg
 
 The governed research-level ACTION surface contains three independent conditional 5% starters: **Laifual at executable <=HK$48**, **TAI-TECH at NT$190–210**, and **Impro Precision at HK$6.6–7.2**, in each case only while the documented thesis remains intact. Together they represent a maximum initial research allocation of 15% / £6,000; the remaining 85% stays tactical cash. No brokerage execution is assumed by the repository.
 
+## Bond-market stress checkpoint — 1 October 2026
+
+**FACT (attributed secondary report):** the Financial Times reports US 10-year Treasury yield 5.34%, UK 10-year gilt yield 5.51%, and UK 30-year yield above 6%, with energy-inflation fears and forced selling as reported drivers (SRC-MACRO-FT-20261001 in `sources/source-register.md`). These are dated reported observations, not independently refreshed executable bond quotes.
+
+**INTERPRETATION:** higher long-term yields increase the opportunity-cost and valuation burden on the March-2028 bridges, especially where upside relies on rerating or distant cash generation. This is a stress context, not proof of a company thesis break. Laifual's near-break-even earnings, negative operating cash and capacity/credit exposure make margin, funding and cash-conversion proof particularly important. Impro's existing profit base is a counterweight, but capex, limited free-cash conversion and customer investment remain constraints; profitable infrastructure exposure is not immunity to higher funding costs.
+
+**Action implication:** preserve the existing earnings-versus-rerating decomposition and test multiple compression, financing cost and funded customer demand when a governed company trigger requires a re-underwrite. No new target multiple, probability, ranking, size ceiling, Buy/Add/Trim/Sell signal or bond purchase follows from this article alone. Existing company confidence is unchanged: the macro report contains no new issuer evidence. The £80k hurdle remains TRIGGER-DEPENDENT. #360 remains WAITING: the headline establishes neither >=50% immediately executable capacity of the £40k pool nor two independent non-starter ACTIONs.
+
+**HYPOTHESIS / OPEN QUESTION:** a sustained higher-rate regime could reduce attainable terminal multiples or delay capital-intensive customer projects. Company-specific funding, order conversion and cash evidence are needed to quantify that effect; no numerical sensitivity is invented here. The feasibility model's cash 1.0x assumption remains a documented control, not a claim that cash earns zero or the reported long-bond yield.
+
 ## Transaction rules
 
 Every deployable position must define:

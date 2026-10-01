@@ -1,3 +1,9 @@
+## 2026-10-01 — Bond-market stress checkpoint
+
+- Registered the dated FT global bond sell-off report and added its valuation/funding implications to canonical PORTFOLIO.
+- Distinguished reported macro observations from company-specific evidence and identified existing Laifual/Impro cash-conversion, funding and earnings-versus-rerating sensitivities for the next governed re-underwrite.
+- No company ranking, confidence, watchlist, entry/add/trim/sell signal, size ceiling or feasibility classification changes. #360 remains WAITING; frozen #261 is unchanged. No brokerage trade was placed.
+
 ## 2026-09-25 — #300/#308 completed #261 historical validation
 
 - Finalised `research/backtests/261/SUMMARY.md`: all 15 registered cases and 63 candidate states revealed; development 2/2 initial PROMOTE conversions but both later durability impairment; holdout has zero PROMOTEs and one clear economic miss (SK hynix HBM). West and several incumbents remain possible/mixed false negatives.
