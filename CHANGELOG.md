@@ -1,3 +1,10 @@
+## 2026-10-01 — Laifual / Impro primary-evidence refresh
+
+- Added Impro's 27 September Mexico substation commissioning, published 28 September, as a specific infrastructure milestone. Distinguished government/grid approval of the substation from customer/product certification and margin proof; the evidence-led add gate remains unmet.
+- Rechecked the issuer's H1 financial highlights: operating cash is strong but free cash flow is limited and adjusted EBITDA margin trails H1 2025. Corrected Impro's opening historical discovery label so it cannot override the already-governed Gate-E starter state.
+- Added Laifual's 28 September full interim report and distinguished publication freshness from its H1 economic period / 28 August financial-statement authorisation. No new H2 cash/customer/margin proof supports an add.
+- Previous/current conclusions remain conditional starter ACTIONs under existing price/thesis rules. Confidence, scenario boundaries, ranks, watchlist, ceilings and March-2028 feasibility are unchanged. Source provenance and ranking freshness notes updated; frozen #261 untouched. Public company evidence only; no brokerage execution or personal account information.
+
 ## 2026-10-01 — Bond-market stress checkpoint
 
 - Registered the dated FT global bond sell-off report and added its valuation/funding implications to canonical PORTFOLIO.
