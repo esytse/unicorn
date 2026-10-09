@@ -34,7 +34,7 @@ class ObjectiveRankingTests(unittest.TestCase):
         self.assert_detects('companies must appear exactly once')
 
     def test_broken_capital_order_is_detected(self):
-        self.replace('| **2** | **1** | **Laifual Drive**', '| **60** | **1** | **Laifual Drive**')
+        self.replace('| **1** | **1** | **Laifual Drive**', '| **60** | **1** | **Laifual Drive**')
         self.assert_detects('capital ranks must be ordered and continuous')
         self.assert_detects('ACTION candidates must lead capital priority contiguously')
 

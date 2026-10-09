@@ -6,6 +6,16 @@
 **Last evidence refresh:** 2026-10-01
 **Boundary:** research only; no brokerage action.
 
+## Current decision — 9 October 2026
+
+**ACTION / conditional 5% starter, no evidence-led Add.** [HKEX public quote history](https://stockanalysis.com/quote/hkg/1286/history/): **HK$6.84, 9 Oct 16:08 HKT**, volume ~3.41m, inside HK$6.6–7.2. Not an executable broker quote. [Issuer news](https://www.improprecision.com/news/) still leads with September substation commissioning, not customer/product acceptance.
+
+**INTERPRETATION:** FY26 20–25% growth and ramp hypothesis survives the bounded check; the previously verified H1 cash/EBITDA counter-case remains. Normalizing H1 EPS 0.222 by simple doubling gives 0.444, not a forecast: at HK$6.84 ~15.4x earnings, ~6.5% earnings yield. H1 FCF HK$7.4m cannot support an equivalent cash-yield claim. [Issuer financial highlights](https://www.improprecision.com/investors/financial-information/), retrieved 9 Oct, confirm net gearing 18.3% and interest cover 11.1x; balance-sheet improvement is stronger evidence than commissioning alone.
+
+**HYPOTHESIS / March-2028:** unchanged earnings × multiple bridges bear HK$3.7–5.1 / base HK$8.3–10.8 / upside HK$12.4–15.9 imply **-46% to -25% / +21% to +58% / +81% to +132%**. No probabilities. Profitable high-horsepower/cooling mix and Mexico utilization supply earnings; 15–20x multiples supply rerating. Vertiv/nVent integrated cooling, alternative castings/precision suppliers and customers' dual sourcing constrain pricing. Financial materiality Medium; cash conversion and horizon equity confidence Medium-Low.
+
+**Rules:** Hold if forward earnings/cash returns remain superior to alternatives. Add <=HK$6.3 only with intact economics, or verified customer/product mass production plus margins/cash; 7.5% ceiling remains conditional. Substation certification does not satisfy the latter. Trim/reassess >HK$10 before ~HK$1.1bn earnings is supported or excessive AI-infrastructure concentration. Sell/reject on lost ramp, structural guidance miss, mix reversal or persistently poor FCF. Next: H2/FY26 operating and cash evidence. No cost-basis anchor, assumed holding or trade.
+
 ## Evidence correction — historical discovery framing
 
 The #282 lead was framed as possible gas-turbine hot-section exposure. Better evidence changes that interpretation.

@@ -1,5 +1,10 @@
 # Micronics Japan (MJC)
 
+## Monitor checkpoint — 9 October 2026 (#128)
+
+[Primary Japanese homepage indexed text](https://ns3.mjc.co.jp/) dated Oct2 schedules Q3 results **12 Nov 2026 15:30 JST**; direct page returned an error and English IR's dynamic news remained incomplete. [Secondary history](https://stockanalysis.com/quote/tyo/6871/history/) gives Oct9 close ¥17,330, well above ¥10,000–10,800. **WAIT**, stronger operating franchise does not justify chasing. HBM/margin/FCF, customer concentration and capex remain the valuation bridge in the existing underwrite. No new customer or cash evidence inferred from calendar notice. Reassess on results/qualification or renewed price condition. Holding retention/trim depends on forward value versus this premium, not cost. Exact filing-index completeness remains open.
+
+
 **Research stream:** AI memory — HBM / memory probe cards  
 **Ticker:** TSE 6871  
 **Status:** Investigating  

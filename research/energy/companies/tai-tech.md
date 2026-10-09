@@ -5,6 +5,18 @@
 **State:** **POTENTIAL — credible 3x architecture, not yet validated**  
 **Boundary:** research conclusion only; no brokerage action.
 
+## Current decision — 9 October 2026 (#292)
+
+**REASSESS / WAIT for new capital.** Latest dated secondary quote: **NT$226.50, 8 Oct**, TPEX 3357, above the governed NT$190–210 starter band. Old ACTION snapshots below are historical. No higher entry band is justified; the public quote is not executable. [Yahoo Taiwan](https://tw.stock.yahoo.com/quote/3357.TW/major-holders).
+
+**FACT / disclosure mirror:** CNA's issuer-announcement reproduction dated 7 Oct reports September sales **NT$855.038m, +47.79%**, Jan–September **NT$6,459.848m, +34.09%**. The issuer page still leaves September blank; direct MOPS reconciliation remains open. Growth is not new AI-mix, margin or cash evidence. [Announcement mirror](https://tw.finance.yahoo.com/quote/3357/announcement), [issuer series](https://www.tai-tech.com.tw/data-136722), retrieved 9 Oct.
+
+**INTERPRETATION:** operating momentum survives; qualification does not establish unique pricing power. Taiyo Yuden/TDK/Murata/Eaton and integrated voltage regulation challenge capture. AI mix remains the older low-teens observation. Financial confidence Medium; AI capture/materiality and remaining-window equity confidence Medium-Low.
+
+**HYPOTHESIS / March-2028 sensitivity:** unchanged internal bear NT$170–225, base NT$360–460, upside NT$550–730 imply **-25% to -1%, +59% to +103%, +143% to +222%** from NT$226.50. Monthly sales do not validate EPS/multiple assumptions. At old EPS NT$10.7–11.2 the quote is ~20–21x; a 3x price needs ~NT$22.7–27.2 EPS at 30–25x, about twice the baseline plus a higher multiple. Cash avoids both risks; no net yield is assumed.
+
+**Rules:** Buy only NT$190–210 with fresh intact economics; 5% starter, 7.5% proof ceiling. Add <=NT$185 with intact thesis or verified AI >=20% / named production qualification plus valuation review. Hold needs cash/margin conversion and competitive forward payoff. Trim/reassess >~NT$350 before EPS/mix catches up or excessive correlated exposure. Sell/reject on socket loss, sustained margin/cash deterioration or architecture displacement. Next: September MOPS original, Q3 cash/margins/mix. No trade or price-only averaging.
+
 ## Why this company appeared
 
 This company was not found by screening the existing universe. The path was:

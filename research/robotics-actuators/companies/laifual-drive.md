@@ -7,6 +7,18 @@
 **Last substantive update:** 2026-10-01 (full-report check; signal unchanged)
 **Backlog:** #86
 
+## Current decision — 9 October 2026
+
+**ACTION / conditional 5% starter only; no evidence-led Add.** [Dated public quote](https://stockanalysis.com/quote/hkg/3952/history/) **HK$40.16, 9 Oct 16:08 HKT**, volume 59,400, remains below the <=HK$48 ceiling. Execution/access/spread must be checked manually; small volume makes limit-price discipline material. No brokerage order or actual holding is assumed.
+
+**FACT / freshness:** [HKEX issuer index](https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748) now includes a 5 Oct September equity monthly return, but the last verified economic period remains H1 and the 31 July order observation. A share-movement filing is not H2 order/profit proof. No new repeat-customer economics, ASP durability or cash inflection recovered. Prior H1 operating cash -RMB20.851m and capex RMB77.820m remain the limiting evidence.
+
+**HYPOTHESIS / reverse valuation:** ~103.4m older shares × HK$40.16 gives ~HK$4.15bn, subject to September return reconciliation. At 25–35x mature profit this requires ~HK$119–166m annual earnings just to support today's value, versus near-break-even H1. Old March-2028 bear HK$25–35 / base HK$55–75 / upside HK$95–125 imply **-38% to -13% / +37% to +87% / +137% to +211%**. Lower price improves geometry, not earnings proof. Capacity utilization, repeat customers and stable high-20s reducer margins drive profits; multiple retention drives the upper outcome.
+
+**Counter-case:** Harmonic Drive/Leaderdrive and other Chinese capacity, Nabtesco cycloidal and Schaeffler/linear substitutes can erode ASP and architecture share. Liquidity from listing reduces immediate funding risk but does not make capacity investment profitable. Confidence remains Medium on capture, Medium-Low on cash materiality, Low-Medium on equity outcome.
+
+**Rules:** no add beyond 5% for price alone; portfolio ceiling 8% only after fresh repeat-order, margin and cash proof, superseding older 10–12% wording for this mandate. Hold only with competitive forward payoff and intact cash/ASP/customer trajectory. Trim on concentration or valuation outrunning realized earnings; crossing above an entry ceiling is an entry veto/reassessment, not an automatic sell. Sell on durable customer loss, margin collapse, destructive finance or architecture displacement. Next: H2 cash/margins, actual utilization, credit draws and repeat production orders. Cash remains preferable to unearned larger sizing.
+
 ## Snapshot
 
 **FACT:** Zhejiang Laifual Drive is a Chinese precision-transmission manufacturer whose core products are harmonic reducers and related precision components. It also sells joint modules, robotic arms and automated workstations, giving it potential to move upward from a component supplier toward integrated motion modules.

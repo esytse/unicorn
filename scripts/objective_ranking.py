@@ -8,12 +8,11 @@ START = '<!-- OBJECTIVE-RANKING:START -->'
 END = '<!-- OBJECTIVE-RANKING:END -->'
 EXPECTED_COUNT = 65
 EXPECTED_ACTIONS = {
-    'TAI-TECH Advanced Electronics',
     'Laifual Drive',
     'Impro Precision Industries',
 }
 KEY_MONITORS = {
-    'TAI-TECH Advanced Electronics': 'ACTION',
+    'TAI-TECH Advanced Electronics': 'REASSESS',
     'Laifual Drive': 'ACTION',
     'Impro Precision Industries': 'ACTION',
     'Namuga': 'WAIT',

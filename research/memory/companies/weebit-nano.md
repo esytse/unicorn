@@ -7,6 +7,16 @@
 **Last substantive update:** 2026-09-10  
 **Backlog:** #127 (current Gate-E); historical #5
 
+## Risk/source gate — 9 October 2026
+
+**REASSESS / WAIT; no new capital.** [ASX redistribution index](https://www.investsmart.com.au/security/asx/wbt/weebit-nano-ltd/announcements) recovered a 7 Oct price-sensitive media response, 6 Oct auditor change and 30 Sep quotation/unquoted-securities/cleansing notices. The static issuer widget was stuck at Aug28 and was inadequate monitoring. Original response [PDF](https://www.aspecthuntley.com.au/asxdata/20261007/pdf/03145371.pdf) returned 403; [alternate feed](https://newswire.iguana2.com/2fee0049d633f441/wbt.asx/3A703515/) returned no usable text/403. These are exact unresolved sources, not immaterial events.
+
+**FACT / secondary market:** [9 Oct A$2.80](https://stockanalysis.com/quote/asx/WBT/history/), versus A$3.56 on 7 Oct, ~21% decline across two subsequent sessions. Still above the old A$2.5–2.7 region. [Attributed secondary summary](https://www.capitalbrief.com/briefing/weebit-nano-shares-rebound-after-denying-bankruptcy-allegations-b30b8f34-5e58-444e-9770-6941bfa86a75/) says the company rejects bankruptcy commentary and cites June cash/burn. Neither allegation nor denial proves funding adequacy; current cash, auditor reasons and securities dilution require originals. Do not infer insolvency or the cause of every price move.
+
+**INTERPRETATION:** embedded ReRAM qualification remains promising; repeat production royalties, schedules, license-versus-royalty cash and dilution govern shareholder capture. Flash/other NVM, implementation delays and foundry IP are substitutes. Risk recovery is P0, not a price-led averaging opportunity. Equity confidence Low pending reconciliation; no defensible new numerical scenarios.
+
+**Rules:** Buy/Add vetoed until originals, cash/runway and diluted shares reconcile, then apply valuation/royalty gate. Hold only if funded commercialization forward value survives; Trim on concentration or speculative rerating beyond royalties; Sell/reject on verified funding shortfall, destructive dilution or failed adoption, not unverified media allegations. Next action is original recovery; next event quarterly cash/royalty disclosure. No assumed holding or trade.
+
 
 ## Evidence-chain calibration — 24 September 2026
 

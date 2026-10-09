@@ -1,5 +1,10 @@
 # FORT Robotics / FROB — Canonical Transaction and Economics Underwrite
 
+## Public-disclosure gate — 9 October 2026 (#108 / #109)
+
+[Sep30 confidential S-4 submission](https://www.fortrobotics.com/news/fort-robotics-and-newbury-street-ii-acquisition-corp-announce-confidential-submission-of-draft-registration-statement-on-form-s-4) and [Oct1 SEC425](https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/ntwo2425093026.htm) rechecked. Agility partnership/MOU is useful customer relevance, not binding paid recurring economics. No usable public S-4 original recovered in the bounded search; confidential submission is not the gate. **WAIT**, no verified FROB listed instrument/current valuation. $182m net cash is explicitly conditional on no redemptions; warrants, sponsor/earnouts, redemption sensitivity and recurring revenue mix cannot be invented. #109 decision is neither new allocation until comparable economics exist; QNX evidence is more mature, not automatically cheaper. Buy/Add veto; eventual Hold/Trim/Sell require forward fully diluted cash value and actual security terms. Next trigger public registration/equivalent usable financial filing or material transaction change. No SPAC price proxy, probabilities or holding assumed.
+
+
 **Status:** WAIT / event-gated  
 **As of:** 1 October 2026
 **Backlog:** #209; transaction monitor #108; comparison #109  

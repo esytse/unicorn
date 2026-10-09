@@ -1,5 +1,10 @@
 # Namuga — humanoid stereo-camera programme underwrite
 
+## Monitor checkpoint — 9 October 2026 (#294)
+
+[Issuer May14](https://namuga.com/eng/invest/news_view.php?v_seqno=362) remains older production-line/head-module evidence; existing Sep7 sole-source humanoid award is not new orders. Latest attempted issuer-news endpoint failed, so post-award completeness is UNKNOWN. [Dated secondary quote](https://www.investing.com/equities/namuga-co-ltd-historical-data) Oct8 KRW15,410, outside 13–14k. **WAIT** for material program quantity/content/margin/timing or intact speculative-price trigger. Ouster/Cognex/RealSense/AMBA, customer integration and camera modality substitution challenge durable capture. No imagined named customer or revenue. Hold only on funded timely conversion/valuation, Trim if program premium outruns orders, Sell if award slips/lost or margin fails. No current holding or new scenario values assumed.
+
+
 **Ticker:** KOSDAQ:190510  
 **Discovery origin:** #262, parent #261  
 **State:** **POTENTIAL / UNDERWRITE — unusually attractive early setup, programme economics not yet disclosed**  

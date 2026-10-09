@@ -15,7 +15,7 @@ CLASSES = {
     'UNSUPPORTED BY CURRENT EVIDENCE',
 }
 EXPECTED_STATES = {
-    'TAI-TECH': 'ACTION',
+    'TAI-TECH': 'REASSESS',
     'Laifual': 'ACTION',
     'Impro': 'ACTION',
     'Modine': 'WAIT',
@@ -77,6 +77,8 @@ def validate(root='.'):
                 continue
             if D(row.get('initial_weight_pct', 0)) > D(row.get('staged_weight_pct', 0)):
                 errors.append(f'FEASIBILITY: {ident} {key} initial exceeds staged')
+            if candidates[key].get('deployable_in_model') is False and D(row.get('staged_weight_pct', 0)) > 0:
+                errors.append(f'FEASIBILITY: {ident} {key} suspended case has positive weight')
             if D(row.get('staged_weight_pct', 0)) > D(candidates[key].get('ceiling_pct', 0)):
                 errors.append(f'FEASIBILITY: {ident} {key} exceeds ceiling')
         for scenario in SCENARIOS:
@@ -116,7 +118,7 @@ def validate(root='.'):
     if 'research/ranked-universe.md' not in data.get('upstream_authorities', []):
         errors.append('FEASIBILITY: objective-aligned ranking authority missing')
     required_report = (
-        'TRIGGER-DEPENDENT, not evidence-supported today',
+        'UNSUPPORTED BY CURRENT EVIDENCE',
         'not a forecast, promise, price target or trade instruction',
         'Two-failure stress',
         'Operating/earnings versus rerating bridge',

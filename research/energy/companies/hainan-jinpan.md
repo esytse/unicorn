@@ -1,5 +1,12 @@
 # Hainan Jinpan Smart Technology — Gate-E AI-Power Underwrite
 
+## Corporate-action checkpoint — 9 October 2026 (#130)
+
+**FACT / issuer notice reproduced by secondary host:** [23 Sep implementation notice](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12616248&stockid=688676) declares CNY0.22/share cash dividend, Sep30 record / Oct8 ex-payment, explicitly no bonus or capital-reserve shares. Differential ex-price adjustment ~CNY0.2197; share count 459,787,393, excluding 710,000 repurchased shares for entitlement. This resolves confusion between cash distribution and separately announced convertible conversion-price changes; no stock split is inferred. Direct SSE original remains required.
+
+[Secondary dated history](https://jp.investing.com/equities/hainan-jinpan-smart-tech-historical-data) reports Oct9 CNY59.16 close, low56.30. The original 54–57 region was touched intraday, not at close. A ~0.22 accounting adjustment is small relative to the uncertainty band and is not a new fair-value estimate. **REASSESS / WAIT**, not ACTION: original terms, conversion/dilution, named repeat AIDC orders and cash bridge require reconciliation before any Buy/Add. Hold on qualified repeat economics and competitive forward payoff; Trim on concentration or recognition ahead of cash; Sell on lost qualifications, sustained cash failure or destructive funding. No fresh probabilities, earnings upgrade or actual holding assumed. Retain existing ceiling, no deployment from price alone.
+
+
 **Ticker:** SSE STAR: 688676  
 **Status:** Investigating  
 **Investment Capture Score:** **4.0 / 5**  

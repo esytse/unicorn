@@ -1,10 +1,10 @@
 # Backlog-Driven Automation
 
-**Status:** LIVE  
-**Live since:** 2026-09-09  
-**Automation epic:** #120  
-**Portfolio epic:** #117  
-**Deployment:** #121 completed; #122 completed  
+**Status:** PAUSED / DEGRADED — runtime verified 9 Oct 2026
+**Live since:** 2026-09-09
+**Automation epic:** #120
+**Portfolio epic:** #117
+**Deployment:** #121 completed; #122 completed
 
 > GitHub issues are the authoritative execution backlog. Automation may monitor, research, update repository content and operate the governed PR workflow, but it must not place brokerage trades.
 
@@ -38,9 +38,9 @@ The scheduler is deliberately **quiet by default**. Routine successful monitorin
 
 ## Live scheduler
 
-**Name:** Unicorn Portfolio Ops  
-**Timing mode:** condition watch  
-**Frequency:** hourly from **00:00 through 22:00 Europe/London**  
+**Name:** Unicorn Portfolio Ops
+**Timing mode:** condition watch
+**Frequency:** hourly from **00:00 through 22:00 Europe/London**
 **Purpose:** fast trigger detection, decision-useful alerts and bounded backlog execution across Asian, European and US market/news cycles.
 
 The hourly cadence exists primarily for **monitoring and notification**, not to launch a full research project every hour.
@@ -118,32 +118,32 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 
 ### Current company work
 - #86 Laifual Drive — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve is supported only at an executable price <=HK$48 with thesis intact; revert to REASSESS above the price condition unless evidence improves.
-- #292 TAI-TECH — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve at NT$190–210 while revenue/margin acceleration and AI-mix direction remain intact; notify only on a new material change because the current condition has already been surfaced.
+- #292 TAI-TECH — `WAITING` P0 **REASSESS monitor**: NT$226.50 checked above NT$190–210; September revenue recovered, AI mix/cash still gate. Notify on material new evidence or intact entry condition.
 - #293 Impro Precision — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve at HK$6.6–7.2 while FY26 growth guidance and the Mexico/cooling ramp remain intact; notify only on a new material change because the current condition has already been surfaced.
 - #294 Namuga — `WAITING` P1 on <=KRW13–14k with award/timing intact or first material robot-programme order/revenue economics; no current ACTION.
 - #295 Grid Dynamics — `WAITING` P1 on stronger recurring/platform evidence plus roughly US$6.5–7.2; price alone does not create ACTION.
-- #125 JEM — `WAITING` P1 on <=~¥6,100 with thesis intact or material HBM4/HBM4E / earnings / cash evidence.
+- #125 JEM — `WAITING` P0 on quantified Thailand restart/delivery/loss/insurance/cash and revised guidance; price/HBM entry suspended until recovery underwriting.
 - #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
-- #127 Weebit Nano — `WAITING` P1 on ~A$2.5–2.7 with thesis intact or meaningful production royalty/adoption/capital evidence.
+- #127 Weebit Nano — `WAITING` P0 on original 7 Oct risk response, 6 Oct auditor and 30 Sep securities reconciliation, runway and dilution. A$2.80 does not clear this gate.
 - #128 Micronics Japan — `WAITING` P1 on ~¥10,000–10,800 with thesis intact or material HBM4/HBM4E / customer / FCF evidence.
 - #106 BlackBerry/QNX — `WAITING` P0 after the 24 Sep Q2 FY2027 Gate-E refresh merged via PR #184; next trigger is <=~US$7 with thesis intact or material new Alloy Kore/content/backlog/non-auto production evidence.
 - #108 FORT Robotics — `WAITING` P1 on S-4/equivalent / transaction change.
 - #129 Centrus — `WAITING` P1 on ~US$120–130 with thesis intact or specific funded-capacity / DOE / customer / construction evidence.
 - #130 Jinpan — `WAITING` P1 on ~CNY54–57 with thesis intact or named/repeat global AIDC / margin / FCF evidence.
-- #146 Modine / Modexus — `WAITING` P1 on ~US$155–165 with thesis intact, the expected **1 Oct 2026** transaction close, or material post-separation guidance/margin/FCF evidence.
+- #146 Modine / Modexus — `WAITING` P0: 1 Oct close verified; old combined-package band suspended. Standalone guidance, debt/FCF and adjusted valuation required.
 - #85 Harmonic Drive — `PARKED` P2 pending major valuation or humanoid-profit evidence.
 - #109 QNX vs FORT — `BLOCKED` P1 until both event-driven underwrites are fresh.
 
 Historical #114 Gate D and #89 actuator Gate C are closed and must not be selected as current work.
 
-**Current portfolio interpretation (25 Sep 2026):** the governed Gate-E `ACTION` surface contains three independent conditional starters: **Laifual 5% at executable <=HK$48**, **TAI-TECH 5% at NT$190–210**, and **Impro Precision 5% at HK$6.6–7.2**, each only with the documented thesis intact and a fresh executable-price check. Total initial research allocation is capped at 15% / £6,000; the remaining 85% stays tactical cash. Brokerage execution remains manual. Namuga and Grid Dynamics remain WAIT / REASSESS rather than ACTION. Centrus and Modine remain leading independent-return-engine alternatives. QNX and Ouster remain REASSESS / WAIT pending materially better valuation or evidence.
+**Current portfolio interpretation — 9 Oct 2026:** Laifual remains conditional ACTION for a 5% starter at executable <=HK$48; Impro remains conditional ACTION for 5% at HK$6.6–7.2, each with intact thesis and fresh executable/access checks. TAI-TECH is REASSESS at the checked NT$226.50 above NT$190–210. The public hypothetical initial surface is at most 10% / £4,000 and 90% / £36,000 cash; no supplied holdings or trades are inferred. Adds are not earned. Modine awaits standalone post-close underwriting, JEM quantified recovery/cash and Weebit original risk/funding/dilution evidence. Other entry/proof monitors remain conditional. The refreshed controlled March-2028 opportunity set does not support £80,000; see `research/portfolio-feasibility-2028.md`. Cash and company rules take precedence over ranking.
 
 
 ## Research-quality priority — #207 / #193
 
-Issue **#193** is `READY P1` and is the highest-priority non-triggered methodology work after immediate P0/P1 event work. It implements the evidence-chain/calibration layer across Gate E.
+Issue **#193** is completed; preserve its evidence-chain/calibration controls. #325 is also completed; prospective method governance is already in place.
 
-Until its completion gate is met, avoid broad discovery merely to expand the universe. New discovery remains valid when a specific bottleneck-migration signal could materially change allocation. Otherwise prioritize claim/evidence/inference/action traceability, layered confidence, counter-evidence, evidence freshness, valuation sensitivity, earnings-versus-rerating decomposition and prediction/outcome calibration.
+Continue to avoid broad discovery merely to expand the universe. New discovery remains valid when a specific bottleneck-migration signal could materially change allocation. Otherwise prioritize claim/evidence/inference/action traceability, layered confidence, counter-evidence, evidence freshness, valuation sensitivity, earnings-versus-rerating decomposition and prediction/outcome calibration.
 
 When broad discovery is justified, use the canonical **value-chain-first discovery protocol** in `research/cross-theme/scarce-complements.md`: traverse every AI/Physical-AI layer, explicitly search for misclassified incumbents, and finish with a coverage-gap map. Do not rely on sector/taxonomy screens alone.
 
@@ -428,3 +428,7 @@ Use `research/prediction-calibration-ledger.md` as the immutable decision-time s
 ## Continuous ranked-universe rule — 24 Sep 2026
 
 The canonical research priority surface is the continuous ranked universe in `research/ranked-universe.md`. There is **no Top-10 admission gate**. Scheduler/backlog priority may consider any ranked company, subject to issue priority, trigger state, evidence freshness and marginal portfolio contribution. A rank crossing 10 has no special automation meaning and never creates a trade signal.
+
+## 9 October monitoring receipt
+
+Runtime task 6aa1cc166ad0819190c167b79b477e04 is disabled; last run 29 September 04:42:20 UTC, next run null. Documentation repair does not restore scheduled coverage. No silent re-enable: resolve the pause preference, then require a successful scheduled receipt before claiming healthy monitoring. Interactive catch-up is in `research/decision-refresh.md`, not proof of scheduler health. Notifications-off remains a separate intentional preference.

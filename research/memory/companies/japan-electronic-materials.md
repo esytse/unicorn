@@ -7,6 +7,18 @@
 **Confidence:** Medium on current operating capture; Low-Medium on remaining-window deployability after Thailand shutdown
 **Last substantive update:** 2026-10-01
 
+## Risk decision — 9 October 2026 (#125)
+
+**WAIT / no new capital at any price until recovery is evidenced.** The issuer homepage still leads with its 30 Sep Thailand flood notice; no restart, delivery, insurance or loss estimate was recovered. This is a bounded negative search, not proof that no other disclosure exists. [Issuer](https://www.jem-net.co.jp/), [notice](https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf), retrieved 9 Oct. November interim results are the scheduled gate; exact date unconfirmed.
+
+**FACT / secondary quote:** [history](https://stockanalysis.com/quote/tyo/6855/history/) shows ¥8,560 on 8 Oct; 9 Oct ¥8,670 is timestamped 11:30 JST and is not a verified final close. Neither clears the old ~¥6,100 gate before the recovery veto.
+
+**HYPOTHESIS:** old ¥4,180 bear / ¥8,250 base / ¥12,240 upside imply about -51% / -4% / +43% from ¥8,560 before unquantified flood impairment. These are suspended as deployable inputs; recovery loss could lower any case. No invented loss, recovery probability or EPS. Amagasaki's Aug-2028 completion remains outside the horizon.
+
+**INTERPRETATION:** HBM complexity remains structurally attractive but cannot protect disrupted qualified deliveries. MJC's stronger HBM/cash evidence, FormFactor's broader sockets and Technoprobe's qualification economics challenge JEM. Switching is difficult, but disruption can transfer sockets/delay orders. Missing capacity-by-site data prevents sizing substitution. Capture confidence Medium; financial materiality and horizon equity confidence Low pending recovery.
+
+**Holding rules:** Hold only if restart/deliveries and funding protect forward value; Trim on excessive concentration or rerating beyond evidence; Sell/reject on durable socket loss, uninsured cash impairment, destructive dilution or irrecoverable schedule delay. No actual holding is confirmed. Buy/Add need revised delivery/guidance/FCF, HBM proof and valuation. Old 6–8% starter / 12–14% post-proof ceilings are suspended for current deployment. Required: restart/delivery status, loss/insurance, revised guidance and capex/cash funding.
+
 
 ## Thailand shutdown / risk gate — 1 October 2026
 
