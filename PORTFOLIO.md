@@ -1,12 +1,12 @@
 # Aggressive Dynamic Portfolio Strategy — Gate E
 
-**Status:** Active  
-**Strategy reference:** 2026-09-09  
+**Status:** Active
+**Strategy reference:** 2026-09-09
 **Live decision surface refreshed:** 2026-09-25
-**Target date:** March 2028  
-**Backlog:** #117  
-**Automation:** LIVE — #120 / `AUTOMATION.md`  
-**Upstream research:** #110; historical Gate-D baseline #114  
+**Target date:** March 2028
+**Backlog:** #117
+**Automation:** PAUSED / DEGRADED — #120 / `AUTOMATION.md`
+**Upstream research:** #110; historical Gate-D baseline #114
 
 > This is a research and portfolio-management framework, not automatic trading instructions.
 
@@ -110,7 +110,7 @@ The £120,000 and £160,000 hurdles are **MATHEMATICALLY POSSIBLE BUT OPERATIONA
 
 Since the 15 Sep checkpoint, the scarce-complements remap has increased the marginal-research hurdle for additional correlated memory exposure. QNX FY27 Q2 has been assessed: operating quality/backlog improved materially, but the current state remains **REASSESS / WAIT**, with a first price-led re-underwrite condition around <=~US$7 or materially stronger non-auto evidence. Ouster has completed Gate-E valuation work and remains **REASSESS / WAIT** in the continuous ranked universe, with valuation/margin/FCF proof still the gating evidence.
 
-The governed research-level ACTION surface contains three independent conditional 5% starters: **Laifual at executable <=HK$48**, **TAI-TECH at NT$190–210**, and **Impro Precision at HK$6.6–7.2**, in each case only while the documented thesis remains intact. Together they represent a maximum initial research allocation of 15% / £6,000; the remaining 85% stays tactical cash. No brokerage execution is assumed by the repository.
+**Current portfolio interpretation — 9 Oct 2026:** Laifual remains conditional ACTION for a 5% starter at executable <=HK$48; Impro remains conditional ACTION for 5% at HK$6.6–7.2, each with intact thesis and fresh executable/access checks. TAI-TECH is REASSESS at the checked NT$226.50 above NT$190–210. The public hypothetical initial surface is at most 10% / £4,000 and 90% / £36,000 cash; no supplied holdings or trades are inferred. Adds are not earned. Modine awaits standalone post-close underwriting, JEM quantified recovery/cash and Weebit original risk/funding/dilution evidence. Other entry/proof monitors remain conditional. The refreshed controlled March-2028 opportunity set does not support £80,000; see `research/portfolio-feasibility-2028.md`. Cash and company rules take precedence over ranking.
 
 ## Bond-market stress checkpoint — 1 October 2026
 
@@ -243,10 +243,10 @@ Gate E is operated through `AUTOMATION.md` and automation epic **#120**.
 **Deployment status:**
 - #121 backlog normalization — completed;
 - #122 hourly Portfolio Ops deployment — completed;
-- one live scheduler is enabled;
+- one scheduler exists but is disabled; last runtime run 29 Sep and next run null, verified 9 Oct;
 - actual brokerage execution remains manual.
 
-### Canonical live decision surface — 25 Sep 2026
+### Canonical live decision surface — 9 Oct 2026
 
 Do not duplicate the company ranking or trigger table here. The authoritative live surfaces are:
 
@@ -256,7 +256,7 @@ Do not duplicate the company ranking or trigger table here. The authoritative li
 
 The 15 Sep company snapshot and early re-rank have been retired from this strategy file because they had become stale after the 24 Sep QNX, Ouster and scarce-complements work. Historical conclusions remain available in Git history and the research changelog.
 
-**Current portfolio interpretation — 25 Sep 2026:** Gate-E sprint #290 expands the governed research-level ACTION surface beyond Laifual. Laifual remains eligible for a 5% starter only at executable <=HK$48 with thesis intact. **TAI-TECH is starter-eligible at NT$190–210** with current revenue/margin acceleration intact; **Impro Precision is starter-eligible at HK$6.6–7.2** with FY26 growth guidance and Mexico/cooling ramp intact. Initial size is 5% each; do not immediately fill 7.5% ceilings. **Namuga remains WAIT** pending either <=KRW13–14k speculative pricing or first material robot-programme economics; **Grid Dynamics remains REASSESS / WAIT** pending stronger platform/productization evidence and a ~$6.5–7.2 valuation band. See `research/gate-e-thesis-first-entry-sprint.md` for the March-2028 bridges, catalysts and downside rules. Centrus and Modine remain independent-return-engine alternatives. Undeployed capital remains tactical cash. Brokerage execution is manual and no holding is assumed from repository state.
+**Current portfolio interpretation — 9 Oct 2026:** Laifual remains conditional ACTION for a 5% starter at executable <=HK$48; Impro remains conditional ACTION for 5% at HK$6.6–7.2, each with intact thesis and fresh executable/access checks. TAI-TECH is REASSESS at the checked NT$226.50 above NT$190–210. The public hypothetical initial surface is at most 10% / £4,000 and 90% / £36,000 cash; no supplied holdings or trades are inferred. Adds are not earned. Modine awaits standalone post-close underwriting, JEM quantified recovery/cash and Weebit original risk/funding/dilution evidence. Other entry/proof monitors remain conditional. The refreshed controlled March-2028 opportunity set does not support £80,000; see `research/portfolio-feasibility-2028.md`. Cash and company rules take precedence over ranking.
 
 ## Scheduler sufficiency
 
@@ -332,3 +332,7 @@ Track:
 - No company receives a watchlist promotion solely from portfolio-role assignment.
 - New factual investment evidence must continue to follow `AGENTS.md` source and confidence rules.
 - Actual brokerage orders remain manual; automation may produce research-level signals but must not execute trades.
+
+## 9 October monitoring receipt
+
+Runtime task 6aa1cc166ad0819190c167b79b477e04 is disabled; last run 29 September 04:42:20 UTC, next run null. Documentation repair does not restore scheduled coverage. No silent re-enable: resolve the pause preference, then require a successful scheduled receipt before claiming healthy monitoring. Interactive catch-up is in `research/decision-refresh.md`, not proof of scheduler health. Notifications-off remains a separate intentional preference.

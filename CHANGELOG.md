@@ -1,5 +1,14 @@
 ## 2026-10-01 — Remaining leading-candidate evidence sweep
 
+## 2026-10-09 — decision refresh execution
+
+- Completed bounded 14-monitor catch-up and architecture-first challenge; recorded paused runtime, recovered events, original-source failures and future catalysts without claiming scheduled health.
+- Refreshed company decision conditions and networking/workflow/scientific/power comparisons; zero new ACTION or watchlist promotions. TAI-TECH ACTION → REASSESS above entry; Laifual/Impro remain conditional starters with unearned adds.
+- Reconciled Modine post-close two-security economics, JEM recovery veto and Weebit risk/auditor/securities gates. Suspended Modine/JEM model weights; retained historical research.
+- Updated dual-axis capital order, discovery ledger and probability-free March-2028 arithmetic: hypothetical 10% initial / 90% cash, £80k unsupported by current controlled evidence. No holdings inferred, probabilities invented or brokerage trades placed.
+- Updated validation states and added a guard/test preventing suspended cases from positive portfolio weights. Frozen #261 unchanged.
+
+
 - Checked the 11 remaining leading monitored candidates plus FORT against current issuer/event sources. Recorded dynamic-feed and direct-PDF retrieval gaps explicitly; this is not an executable-price refresh or full 65-company re-underwrite.
 - JEM's 30 September Thailand flood shutdown tightens the entry gate: require recovery/damage/delivery and guidance/cash evidence before any entry. Near-window confidence reduced to Low-Medium; WAIT retained; loss magnitude unknown, so no manufactured scenario haircut or numerical rerank.
 - Added today's SUSS GreenTec launch, FORT's confidential S-4 submission and Grid Dynamics' 29 October results checkpoint. Product roadmap, transaction progress and scheduled results do not substitute for observed economics; existing WAIT/REASSESS states and sizing remain.

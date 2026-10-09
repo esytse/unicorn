@@ -7,6 +7,18 @@
 **Last evidence refresh:** 2026-09-19  
 **Backlog:** issue #146
 
+## Post-close decision — 9 October 2026
+
+**REASSESS / WAIT. This section supersedes pre-close mechanics and price bands below.** [Issuer closing release](https://investors.modine.com/news/news-details/2026/Modine-Completes-Spin-off-and-Combination-of-its-Performance-Technologies-Business-with-Gentherm/default.aspx), 1 Oct: transaction completed; **0.44619 THRM per MOD**, unchanged MOD share count; ~$156m cash used to repay debt. Distributed holders owned 43.62% of combined Gentherm. The Modexus name still needs a shareholder vote. Do not assume a new ticker or that a new MOD buyer receives THRM.
+
+**FACT / market reference:** 8 Oct MOD **$181.89** ([history](https://stockanalysis.com/stocks/mod/history/)); THRM **$29.92** ([history](https://chartexchange.com/symbol/nasdaq-thrm/historical/)). For a holder entitled to the distribution, the marked package is mechanically **$195.24 = $181.89 + 0.44619 × $29.92**, before fractions/tax/fees. MOD's earlier adjusted-close series is not interchangeable with this two-security wealth series. The THRM feed labels a $1.90 dividend while issuer final terms say $2.07: issuer controls; do not reuse the feed's dividend adjustment. The special dividend was declared for legacy THRM's Sep-28 holders, not automatically credited again to distributed MOD holders.
+
+**INTERPRETATION / valuation:** the old $155–165 package band cannot become a standalone MOD buy band. Subtracting today's ~$13.35 THRM mark gives ~$142–152 only as an accounting sensitivity, not fair value: future THRM value and standalone debt/earnings must be separately underwritten. Old combined March-2028 bear $115–145, base $225–270, upside $320–380 imply about -41% to -26%, +15% to +38%, +64% to +95% against the entitled package's $195.24. They do not value a new standalone MOD purchase. No current numerical entry band or deployable model contribution until continuing guidance/pro forma net debt, share denominator and normalized FCF are reconciled.
+
+**Operating test:** older Q1 Data Centers gross margin 20.2%, operating margin ~13.3%, OCF $41.4m less capex $46.4m contrast with rapid sales growth. Customer advances and transaction proceeds are not recurring FCF. Vertiv and nVent have profitable competing scale and are expanding cooling capacity; compare capture after that supply response. Structural confidence High; capture Medium-High; financial materiality Medium; standalone horizon valuation Low pending disclosure. No higher ceiling: old 7–9% initial / up to 15% after proof are conditional capacity limits, zero deployable now.
+
+**Decision gates:** Hold only if continuing margins/FCF and forward valuation justify it; distributed THRM is a separate capital decision. Buy/Add only after standalone earnings/cash/debt reconciliation and competitive remaining-window payoff. Trim on upside already priced, excessive correlated cooling size or customer concentration; Sell/reject on margin recovery failure, uneconomic capacity conversion or persistent cash impairment. Closing resolves transaction completion, not those tests. Next trigger: first post-close continuing-company guidance/filing; return #146 to WAITING with that exact dependency. No assumed personal distribution and no trade.
+
 
 ## Evidence-chain calibration — 24 September 2026
 

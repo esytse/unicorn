@@ -3,7 +3,7 @@
 **Lifecycle:** CANONICAL  
 **Authority:** CANONICAL  
 **Concept:** Cross-theme discovery coverage and negative-search outcomes  
-**As of:** 2026-09-26
+**As of:** 2026-10-09
 **Issue:** #330  
 **Machine ledger:** [coverage-ledger.json](coverage-ledger.json)
 
@@ -11,7 +11,7 @@ The ledger asks whether Unicorn searched the important scarce-complement lanes b
 
 > **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**
 
-It is an audit of existing repository evidence. It does not add company research, rerank companies or authorize capital.
+It records existing and bounded October refreshed evidence. It does not authorize capital. The dated challenge is `research/discovery/october-challenge.md`.
 
 ## Result vocabulary
 
@@ -41,9 +41,9 @@ These states prevent three common errors: treating “no candidate found” as �
 | Sensing / perception | Medium | Active candidates | Ouster, Cognex/RealSense, Namuga and Ambarella | Named production, material mix and durable margins |
 | Scientific-AI execution | Emerging | Active candidates | Tecan and Bruker/Chemspeed/SciY; broader firms are benchmarks | AI-linked orders and recurring workflow attach |
 | Distributed compute | Under-covered | Active candidates | Akamai only; incremental ROIC unresolved | Funded utilisation and cash returns |
-| Networking / data path | Under-covered | Coverage incomplete | Arm comparator; no bounded company-transforming search result | Constrained architecture plus qualification/materiality evidence |
+| Networking / data path | Medium | Candidates found but rejected | Six screens COHR/LITE/CRDO/ALAB/AVGO/ANET; no immediate promotion | Diluted cash earnings, material capture and price reset |
 | Industrial control | Under-covered | Coverage incomplete | Advantech/Grid Dynamics signals; broad automation economics unisolated | Production programme and recurring control economics |
-| Workflow / permissions / distribution | Blind spot | Coverage incomplete | Conceptual map only | A bounded release-gating question with testable capture |
+| Workflow / permissions / distribution | Emerging | Candidates found but rejected | MSFT/NOW/OKTA/PANW benchmarks; agent cash materiality unisolated | Paid attach, material incremental economics then valuation |
 | Generic models / accelerators | Excluded | Intentionally excluded | Initiating abundance layer; generic beneficiaries are outside the screen | A specific sub-layer becomes a scarce complement |
 
 The JSON record retains searched families, active and rejected examples, private/uninvestable benchmarks, remaining gaps, source files and explicit rescan triggers for every row. `python3 scripts/discovery_coverage.py` validates the distinctions and source paths.
@@ -81,7 +81,7 @@ The audit finds:
 - emerging but still financially unproven coverage in scientific-AI execution;
 - active candidates with weak purity in simulation/verification, edge deployment and sensing;
 - no credible listed direct capture for fleet feedback/data rights;
-- incomplete bounded coverage in networking, industrial control and workflow/permissions;
+- incomplete bounded coverage in industrial control; networking and workflow now have explicit bounded negative promotion outcomes;
 - one clear “candidates found but rejected” result in narrow 800 VDC/rack power;
 - generic model/accelerator discovery intentionally excluded unless a specific scarcity emerges.
 

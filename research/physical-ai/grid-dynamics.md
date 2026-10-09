@@ -1,5 +1,10 @@
 # Grid Dynamics — Physical-AI productization underwrite
 
+## Monitor checkpoint — 9 October 2026 (#295)
+
+[Issuer calendar](https://www.griddynamics.com/investors/events) verifies Oct29 Q3 results/call at 20:30 GMT; future results are unavailable. [Secondary daily range](https://stockscan.io/stocks/GDYN/price-history) Oct9 $7.95–8.13 is not a verified close; it does not touch $6.5–7.2. **REASSESS / WAIT**: services/project growth does not establish recurring platform margins, reusable IP, data rights or SBC-adjusted per-share cash. PTC/Siemens and private validation vendors challenge capture. Hold only if forward cash economics justify current valuation; Trim on services-like economics priced as software, Sell if delivery/headcount/SBC undermines capture. Await Q3 recurring/customer/margin/cash evidence; price alone cannot Buy/Add. No actual holding or probability inferred.
+
+
 **Ticker:** NASDAQ: GDYN  
 **Discovery origin:** #272, parent #261  
 **State:** **POTENTIAL / EVIDENCE BUILD — attractive small-cap exposure, but services economics currently dominate**  

@@ -1,5 +1,10 @@
 # BlackBerry / QNX — FY27 Q2 Gate-E refresh
 
+## Monitor checkpoint — 9 October 2026 (#106 / #109)
+
+[SEC Sep24 Q2 release](https://www.sec.gov/Archives/edgar/data/1070235/000107023526000112/q2fy27ex-991.htm) and issuer financial calendar rechecked; Q2 analysis was completed, not overdue. [BB quote history](https://stockanalysis.com/stocks/bb/history/) Oct9 close $8.91 exceeds ~US$7 reassessment region. **REASSESS / WAIT**, no new Buy/Add. [Issuer](https://investors.blackberry.com/) plans Q3 Dec17 only approximately. Largest Alloy Kore design win is not yet Physical-AI/non-auto production profit. Existing financial/SOTP underwrite governs; no updated target invented. Hold only on competitive forward cash value; Trim on recognition ahead of royalty/content conversion; Sell if qualification/cash capture fails. QNX is financially better evidenced than FORT, but #109 cannot select a FORT allocation without public dilution/recurring economics. No transaction inferred.
+
+
 **Issue:** #183  
 **Status:** P0 underwrite completed; governance pending  
 **Evidence date:** 2026-09-24  

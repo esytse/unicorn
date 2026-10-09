@@ -4,6 +4,10 @@
 **Parent:** #207 / #196 / #193  
 **Scope:** current Gate-E/Top-10 system after Waves 1–4.
 
+## 9 October operational supplement
+
+The September calibration remains a completed audit, not fresh proof of company values. Monitoring is degraded: disabled runtime since the last 29 September run. Interactive catch-up recovered Modine closing, TAI September revenue and Weebit risk/auditor/securities events; JEM quantified recovery and several dynamic primary feeds remain unknown. See `research/decision-refresh.md`. Confidence in capture can remain stronger than confidence in financial materiality and equity payoff. Exclude invalidated Modine/JEM model sleeves; no private holding-specific conclusion.
+
 ## Executive result
 
 The repository is strong at **source discipline, structural bottleneck mapping and falsification**, but confidence falls as the chain approaches **financial materiality, valuation precision and remaining-window equity return**. The dominant residual risk is not poor sourcing; it is over-precision at the action boundary before enough historical calibration exists.

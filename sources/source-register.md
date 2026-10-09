@@ -439,3 +439,33 @@ Record disagreements between credible sources rather than deleting inconvenient 
 - **SRC-BT261-H05-O02 — Enphase FY2022 10-K:** https://www.sec.gov/Archives/edgar/data/1463101/000146310123000025/enph-20221231.htm — primary; $2.3bn revenue, ~$397m net income, larger cash generation.
 - **SRC-BT261-H05-O03 — SMA FY2015 annual report:** https://www.sma.de/fileadmin/content/global/Investor_Relations/Documents/Publications/Finanzberichte/2015/en/2016-03-30_SMA_Annual_Report_2015_incl_Image_web.pdf?v=1653306429 — primary; €999.6m sales and positive EBIT after earlier weak cycle.
 - **SRC-BT261-H05-O04 — Advanced Energy inverter wind-down (2015-06):** https://www.sec.gov/Archives/edgar/data/927003/000092700315000050/exhibit991pressrelease_629.htm — primary; exit and $260–290m projected pre-tax charge.
+
+## 9 October 2026 decision refresh — #365–370 / #133 / #360 / #132
+
+Retrieved 9 October unless a card explicitly states an earlier underlying observation. Publication/financial period and quote timestamps are separately recorded in each canonical receipt. Primary issuer/regulator releases support operating facts; secondary market histories are only quote/reference evidence. Mirrors and inaccessible originals are labelled and do not pass missing financial gates. These pointers preserve the exact source URLs and counter-evidence, not a blanket primary-source confidence claim.
+
+| Canonical evidence receipt | Purpose and limitation |
+|---|---|
+| `research/cross-theme/networking-data-path.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/cross-theme/workflow-permissions.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/decision-refresh.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/discovery/october-challenge.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/companies/centrus-energy.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/companies/hainan-jinpan.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/companies/impro-precision.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/companies/modine.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/companies/tai-tech.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/energy/deep-dives/800vdc-second-order-profit-pools.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/memory/companies/japan-electronic-materials.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/memory/companies/micronics-japan.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/memory/companies/suss.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/memory/companies/weebit-nano.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/physical-ai/deep-dives/qnx-blackberry-gate-e.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/physical-ai/fort-robotics.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/physical-ai/grid-dynamics.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/physical-ai/namuga.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/robotics-actuators/companies/laifual-drive.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/scientific-ai/bruker-chemspeed-sciy.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+| `research/scientific-ai/tecan.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
+
+Bank of England benchmark: [17 September 2026 monetary-policy summary](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026). 3.75% Bank Rate is not an offered personal net cash yield.

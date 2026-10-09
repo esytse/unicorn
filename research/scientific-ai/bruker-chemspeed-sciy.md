@@ -6,6 +6,16 @@
 **Conclusion:** WATCH / evidence-building; no Gate-E promotion  
 **Confidence:** Medium on strategic fit; Low-Medium on near-term earnings materiality
 
+## Targeted financial decision — 9 October 2026 (#370)
+
+**WATCH / no Gate-E promotion.** [Issuer Q2 results, 4 Aug](https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Reports-Second-Quarter-2026-Financial-Results/default.aspx), observed through June: BSI bookings +10% organically and book-to-bill >1; Q2 group revenue $838.5m +2.8% organically; $134.9m goodwill impairment and GAAP operating loss $65.3m contrast with non-GAAP operating profit $118.5m. H1 organic revenue fell 0.8%. Guide now $3.54–3.57bn revenue, non-GAAP EPS $2.10–2.15, superseding older $3.57–3.60bn below. June cash $184.9m versus long-term debt $1,814.7m plus current debt/leases $10.1m requires disciplined financing review. H1 OCF was -$6.2m and property/intangible purchases $53.0m, a simple cash-minus-investment deficit of ~$59.2m before acquisitions.
+
+**INTERPRETATION:** measurement qualification, installed workflows and integrated Chemspeed/SciY execution are credible merchant complements. Group bookings include other instruments/metrology; not enough is allocated to AI laboratory execution to establish company-level earnings sensitivity. Tecan is automation-purer with stronger segment recurring visibility; TMO/Danaher are broad benchmark incumbents, while private integrated labs can retain orchestration. Open interfaces can help adoption while limiting software rents; AI may reduce physical experiments. Goodwill impairment cautions against treating acquisitions as automatically accretive capture.
+
+**HYPOTHESIS / reverse gate:** at mature 20–30x the $2.10–2.15 adjusted guidance would mechanically support ~$42–64.50, before dilution and a cash/GAAP adjustment. This is a sensitivity, not fair value or a current-price comparison. There is no credible AI-specific bear/base/upside earnings bridge inside March 2028, so no probability, buy zone or position contribution is supplied. Structural confidence Medium-High; capture Medium; AI financial materiality Low; current equity valuation Unknown.
+
+**Output:** two-company financial/materiality comparison complete, zero Gate-E promotions. Rescan on separately disclosed SciY/Chemspeed orders, paid deployment/renewal and recurring margins large enough to move consolidated FCF, with debt/capex and dilution reconciled. Buy/Add WAIT; Hold requires valuation-supported forward cash returns; Trim if laboratory-AI recognition outruns contribution; Sell/reject on acquisition economics, financing or merchant capture failure. No actual holding or trade assumed.
+
 
 ## Evidence-chain calibration — 24 September 2026
 

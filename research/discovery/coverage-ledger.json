@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-26",
+  "as_of": "2026-10-09",
   "thesis_chain": "Abundant Intelligence -> Scarce Complements -> Bottleneck Migration -> Economic Capture -> Capital Allocation",
   "allowed_results": [
     "ACTIVE_CANDIDATES",
@@ -46,7 +46,8 @@
       "sources": [
         "research/memory/research-plan.md",
         "research/cross-theme/scarce-complement-map.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -90,7 +91,8 @@
       "sources": [
         "research/energy/research-plan.md",
         "research/energy/second-order-ranking.md",
-        "research/energy/deep-dives/transformer-second-order-suppliers.md"
+        "research/energy/deep-dives/transformer-second-order-suppliers.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -122,7 +124,8 @@
       "sources": [
         "research/energy/deep-dives/electrical-backbone-800vdc.md",
         "research/energy/second-order-ranking.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -161,7 +164,8 @@
       "sources": [
         "research/cross-theme/liquid-cooling-components.md",
         "research/energy/deep-dives/cooling-heat-rejection.md",
-        "research/cross-theme/thesis-first-discovery-2026-09-24.md"
+        "research/cross-theme/thesis-first-discovery-2026-09-24.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -202,7 +206,8 @@
       "sources": [
         "research/robotics-actuators/research-plan.md",
         "research/robotics-actuators/synthesis-ranking.md",
-        "research/robotics-actuators/deep-dives/linear-actuation.md"
+        "research/robotics-actuators/deep-dives/linear-actuation.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -238,7 +243,8 @@
       "sources": [
         "research/physical-ai/humanoid-safety-discovery.md",
         "research/physical-ai/fort-robotics.md",
-        "research/cross-theme/scarce-complement-map.md"
+        "research/cross-theme/scarce-complement-map.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -275,7 +281,8 @@
       "sources": [
         "research/physical-ai/edge-production-readiness.md",
         "research/cross-theme/scarce-complements.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -315,7 +322,8 @@
       "sources": [
         "research/physical-ai/simulation-validation-discovery.md",
         "research/physical-ai/evaluation-verification-economics.md",
-        "research/cross-theme/scarce-complements.md"
+        "research/cross-theme/scarce-complements.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -350,7 +358,8 @@
       "sources": [
         "research/cross-theme/scarce-complement-map.md",
         "research/physical-ai/thesis.md",
-        "research/physical-ai/synthesis-ranking.md"
+        "research/physical-ai/synthesis-ranking.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -386,7 +395,8 @@
       "sources": [
         "research/cross-theme/sensing-bottlenecks.md",
         "research/physical-ai/humanoid-perception-discovery.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -427,7 +437,8 @@
       "sources": [
         "research/scientific-ai/execution-bottlenecks.md",
         "research/cross-theme/scientific-ai-execution.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
@@ -458,27 +469,32 @@
       "sources": [
         "research/cross-theme/akamai.md",
         "research/cross-theme/scarce-complements.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
       "id": "networking-data-path",
       "world_change": "Distributed and clustered AI raises data-path orchestration requirements",
       "scarce_complement": "networking architecture and DPU/SmartNIC control",
-      "coverage": "UNDER_COVERED",
-      "search_result": "COVERAGE_INCOMPLETE",
+      "coverage": "MEDIUM",
+      "search_result": "CANDIDATES_FOUND_BUT_REJECTED",
       "searched_families": [
         "DPU and SmartNIC CPU architecture",
         "cluster networking"
       ],
-      "active_listed_examples": [
-        "Arm: comparator only"
-      ],
+      "active_listed_examples": [],
       "rejected_or_parked_examples": [
-        "broad vendors where capture and valuation are unisolated"
+        "Coherent, Lumentum, Credo, Astera Labs: current reverse earnings / cash proof insufficient for promotion",
+        "Broadcom, Arista: incumbent benchmarks; no superior company-transforming valuation bridge"
       ],
-      "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "No bounded architecture-first public supplier search has established a company-transforming scarce layer.",
+      "private_or_uninvestable_benchmarks": [
+        "VAST Data",
+        "DDN",
+        "WEKA",
+        "MinIO"
+      ],
+      "remaining_gap": "Six screens completed; normalized diluted cash earnings, concentration and CPO/pluggable share still gate current investment attractiveness.",
       "rescan_triggers": [
         "new constrained networking architecture",
         "qualification or order inflection",
@@ -486,7 +502,9 @@
       ],
       "sources": [
         "research/cross-theme/scarce-complements.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md",
+        "research/cross-theme/networking-data-path.md"
       ]
     },
     {
@@ -517,29 +535,34 @@
       "sources": [
         "research/cross-theme/scarce-complements.md",
         "research/physical-ai/simulation-validation-discovery.md",
-        "research/ranked-universe.md"
+        "research/ranked-universe.md",
+        "research/discovery/october-challenge.md"
       ]
     },
     {
       "id": "workflow-permissions-distribution",
       "world_change": "Abundant agents require trusted access to enterprise systems and transactions",
       "scarce_complement": "identity, permissions, workflow integration and distribution",
-      "coverage": "BLIND_SPOT",
-      "search_result": "COVERAGE_INCOMPLETE",
+      "coverage": "EMERGING",
+      "search_result": "CANDIDATES_FOUND_BUT_REJECTED",
       "searched_families": [
         "high-level conceptual map only"
       ],
       "active_listed_examples": [],
-      "rejected_or_parked_examples": [],
+      "rejected_or_parked_examples": [
+        "Microsoft, ServiceNow, Okta, Palo Alto Networks: incremental agent-specific economics unisolated; valuation not cleared"
+      ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "The lane is broad and has no bounded value-chain search or tested company-capture mechanism.",
+      "remaining_gap": "Four architecture/capture benchmarks screened; paid attach, incremental earnings/cash and then current valuation still needed.",
       "rescan_triggers": [
         "bounded architecture question identifies a release gate",
         "switching cost or transaction economics become testable",
         "portfolio need justifies a focused scan"
       ],
       "sources": [
-        "research/cross-theme/scarce-complement-map.md"
+        "research/cross-theme/scarce-complement-map.md",
+        "research/discovery/october-challenge.md",
+        "research/cross-theme/workflow-permissions.md"
       ]
     },
     {
@@ -563,7 +586,8 @@
       ],
       "sources": [
         "research/cross-theme/scarce-complements.md",
-        "research/backtests/261/SPEC.md"
+        "research/backtests/261/SPEC.md",
+        "research/discovery/october-challenge.md"
       ]
     }
   ],

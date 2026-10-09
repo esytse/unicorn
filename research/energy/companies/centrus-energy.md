@@ -1,5 +1,10 @@
 # Centrus Energy — Gate-E Post-Financing Underwrite
 
+## Monitor checkpoint — 9 October 2026 (#129)
+
+[Issuer news index](https://www.centrusenergy.com/news/) rechecked against already captured September funding/customer evidence. [Market history](https://stockanalysis.com/stocks/leu/history/) $141.35 on Oct9 10:37 EDT is intraday and above $120–130. No new original funded-capacity tranche was established in this bounded pass. **REASSESS / WAIT**. Separate headline capital from usable committed project funds, full capex obligations and diluted equity/warrant economics. Existing 2029 capacity earnings remain outside March2028; near-window upside relies substantially on financing/schedule de-risking and rerating. Cameco's diversified fuel/services is a counter-case, not pure HALEU substitute. Hold only on funded timely per-share value; Trim if premium outruns funding; Sell on verified policy/funding/milestone failure or destructive dilution. No new probabilistic return or allocation; wait for original DOE/customer/tranche/manufacturing evidence.
+
+
 **Research stream:** AI/data-centre energy — Western enrichment / HALEU  
 **Ticker:** NYSE: LEU  
 **Status:** Investigating  

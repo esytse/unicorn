@@ -1,5 +1,10 @@
 # SUSS
 
+## Monitor checkpoint — 9 October 2026 (#126)
+
+[Issuer archive](https://www.suss.com/en/newsroom/news-archive) confirms Oct1 GreenTec, already captured on main. Product launch and 2027 300mm HVM roadmap are not qualified booked orders or margin proof. [Secondary history](https://stockanalysis.com/quote/etr/SMHN/history/) gives Oct8 €65.25, Oct9 €66.20 timestamped 15:47 (intraday), outside €60–62 region. **WAIT**; no new deployment or higher band. Backlog conversion and process-of-record durability versus hybrid bonding/incumbents remain controlling. Hold if cash/earnings and forward valuation support it; Trim if premium outruns conversion, Sell if process loss/architecture migration breaks economics. Next material backlog/results/process evidence, not another product announcement. No new scenario probabilities or holding inferred.
+
+
 **Research stream:** AI memory — HBM wafer thinning / temporary bonding / hybrid bonding  
 **Status:** Watch  
 **Confidence:** Medium  

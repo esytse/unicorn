@@ -49,6 +49,10 @@ class PortfolioFeasibilityTests(unittest.TestCase):
         self.mutate(lambda data: data['candidates']['Modine'].update(sell=''))
         self.assert_detects('missing entry/add/trim/sell/thesis-break rule')
 
+    def test_suspended_case_cannot_receive_weight(self):
+        self.mutate(lambda data: data["portfolios"][1]["positions"].append({"candidate": "JEM", "initial_weight_pct": 0, "staged_weight_pct": 1}))
+        self.assert_detects("suspended case has positive weight")
+
     def test_hurdle_classification_error_is_detected(self):
         self.mutate(lambda data: data['hurdles'][0].update(classification='LIKELY'))
         self.assert_detects('invalid hurdle classification')

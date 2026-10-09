@@ -10,7 +10,7 @@ Start with a change in the world and the scarce complement it creates. The [rank
 
 | Task | Authoritative starting point |
 |---|---|
-| Understand methodology and version boundaries | [Repository authority map](docs/REPOSITORY_GOVERNANCE.md), [discovery/reverse-underwrite method](research/unicorn-potential.md), [evidence quality controls](research/evidence-quality-audit.md); prospective method changes wait for [#325](https://github.com/esytse/unicorn/issues/325) |
+| Understand methodology and version boundaries | [Repository authority map](docs/REPOSITORY_GOVERNANCE.md), [discovery/reverse-underwrite method](research/unicorn-potential.md), [evidence quality controls](research/evidence-quality-audit.md); prospective method controls were completed in [#325](https://github.com/esytse/unicorn/issues/325) |
 | Discover bottlenecks and record negative searches | [Current discovery coverage and negative-search ledger](research/discovery/COVERAGE.md), then the [structural scarce-complement map](research/cross-theme/scarce-complement-map.md) and relevant theme thesis/value chain; dated scans remain evidence |
 | Research a company | The relevant theme's [company/deep-dive tree](research/) and [source register](sources/source-register.md); [watchlist](watchlist.md) is a derived index |
 | Find the current ranking or portfolio decision rules | [Ranked universe](research/ranked-universe.md) for order; [PORTFOLIO.md](PORTFOLIO.md) for Gate-E mandate, allocation and transaction rules; company evidence and live issues supply inputs |

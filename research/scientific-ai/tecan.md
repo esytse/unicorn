@@ -6,6 +6,16 @@
 **Current conclusion:** **WATCH / evidence-building — do not promote to Gate-E yet**  
 **Confidence:** Medium on strategic fit; Low-Medium on AI-specific financial materiality
 
+## Targeted financial decision — 9 October 2026 (#370)
+
+**WATCH / no Gate-E promotion.** Rechecked [H1 letter](https://www.tecanannualreport.com/interim-report-2026/letter-to-shareholders) and [cash-flow statement](https://www.tecanannualreport.com/interim-report-2026/interim-financial-report-2026/interim-consolidated-statement-of-cash-flows). Economic observation remains June, not October. Book-to-bill 1.04, local-currency sales +3.4%, recurring Life Sciences share 64.4%, OCF CHF17.0m and net liquidity CHF73.5m are already in the September card. None is new AI-attributed profit proof. Reported H1 EPS CHF0.99 versus adjusted CHF2.62 makes transformation/accounting exclusions material to valuation.
+
+**INTERPRETATION:** installed instruments and validation/service/consumables support moderate switching costs; the API/data layer is promising but open interfaces also weaken proprietary orchestration rents. TMO/Danaher are stronger broad measurement/service benchmarks, private Automata/Opentrons/HighRes/Hamilton can capture execution directly, and more efficient AI experiment selection can reduce instrument runs. Higher utilization is not automatically higher paid revenue.
+
+**HYPOTHESIS:** the 2028 CHF1bn/20% EBITDA ambition is not a March-2028 cash forecast. Without normalized FCF, paid software attach and incremental AI profit, a reverse DCF would solve invented inputs. No current quote, buy band or EPS/multiple bridge is asserted by this discovery card. Structural confidence Medium-High; company capture Medium; AI financial materiality Low; equity/valuation Unknown. Financial strength is tempered by working-capital cash decline and transformation spending despite net liquidity.
+
+**Gate/output:** no new underwrite. Need dated paid deployments/renewals, AI-attributable orders/utilization-to-revenue conversion, recurring attach margins and cash recovery. Buy/Add WAIT; Hold only after forward cash valuation beats alternatives; Trim if AI premium outruns these economics; Sell/reject if paid attachment fails, integration becomes commodity or cash weakness is structural. No actual holding inferred. Preserve the completed #176 screen; this closes #370's Tecan comparison unit without claiming a full valuation.
+
 
 ## Evidence-chain calibration — 24 September 2026
 
