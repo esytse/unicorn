@@ -5,6 +5,12 @@
 **State:** **POTENTIAL — credible 3x architecture, not yet validated**  
 **Boundary:** research conclusion only; no brokerage action.
 
+## Primary-source retry — 10 October 2026 (#292)
+
+**FACT / secondary cross-check:** [MoneyDJ, 7 October 15:02](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=30f5f1f5-c0b1-4ae5-8bdd-8ac59ba75b0e) reproduces September NT$855.038m (+47.79%), YTD NT$6,459.848m (+34.09%), matching the prior announcement mirror. Both may share an upstream feed; this is not independent primary confirmation. [Issuer series](https://www.tai-tech.com.tw/data-136722) still has September blank; direct MOPS original not recovered by the bounded retry.
+
+**INTERPRETATION:** no new AI-mix, margin or cash observation. **REASSESS / WAIT**, existing NT$190–210 condition and size ceilings unchanged; no chasing the dated NT$226.50 reference. Next gate: direct monthly original plus Q3 financial attribution, or intact entry condition with fresh executable quote. Primary access failure is UNKNOWN, not evidence of no announcement or thesis failure.
+
 ## Current decision — 9 October 2026 (#292)
 
 **REASSESS / WAIT for new capital.** Latest dated secondary quote: **NT$226.50, 8 Oct**, TPEX 3357, above the governed NT$190–210 starter band. Old ACTION snapshots below are historical. No higher entry band is justified; the public quote is not executable. [Yahoo Taiwan](https://tw.stock.yahoo.com/quote/3357.TW/major-holders).

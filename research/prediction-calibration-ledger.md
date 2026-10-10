@@ -52,3 +52,18 @@ The objective is to learn whether the repository's evidence categories predict *
 This is the **live prospective calibration ledger** and the only ledger that should receive future candidate checkpoint/outcome observations. The earlier `decision-outcome-calibration-ledger.md` is retained as the Wave-5 seed/audit artifact and should not receive parallel live updates.
 
 For new formally registered candidate decisions, use the [machine-checkable T0 and checkpoint records](prospective/README.md). This qualitative ledger remains the narrative index for existing live monitors; future entries here must link their sealed decision ID and never overwrite the original T0. Historical #261 remains frozen separately.
+
+
+## 10 October 2026 — existing-monitor observations
+
+These append observations to the frozen 24 September rows; they do not register new sealed candidate decisions or overwrite T0. Canonical company cards contain sources and financial periods.
+
+| Existing monitor | Catalyst / financial conversion | Thesis-break / action | Process lesson |
+|---|---|---|---|
+| Modine | Separation complete; historical standalone pro forma recovered; forward cash bridge incomplete | No verified thesis break; WAIT, old package band suspended; equity confidence Low pending forward reconciliation | Completion of a transaction is distinct from completion of a return underwrite; amended SEC filings need direct coverage |
+| JEM | Flood disruption disclosed; quantified recovery unknown; Nov10 results scheduled | Risk unresolved, not proved permanent loss; WAIT at any price | A dated calendar is not loss/restart evidence |
+| Weebit | June funding evidence recovered; media source corrects its own risk framing; current royalties/cash/dilution gate open | No verified funding failure from media alone; WAIT | Accounting loss, cash burn, historical liquidity and future funding are different observations |
+| Jinpan | Dividend/conversion mechanics recovered; cash/qualification conversion still unproved | WAIT; mechanical ex-band continuity only | Corporate-action precision does not confer valuation precision |
+| TAI-TECH | September secondary sales cross-check; primary/mix/FCF incomplete | REASSESS above band | Aggregators sharing a feed are not independent confirmations |
+
+No return outcome, probability calibration or actual holding performance is inferred from these partial checkpoints.

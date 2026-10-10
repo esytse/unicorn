@@ -1,7 +1,7 @@
 # Unicorn decision refresh and coverage receipt
 
 **Lifecycle:** LOG; company files, coverage ledger, ranking and PORTFOLIO remain authoritative
-**As of:** 2026-10-09 Europe/London
+**As of:** 2026-10-10 Europe/London
 **Programme:** #117; audit #365; user-authorized execute-all refresh
 **Boundary:** £40,000 research mandate through March 2028; £80,000 primary objective. No personal positions, balances or trades.
 
@@ -58,3 +58,22 @@ Discovery units #367/#368/#370 conclude without new Gate-E promotions; their can
 | #360 / P0; #132 / P1 | DONE current refresh; future cycle WAITING | Material opportunity/holdings change; next monthly ranking cycle | Deployment/cash, objective feasibility and capital priority |
 
 **First five next units, when dependencies resolve:** (1) Weebit originals/runway: new price-sensitive governance/funding risk; (2) JEM recovery: thesis-break and loss exposure; (3) Modine standalone economics: obsolete per-share decision basis; (4) Jinpan original corporate-action/cash reconciliation: intraday entry touch cannot override adjustment/dilution uncertainty; (5) TAI primary mix/cash attribution: strong growth at an above-band price can mislead entry/add decisions. These rank by urgent decision impact and information value, not structural familiarity. Operational recovery remains a separate #120 prerequisite for dependable scheduled monitoring.
+
+
+## 10 October continuation — executable source recovery completed
+
+Five existing issues were promoted READY then claimed RUNNING for bounded, user-authorized source recovery, after checking live PRs/claims. This does not execute future financial results or bypass gates. Canonical cards above their earlier receipts govern where evidence differs.
+
+| Issue | Completed now | Remaining decision gate / resulting state |
+|---|---|---|
+| #127 / P0 | Issuer FY2026 funding evidence and ABC correction recovered; failed October-original routes documented | WAITING: original response/auditor/securities, current cash/dilution and royalties; no media-led Sell or price-led Buy |
+| #146 / P0 | Previously missed 7 Oct SEC amendment reconciles historical standalone balance/earnings | WAITING: forward guidance, normalized FCF/current debt and shares; new standalone valuation, then Buy/Hold/Trim/Sell |
+| #125 / P0 | Exact November results/briefing dates verified; recovery disclosure rechecked | WAITING: quantified restart/delivery/loss/insurance/cash; entry veto remains |
+| #130 / P1 | Conversion notice/denominator recovered, dilution and ex-band mechanics reconciled | WAITING: named repeat qualification, cash/margins and forward valuation; price touch is not permission |
+| #292 / P0 | Secondary September cross-check; primary series/MOPS retry documented | WAITING: primary original and AI mix/cash attribution or intact entry condition |
+
+**Monitoring limitation:** the prior catch-up missed the SEC amendment; a static issuer index is insufficient for amended filings. This is an observed collection miss, not a company thesis break. Scheduler remains paused/degraded; source recovery does not restore runtime health. #120 retains pause-preference/scheduled-run verification dependency.
+
+**Portfolio implication:** no eligible case, signal, ceiling or weight changed; the same controlled model arithmetic remains valid. MOD/JEM stay excluded. £80k remains unsupported; hypothetical initial 10%/cash90% is a research surface, not a supplied account or executed portfolio. Recompute feasibility when forward inputs materially change, rather than create fictional scenarios to exhaust issues. Frozen #261 unchanged.
+
+**Completion boundary:** bounded executable refresh units are complete; recurring company monitors and future/public/private dependencies remain open with triggers. GDYN Oct29, JEM Nov10, MJC Nov12 results and FORT usable public terms cannot be completed early. Privately supplied holdings/access/cash limits are still needed for holding-specific decisions. No brokerage execution.

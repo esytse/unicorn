@@ -2,7 +2,7 @@
 
 **Status:** Active canonical cross-theme ranking  
 **Lifecycle:** CANONICAL
-**Live Gate-E refresh:** 2026-10-09
+**Live Gate-E refresh:** 2026-10-10 (bounded source recovery; ranks unchanged)
 **Parent backlog:** #110 / #356
 **Purpose:** Preserve the uncapped thesis-first research universe while separately ordering the same companies for the March-2028 capital objective.
 
@@ -22,16 +22,16 @@ The table is the sole complete 65-company inventory. Each company appears once w
 | **1** | **1** | **Laifual Drive** | Robotics actuation | Current ACTION | ACTION | 5% starter at <=HK$48; convex upside, but cash conversion, ASP pressure and capacity cap pre-proof size |
 | **2** | **10** | **Impro Precision Industries** | Distributed power / liquid cooling | Current ACTION | ACTION | 5% starter at HK$6.6–7.2; visible earnings engine and independent drivers, with cash/certification gate |
 | **3** | **4** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | Next trigger | REASSESS | NT$226.50 checked: above NT$190–210 starter; September growth does not resolve AI mix/cash attribution |
-| **4** | **3** | **Modine / Modexus** | AI cooling | Next trigger | WAIT | Separation closed; old combined-package band suspended; standalone guidance/debt/FCF valuation required |
+| **4** | **3** | **Modine / Modexus** | AI cooling | Next trigger | WAIT | Separation closed; old combined-package band suspended; historical debt reconciled; forward guidance/FCF valuation required |
 | **5** | **2** | **Centrus Energy** | LEU / HALEU | Next trigger | REASSESS | Exceptional scarcity and low thematic correlation; funded-capacity, timing and dilution still gate capital |
 | **6** | **8** | **SUSS MicroTec** | HBM advanced packaging | Next trigger | WAIT | Visible 2027 backlog; process durability and ~€60–62 valuation trigger precede deployment |
-| **7** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | WAIT | Independent AIDC engine; named qualification, cash conversion and ~CNY54–57 gate remain open |
+| **7** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | WAIT | Independent AIDC engine; named qualification/cash gate open; mechanically ex-adjusted ~CNY53.8–56.8 reassessment |
 | **8** | **5** | **BlackBerry / QNX** | Runtime / functional safety | Next trigger | REASSESS | Profitable recurring engine, but current valuation embeds success; <=~US$7 or stronger new evidence |
 | **9** | **15** | **Namuga** | Humanoid 3D sensing | Next trigger | WAIT | Sole-source programme creates convexity; <=KRW13–14k or disclosed order economics needed |
 | **10** | **22** | **Grid Dynamics** | Physical-AI deployment | Next trigger | REASSESS | Modest starting value and live programs; recurring/platform proof plus $6.5–7.2 needed |
 | **11** | **17** | **Micronics Japan** | HBM probe cards | Next trigger | WAIT | Strong franchise; entry setup and customer concentration remain weaker than JEM |
 | **12** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | WAIT | Thailand recovery/loss/cash unquantified; old deployment bridge suspended, urgent sell-risk review |
-| **13** | **16** | **Weebit Nano** | ReRAM | Next trigger | WAIT | ASX risk response/auditor/securities originals unavailable; financing and dilution veto before price entry |
+| **13** | **16** | **Weebit Nano** | ReRAM | Next trigger | WAIT | June liquidity verified; October originals/current cash and dilution remain entry gates |
 | **14** | **9** | **nVent** | Electrical / cooling | Quality / valuation watch | WATCH | Resilient platform and useful diversification; present setup does not outrank nearer governed triggers |
 | **15** | **6** | **Siemens Energy** | Turbines / grid | Quality / valuation watch | WATCH | Strong capture but larger rerated base reduces remaining-window asymmetry |
 | **16** | **14** | **Onto Innovation** | AP process control | Quality / valuation watch | WATCH | Direct HBM4 capture and strong economics; valuation limits responsible contribution |
@@ -92,7 +92,7 @@ The canonical [Impro refresh](energy/companies/impro-precision.md#evidence-refre
 
 ### Capital-tier interpretation
 
-- **Current ACTION:** only the three governed conditional 5% starters. All require a fresh executable-condition and thesis check; no brokerage action is assumed.
+- **Current ACTION:** only Laifual and Impro, the two governed conditional 5% starters. All require a fresh executable-condition and thesis check; no brokerage action is assumed.
 - **Next trigger:** a bounded existing price/evidence/event rule can promote the candidate. Until it fires, tactical cash is the better capital state.
 - **Speculative / evidence build:** a potentially material engine exists, but evidence confidence, dilution, capital intensity or binary execution caps size or blocks entry.
 - **Quality / valuation watch:** structural/company quality may be high while the current remaining-window setup is inferior.

@@ -1,4 +1,10 @@
-## 2026-10-01 — Remaining leading-candidate evidence sweep
+## 2026-10-10 — Decision-critical source recovery
+
+- Executed five bounded existing monitor units after valid READY/RUNNING claims. Recovered WBT historical funding and ABC correction, previously missed MOD amended SEC pro forma, JEM exact November calendar and Jinpan conversion mechanics; TAI primary retry remains incomplete.
+- Retained facts/inferences/source-access limitations; no fictional forward scenarios or risk probabilities. Historical liquidity/debt and corporate-action precision do not establish current investment attractiveness.
+- Corrected current capital-tier text to two conditional starters and Jinpan's mechanically ex-adjusted reassessment band. No ranks, signals, ceilings, eligible weights or model arithmetic changed; MOD/JEM remain suspended and £80k unsupported.
+- Updated canonical/source records, append-only calibration and execution receipt; each monitor returns WAITING on a concrete residual gate. Scheduler remains paused/degraded. Frozen #261 unchanged; no holdings inferred or brokerage trades.
+- Restored chronological changelog grouping for the earlier 1 October sweep, whose heading had preceded the 9 October entry.
 
 ## 2026-10-09 — decision refresh execution
 
@@ -8,6 +14,8 @@
 - Updated dual-axis capital order, discovery ledger and probability-free March-2028 arithmetic: hypothetical 10% initial / 90% cash, £80k unsupported by current controlled evidence. No holdings inferred, probabilities invented or brokerage trades placed.
 - Updated validation states and added a guard/test preventing suspended cases from positive portfolio weights. Frozen #261 unchanged.
 
+
+## 2026-10-01 — Remaining leading-candidate evidence sweep
 
 - Checked the 11 remaining leading monitored candidates plus FORT against current issuer/event sources. Recorded dynamic-feed and direct-PDF retrieval gaps explicitly; this is not an executable-price refresh or full 65-company re-underwrite.
 - JEM's 30 September Thailand flood shutdown tightens the entry gate: require recovery/damage/delivery and guidance/cash evidence before any entry. Near-window confidence reduced to Low-Medium; WAIT retained; loss magnitude unknown, so no manufactured scenario haircut or numerical rerank.
