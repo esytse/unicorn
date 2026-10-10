@@ -2,7 +2,7 @@
 
 **Status:** Active
 **Strategy reference:** 2026-09-09
-**Live decision surface refreshed:** 2026-09-25
+**Live decision surface refreshed:** 2026-10-09 (source-gate continuation 2026-10-10)
 **Target date:** March 2028
 **Backlog:** #117
 **Automation:** PAUSED / DEGRADED — #120 / `AUTOMATION.md`

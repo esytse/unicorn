@@ -2,6 +2,7 @@
 
 - Executed five bounded existing monitor units after valid READY/RUNNING claims. Recovered WBT historical funding and ABC correction, previously missed MOD amended SEC pro forma, JEM exact November calendar and Jinpan conversion mechanics; TAI primary retry remains incomplete.
 - Retained facts/inferences/source-access limitations; no fictional forward scenarios or risk probabilities. Historical liquidity/debt and corporate-action precision do not establish current investment attractiveness.
+- Aligned QNX monitor priority to the authoritative live P1 issue and portfolio freshness metadata to its October receipt.
 - Corrected current capital-tier text to two conditional starters and Jinpan's mechanically ex-adjusted reassessment band. No ranks, signals, ceilings, eligible weights or model arithmetic changed; MOD/JEM remain suspended and £80k unsupported.
 - Updated canonical/source records, append-only calibration and execution receipt; each monitor returns WAITING on a concrete residual gate. Scheduler remains paused/degraded. Frozen #261 unchanged; no holdings inferred or brokerage trades.
 - Restored chronological changelog grouping for the earlier 1 October sweep, whose heading had preceded the 9 October entry.
