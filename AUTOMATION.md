@@ -122,15 +122,15 @@ Historical Gate-D / old Gate-C 10/12/15% or four-year price zones are **context 
 - #293 Impro Precision — `WAITING` P0 **ACTION monitor**: starter 5% research sleeve at HK$6.6–7.2 while FY26 growth guidance and the Mexico/cooling ramp remain intact; notify only on a new material change because the current condition has already been surfaced.
 - #294 Namuga — `WAITING` P1 on <=KRW13–14k with award/timing intact or first material robot-programme order/revenue economics; no current ACTION.
 - #295 Grid Dynamics — `WAITING` P1 on stronger recurring/platform evidence plus roughly US$6.5–7.2; price alone does not create ACTION.
-- #125 JEM — `WAITING` P0 on quantified Thailand restart/delivery/loss/insurance/cash and revised guidance; price/HBM entry suspended until recovery underwriting.
+- #125 JEM — `WAITING` P0 on quantified Thailand restart/delivery/loss/insurance/cash and revised guidance; results 10 Nov 16:00 JST; price/HBM entry suspended until recovery underwriting.
 - #126 SUSS MicroTec — `WAITING` P1 on ~€60–62 with thesis intact or material backlog/process/hybrid-bond evidence.
-- #127 Weebit Nano — `WAITING` P0 on original 7 Oct risk response, 6 Oct auditor and 30 Sep securities reconciliation, runway and dilution. A$2.80 does not clear this gate.
+- #127 Weebit Nano — `WAITING` P0 on original 7 Oct risk response, 6 Oct auditor and 30 Sep securities reconciliation, current cash and dilution (June cash verified 10 Oct). A$2.80 does not clear this gate.
 - #128 Micronics Japan — `WAITING` P1 on ~¥10,000–10,800 with thesis intact or material HBM4/HBM4E / customer / FCF evidence.
 - #106 BlackBerry/QNX — `WAITING` P0 after the 24 Sep Q2 FY2027 Gate-E refresh merged via PR #184; next trigger is <=~US$7 with thesis intact or material new Alloy Kore/content/backlog/non-auto production evidence.
 - #108 FORT Robotics — `WAITING` P1 on S-4/equivalent / transaction change.
 - #129 Centrus — `WAITING` P1 on ~US$120–130 with thesis intact or specific funded-capacity / DOE / customer / construction evidence.
-- #130 Jinpan — `WAITING` P1 on ~CNY54–57 with thesis intact or named/repeat global AIDC / margin / FCF evidence.
-- #146 Modine / Modexus — `WAITING` P0: 1 Oct close verified; old combined-package band suspended. Standalone guidance, debt/FCF and adjusted valuation required.
+- #130 Jinpan — `WAITING` P1 on mechanically ex-adjusted ~CNY53.8–56.8 with thesis intact or named/repeat global AIDC / margin / FCF evidence.
+- #146 Modine / Modexus — `WAITING` P0: 1 Oct close verified; old combined-package band suspended. Historical June pro forma debt reconciled from 7 Oct amendment; forward guidance, current debt/FCF and adjusted valuation required.
 - #85 Harmonic Drive — `PARKED` P2 pending major valuation or humanoid-profit evidence.
 - #109 QNX vs FORT — `BLOCKED` P1 until both event-driven underwrites are fresh.
 

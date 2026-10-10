@@ -45,3 +45,8 @@ All £80k/£120k/£160k/£200k hurdles are unsupported by the current controlled
 Rerun on material changed prices, recovery/guidance, cash conversion, funded capacity, new independently qualified capture or supplied holdings. Company-level entry/add/trim/sell rules remain canonical; rank is not permission to trade. Holding-specific retain/add/trim/sell decisions need private tickers, quantities/current values, cash, access and concentration constraints; no cost-basis anchoring.
 
 **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation** remains the governing chain.
+
+
+## 10 October input-gate reconciliation
+
+Historical MOD balance/earnings recovery and Jinpan conversion mechanics improve source confidence without supplying a new eligible forward return case. JEM recovery and current WBT funding/dilution remain gated. Company cards hold the dated evidence. No financial eligibility, weight, scenario or price input changed; the 9 October calculation is retained, not represented as newly priced. £80k remains unsupported. Rerun #360 when current forward economics, responsible ceilings, qualifying entry conditions or explicitly supplied holdings materially change.

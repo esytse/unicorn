@@ -4,8 +4,16 @@
 **Investment Capture Score:** **3.9 / 5**  
 **Confidence:** Medium  
 **Primary lane:** integrated thermal systems / heat rejection  
-**Last evidence refresh:** 2026-09-19  
+**Last evidence refresh:** 2026-10-10 (historical pro forma; forward gate open)
 **Backlog:** issue #146
+
+## Standalone reconciliation — 10 October 2026 (#146)
+
+**FACT:** [7 October SEC 8-K/A, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/67347/000110465926114220/mod-ex99d1.htm) was missed by the prior catch-up. Historical unaudited June pro forma: cash $54.1m, gross debt $319.4m; derived net debt $265.3m. The $198.6m repayment includes $156m distribution plus $42.6m adjustable cash transfer: do not subtract either again. Q1 continuing sales $596.3m, EBIT $51.2m, pretax $47.6m, net $58.7m and diluted shares 54m; tax benefit makes $1.09 EPS unsuitable for annualization. Remaining transaction costs estimated $31m; TSA income excluded. FY2026 EBIT is $230.7m; the $116.1m pension charge is below EBIT, reducing pretax earnings.
+
+**HYPOTHESIS / sensitivity, not forecast:** Q1 pretax at 24% tax gives $0.67 EPS, mechanically $2.68 annual. The old $181.89 quote implies ~$10.09bn EV using historical net debt/54m shares; at 25–35x earnings it requires $5.20–7.28 EPS just to support that price.
+
+**INTERPRETATION:** historical reconciliation improves; forward earnings/FCF remain unresolved. **WAIT**; no standalone buy band, scenario promotion or positive model weight. Next gate: continuing-company guidance, normalized cash/capex, current debt/shares and transaction/TSA effects. June pro forma is not October actuals; combined guidance and old package targets remain inapplicable.
 
 ## Post-close decision — 9 October 2026
 

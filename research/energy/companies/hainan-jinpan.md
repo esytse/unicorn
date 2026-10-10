@@ -1,5 +1,13 @@
 # Hainan Jinpan Smart Technology — Gate-E AI-Power Underwrite
 
+## Conversion/dilution reconciliation — 10 October 2026 (#130)
+
+**FACT / issuer disclosure on designated publication host:** [9 October announcement 2026-084](https://paper.cnstock.com/html/2026-10/09/content_2275158.htm) reports CNY273,000 converted into 3,029 shares during July–September; CNY1,671,227,000 face remains outstanding. It confirms conversion price **CNY88.38 effective 8 October**, formerly 88.60. [23 September adjustment announcement](https://app.cnstock.com/zzb/zgzqb/html/2026-09/23/nw.D110000zgzqb_20260923_5-B006.htm) and prior cash-distribution notice concern dividends/conversion, not a stock split. [Issuer disclosure mirrored by Sina](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12632114&stockid=688676) supplies September basic shares **459,787,393**. Direct SSE PDF retrieval remains unsuccessful; source host/access limitations are retained.
+
+**HYPOTHESIS / mechanical sensitivity:** full conversion at 88.38 would add ~18.91m shares (~4.11%), total ~478.70m; per-share earnings dilution ~3.95% at unchanged profit. This is not forecast conversion at the old CNY59.16 quote. Conversion also removes corresponding debt: never charge both dilution and unchanged converted debt. Cash-dividend ex-adjustment ~0.2197 translates the old 54–57 reassessment band to **about CNY53.8–56.8** only as mechanical continuity, not newly underwritten fair value. The Oct9 low56.30 still touched this region; close59.16 did not.
+
+**INTERPRETATION:** mechanics substantially resolved; **REASSESS / WAIT**, no price-led ACTION. Remaining gate: named repeat AIDC qualification, normalized margins/working capital/FCF, current debt and responsibly diluted forward valuation. Existing ceilings unchanged. Hold/Trim/Sell remain forward-economics decisions, independent of cost basis. No new eligible portfolio weight.
+
 ## Corporate-action checkpoint — 9 October 2026 (#130)
 
 **FACT / issuer notice reproduced by secondary host:** [23 Sep implementation notice](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12616248&stockid=688676) declares CNY0.22/share cash dividend, Sep30 record / Oct8 ex-payment, explicitly no bonus or capital-reserve shares. Differential ex-price adjustment ~CNY0.2197; share count 459,787,393, excluding 710,000 repurchased shares for entitlement. This resolves confusion between cash distribution and separately announced convertible conversion-price changes; no stock split is inferred. Direct SSE original remains required.
@@ -12,7 +20,7 @@
 **Investment Capture Score:** **4.0 / 5**  
 **Confidence:** Medium-Low  
 **Primary lanes:** transformers; prefabricated data-centre power modules; emerging SST/HVDC optionality  
-**Last substantive update:** 2026-09-10  
+**Last substantive update:** 2026-10-10 (corporate actions; operating evidence older)
 **Backlog:** #130
 
 

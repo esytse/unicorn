@@ -4,8 +4,16 @@
 **Ticker:** ASX: WBT  
 **Status:** Watch  
 **Confidence:** Medium  
-**Last substantive update:** 2026-09-10  
+**Last substantive update:** 2026-10-10 (financial period remains June)
 **Backlog:** #127 (current Gate-E); historical #5
+
+## Funding evidence recovery — 10 October 2026 (#127)
+
+**FACT:** [FY2026 annual report](https://investors.weebit-nano.com/site/pdf/073727f7-e95b-4f5c-af21-fac321cd4208/Platform/ListPage/Appendix-4E-2026-Annual-Report.pdf), signed 27 August, reports June cash A$168.342m and annual operating cash outflow A$18.397m. Loss A$54.897m is not cash burn. Horizon Nexus issued an unmodified opinion; funding/liquidity was a key audit matter. Directors forecast sufficient cash for at least twelve months from signing, not through March 2028. [ABC's 8 October correction](https://www.abc.net.au/news/corrections/2026-10-08/weebit-nano/107241504) corrects its own bankruptcy-risk presentation; it does not prove future funding adequacy.
+
+**INTERPRETATION:** June liquidity is now verified; October cash and diluted shares remain unknown. Media allegations alone do not establish a Sell trigger. Royalty/capture confidence and equity confidence remain unchanged; **WAIT / no new capital**.
+
+**OPEN QUESTION:** October response, auditor-change reasons and September securities originals still inaccessible after issuer/ASX widgets and redistribution routes. The MarketIndex link tested was a logo, not a recovered PDF. Next gate: usable originals plus quarterly cash/royalties and diluted denominator. Existing Buy/Hold/Add/Trim/Sell rules below remain subject to this gate; historical cash/burn ratios are not runway forecasts.
 
 ## Risk/source gate — 9 October 2026
 

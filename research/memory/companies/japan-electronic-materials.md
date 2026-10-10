@@ -5,7 +5,13 @@
 **Status:** Investigating  
 **Gate-E portfolio role:** Watch / pre-entry catalyst-asymmetric candidate  
 **Confidence:** Medium on current operating capture; Low-Medium on remaining-window deployability after Thailand shutdown
-**Last substantive update:** 2026-10-01
+**Last substantive update:** 2026-10-10 (calendar/recovery source check)
+
+## Recovery/calendar checkpoint — 10 October 2026 (#125)
+
+**FACT:** [Issuer IR calendar](https://www.jem-net.co.jp/ir/ir-schedule) schedules interim results **10 November 2026, 16:00 JST**, analyst briefing **13 November**; dates may change. This resolves the unconfirmed date below. [Issuer homepage](https://www.jem-net.co.jp/) still lists the [30 September flood notice](https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf) without a later quantified recovery update in this bounded check. That notice discloses production stopped, no confirmed injuries, and assessment of damage/restart/delivery effects. It does not establish the current operating status on 10 October.
+
+**INTERPRETATION:** **WAIT / no new entry at any price** remains. Calendar certainty is not recovery proof; do not manufacture loss, insurance receipts or revised EPS. Next gate: restart and customer deliveries, loss/insurance, guidance and cash funding, immediately on material disclosure or at November results. Existing holding rules apply only after those observations; no holding is assumed.
 
 ## Risk decision — 9 October 2026 (#125)
 
