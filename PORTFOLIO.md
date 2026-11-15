@@ -1,5 +1,21 @@
 # Aggressive Dynamic Portfolio Strategy — Gate E
 
+## Current checkpoint — 15 November 2026
+
+**REASSESS: Impro and Laifual.** This checkpoint takes precedence over the dated starter eligibility below for new capital decisions. Apply the existing material-price-move review and no-price-only-Add rules; do not interpret an old upper entry ceiling as an evergreen buy instruction.
+
+**FACT:** secondary public closing-price observations for 13 November are HK$4.955 for Impro and HK$26.50 for Laifual (SRC-PRICE-20261115-IMP / LAI). These are dated reference quotes, not executable prices or issuer economic evidence.
+
+**INTERPRETATION:** the old entry underwrites need refreshing. Impro is below its original HK$6.6–7.2 entry band and within its old HK$3.7–5.1 bear valuation range. Laifual is within its old HK$25–35 bear range. A price entering a bear range does not establish that the operating bear assumptions have occurred, or that the range is a floor.
+
+**Required before a renewed capital signal:** reconcile subsequent issuer filings, orders/mix, margins, cash after capex, balance sheet and diluted shares; rebuild bear/base/upside per-share economics from the current price to the fixed March-2028 deadline (roughly 16 months remaining); separate earnings growth from multiple expansion; compare with tactical cash and alternatives. For Impro prioritize cash conversion and productive utilization; for Laifual prioritize ASP/competition, repeat orders, utilization and cash conversion.
+
+**Calibration:** append outcomes against original signals rather than replacing original entry guidance with later cautions. These two price observations challenge entry calibration but cannot statistically validate or invalidate the method. Preserve the original thesis, then identify whether evidence, valuation, catalyst timing or implementation failed.
+
+**Confidence:** Low in a refreshed November equity-return case until the work above is complete; no new issuer evidence in this checkpoint changes structural/capture confidence. No new sizing ceiling, target price, probability or portfolio forecast is introduced. Earlier feasibility figures remain dated hypothetical models, not actual holdings or a refreshed November deployment plan. See the [calibration ledger](research/prediction-calibration-ledger.md#15-november-2026--price-outcomes-and-entry-calibration).
+
+**Scope:** price/freshness reassessment, not a completed financial re-underwrite. Earlier dated ACTION statements below are historical checkpoints and do not authorize a fresh entry or Add at the November quote. No automatic sale follows from price alone. Original scenarios and decision-time evidence are preserved for calibration.
+
 **Status:** Active
 **Strategy reference:** 2026-09-09
 **Live decision surface refreshed:** 2026-10-09 (source-gate continuation 2026-10-10)

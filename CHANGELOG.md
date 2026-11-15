@@ -1,3 +1,10 @@
+## 2026-11-15 — Impro / Laifual price and entry-calibration review
+
+- Added source-qualified 13 November closing references and append-only comparison against original entry guidance. Preserved original ACTION snapshots, scenario boundaries and evidence.
+- Applied REASSESS overrides to portfolio, company cards and ranking deployability: fresh entry/Add eligibility suspended until updated issuer and remaining-March-2028 valuation reviews are complete. No operating thesis break or automatic sell inferred from price alone.
+- November equity-return confidence Low pending refresh; structural/capture assessments are not upgraded or reverified. No new targets, probabilities, size ceilings, ranks or model forecasts.
+- Recorded concrete cash/margin/order/dilution review gates and the distinction between price outcomes, operating outcomes and causal attribution. Private brokerage data, frozen #261 and sealed prospective records untouched.
+
 ## 2026-10-10 — Decision-critical source recovery
 
 - Executed five bounded existing monitor units after valid READY/RUNNING claims. Recovered WBT historical funding and ABC correction, previously missed MOD amended SEC pro forma, JEM exact November calendar and Jinpan conversion mechanics; TAI primary retry remains incomplete.

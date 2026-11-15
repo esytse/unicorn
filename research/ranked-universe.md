@@ -1,5 +1,9 @@
 # Unicorn Ranked Research Universe
 
+## 15 November 2026 — deployability override
+
+**Impro and Laifual require REASSESS before fresh entry/Add.** The [portfolio checkpoint](../PORTFOLIO.md#current-checkpoint--15-november-2026) and canonical company review overrides supersede the dated ACTION labels below. Numerical ranks are retained as prior research-priority order, not a November rerank or current allocation instruction. Public 13 November prices have reached the earlier bear valuation ranges; updated issuer evidence and remaining-window valuation are required before renewed eligibility. No thesis break is established by price alone.
+
 **Status:** Active canonical cross-theme ranking  
 **Lifecycle:** CANONICAL
 **Live Gate-E refresh:** 2026-10-10 (bounded source recovery; ranks unchanged)

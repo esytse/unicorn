@@ -67,3 +67,20 @@ These append observations to the frozen 24 September rows; they do not register 
 | TAI-TECH | September secondary sales cross-check; primary/mix/FCF incomplete | REASSESS above band | Aggregators sharing a feed are not independent confirmations |
 
 No return outcome, probability calibration or actual holding performance is inferred from these partial checkpoints.
+
+## 15 November 2026 — price outcomes and entry calibration
+
+Append-only observation for existing monitors, not a newly sealed prediction or a retrospective rewrite of T0.
+
+| Monitor | Original decision reference | 13 November observation | Inference / next gate |
+|---|---|---|---|
+| Impro | Conditional 5% starter at HK$6.6–7.2 | HK$4.955, approximately 25–31% below the original entry band | Price is within old HK$3.7–5.1 bear range; re-underwrite cash, mix, utilization, valuation and remaining catalyst time before fresh entry/Add |
+| Laifual | Conditional 5% starter at <=HK$48; 23 September checked close HK$46.10 | HK$26.50, about 42.5% below that checked close | Price is within old HK$25–35 bear range; re-underwrite ASP/competition, orders, cash and dilution before fresh entry/Add |
+
+**Sources:** SRC-PRICE-20261115-IMP / LAI in the source register. Percentage changes are simple local-currency price comparisons, not an investor return series: purchase dates, dividends, fees, FX, flows and corporate actions have not been reconciled. No private account balances or transactions are recorded.
+
+**Catalyst / financial conversion / thesis breaker:** not newly verified by this price-only checkpoint. No causal sell-off attribution is established. Structural thesis outcome remains separate from share-price outcome.
+
+**Decision:** REASSESS operational overlay for both, with earlier starter eligibility suspended pending refreshed underwrites. Structural/capital ordering is retained as a dated research-priority order, not renewed deployability. No new allocation or automatic sale.
+
+**Retrospective lesson / hypothesis:** original entry thresholds may have given insufficient weight to cash conversion, competition, valuation sensitivity or catalyst timing. Test each explanation against point-in-time evidence; two adverse observations cannot establish a general method failure. Later cautions do not erase the original ACTION signals. A bear range is not a stop-loss or a guaranteed floor.
