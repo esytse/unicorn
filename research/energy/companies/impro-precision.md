@@ -1,5 +1,19 @@
 # Impro Precision — AI infrastructure exposure evidence resolution
 
+## Current review override — 15 November 2026
+
+**Current capital decision: REASSESS / fresh entry and Add eligibility suspended pending updated underwrite.** This is a freshness/valuation control, not a finding that the operating thesis has broken.
+
+**FACT:** Impro's 13 November closing reference is HK$4.955, from the secondary public price sources registered as SRC-PRICE-20261115-IMP. Original decision references below were HK$6.6–7.2 starter band; March-2028 bear HK$3.7–5.1. These prices do not measure total shareholder return or explain the sell-off.
+
+**INTERPRETATION:** price has reached the earlier bear valuation range. That challenges entry calibration; it neither proves the bear operating scenario nor supplies a floor. Do not carry old earnings, multiples or an upper price ceiling forward without checking their underlying assumptions.
+
+**OPEN QUESTION / next decision:** Reconcile subsequent issuer trading/results disclosures; assess power/cooling mix, customer acceptance and productive utilization, incremental margins, cash after capex and working capital, leverage and diluted shares. Rebuild earnings versus rerating contributions through March 2028. Evaluate hold/trim/sell against forward evidence and alternative uses of capital, without anchoring to purchase cost. No replacement valuation, numerical probability or automated trade is supplied here.
+
+**Confidence:** Low in the unrefreshed November equity-return case; structural and operating-capture assessments remain dated prior evidence, not newly reverified conclusions. Original low/medium confidence and risks remain visible below.
+
+**Scope:** price/freshness reassessment, not a completed financial re-underwrite. Earlier dated ACTION statements below are historical checkpoints and do not authorize a fresh entry or Add at the November quote. No automatic sale follows from price alone. Original scenarios and decision-time evidence are preserved for calibration.
+
 **Ticker:** HKEX:1286
 **Origin:** #282 / #284
 **Current Gate-E state:** ACTION / conditional 5% starter; entry and add proof remain distinct

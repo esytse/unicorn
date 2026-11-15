@@ -1,5 +1,14 @@
 # Source Register
 
+## 15 November 2026 — bounded price reassessment
+
+| ID | Source | Observation / limitation | Retrieved |
+|---|---|---|---|
+| SRC-PRICE-20261115-IMP | [Yahoo Finance 1286](https://finance.yahoo.com/quote/1286.HK/), corroborated by [ET Net](https://www.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=1286) | 13 Nov 2026 close HK$4.955; secondary public quotes, potentially shared exchange feed, not independent economic evidence or executable bid/ask | 2026-11-15 |
+| SRC-PRICE-20261115-LAI | [FT historical prices](https://markets.ft.markitdigital.com/data/equities/tearsheet/historical?s=3952%3AHKG), corroborated by [Google Finance](https://www.google.com/finance/quote/3952%3AHKG) | 13 Nov 2026 close HK$26.50; secondary public quotes, not independent economic evidence or a sell-off explanation | 2026-11-15 |
+
+This checkpoint does not certify issuer-event coverage or absence of adverse news. Existing issuer sources in the company cards remain dated evidence, not November re-verification.
+
 Use this register for sources that support multiple research files or are important enough to preserve centrally. Theme or company files may also cite sources directly.
 
 | ID | Source | Type | Publication date | Accessed | Used for | Notes |

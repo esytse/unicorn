@@ -1,5 +1,19 @@
 # Zhejiang Laifual Drive
 
+## Current review override — 15 November 2026
+
+**Current capital decision: REASSESS / fresh entry and Add eligibility suspended pending updated underwrite.** This is a freshness/valuation control, not a finding that the operating thesis has broken.
+
+**FACT:** Laifual's 13 November closing reference is HK$26.50, from the secondary public price sources registered as SRC-PRICE-20261115-LAI. Original decision references below were <=HK$48 starter ceiling; March-2028 bear HK$25–35. These prices do not measure total shareholder return or explain the sell-off.
+
+**INTERPRETATION:** price has reached the earlier bear valuation range. That challenges entry calibration; it neither proves the bear operating scenario nor supplies a floor. Do not carry old earnings, multiples or an upper price ceiling forward without checking their underlying assumptions.
+
+**OPEN QUESTION / next decision:** Reconcile subsequent HKEX filings, including the proposed November share-award scheme and fully diluted share count; reassess reducer ASP/unit costs, competitive capacity, repeat orders/backlog conversion, utilization, margins and cash after capex. Rebuild earnings versus rerating contributions through March 2028. Evaluate hold/trim/sell against forward evidence and alternative uses of capital, without anchoring to purchase cost. No replacement valuation, numerical probability or automated trade is supplied here.
+
+**Confidence:** Low in the unrefreshed November equity-return case; structural and operating-capture assessments remain dated prior evidence, not newly reverified conclusions. Original low/medium confidence and risks remain visible below.
+
+**Scope:** price/freshness reassessment, not a completed financial re-underwrite. Earlier dated ACTION statements below are historical checkpoints and do not authorize a fresh entry or Add at the November quote. No automatic sale follows from price alone. Original scenarios and decision-time evidence are preserved for calibration.
+
 **Research stream:** Physical AI — precision rotary transmission / harmonic reducers  
 **Ticker:** HKEX: 03952  
 **Status:** Investigating  
