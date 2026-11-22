@@ -1,5 +1,9 @@
 # Unicorn Research
 
+## Current full refresh — 22 November 2026
+
+Read the [execution receipt](research/decision-refresh.md), [16-lane challenge and 65-company source/depth table](research/discovery/november-challenge.md), [ranked decision priorities](research/ranked-universe.md), and [current feasibility boundary](research/portfolio-feasibility-2028.md). These distinguish event screens from completed underwrites and current evidence from historical scenarios. No freshly verified ACTION; company proof gates remain explicit. Issue[#376](https://github.com/esytse/unicorn/issues/376) records publication/check status.
+
 Unicorn is a thesis-first research system for finding companies that can capture a migrating bottleneck:
 
 > **Abundant Intelligence → Scarce Complements → Bottleneck Migration → Economic Capture → Capital Allocation**

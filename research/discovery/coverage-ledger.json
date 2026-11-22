@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09",
+  "as_of": "2026-11-22",
   "thesis_chain": "Abundant Intelligence -> Scarce Complements -> Bottleneck Migration -> Economic Capture -> Capital Allocation",
   "allowed_results": [
     "ACTIVE_CANDIDATES",
@@ -37,7 +37,7 @@
       "private_or_uninvestable_benchmarks": [
         "EV Group: private hybrid-bonding equipment benchmark"
       ],
-      "remaining_gap": "Further names are likely correlated with the existing memory cycle; a new architecture or materially better asymmetry is required.",
+      "remaining_gap": "Current qualified orders, normalized cash, new competitor qualification; avoid adding a fifth equivalent HBM risk.",
       "rescan_triggers": [
         "new package or memory architecture changes the limiting step",
         "new qualification or order evidence outside existing candidates",
@@ -47,7 +47,8 @@
         "research/memory/research-plan.md",
         "research/cross-theme/scarce-complement-map.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -81,7 +82,7 @@
         "Trench/HSP: private bushing specialist",
         "Maschinenfabrik Reinhausen: private OLTC benchmark"
       ],
-      "remaining_gap": "Several real second-order bottlenecks have private or diluted public ownership; existing lanes dominate current coverage.",
+      "remaining_gap": "Funded commissioning dates, customer advances versus earned cash, project scope and per-share finance.",
       "rescan_triggers": [
         "new qualified supplier concentration",
         "material capacity or regulation change",
@@ -92,7 +93,8 @@
         "research/energy/research-plan.md",
         "research/energy/second-order-ranking.md",
         "research/energy/deep-dives/transformer-second-order-suppliers.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -114,7 +116,7 @@
         "nVent/Eaton/Vertiv: relevant broader platforms without a separate narrow 800 VDC promotion"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "The architecture is credible, but no narrow supplier concentration or company-transforming economics cleared Gate A.",
+      "remaining_gap": "Paid production socket plus material recurring profit/cash at a defensible price, not a roadmap.",
       "rescan_triggers": [
         "named platform standard and production award",
         "qualified component shortage or pricing power",
@@ -125,7 +127,8 @@
         "research/energy/deep-dives/electrical-backbone-800vdc.md",
         "research/energy/second-order-ranking.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -154,7 +157,7 @@
       "private_or_uninvestable_benchmarks": [
         "private direct-to-chip vendors and ODMs"
       ],
-      "remaining_gap": "Component qualification, order contribution and margins remain weakly disclosed.",
+      "remaining_gap": "Customer acceptance, current standalone capex/net debt, margins and nonexclusive capacity conversion.",
       "rescan_triggers": [
         "named platform qualification",
         "cooling product mix or margin disclosure",
@@ -165,7 +168,8 @@
         "research/cross-theme/liquid-cooling-components.md",
         "research/energy/deep-dives/cooling-heat-rejection.md",
         "research/cross-theme/thesis-first-discovery-2026-09-24.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -196,7 +200,7 @@
       "private_or_uninvestable_benchmarks": [
         "Rollvis: private planetary roller-screw benchmark"
       ],
-      "remaining_gap": "Architecture share, named OEM production and unit economics remain uncertain across many component families.",
+      "remaining_gap": "EGM24Nov then diluted shares, repeat paid orders, ASP/cash and sustainable utilization.",
       "rescan_triggers": [
         "named mass-production award",
         "capacity utilisation and repeat orders",
@@ -207,7 +211,8 @@
         "research/robotics-actuators/research-plan.md",
         "research/robotics-actuators/synthesis-ranking.md",
         "research/robotics-actuators/deep-dives/linear-actuation.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -233,7 +238,7 @@
         "Robotiq and other private safety specialists",
         "UL: certification benchmark"
       ],
-      "remaining_gap": "Recurring software economics, transaction dilution and protection from platform bundling remain unresolved.",
+      "remaining_gap": "Paid recurring attach, production royalty conversion, funding/dilution and closing terms.",
       "rescan_triggers": [
         "certified cross-OEM design wins",
         "recurring software or subscription disclosure",
@@ -244,7 +249,8 @@
         "research/physical-ai/humanoid-safety-discovery.md",
         "research/physical-ai/fort-robotics.md",
         "research/cross-theme/scarce-complement-map.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -271,7 +277,7 @@
       "private_or_uninvestable_benchmarks": [
         "ZEDEDA/device orchestration: private pure-play exposure"
       ],
-      "remaining_gap": "AI-specific incremental margins and recurring deployment economics are often unisolated.",
+      "remaining_gap": "Production conversion, software recurrence and per-share cash; preserve future-event cutoff.",
       "rescan_triggers": [
         "production design-in converts to disclosed revenue",
         "recurring fleet-management attach",
@@ -282,7 +288,8 @@
         "research/physical-ai/edge-production-readiness.md",
         "research/cross-theme/scarce-complements.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -312,7 +319,7 @@
         "Wandelbots",
         "SKAI Intelligence"
       ],
-      "remaining_gap": "The cleanest release-gating businesses are private; listed candidates must prove recurring platform economics over services.",
+      "remaining_gap": "Named paid recurring evaluation workload and proprietary scenario/data rights outside captive OEM stacks.",
       "rescan_triggers": [
         "recurring or usage revenue disclosed",
         "independent validation becomes a release gate",
@@ -323,7 +330,8 @@
         "research/physical-ai/simulation-validation-discovery.md",
         "research/physical-ai/evaluation-verification-economics.md",
         "research/cross-theme/scarce-complements.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -349,7 +357,7 @@
         "InOrbit",
         "ZEDEDA"
       ],
-      "remaining_gap": "No clean listed company has demonstrated rights to pool cross-customer feedback and retain recurring economics.",
+      "remaining_gap": "Contractual rights plus paid recurring cross-customer economics; do not promote a weak listed proxy.",
       "rescan_triggers": [
         "listed supplier discloses reusable cross-customer data rights",
         "private platform lists or is acquired by a material public owner",
@@ -359,7 +367,8 @@
         "research/cross-theme/scarce-complement-map.md",
         "research/physical-ai/thesis.md",
         "research/physical-ai/synthesis-ranking.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -385,7 +394,7 @@
         "generic sensors without qualification or company materiality"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "Named production volumes, sensor-specific profit and resistance to integration remain uneven.",
+      "remaining_gap": "Closed transaction terms, named production quantities/content, normalized margins/FCF.",
       "rescan_triggers": [
         "named mass-production programme",
         "sensor mix becomes company-material",
@@ -396,7 +405,8 @@
         "research/cross-theme/sensing-bottlenecks.md",
         "research/physical-ai/humanoid-perception-discovery.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -427,7 +437,7 @@
         "HighRes Biosolutions",
         "Hamilton"
       ],
-      "remaining_gap": "Order growth, recurring attach and company-level AI materiality are unproven; provenance/QC has no clean public capture.",
+      "remaining_gap": "AI-linked paid orders, utilization, consumables/software attach and consolidated incremental economics.",
       "rescan_triggers": [
         "AI-linked automation order or utilisation inflection",
         "recurring software/service/consumable attach",
@@ -438,7 +448,8 @@
         "research/scientific-ai/execution-bottlenecks.md",
         "research/cross-theme/scientific-ai-execution.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -459,7 +470,7 @@
         "generic cloud exposure without incremental returns"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "Capital intensity, concentration and incremental ROIC may absorb the economics.",
+      "remaining_gap": "Funded utilization, delivered capex, incremental cash return and contract access risk, not announced MW.",
       "rescan_triggers": [
         "contracted demand converts to funded utilisation",
         "incremental ROIC and cash disclosure",
@@ -470,7 +481,8 @@
         "research/cross-theme/akamai.md",
         "research/cross-theme/scarce-complements.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -478,7 +490,7 @@
       "world_change": "Distributed and clustered AI raises data-path orchestration requirements",
       "scarce_complement": "networking architecture and DPU/SmartNIC control",
       "coverage": "MEDIUM",
-      "search_result": "CANDIDATES_FOUND_BUT_REJECTED",
+      "search_result": "COVERAGE_INCOMPLETE",
       "searched_families": [
         "DPU and SmartNIC CPU architecture",
         "cluster networking"
@@ -494,17 +506,16 @@
         "WEKA",
         "MinIO"
       ],
-      "remaining_gap": "Six screens completed; normalized diluted cash earnings, concentration and CPO/pluggable share still gate current investment attractiveness.",
+      "remaining_gap": "Reopen diluted current valuation, concentration, SBC/capex and copper/optical substitution; no automatic ACTION.",
       "rescan_triggers": [
-        "new constrained networking architecture",
-        "qualification or order inflection",
-        "company-level materiality and pricing evidence"
+        "Reconcile November issuer results, fully diluted current valuation and cash/capex; compare fresh per-share March2028 payoff before promotion."
       ],
       "sources": [
         "research/cross-theme/scarce-complements.md",
         "research/ranked-universe.md",
         "research/discovery/october-challenge.md",
-        "research/cross-theme/networking-data-path.md"
+        "research/cross-theme/networking-data-path.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -526,7 +537,7 @@
         "Siemens and broad automation incumbents: incremental Physical-AI economics unisolated"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "Control-specific scarce economics and recurring capture have not been isolated from broad automation/services.",
+      "remaining_gap": "Production-programme evidence and recurring merchant-control economics; preserve incomplete outcome.",
       "rescan_triggers": [
         "named production policy-control programme",
         "recurring platform revenue",
@@ -536,7 +547,8 @@
         "research/cross-theme/scarce-complements.md",
         "research/physical-ai/simulation-validation-discovery.md",
         "research/ranked-universe.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -553,7 +565,7 @@
         "Microsoft, ServiceNow, Okta, Palo Alto Networks: incremental agent-specific economics unisolated; valuation not cleared"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "Four architecture/capture benchmarks screened; paid attach, incremental earnings/cash and then current valuation still needed.",
+      "remaining_gap": "Paid incremental attach, data/control rights and diluted cash returns before reopening a rejected proxy.",
       "rescan_triggers": [
         "bounded architecture question identifies a release gate",
         "switching cost or transaction economics become testable",
@@ -562,7 +574,8 @@
       "sources": [
         "research/cross-theme/scarce-complement-map.md",
         "research/discovery/october-challenge.md",
-        "research/cross-theme/workflow-permissions.md"
+        "research/cross-theme/workflow-permissions.md",
+        "research/discovery/november-challenge.md"
       ]
     },
     {
@@ -580,14 +593,15 @@
         "generic AI beneficiaries without a scarce-complement bridge"
       ],
       "private_or_uninvestable_benchmarks": [],
-      "remaining_gap": "Re-enter only if a specific sub-layer becomes a scarce complement rather than the initiating technology.",
+      "remaining_gap": "Specific necessity, constrained supply, merchant capture and company-transforming economics.",
       "rescan_triggers": [
         "architecture change creates a new constrained complement inside the layer"
       ],
       "sources": [
         "research/cross-theme/scarce-complements.md",
         "research/backtests/261/SPEC.md",
-        "research/discovery/october-challenge.md"
+        "research/discovery/october-challenge.md",
+        "research/discovery/november-challenge.md"
       ]
     }
   ],

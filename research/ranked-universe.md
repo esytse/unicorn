@@ -1,12 +1,18 @@
 # Unicorn Ranked Research Universe
 
-## 15 November 2026 — deployability override
+## Current capital-reassessment order — 22 November 2026
+
+**No currently verified ACTION.** The 13 leading rows are reordered from fresh evidence/valuation sensitivities; remaining 52 retain their previous relative research/comparator order after current event screens, not a claim of 52 completed current-price valuations. Structural ranks remain the prior research order because this pass does not establish a defensible complete structural rerank. Capital-reassessment priority is the next best decision to resolve, not permission to deploy.
+
+Impro, MJC and TAI-TECH lead the next comparisons; SUSS/MOD require conversion and timing work; JEM recovery, Centrus funding/policy and Laifual cash/dilution retain vetoes. Fresh sources, depth and residual gates for every company: [November challenge](discovery/november-challenge.md) and [65-company ledger](discovery/refresh-ledger.json). The 22 November canonical company checkpoints and PORTFOLIO supersede October starter labels. No new watchlist promotion or higher size ceiling; shareholder alpha remains data-limited.
+
+## Historical 15 November 2026 — deployability override
 
 **Impro and Laifual require REASSESS before fresh entry/Add.** The [portfolio checkpoint](../PORTFOLIO.md#current-checkpoint--15-november-2026) and canonical company review overrides supersede the dated ACTION labels below. Numerical ranks are retained as prior research-priority order, not a November rerank or current allocation instruction. Public 13 November prices have reached the earlier bear valuation ranges; updated issuer evidence and remaining-window valuation are required before renewed eligibility. No thesis break is established by price alone.
 
 **Status:** Active canonical cross-theme ranking  
 **Lifecycle:** CANONICAL
-**Live Gate-E refresh:** 2026-10-10 (bounded source recovery; ranks unchanged)
+**Live Gate-E refresh:** 2026-11-22 (full-inventory event screen; leading capital-reassessment order updated)
 **Parent backlog:** #110 / #356
 **Purpose:** Preserve the uncapped thesis-first research universe while separately ordering the same companies for the March-2028 capital objective.
 
@@ -23,19 +29,19 @@ The table is the sole complete 65-company inventory. Each company appears once w
 <!-- OBJECTIVE-RANKING:START -->
 | Capital rank | Structural rank | Company | Primary exposure | Capital tier | Live state | Objective-aligned reason |
 |---:|---:|---|---|---|---|---|
-| **1** | **1** | **Laifual Drive** | Robotics actuation | Current ACTION | ACTION | 5% starter at <=HK$48; convex upside, but cash conversion, ASP pressure and capacity cap pre-proof size |
-| **2** | **10** | **Impro Precision Industries** | Distributed power / liquid cooling | Current ACTION | ACTION | 5% starter at HK$6.6–7.2; visible earnings engine and independent drivers, with cash/certification gate |
-| **3** | **4** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | Next trigger | REASSESS | NT$226.50 checked: above NT$190–210 starter; September growth does not resolve AI mix/cash attribution |
-| **4** | **3** | **Modine / Modexus** | AI cooling | Next trigger | WAIT | Separation closed; old combined-package band suspended; historical debt reconciled; forward guidance/FCF valuation required |
-| **5** | **2** | **Centrus Energy** | LEU / HALEU | Next trigger | REASSESS | Exceptional scarcity and low thematic correlation; funded-capacity, timing and dilution still gate capital |
-| **6** | **8** | **SUSS MicroTec** | HBM advanced packaging | Next trigger | WAIT | Visible 2027 backlog; process durability and ~€60–62 valuation trigger precede deployment |
-| **7** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | WAIT | Independent AIDC engine; named qualification/cash gate open; mechanically ex-adjusted ~CNY53.8–56.8 reassessment |
-| **8** | **5** | **BlackBerry / QNX** | Runtime / functional safety | Next trigger | REASSESS | Profitable recurring engine, but current valuation embeds success; <=~US$7 or stronger new evidence |
-| **9** | **15** | **Namuga** | Humanoid 3D sensing | Next trigger | WAIT | Sole-source programme creates convexity; <=KRW13–14k or disclosed order economics needed |
-| **10** | **22** | **Grid Dynamics** | Physical-AI deployment | Next trigger | REASSESS | Modest starting value and live programs; recurring/platform proof plus $6.5–7.2 needed |
-| **11** | **17** | **Micronics Japan** | HBM probe cards | Next trigger | WAIT | Strong franchise; entry setup and customer concentration remain weaker than JEM |
-| **12** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | WAIT | Thailand recovery/loss/cash unquantified; old deployment bridge suspended, urgent sell-risk review |
-| **13** | **16** | **Weebit Nano** | ReRAM | Next trigger | WAIT | June liquidity verified; October originals/current cash and dilution remain entry gates |
+| **1** | **10** | **Impro Precision Industries** | Distributed power / liquid cooling | Next trigger | REASSESS | Thermal revenue attribution and lower earnings reference improve reassessment priority; dilution, ramp acceptance and cash still gate new entry/Add |
+| **2** | **17** | **Micronics Japan** | HBM probe cards | Next trigger | REASSESS | FY26 EPS guide rises to JPY691.30; JPY8,802 reference improves setup; concentrated customers and normalized capex/cash remain gates |
+| **3** | **4** | **TAI-TECH Advanced Electronics** | AI power / TLVR magnetics | Next trigger | REASSESS | Issuer Q3/October recovered: AI 13%, cumulative EPS 10.95; NT$133 reset merits cash/diluted-value review, not automatic Buy |
+| **4** | **8** | **SUSS MicroTec** | HBM advanced packaging | Next trigger | REASSESS | Record backlog but FY26 EBIT guide 5–7% and delayed components; EUR43.86 still needs 2027 margin/advance-liability bridge |
+| **5** | **3** | **Modine / Modexus** | AI cooling | Next trigger | REASSESS | Continuing FY27 EBITDA $470–500m now known; negative reported FCF and post-close debt/share reconciliation block deployment |
+| **6** | **7** | **Japan Electronic Materials** | HBM probe cards | Next trigger | REASSESS | Raised net-income guidance is positive; Thailand restart/delivery/loss and current cash/share reconciliation still gate capital |
+| **7** | **2** | **Centrus Energy** | LEU / HALEU | Next trigger | REASSESS | Manufacturing advances but DOE operating-option expectation changes; funded cash/capex/dilution downside must be rebuilt |
+| **8** | **1** | **Laifual Drive** | Robotics actuation | Next trigger | REASSESS | HK$18.89 does not replace profit/cash proof; 24 Nov award/mandate vote and full dilution require review; old entry ceiling retired |
+| **9** | **5** | **BlackBerry / QNX** | Runtime / functional safety | Next trigger | REASSESS | Royalty backlog above $1.2bn supports capture; US$7.77 and lifetime conversion/non-auto timing need refreshed parent SOTP |
+| **10** | **11** | **Hainan Jinpan** | AI power / transformers | Next trigger | REASSESS | Issuer-report mirror shows weak OCF/profit conversion; CNY45.18 is not permission absent SSE/cash/convertible reconciliation |
+| **11** | **15** | **Namuga** | Humanoid 3D sensing | Next trigger | WAIT | KRW15,500 above old region; DART consolidated basis and paid programme quantities/margins remain unverified |
+| **12** | **22** | **Grid Dynamics** | Physical-AI deployment | Next trigger | REASSESS | Margins improved but US$12.66 already rerated; recurring Physical-AI mix and SBC-adjusted per-share cash remain gates |
+| **13** | **16** | **Weebit Nano** | ReRAM | Next trigger | REASSESS | September A$164.2m cash recovered; original risk/auditor/securities, dilution and royalties still veto entry |
 | **14** | **9** | **nVent** | Electrical / cooling | Quality / valuation watch | WATCH | Resilient platform and useful diversification; present setup does not outrank nearer governed triggers |
 | **15** | **6** | **Siemens Energy** | Turbines / grid | Quality / valuation watch | WATCH | Strong capture but larger rerated base reduces remaining-window asymmetry |
 | **16** | **14** | **Onto Innovation** | AP process control | Quality / valuation watch | WATCH | Direct HBM4 capture and strong economics; valuation limits responsible contribution |
@@ -96,7 +102,7 @@ The canonical [Impro refresh](energy/companies/impro-precision.md#evidence-refre
 
 ### Capital-tier interpretation
 
-- **Current ACTION:** only Laifual and Impro, the two governed conditional 5% starters. All require a fresh executable-condition and thesis check; no brokerage action is assumed.
+- **Current ACTION:** none verified in the November refresh. Laifual/Impro historical starter permissions remain suspended; a price below an old band does not reinstate eligibility.
 - **Next trigger:** a bounded existing price/evidence/event rule can promote the candidate. Until it fires, tactical cash is the better capital state.
 - **Speculative / evidence build:** a potentially material engine exists, but evidence confidence, dilution, capital intensity or binary execution caps size or blocks entry.
 - **Quality / valuation watch:** structural/company quality may be high while the current remaining-window setup is inferior.
@@ -120,7 +126,7 @@ Both ranks are continuous rather than membership-based. Structural rank moves wi
 
 Companies are not excluded because they fall below an arbitrary cutoff. Where evidence is insufficient for meaningful relative placement, keep the company in discovery/theme research until a bounded company screen can establish a rank.
 
-**9 October allocation conclusion:** Laifual and Impro retain conditional 5% starters; TAI-TECH is REASSESS above its entry band. Maximum hypothetical initial research allocation is 10% / £4,000, with 90% tactical cash. Structural rank and Gate-E deployability remain separate axes: rank alone never creates an ACTION. Brokerage execution is manual.
+**Historical 9 October allocation conclusion (superseded):** Laifual and Impro retain conditional 5% starters; TAI-TECH is REASSESS above its entry band. Maximum hypothetical initial research allocation is 10% / £4,000, with 90% tactical cash. Structural rank and Gate-E deployability remain separate axes: rank alone never creates an ACTION. Brokerage execution is manual.
 
 ## Remaining leading-candidate evidence sweep — 1 October 2026
 

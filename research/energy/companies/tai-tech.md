@@ -1,5 +1,19 @@
 # TAI-TECH Advanced Electronics — AI power magnetics underwrite
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; source gap materially narrowed.** [Issuer Q3 deck](https://www.tai-tech.com.tw/pdf/808382/3357-%E8%87%BA%E6%85%B6%E7%A7%91-2026Q3%E6%B3%95%E8%AA%AA%E6%9C%83%E5%A0%B1%E5%91%8A%E8%B3%87%E6%96%99-CN.pdf), SRC-REF-20261122-03, directly confirms September sales and extends through October. Deck publication day is not established; observations are nine months/October, retrieved 22 November.
+
+**FACT:** cumulative sales NT$6.460bn, gross margin 30.44%, cumulative EPS 10.95; October sales NT$822.217m (+43.35%). Q3 application mix: AI 13%, automotive 43%; AI growth 74% versus automotive 51%. This resolves the old primary monthly-confirmation dependency, not the proposition that all growth is AI.
+
+**Valuation observation:** [20 November TPEX close](https://hk.investing.com/equities/tai-tech-advanced-electronics-co-historical-data) **NT$133.00**. Dividing by nine-month EPS gives 12.1x; mechanical 4/3 annualization gives 9.1x, **not normalized earnings or a forecast**. The former NT$190–210 band is historical and must not override changed earnings/price risk.
+
+**HYPOTHESIS / March 2028 sensitivity:** annual EPS 9–11 at 9–11x = NT$81–121; 14–17 at 12–15x = 168–255; 20–24 at 16–20x = 320–480. Nominal payoff from 133 is about -39% to -9%, +26% to +92%, +141% to +261%, excluding FX/dividends/fees. Middle-case lower EPS is near the mechanical current run-rate; upper upside requires both earnings growth and rerating. None is calibrated probability or price target.
+
+**Gate/counter-case:** reconcile Q3 operating cash, debt, share count and AI customer attribution; model automotive slowdown, TLVR ASP pressure and integrated power delivery. Structural/capture **Medium**, AI materiality **Medium-Low**, equity **Low-Medium**. Buy/Add only after cash/diluted-value reconciliation and competitive downside; Hold/Trim/Sell follow forward capture/valuation. No new size/ceiling increase.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 **Ticker:** TPEX:3357  
 **Discovery origin:** #253 point-of-load power adjacency scan  
 **State:** **POTENTIAL — credible 3x architecture, not yet validated**  

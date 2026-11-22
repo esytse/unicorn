@@ -1,5 +1,17 @@
 # Japan Electronic Materials (JEM)
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; strong results do not automatically clear the Thailand gate.** [13 November issuer briefing](https://jem-net.co.jp/images/top/pdf/2026/261113_fy262qkessansetsumeikai.pdf), SRC-REF-20261122-12, reports H1 sales **JPY20.494bn (+66.3%)** and ordinary profit **JPY6.146bn**; revised FY March 2027 attributable-profit guide **JPY8.2bn**. Management attributes growth to advanced-memory probe cards, utilization and FX. Subsidiary reporting lags/FX affect comparability.
+
+**Conflicting/incomplete evidence:** the [30 September primary flood notice](https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf) confirms stopped Thailand operations at that time. The reviewed November briefing does not quantify restart, loss, insurance or affected deliveries. Raised consolidated guidance is positive evidence against a catastrophic group earnings interpretation, but not explicit proof of complete site recovery. Do not repeat “no new results” or infer a continuing shutdown as a current fact.
+
+**Quote:** [20 November Tokyo close](https://markets.ft.markitdigital.com/data/equities/tearsheet/historical?s=6855%3ATYO) **JPY5,340**. Prior pre-flood targets and allocation remain suspended; price is not recovery evidence. Structural **High**, company capture **Medium-High**, recovery/cash materiality **Low-Medium**, equity **Low-Medium**.
+
+**Next gate:** reconcile November10 financial/supplemental statements, November17 major-shareholder notice, current shares/cash/capex and explicit Thailand recovery/delivery/loss coverage. Build revised downside from quantified exposure rather than inventing a percentage haircut. Buy/Add after this and dilution-aware remaining-window value; Hold on intact funded delivery; Trim/Sell on persistent impairment or inferior forward payoff. MJC is the stronger current evidence comparator, not an automatic replacement trade.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 **Research stream:** AI memory — HBM / memory probe cards  
 **Ticker:** TSE 6855  
 **Status:** Investigating  

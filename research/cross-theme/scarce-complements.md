@@ -1,5 +1,13 @@
 # Abundant Intelligence → Scarce Complements
 
+## Geographic access and financing stress — 22 November 2026
+
+**FACT / source-qualified:** BIS 16 November remote-access rule and MOFCOM 9 November suspension of specified2025 measures are linked and bounded in `research/discovery/november-challenge.md`. SUSS reports component-driven delivery constraints; Centrus discloses a changed operating-contract expectation. These are distinct mechanisms, not a blanket sector upgrade/downgrade.
+
+**INTERPRETATION / Medium:** physical abundance and accessible capacity can diverge by geography, end customer, qualification and financing. For every material bottleneck, test (1) capacity physically available, (2) access/qualified substitutes, (3) who pays for duplicated/localized capacity, (4) sustainable merchant margin and per-share cash, (5) timing within the actual March 2028 window. Localization can create demand and erode returns simultaneously through excess capacity or restricted customers. Apply as a cross-cutting lens, not a seventeenth broad commodity theme.
+
+**Falsifiers:** licenses restore access, alternatives qualify, local capacity overbuilds, customers integrate supply, order advances finance only obligations, or policy rents accrue to government/customer rather than listed shareholders. No change to prospective-method versions or frozen #261 predictions.
+
 **Status:** canonical cross-theme structural framework  
 **Purpose:** connect changes in AI/model economics to bottleneck migration and capital-allocation research without turning every observation into a new theme.  
 **Current confidence:** Medium  

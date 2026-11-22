@@ -1,5 +1,33 @@
 # March-2028 portfolio feasibility and contribution paths
 
+## Current verification and remaining-window test — 22 November 2026
+
+**Classification: UNSUPPORTED BY CURRENT EVIDENCE for the £80,000 hurdle.** This is not a forecast, promise, price target or trade instruction. No new verified ACTION clears the current cash/funding/diluted-valuation gates; the model therefore has zero activated equity weights. This is a state of verified research eligibility, not a claim that all 65 equities are unattractive or an instruction to sell existing holdings.
+
+The [machine model](portfolio-feasibility-2028.json) archives October candidates/portfolios/hurdles under `historical_snapshots`. Current named rows have zero initial/staged weights and 100% hypothetical cash. Bear/base/upside all equal£40,000 **solely as a 1.0x cash arithmetic control**, before unverified yield, tax, FX/fees or inflation. The old£67,129 controlled upside and old10% initial deployment are historical and superseded. Retained old multiples cannot support positive current weights. New company sensitivities are research hypotheses until capitalization/cash/size gates permit model inclusion.
+
+**Horizon:** 22 November2026 to31 March 2028 is495 days, about16.3 months. March-end is used only as the most generous endpoint for arithmetic; the mandate remains March 2028. A2x outcome needs about66.8% annualized over that interval (about72% if measured to1 March), not a restarted 18 months. No post-horizon operating profit is credited.
+
+| Hypothetical equity fraction after future proof | Cash fraction (1.0x control) | Required equity-sleeve terminal multiple for £80k |
+|---:|---:|---:|
+| 10% | 90% | 11.0x |
+| 25% | 75% | 5.0x |
+| 50% | 50% | 3.0x |
+| 75% | 25% | 2.33x |
+| 100% | 0% | 2.0x |
+
+This reverses the target without assuming any candidate earns that return or any ceiling is raised. Two 7.5% sleeves failing completely remove15% of capital; if the remaining 85% were all invested, it would need2.35x just to reach2x total. Correlated AI capex/HBM/China/rates shocks can hit several otherwise different securities. Liquidity, access, spread, FX and tax remain implementation inputs, not invented zeros.
+
+**Operating/earnings versus rerating bridge:** Impro/MJC/TAI numerical sensitivities now separate earnings assumptions from exit multiples; Laifual remains pre-profit and requires a large earnings conversion; SUSS must convert delayed backlog into net profit. Centrus remains heavily schedule/funding/rerating exposed, and FORT requires final transaction cash/dilution rather than SaaS assumptions. These are not interchangeable return engines.
+
+**Two-failure stress:** current zero-weight control is trivially unchanged by zeroing two named candidates; it is explicitly not the former deployed stress. Before positive weights return, rebuild bear/base/upside contributions, two actual held-candidate failures, common-driver shocks, ceiling/access and timing stresses. Do not use zero-weight stress as evidence of portfolio safety.
+
+**Tactical cash:** capital becomes deployable only after current issuer economics, fully diluted value, downside and responsible size are established. No net cash yield was verified, so1.0x is a documented control rather than a claim about available cash rates. With0% verified equity deployment no current £80k bridge exists; higher£120k/£160k/£200k hurdles are likewise unsupported. Household/personal positions remain outside the public model.
+
+The material next decisions are current share/cash reconciliation for Impro/MJC/TAI, SUSS margin/delivery, MOD continuing debt/FCF, JEM site recovery, Centrus policy/funding and FORT final proceeds. Price resets improve hypotheses; they do not manufacture proof. Earlier report below is retained as dated audit history.
+
+## Historical controlled calculation — October 2026
+
 **Lifecycle:** DERIVED
 **Upstream authorities:** `PORTFOLIO.md`, `AUTOMATION.md`, `research/ranked-universe.md`, canonical company underwrites and live issue monitors
 **As of:** 2026-10-09

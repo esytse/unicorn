@@ -485,3 +485,102 @@ Retrieved 9 October unless a card explicitly states an earlier underlying observ
 | `research/scientific-ai/tecan.md` | Dated refresh, underlying source links and explicit facts/inferences/unknowns; no missing-source inference of no event |
 
 Bank of England benchmark: [17 September 2026 monetary-policy summary](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026). 3.75% Bank Rate is not an offered personal net cash yield.
+
+
+## Full-refresh source receipt — 22 November 2026 (#376)
+
+Retrieved22 November; see `research/discovery/refresh-ledger.json` for depth, economic period and imprecise publication dates. A located event is not a completed financial underwrite.
+
+| Source ID | Company / observation | Recoverable source |
+|---|---|---|
+| SRC-REF-20261122-01 | Laifual Drive; 2026-11-04; H1 economics; November corporate proposals; PRIMARY_EVENT | [PRIMARY_EVENT](https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748) |
+| SRC-REF-20261122-02 | Impro Precision Industries; 2026-10-21; Q3 and nine months to September 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.improprecision.com/wp-content/uploads/2026/10/2026102100203.pdf) |
+| SRC-REF-20261122-03 | TAI-TECH Advanced Electronics; 2026-11; Nine months and October 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.tai-tech.com.tw/pdf/808382/3357-%E8%87%BA%E6%85%B6%E7%A7%91-2026Q3%E6%B3%95%E8%AA%AA%E6%9C%83%E5%A0%B1%E5%91%8A%E8%B3%87%E6%96%99-CN.pdf) |
+| SRC-REF-20261122-04 | Modine / Modexus; 2026-11-03; Six months to September 2026; continuing FY27 guidance; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://investors.modexussolutions.com/news/news-details/2026/Modine-Reports-Second-Quarter-Fiscal-2027-Results/default.aspx) |
+| SRC-REF-20261122-05 | Centrus Energy; 2026-11-04; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://investors.centrusenergy.com/news-releases/news-release-details/centrus-reports-third-quarter-2026-results) |
+| SRC-REF-20261122-06 | SUSS MicroTec; 2026-11-05; Nine months to September; FY2026 guidance; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.suss.com/en/news/corporate-news/2026/suss-reports-first-nine-months-2026-results-record-order-book-of-601-million-provides-strong-visibility?languageChanged=en) |
+| SRC-REF-20261122-07 | Hainan Jinpan; 2026-10-14; Nine months to September 2026; ISSUER_MIRROR_REVIEW | [ISSUER_MIRROR_REVIEW](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12639809&stockid=688676) |
+| SRC-REF-20261122-08 | BlackBerry / QNX; 2026-10-20; Estimated lifetime royalty backlog at announcement; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://qnx.software/en/press-release/2026/blackberry-qnx-royalty-backlog-exceeds-1-2-billion) |
+| SRC-REF-20261122-09 | Namuga; 2026-11-16; Q3/9M 2026 report mirror; SOURCE_LIMITED | [SOURCE_LIMITED](https://financialfilings.com/filings/namuga-coltd/interim-quarterly-report/2026/76329376/) |
+| SRC-REF-20261122-10 | Grid Dynamics; 2026-10-29; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/grid-20260930xex991.htm) |
+| SRC-REF-20261122-11 | Micronics Japan; 2026-11-12; Nine months to September and revised FY2026 guide; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www2.jpx.co.jp/disc/68710/140120261112574944.pdf) |
+| SRC-REF-20261122-12 | Japan Electronic Materials; 2026-11-13; H1 to September and FY March 2027 guide; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://jem-net.co.jp/images/top/pdf/2026/261113_fy262qkessansetsumeikai.pdf) |
+| SRC-REF-20261122-13 | Weebit Nano; 2026-10-16; Quarter to September 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.weebit-nano.com/news/press-releases/q1-fy27-quarterly-activities-report/) |
+| SRC-REF-20261122-14 | nVent; 2026-10-30; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.sec.gov/Archives/edgar/data/1720635/000162828026068391/q32026nvtpressrelease.htm) |
+| SRC-REF-20261122-15 | Siemens Energy; 2026-11-11; FY September2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://assets.siemens-energy.com/dam/23e549e5-fb37-4db4-99d3-b4ff00539ccb/ER_Q4_26_EN_final-pdf_Original%20file.pdf) |
+| SRC-REF-20261122-16 | Onto Innovation; 2026-11-09; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-Reports-2026-Third-Quarter-Results/default.aspx) |
+| SRC-REF-20261122-17 | Advantech; 2026-11; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://advcloudfiles.advantech.com/investor/Events/Advantech_3Q_2026_Investors_Meeting_English.pdf) |
+| SRC-REF-20261122-18 | Raspberry Pi; 2026-11-22 retrieval; Calendar; latest listed result 24 September 2026; PRIMARY_INDEX_ONLY | [PRIMARY_INDEX_ONLY](https://investors.raspberrypi.com/financial-calendar) |
+| SRC-REF-20261122-19 | Akamai; 2026-11-05; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://akamai.gcs-web.com/news-releases/news-release-details/akamai-reports-third-quarter-2026-financial-results) |
+| SRC-REF-20261122-20 | Ouster; 2026-11-03; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.ouster.com/node/12271/pdf) |
+| SRC-REF-20261122-21 | FORT Robotics / FROB; 2026-11-13; S-4; September2026 financials and transaction sensitivities; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.sec.gov/Archives/edgar/data/2028027/000118518526005395/ntwo2s4110426.htm) |
+| SRC-REF-20261122-22 | Huaming Power Equipment; 2026-10; Nine months to September 2026; ISSUER_MIRROR_REVIEW | [ISSUER_MIRROR_REVIEW](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12660326&stockid=002270) |
+| SRC-REF-20261122-23 | Vicor; 2026-10-20; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://vicorcorporation.gcs-web.com/node/17956) |
+| SRC-REF-20261122-24 | AP Memory; 2026-11-22 retrieval; Financial-report index; PRIMARY_INDEX_ONLY | [PRIMARY_INDEX_ONLY](https://www.apmemory.com/en/investor/financial) |
+| SRC-REF-20261122-25 | Vertiv; 2026-10-28; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.sec.gov/Archives/edgar/data/1674101/000162828026067707/q32026exhibit991vrt10282026.htm) |
+| SRC-REF-20261122-26 | Camtek; 2026-11-04; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.sec.gov/Archives/edgar/data/1109138/000117891326005000/zk2636329.htm) |
+| SRC-REF-20261122-27 | FormFactor; 2026-10-28; Q3 fiscal 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.formfactor.com/news-releases/news-release-details/formfactor-inc-reports-2026-third-quarter-results/) |
+| SRC-REF-20261122-28 | ASMPT; 2026-10-28; Q3 2026 continuing operations; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.asmpt.com/site/assets/files/85973/q3_2026_en_announcement.pdf) |
+| SRC-REF-20261122-29 | Technoprobe; 2026-11-11; Nine months to September 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.emarketstorage.it/sites/default/files/comunicati/2026-11/20261111_191703.pdf) |
+| SRC-REF-20261122-30 | Hanmi Semiconductor; 2026-11-22 retrieval; Q3 2026 secondary summary; SOURCE_LIMITED | [SOURCE_LIMITED](https://quartr.com/companies/hanmi-semiconductor-co-ltd_17693) |
+| SRC-REF-20261122-31 | HD Hyundai Electric; 2026-10-27; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.hd-hyundaielectric.com/elect/en/IR/IRdata1.jsp) |
+| SRC-REF-20261122-32 | Eaton; 2026-11; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-third-quarter-2026-results.html) |
+| SRC-REF-20261122-33 | GE Vernova; 2026-10-28; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.gevernova.com/sites/default/files/gev_webcast_pressrelease_10282026.pdf?text=full) |
+| SRC-REF-20261122-34 | Advantest; 2026-10-28; H1 FY2026 to September; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.advantest.com/en/investors/financial-highlights/review/) |
+| SRC-REF-20261122-35 | Teradyne; 2026-10-27; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.teradyne.com/news-events/press-releases/detail/455/teradyne-reports-third-quarter-2026-results) |
+| SRC-REF-20261122-36 | Ambarella; 2026-11-05; Scheduled Q3 FY2027 release 24 November; FUTURE_EVENT | [FUTURE_EVENT](https://investor.ambarella.com/news-releases/news-release-details/ambarella-announces-third-quarter-fiscal-year-2027-earnings) |
+| SRC-REF-20261122-37 | Montage Technology; 2026-11-18; News index/innovation award; SOURCE_LIMITED | [SOURCE_LIMITED](https://www.montage-tech.com/Press_Releases) |
+| SRC-REF-20261122-38 | Harmonic Drive Systems; 2026-11-11; H1 to September2026; ISSUER_DOCUMENT_MIRROR | [ISSUER_DOCUMENT_MIRROR](https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261111/20261111573783.pdf) |
+| SRC-REF-20261122-39 | DISCO; 2026-10-22; H1 FY2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.disco.co.jp/eg/ir/library/doc/film/20261022_note.pdf) |
+| SRC-REF-20261122-40 | Micron; 2026-10; FY2026 Q4/full year; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/?aff_unique2=unknown&code=unknown) |
+| SRC-REF-20261122-41 | Ibiden; 2026-10-30; H1 FY2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.ibiden.com/ir/) |
+| SRC-REF-20261122-42 | Amkor; 2026-10-26; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-third-quarter-2026) |
+| SRC-REF-20261122-43 | Tecan; 2026-11-05; Q3 trading update; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://www.tecan.com/corporate-news/q3-2026-update-tecan-reports-acceleration-of-sales-growth-in-q3-and-raises-full-year-2026-outlook-63613?hsLang=en) |
+| SRC-REF-20261122-44 | Bruker / Chemspeed / SciY; 2026-11-04; Q3 2026; PRIMARY_REVIEW | [PRIMARY_REVIEW](https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Reports-Third-Quarter-2026-Financial-Results/default.aspx) |
+| SRC-REF-20261122-45 | Furukawa Electric / SuperPower; 2026-11-09; H1 FY2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.furukawaelectric.com/en/ir/library/finalreport/) |
+| SRC-REF-20261122-46 | VAT Group; 2026-10; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.vatgroup.com/news/highest-quarterly-order-intake-and-sales-ever-as-strong-ai-and-t) |
+| SRC-REF-20261122-47 | Cognex / RealSense; 2026-11-04; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.sec.gov/Archives/edgar/data/851205/000085120526000079/a10042026-xex991xq32026ear.htm) |
+| SRC-REF-20261122-48 | PTC; 2026-11-04; FY2026 Q4/full year; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.ptc.com/en/news/2026/earnings-results-q4-fy26) |
+| SRC-REF-20261122-49 | Arm; 2026-11-04; Q2 FY2027; PRIMARY_EVENT | [PRIMARY_EVENT](https://newsroom.arm.com/news/arm-q2-fye27-results) |
+| SRC-REF-20261122-50 | Schaeffler; 2026-11; Nine months to September 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.schaeffler.com/en/media/press-releases/press-releases-detail.jsp?id=88224327) |
+| SRC-REF-20261122-51 | MinebeaMitsumi; 2026-11-06; Q2 FYMarch 2027; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.minebeamitsumi.com/english/corp/investors/disclosure/financial/p2027/__icsFiles/afieldfile/2026/11/11/e2027_q2_slide_en.pdf) |
+| SRC-REF-20261122-52 | Cameco; 2026-10; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.cameco.com/media/news/cameco-reports-2026-third-quarter-results) |
+| SRC-REF-20261122-53 | Mitsubishi Heavy Industries; 2026-11-06; H1 FY2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.mhi.com/finance/library/result) |
+| SRC-REF-20261122-54 | Quanta Services; 2026-10; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.quantaservices.com/news-events/press-releases/detail/407/quanta-services-reports-third-quarter-2026-results) |
+| SRC-REF-20261122-55 | Caterpillar; 2026-10-29; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.caterpillar.com/en/news/corporate-press-releases/h/3q26-results-caterpillar-inc.html/) |
+| SRC-REF-20261122-56 | Nabtesco; 2026-11-22 retrieval; Q3 FYDecember2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.nabtesco.com/en/about/ir/library/settlement/) |
+| SRC-REF-20261122-57 | THK; 2026-11-13; Nine months to September 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.thk.com/jp/wordpress/wp-content/uploads/2026/11/261113_financial_result_en.pdf) |
+| SRC-REF-20261122-58 | Howmet Aerospace; 2026-10-29; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.howmet.com/financial-release/2026-10-29/howmet-aerospace-reports-third-quarter-2026-results/) |
+| SRC-REF-20261122-59 | Anhui Yingliu Electromechanical; 2026-10-30; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://static.cninfo.com.cn/finalpage/2026-10-30/1225639709.PDF) |
+| SRC-REF-20261122-60 | Cleveland-Cliffs; 2026-10; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.clevelandcliffs.com/news/news-releases/detail/705/cleveland-cliffs-reports-third-quarter-2026-results) |
+| SRC-REF-20261122-61 | ABB; 2026-10; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.abb.com/global/en/news/139696/q3-2026-results) |
+| SRC-REF-20261122-62 | Schneider Electric; 2026-10-16; Q3 revenue update; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.se.com/ww/en/about-us/investor-relations/financial-results/) |
+| SRC-REF-20261122-63 | Hitachi / Hitachi Energy; 2026-10-28; H1 to September2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://www.hitachi.com/en/press/articles/2026/10/1028/) |
+| SRC-REF-20261122-64 | Thermo Fisher Scientific; 2026-10-21; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Third-Quarter-2026-Results/default.aspx) |
+| SRC-REF-20261122-65 | Danaher; 2026-10-21; Q3 2026; PRIMARY_EVENT | [PRIMARY_EVENT](https://investors.danaher.com/2026-10-21-Danaher-Reports-Third-Quarter-2026-Results) |
+
+| SRC-REF-20261122-POLICY-US | BIS 16 November remote-access announcement; original rule checked; no blanket-service interpretation | [BIS](https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology), [rule](https://www.bis.gov/media/documents/rin-0694-ak50.pdf) |
+| SRC-REF-20261122-POLICY-CN | MOFCOM 9 November2026-58; specified measures suspended11 November–10 January | [MOFCOM](https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/dwmygl/art/2026/art_312a647b76cb4eb1b98128c6d0e81ae5.html) |
+| SRC-REF-20261122-MOD-SEC | MOD Investor Day/repurchase original; long-term target not March 2028 profit | [SEC8-K](https://www.sec.gov/Archives/edgar/data/67347/000110465926129392/mod-20261113x8k.htm) |
+| SRC-REF-20261122-JEM-FIN | JEM10November financial/supplemental originals; briefing13 November | [financial](https://www.jem-net.co.jp/images/top/pdf/2026/261110_262qtanshin.pdf), [supplemental](https://www.jem-net.co.jp/images/top/pdf/2026/261110_262qhosoku.pdf) |
+| SRC-REF-20261122-DISCOVERY | Primary external-universe/benchmark sources; no current Gate-E promotion | `research/discovery/november-challenge.md` links each source and limitation |
+
+### Quote receipt — 20 November local-market close, retrieved22 November
+
+Reference prices only, not executable orders or total returns. Reject inconsistent day-return fields; preserve venue, intraday and corporate-action differences. No price is fabricated for FROB before confirmed listing.
+
+| Instrument / venue / currency | Reference | Source and basis |
+|---|---:|---|
+| Impro / HKEX / HKD | 4.31 | [dated history](https://ph.investing.com/equities/impro-precision-industries-ltd-historical-data); second history corroborates price, return fields disagree |
+| Laifual / HKEX / HKD | 18.89 | [FT daily history](https://markets.ft.markitdigital.com/data/equities/tearsheet/historical?s=3952%3AHKG) |
+| TAI-TECH / TPEX / TWD | 133.00 | [dated history](https://hk.investing.com/equities/tai-tech-advanced-electronics-co-historical-data) |
+| MJC / Tokyo / JPY | 8,802 | [dated Tokyo quote](https://uk.marketscreener.com/quote/stock/MICRONICS-JAPAN-CO-LTD-13655253/quotes/) |
+| JEM / Tokyo / JPY | 5,340 | [FT daily history](https://markets.ft.markitdigital.com/data/equities/tearsheet/historical?s=6855%3ATYO) |
+| SUSS / Xetra / EUR | 43.86 | [Xetra history](https://twelvedata.com/markets/874130/stock/xetr/smhn/historical-data); Stuttgart43.06 is another venue; percentage fields rejected |
+| Centrus / NYSE / USD | 81.43 | [issuer/LSEG history](https://centrusenergy.gcs-web.com/stock-information/historic-price-lookup), factor1:1; FT84.11 at15:58GMT is intraday |
+| MOD / NYSE / USD | 124.67 | [daily reference](https://twelvedata.com/markets/380284/stock/nyse/mod/historical-data); inconsistent return fields rejected; separate THRM distribution |
+| Weebit / ASX / AUD | 2.18 | [daily reference](https://twelvedata.com/markets/145866/stock/asx/wbt/historical-data); inconsistent return fields rejected |
+| BlackBerry / NYSE / USD | 7.77 | [StockAnalysis](https://stockanalysis.com/stocks/bb/history/), [second history](https://www.investing.com/equities/research-in-motion-ltd-historical-data) |
+| Namuga / KOSDAQ / KRW | 15,500 | [dated history](https://stockanalysis.com/quote/kosdaq/190510/history/), corroborating history checked |
+| GDYN / Nasdaq / USD | 12.66 | [Yahoo daily history](https://finance.yahoo.com/quote/GDYN/history/);12.44 is after-hours |
+| Jinpan / Shanghai / CNY | 45.18 | [end-of-day secondary quote](https://www.marketscreener.com/quote/stock/HAINAN-JINPAN-SMART-TECHN-130615634/); no bonus/split inferred |

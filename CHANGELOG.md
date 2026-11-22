@@ -1,3 +1,11 @@
+## 2026-11-22 — Full-inventory evidence and decision refresh (#376)
+
+- Challenged all 16 discovery lanes and screened all 65 inventory companies with explicit source depth/period/retrieval limits. Updated 14 decision-critical canonical records; current-source screens are not represented as 65 completed valuations.
+- Recovered November results and public FORT S-4; corrected stale future-event dependencies. Reopened networking valuation research, added access/geography/funding stresses and materials/process leads without automatic equity promotions.
+- Reordered 13 leading capital-reassessment priorities; structural/lower-universe ranks remain prior comparisons where fresh relative valuation is insufficient. Impro/Laifual ACTION overrides now reconcile in the actual table and validators, rather than only prose above stale ACTION rows.
+- Replaced stale deployability with zero verified weights, archived October controlled inputs in the same model, and made remaining-window/cash controls explicit. £80k remains unsupported; no numerical probabilities, ceiling increases, private holdings or trades.
+- Appended calibration outcomes, updated source provenance/watchlist/theme/portfolio/automation routing and current receipt. Preserved frozen #261, sealed prospective predictions and scheduler pause. Required checks/publication recorded in #376 and PR audit.
+
 ## 2026-11-15 — Impro / Laifual price and entry-calibration review
 
 - Added source-qualified 13 November closing references and append-only comparison against original entry guidance. Preserved original ACTION snapshots, scenario boundaries and evidence.

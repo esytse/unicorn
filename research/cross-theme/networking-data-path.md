@@ -1,5 +1,11 @@
 # Networking and inference data-path capture
 
+## November re-opening — 22 November 2026
+
+**FACT:** [Astera3November Q3](https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-third-quarter-2026-financial-results) records revenue $584.9m and Scorpio as largest product family. [Coherent4November](https://ir.coherent.com/news-releases/news-release-details/coherent-corp-reports-first-quarter-fiscal-2027-results) and [Lumentum2November](https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx) provide new operating evidence. Credo1 December reporting is future, not known.
+
+**INTERPRETATION:** operating capture has advanced enough to reopen the October valuation screen. **Current coverage result: COVERAGE_INCOMPLETE for fresh capital comparison**, replacing the previous rejection as a current conclusion; old dated rejection is preserved below. Demand progress is not a passed diluted-share/cash/valuation test. Reconcile concentration, SBC, optical capex and copper/optical substitution, then compare March 2028 payoff at current prices. BIS access controls can shift customer demand or restrict it; no blanket beneficiary inference. No new ACTION/ranked-equity promotion.
+
 **Lifecycle:** CANONICAL discovery evidence
 **As of:** 2026-10-09
 **Issue:** #367

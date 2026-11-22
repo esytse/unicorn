@@ -1,5 +1,17 @@
 # Namuga — humanoid stereo-camera programme underwrite
 
+## Full-refresh decision — 22 November 2026
+
+**WAIT / source-limited, no numerical upgrade.** [16 November quarterly-report mirror](https://financialfilings.com/filings/namuga-coltd/interim-quarterly-report/2026/76329376/), SRC-REF-20261122-09, contains both consolidated and standalone tables. The original DART report and the exact reporting basis were not recovered in this pass; do not silently substitute one table or adopt its numbers as independently verified.
+
+**Quote:** [20 November KOSDAQ close](https://stockanalysis.com/quote/kosdaq/190510/history/) **KRW15,500**, corroborated by another price history and above the historical KRW13–14k region. This does not prove robot-programme earnings or a new entry.
+
+**INTERPRETATION:** the prior humanoid award remains dated evidence of qualification, not a disclosed volume/ASP/margin contract. Structural **Medium**, company capture **Medium**, financial materiality/equity **Low** until original financial and programme data reconcile. Full-scale2028 production may arrive too late for much March 2028 earnings; distinguish a design-win rerating from delivered cash.
+
+**Next gate:** DART original, consolidated cash/earnings/dilution, named paid production economics and timing. Buy/Add only with these and acceptable current valuation; Hold/Trim/Sell on funded programme conversion/competitive forward payoff. Ouster/Cognex/RealSense/customer integration remain counter-cases. No future results or private holding inferred.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#294)
 
 [Issuer May14](https://namuga.com/eng/invest/news_view.php?v_seqno=362) remains older production-line/head-module evidence; existing Sep7 sole-source humanoid award is not new orders. Latest attempted issuer-news endpoint failed, so post-award completeness is UNKNOWN. [Dated secondary quote](https://www.investing.com/equities/namuga-co-ltd-historical-data) Oct8 KRW15,410, outside 13–14k. **WAIT** for material program quantity/content/margin/timing or intact speculative-price trigger. Ouster/Cognex/RealSense/AMBA, customer integration and camera modality substitution challenge durable capture. No imagined named customer or revenue. Hold only on funded timely conversion/valuation, Trim if program premium outruns orders, Sell if award slips/lost or margin fails. No current holding or new scenario values assumed.

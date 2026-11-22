@@ -34,6 +34,13 @@ class IntegrityTests(unittest.TestCase):
     def test_current_repository_passes(self):
         self.assertEqual(check(self.root), [])
 
+    def test_incomplete_full_refresh_receipt(self):
+        path = self.root / 'research/discovery/refresh-ledger.json'
+        data = json.loads(path.read_text())
+        data['rows'].pop()
+        path.write_text(json.dumps(data))
+        self.assert_detects('REFRESH')
+
     def test_broken_link(self):
         self.append('README.md', '\n[missing](docs/moved.md)\n')
         self.assert_detects('LINK')

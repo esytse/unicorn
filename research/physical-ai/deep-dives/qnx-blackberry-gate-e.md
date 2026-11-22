@@ -1,5 +1,17 @@
 # BlackBerry / QNX — FY27 Q2 Gate-E refresh
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT.** [20 October issuer QNX disclosure](https://qnx.software/en/press-release/2026/blackberry-qnx-royalty-backlog-exceeds-1-2-billion), SRC-REF-20261122-08, reports estimated lifetime royalty backlog **above $1.2bn**, more than $250m above FY26-end. It is future lifetime design-win value, not contracted March 2028 cash. Do not count the first Alloy Kore award twice when aggregating earlier Q2 and later backlog observations.
+
+**Quote:** [20 November NYSE BB close](https://stockanalysis.com/stocks/bb/history/) **US$7.77**, independently corroborated by a second price history; above the historical ~US$7 reassessment reference. QNX remains a segment of BlackBerry, so use a parent SOTP/share/cash bridge rather than comparing its backlog directly with parent market value.
+
+**INTERPRETATION:** stronger design-win evidence supports structural/capture confidence **High**, financial materiality **Medium-High**, remaining-window equity **Medium-Low**. Non-auto paid production and timing remain incomplete. The FORT S-4 now permits a comparison: QNX has demonstrated royalties and profitability; FORT discloses bundled perpetual software and cash burn. This supports relative evidence quality, not automatic relative valuation.
+
+**Next gate:** next issuer results/royalty conversion and non-auto production evidence, current parent balance sheet/share count and sensitivity near the old price reference. Buy/Add only after updated remaining-window SOTP; Hold on competitive cash value; Trim on advance capitalization of design wins; Sell on qualification/cash-capture failure. No new size.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#106 / #109)
 
 [SEC Sep24 Q2 release](https://www.sec.gov/Archives/edgar/data/1070235/000107023526000112/q2fy27ex-991.htm) and issuer financial calendar rechecked; Q2 analysis was completed, not overdue. [BB quote history](https://stockanalysis.com/stocks/bb/history/) Oct9 close $8.91 exceeds ~US$7 reassessment region. **REASSESS / WAIT**, no new Buy/Add. [Issuer](https://investors.blackberry.com/) plans Q3 Dec17 only approximately. Largest Alloy Kore design win is not yet Physical-AI/non-auto production profit. Existing financial/SOTP underwrite governs; no updated target invented. Hold only on competitive forward cash value; Trim on recognition ahead of royalty/content conversion; Sell if qualification/cash capture fails. QNX is financially better evidenced than FORT, but #109 cannot select a FORT allocation without public dilution/recurring economics. No transaction inferred.

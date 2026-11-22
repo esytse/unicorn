@@ -7,14 +7,12 @@ RANKING = Path('research/ranked-universe.md')
 START = '<!-- OBJECTIVE-RANKING:START -->'
 END = '<!-- OBJECTIVE-RANKING:END -->'
 EXPECTED_COUNT = 65
-EXPECTED_ACTIONS = {
-    'Laifual Drive',
-    'Impro Precision Industries',
-}
+# 22 November governed checkpoints: no freshly verified ACTION.
+EXPECTED_ACTIONS = set()
 KEY_MONITORS = {
     'TAI-TECH Advanced Electronics': 'REASSESS',
-    'Laifual Drive': 'ACTION',
-    'Impro Precision Industries': 'ACTION',
+    'Laifual Drive': 'REASSESS',
+    'Impro Precision Industries': 'REASSESS',
     'Namuga': 'WAIT',
     'Grid Dynamics': 'REASSESS',
     'Vicor': 'WATCH',

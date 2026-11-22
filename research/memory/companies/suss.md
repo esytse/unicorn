@@ -1,5 +1,19 @@
 # SUSS
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; demand strengthens while execution assumptions weaken.** [5 November issuer release](https://www.suss.com/en/news/corporate-news/2026/suss-reports-first-nine-months-2026-results-record-order-book-of-601-million-provides-strong-visibility?languageChanged=en), SRC-REF-20261122-06, reports September orderbook EUR600.6m and nine-month sales EUR299.8m / EBIT margin 6.1%. Revised FY26 guide: sales EUR405–425m, EBIT margin 5–7%. Component constraints shift revenue into 2027; relocation adds charges. FCF EUR65.3m is substantially supported by customer prepayments, not solely earned recurring cash.
+
+**Quote:** [20 November Xetra close](https://twelvedata.com/markets/874130/stock/xetr/smhn/historical-data) **EUR43.86**. Stuttgart EUR43.06 is a different venue; do not merge either with percentage-return fields that fail to reconcile. Old EUR60–62 triggers are obsolete without revised margin/timing underwriting.
+
+**INTERPRETATION:** funded customer interest is positive, but the company itself is constrained by complements. Orders scheduled in calendar 2028 cannot all become earnings before March 2028. Structural/capture confidence **Medium-High**; financial conversion **Medium**; near-window equity **Low-Medium**.
+
+**Reverse valuation / hypothesis:** at approximately 19.116m historical shares, gross equity value is EUR838m before current cash/debt reconciliation. Supporting that value at 15–20x net income needs EUR42–56m sustainable earnings. Revised FY26 EBIT is only about EUR20–30m before interest/tax, so a low quote still prices a significant 2027 recovery. A 2x outcome needs EUR84–112m net income at those multiples. Customer prepayments are delivery obligations, not surplus cash to distribute.
+
+**Next gate:** reconcile current shares, cash/advance obligations and normalized tax/interest; rebuild 2027 shipments, relocation and margin bridge with slips into 2028. Buy/Add only after that bridge; Hold on conversion; Trim on advance-funded backlog priced as earned profit; Sell on canceled programmes, process substitution or sustained execution failure. No historical 10–12% sleeve activated.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#126)
 
 [Issuer archive](https://www.suss.com/en/newsroom/news-archive) confirms Oct1 GreenTec, already captured on main. Product launch and 2027 300mm HVM roadmap are not qualified booked orders or margin proof. [Secondary history](https://stockanalysis.com/quote/etr/SMHN/history/) gives Oct8 €65.25, Oct9 €66.20 timestamped 15:47 (intraday), outside €60–62 region. **WAIT**; no new deployment or higher band. Backlog conversion and process-of-record durability versus hybrid bonding/incumbents remain controlling. Hold if cash/earnings and forward valuation support it; Trim if premium outruns conversion, Sell if process loss/architecture migration breaks economics. Next material backlog/results/process evidence, not another product announcement. No new scenario probabilities or holding inferred.

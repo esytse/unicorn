@@ -11,6 +11,7 @@ from performance import validate as validate_performance
 from discovery_coverage import validate as validate_discovery_coverage
 from objective_ranking import validate as validate_objective_ranking
 from portfolio_feasibility import validate as validate_portfolio_feasibility
+from objective_ranking import parse as parse_ranking
 
 MAP = Path('docs/REPOSITORY_GOVERNANCE.md')
 FROZEN = Path('scripts/frozen-261.json')
@@ -170,6 +171,31 @@ def check(root, base_ref=None):
     errors.extend(discovery_errors)
     errors.extend(validate_objective_ranking(root))
     errors.extend(validate_portfolio_feasibility(root))
+    # A complete-refresh receipt must account for the actual inventory, not a
+    # manually typed company count or an implicit "no news" assertion.
+    receipt = root / 'research/discovery/refresh-ledger.json'
+    if receipt.exists():
+        try:
+            refresh = json.loads(receipt.read_text())
+            _, inventory = parse_ranking(root)
+            rows = refresh.get('rows', [])
+            names = [row.get('company') for row in rows]
+            if len(names) != len(set(names)) or set(names) != {row['company'] for row in inventory}:
+                fail('REFRESH', 'receipt must account for every ranked company exactly once')
+            depths = {'PRIMARY_REVIEW', 'PRIMARY_EVENT', 'PRIMARY_INDEX_ONLY',
+                      'ISSUER_MIRROR_REVIEW', 'ISSUER_DOCUMENT_MIRROR',
+                      'SOURCE_LIMITED', 'FUTURE_EVENT'}
+            source_register = (root / 'sources/source-register.md').read_text()
+            for row in rows:
+                if row.get('depth') not in depths:
+                    fail('REFRESH', f'{row.get("company")} has invalid evidence depth')
+                if not all(row.get(k) for k in ('publication_date', 'observation_period',
+                                               'retrieved_on', 'observation', 'inference_and_gate')):
+                    fail('REFRESH', f'{row.get("company")} lacks dated evidence or explicit gate')
+                if not row.get('source_url', '').startswith('https://') or row.get('source_id', '') not in source_register:
+                    fail('REFRESH', f'{row.get("company")} lacks registered recoverable source')
+        except (ValueError, OSError, TypeError) as exc:
+            fail('REFRESH', f'invalid receipt: {exc}')
     return errors
 
 

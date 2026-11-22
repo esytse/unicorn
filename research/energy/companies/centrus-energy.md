@@ -1,8 +1,20 @@
 # Centrus Energy — Gate-E Post-Financing Underwrite
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; explicit policy/cash downside has increased.** [4 November Q3 release](https://investors.centrusenergy.com/news-releases/news-release-details/centrus-reports-third-quarter-2026-results), SRC-REF-20261122-05: revenue $55.5m, GAAP profit $31.6m but adjusted loss $9.4m. Centrifuge manufacturing/shipping advanced, yet management says DOE does **not currently intend further options under the HALEU Operation Contract**. This is not equivalent to cancellation of every DOE relationship. Contingent enrichment backlog $5.4bn is not funded near-window revenue.
+
+**Quote:** [issuer-hosted LSEG history](https://centrusenergy.gcs-web.com/stock-information/historic-price-lookup), **20 November close $81.43**, split factor1:1. FT's $84.11 was timestamped15:58GMT, an intraday observation despite a Close column; reject it as final close.
+
+**INTERPRETATION:** strategic scarcity remains **High**; company capture **Medium**, funding/materiality **Low-Medium**, remaining-window equity **Low**. Manufacturing progress is positive, but the operating-contract change requires a revised cash runway and project-funding bridge. A price below $120–130 cannot bypass this. Do not capitalize post-2028 production as March 2028 earnings or treat accounting gains as operating profit.
+
+**Next gate:** reconcile November S-3, outstanding common/pre-funded warrants and usable unrestricted/project cash; quantify consequences of option non-exercise, capex obligations and contracted versus contingent capacity. Buy/Add only after funded schedule and dilution-aware return stress; Hold only if forward funded value survives; Trim/Sell on material funding/schedule impairment. No automatic blanket thesis-break declaration and no fresh size.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#129)
 
-[Issuer news index](https://www.centrusenergy.com/news/) rechecked against already captured September funding/customer evidence. [Market history](https://stockanalysis.com/stocks/leu/history/) $141.35 on Oct9 10:37 EDT is intraday and above $120–130. No new original funded-capacity tranche was established in this bounded pass. **REASSESS / WAIT**. Separate headline capital from usable committed project funds, full capex obligations and diluted equity/warrant economics. Existing 2029 capacity earnings remain outside March2028; near-window upside relies substantially on financing/schedule de-risking and rerating. Cameco's diversified fuel/services is a counter-case, not pure HALEU substitute. Hold only on funded timely per-share value; Trim if premium outruns funding; Sell on verified policy/funding/milestone failure or destructive dilution. No new probabilistic return or allocation; wait for original DOE/customer/tranche/manufacturing evidence.
+[Issuer news index](https://www.centrusenergy.com/news/) rechecked against already captured September funding/customer evidence. [Market history](https://stockanalysis.com/stocks/leu/history/) $141.35 on Oct9 10:37 EDT is intraday and above $120–130. No new original funded-capacity tranche was established in this bounded pass. **REASSESS / WAIT**. Separate headline capital from usable committed project funds, full capex obligations and diluted equity/warrant economics. Existing 2029 capacity earnings remain outside March 2028; near-window upside relies substantially on financing/schedule de-risking and rerating. Cameco's diversified fuel/services is a counter-case, not pure HALEU substitute. Hold only on funded timely per-share value; Trim if premium outruns funding; Sell on verified policy/funding/milestone failure or destructive dilution. No new probabilistic return or allocation; wait for original DOE/customer/tranche/manufacturing evidence.
 
 
 **Research stream:** AI/data-centre energy — Western enrichment / HALEU  

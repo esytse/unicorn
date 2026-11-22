@@ -1,5 +1,9 @@
 # AI Energy / Power Delivery — Working Thesis
 
+## Full-theme challenge — 22 November 2026
+
+**INTERPRETATION:** current nVent/transformer/cooling disclosures support speed-to-usable-compute demand. Impro now separately reports thermal-management sales; MOD supplies continuing guidance with weak reported cash. Centrus manufacturing progress coexists with a changed DOE operating-option expectation, so strategic scarcity cannot be equated to funded per-share payoff. Geography/access, current project funding and capital intensity are distinct bottlenecks. Sources and exact limits: `research/discovery/november-challenge.md` and22 November company checkpoints. Structural demand confidence remains High; financial/equity capture is company-specific, with no blanket upgrade.
+
 **Status:** Structural bottleneck map, common-basis ranking, supplier underwriting and Gate C capital allocation complete; valuation / earnings monitoring  
 **Confidence:** **High** on the coupled speed-to-power / speed-to-usable-compute thesis; **Medium-High** on leading supplier capture; **Medium** on normalized valuation scenarios  
 **Last substantive update:** 2026-09-08

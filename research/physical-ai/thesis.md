@@ -1,5 +1,9 @@
 # Physical AI — Working Thesis
 
+## Full-theme challenge — 22 November 2026
+
+**INTERPRETATION:** QNX lifetime backlog and GDYN margins support commercial adoption, but they measure different economic models. FORT's public S-4 now discloses perpetual embedded software bundled with hardware; do not capitalize observed revenue as recurring SaaS. Namuga award evidence still lacks reconciled paid programme economics. Fleet/data rights and independent evaluation capture remain uncertain and often private/captive. Sources:22 November company checkpoints and `research/discovery/november-challenge.md`. Retain Medium-High structural relevance and Medium-Low confidence in clean merchant/public capture; no higher portfolio permissions.
+
 **Status:** Gate A complete; Gate B merchant-capture research active  
 **Parent issue:** #91  
 **Confidence:** **Medium-High on structural ranking; Medium-Low on merchant/public-company capture**  

@@ -1,5 +1,21 @@
 # Impro Precision — AI infrastructure exposure evidence resolution
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT for new entry or Add.** Revenue evidence strengthens the thesis, but the November freshness suspension is not removed by a lower quote. [21 October issuer disclosure](https://www.improprecision.com/wp-content/uploads/2026/10/2026102100203.pdf), SRC-REF-20261122-02, covers July–September and nine months, not new audited earnings.
+
+**FACT:** Q3 sales HK$1,782.2m (+31.0%); thermal management HK$194.8m (+241.2%), now separately disclosed; high-horsepower engines HK$494.7m (+53.3%). Nine-month thermal plus high-horsepower sales are HK$1,575.8m / HK$4,800.2m = **32.8%**, a calculated exposure share, not pure AI revenue. FY26 sales-growth guidance rises to 25–30%. Quarterly disclosure supplies no fresh consolidated profit/cash statement.
+
+**Valuation observation:** [20 November HKEX secondary closing reference](https://ph.investing.com/equities/impro-precision-industries-ltd-historical-data) HK$4.31; two sources agree on price but not daily return fields, so do not adopt percentage changes. About 9.7x mechanically doubled H1 EPS HK$0.222; that is a sensitivity, not normalized FY earnings. Reconcile the subsequent share denominator before treating it as a forward multiple.
+
+**INTERPRETATION:** operating attribution improves and the starting multiple is materially lower. The counter-case remains capacity/working capital absorbing profits, tariff/geographic access and nonexclusive customer sourcing. Structural/capture confidence **Medium**, cash materiality **Medium-Low**, remaining-window equity **Low-Medium**. This becomes the first capital-reassessment priority, not an ACTION.
+
+**HYPOTHESIS / March 2028 sensitivity:** EPS 0.30–0.40 at 7–9x gives HK$2.10–3.60; EPS 0.48–0.60 at 10–12x gives 4.80–7.20; EPS 0.65–0.75 at 13–15x gives 8.45–11.25. These assumptions test downside, earnings delivery and rerating separately; they are not issuer forecasts or new targets. From 4.31, nominal returns are approximately -51% to -16%, +11% to +67%, +96% to +161%, excluding dividends/FX/fees. The middle case requires earnings improvement; its upper end also requires rerating.
+
+**Next decision gate:** reconcile October monthly shares/placement and dilution, latest balance-sheet/cash funding, Mexico customer acceptance and margin sensitivity using the FY26 sales bridge. Buy/Add requires that completed bridge and acceptable downside; previous 5%/7.5% are maximum historical permissions, not available allocations. Hold only if forward cash value remains competitive; Trim/Sell on failed ramp, structural cash deterioration or excessive priced growth, never purchase-cost anchoring.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Current review override — 15 November 2026
 
 **Current capital decision: REASSESS / fresh entry and Add eligibility suspended pending updated underwrite.** This is a freshness/valuation control, not a finding that the operating thesis has broken.

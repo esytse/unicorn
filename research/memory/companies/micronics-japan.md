@@ -1,5 +1,19 @@
 # Micronics Japan (MJC)
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT, materially improved evidence/valuation comparison.** [12 November JPX issuer filing](https://www2.jpx.co.jp/disc/68710/140120261112574944.pdf), SRC-REF-20261122-11, covers January–September. Sales **JPY81.964bn**, operating profit **26.993bn**, attributable net profit **19.506bn**; revised FY26 EPS guide **691.30**, annual dividend guide **208**. Guidance is not realized full-year earnings. Issued shares 40.025m, treasury 1.254m; do not use gross issued shares with a net-share EPS denominator.
+
+**Quote:** [20 November Tokyo close](https://uk.marketscreener.com/quote/stock/MICRONICS-JAPAN-CO-LTD-13655253/quotes/) **JPY8,802**, about **12.7x FY26 guided EPS** and 2.4% guided gross dividend yield before withholding. This replaces October's high-price reference; it does not establish an executable order.
+
+**HYPOTHESIS / March 2028 sensitivity:** EPS 450–550 at 10–12x = JPY4,500–6,600; EPS 700–850 at 14–17x = 9,800–14,450; EPS 950–1,100 at 18–22x = 17,100–24,200. From 8,802: about -49% to -25%, +11% to +64%, +94% to +175%, before dividends/FX/fees. These deliberately test normalization and growth; the middle case also needs multiple expansion from the current guided P/E. No unsupported 3x promise.
+
+**INTERPRETATION:** company economic capture and earnings materiality **High**, structural **High**, remaining-window equity **Medium**. Financial reporting is stronger than JEM's unresolved recovery case, so capital-reassessment priority rises. Strongest counter-case: concentrated Samsung/Micron demand, HBM investment cyclicality and new probe capacity; current quarter lacks a full cash-flow bridge adequate to extrapolate latest profit into distributable cash.
+
+**Next gate:** recover latest cash/capex/customer concentration and production outlook, normalize margins, compare with JEM/SUSS on correlated downside and confirm price/share basis. Buy/Add only after this check supports responsible size; old JPY10,000–10,800 reference is reassessment history, not a standing Buy. Hold on competitive forward earnings/cash; Trim on earnings outrun; Sell on lost qualification or durable margin/cash impairment.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#128)
 
 [Primary Japanese homepage indexed text](https://ns3.mjc.co.jp/) dated Oct2 schedules Q3 results **12 Nov 2026 15:30 JST**; direct page returned an error and English IR's dynamic news remained incomplete. [Secondary history](https://stockanalysis.com/quote/tyo/6871/history/) gives Oct9 close ¥17,330, well above ¥10,000–10,800. **WAIT**, stronger operating franchise does not justify chasing. HBM/margin/FCF, customer concentration and capex remain the valuation bridge in the existing underwrite. No new customer or cash evidence inferred from calendar notice. Reassess on results/qualification or renewed price condition. Holding retention/trim depends on forward value versus this premium, not cost. Exact filing-index completeness remains open.
