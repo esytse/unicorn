@@ -1,7 +1,11 @@
 # Cross-theme Research Watchlist
 
+## Current evidence boundary — 22 November 2026
+
+All65 ranked companies have an [explicit source/depth receipt](research/discovery/november-challenge.md);14 decision-critical canonical records now have22 November checkpoints. Research statuses below are retained; old scores, prices and return bands in unchanged rows are historical navigation snapshots, not current valuation or ACTION. The [ranked universe](research/ranked-universe.md) and canonical company checkpoints govern current decisions. No new watchlist promotion or higher confidence is implied by a source-location screen. Impro/Laifual new-entry/Add eligibility remains suspended; no currently verified ACTION.
+
 **Lifecycle:** DERIVED  
-**As of:** 2026-09-25  
+**As of:** 2026-11-22 (current receipt; older rows are dated navigation snapshots)
 **Canonical upstream:** company evidence comes from the relevant canonical company/deep-dive file; cross-theme order comes from `research/ranked-universe.md`; portfolio rules come from `PORTFOLIO.md`.
 **Authority rule:** this file is a research-prioritisation index. Its status/rationale rows are navigation snapshots and must not independently redefine a company thesis, cross-theme rank, or Gate-E action rule.
 

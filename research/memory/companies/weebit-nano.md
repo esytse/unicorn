@@ -1,5 +1,17 @@
 # Weebit Nano
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; current-quarter liquidity source recovered, remaining gates retained.** [16 October issuer activity report](https://www.weebit-nano.com/news/press-releases/q1-fy27-quarterly-activities-report/), SRC-REF-20261122-13, covers September quarter: cash **A$164.2m**, customer receipts **A$6.1m** from licence/NRE, a second customer in silicon validation and targeted 2027 production subject to validation. These are not recurring production royalties.
+
+**Source-quality caveat:** the prose calls a future calendar2027 half “H1 FY27,” inconsistent with a fiscal-year label; do not use that sentence to invent a precise revenue bridge. Cash/receipts are explicit, while the original Appendix4C, October risk response, auditor and securities changes still need reconciliation. Current cash recovery removes “June cash only” as the live description; it does not remove those other dependencies.
+
+**Quote:** [20 November ASX daily reference](https://twelvedata.com/markets/145866/stock/asx/wbt/historical-data) **A$2.18**; return fields are inconsistent, so price only. At historical 255–260m diluted planning shares, equity would be A$556–567m and indicative EV A$392–403m after September cash only, before debt/options/current changes. At 25–35x mature profit this needs about A$11–16m recurring earnings merely to support that EV; royalty conversion is not yet demonstrated. This is reverse sensitivity, not a valuation.
+
+**INTERPRETATION:** technical capture **Medium**, production materiality **Low-Medium**, equity **Low**; liquidity evidence improves without a royalty upgrade. Competing NVM/foundry IP, delays and dilution remain strongest counter-cases. Buy/Add veto until originals/dilution and royalty economics pass; Hold/Trim/Sell on funded per-share commercialization, not media or price alone. No new size.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 **Research stream:** AI memory — emerging NVM / architectural optionality  
 **Ticker:** ASX: WBT  
 **Status:** Watch  

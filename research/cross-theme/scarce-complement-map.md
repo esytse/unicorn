@@ -1,5 +1,9 @@
 # Scarce-Complement Research Map
 
+## Current challenge — 22 November 2026
+
+The [November full-universe challenge](../discovery/november-challenge.md) and [current coverage ledger](../discovery/COVERAGE.md) supersede older coverage-maturity descriptions below. All16 lanes were assessed; scientific execution and sensing already have bounded candidates rather than being wholly unsearched. Memory remains crowded. Access/geography, funding and timing now receive an explicit cross-cutting stress. New materials/process leads are unranked until company economics/valuation are established; no fifth correlated HBM expression is promoted merely for theme strength. The framework remains Medium confidence in discovery usefulness; repeatable shareholder alpha is unproven.
+
 **Status:** canonical cross-theme coverage map  
 **Date:** 2026-09-22  
 **Parent framework:** `research/cross-theme/scarce-complements.md`  

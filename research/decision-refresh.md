@@ -1,7 +1,44 @@
 # Unicorn decision refresh and coverage receipt
 
+## Full refresh — 22 November 2026 (#376)
+
+**Plan executed:** reconcile authorities/November overrides -> challenge 16 discovery lanes -> screen 65 companies -> update 14 decision-critical company records -> compare fresh valuation sensitivities and remaining-window cash/deployment -> reconcile source/ranking/watchlist/calibration/model -> governed validation/publication. The30 October prepared branch was never on main and is not claimed as a merged baseline. Publication/check receipt lives in [issue #376](https://github.com/esytse/unicorn/issues/376).
+
+**Scope/depth:** [complete65-company source/coverage ledger](discovery/refresh-ledger.json), [16-lane challenge and explicit exclusions](discovery/november-challenge.md). Fourteen records received current evidence/gate review; Impro/MJC/TAI have fresh earnings-times-multiple sensitivities, Laifual/SUSS reverse-profit hurdles, and Weebit a limited EV sensitivity. Remaining screens are not completed valuation underwrites. Source failures, reporting-basis ambiguities, month-only dates and future events are explicit. No full 65-company current-price valuation claim.
+
+**Main conclusions / interpretation:** scarce complements remain a useful discovery lens; investment alpha remains unproven. Operating evidence strengthens for several suppliers, but cash conversion, funded capacity, dilution, policy access and catalyst timing still decide equity capture. Geographic/customer access is added as a cross-cutting constraint rather than a generic rare-earth buying thesis. Networking research reopens after new operating evidence; it is not automatically promoted.
+
+**Changed capital-reassessment order:** Impro -> Micronics Japan -> TAI-TECH -> SUSS -> MOD -> JEM -> Centrus -> Laifual -> QNX -> Jinpan -> Namuga -> GDYN -> Weebit. This orders the leading decisions worth resolving, not current Buy permissions. Structural ranks and lower 52 relative research ranks remain prior comparison order after an explicit event screen; weak evidence cannot support a fabricated complete numerical rerank.
+
+**Current new-entry/Add state:** no freshly verified ACTION. Existing Impro/Laifual suspension remains; no old upper price ceiling automatically passes a new lower-price decision. No higher ceilings, speculative probabilities or private positions are inferred. Watchlist research statuses are unchanged; company layered confidence changes are recorded in the 22 November checkpoints. Price outcomes are appended to calibration without hindsight changes to earlier predictions.
+
+| Monitor | New evidence assessed | Current residual gate / state |
+|---|---|---|
+| #293 Impro / P0 | Q3 thermal attribution and raised sales outlook; lower dated quote | REASSESS/WAIT: reconcile shares/dilution, latest cash funding and customer acceptance; sensitivity is not a target |
+| #128 MJC / P1 |12Nov earnings/guidance, net-share basis and much lower quote | REASSESS/WAIT: normalized cash/capex, current customer concentration and size/downside check |
+| #292 TAI / P0 | Issuer Q3/October deck resolves original monthly gap and identifies AI 13% | REASSESS/WAIT: Q3 cash/debt/share reconciliation and AI profit attribution |
+| #126 SUSS / P1 |5Nov revised margin/delivery guide, backlog and advance-funded cash | REASSESS/WAIT:2027 net-profit/cash/delivery bridge; component and relocation stress |
+| #146 MOD / P0 |3Nov continuing EBITDA guidance;18Nov SEC Investor Day/buyback evidence | REASSESS/WAIT: continuing post-close net debt/FCF, current shares and separate THRM economics |
+| #125 JEM / P0 |10/13Nov statements/briefing and higher group guidance | REASSESS/WAIT: Thailand loss/restart/delivery/insurance and current cash/share bridge; do not infer current shutdown |
+| #129 Centrus / P1 |4Nov results/manufacturing and changed DOE option expectation | REASSESS/WAIT: unrestricted project cash, S-3/dilution, funding/capex schedule and policy downside |
+| #86 Laifual / P0 |4Nov award/mandate proposals,20Nov price below old bear range | REASSESS/WAIT:24 Nov EGM, new/existing-share scheme limits, H2 ASP/profit/cash and reverse-earnings proof |
+| #106 QNX / P1 |20Oct backlog above $1.2bn; current parent quote | REASSESS/WAIT: lifetime-to-near-window conversion, non-auto paid production and parent SOTP |
+| #130 Jinpan / P1 | Q3 issuer mirror shows weak OCF/profit conversion | REASSESS/WAIT: SSE original, working capital/debt/convertible dilution and named repeat qualification |
+| #294 Namuga / P1 |16Nov quarterly mirror and current quote | WAIT: DART original and consolidated/standalone basis, robot order quantities/content/profit |
+| #295 GDYN / P1 |29Oct SEC results/margins, current rerated quote | REASSESS/WAIT: recurring-platform versus services, SBC-adjusted cash/share valuation |
+| #127 WBT / P0 |16Oct September cash/receipts recovered | REASSESS/WAIT: original risk/auditor/securities and Appendix4C, current dilution and production royalties |
+| #108 FORT / #109 comparison / P1 |13Nov public S-4 with bundled perpetual software, burn and revised redemption tables | WAIT: amendments/final cash/diluted terms and paid recurring mix; public-filing absence is no longer a dependency |
+
+**Portfolio feasibility:** the current model no longer counts historical ACTIONs/terminal multiples as current deployable return. Zero verified equity weights and 1.0x hypothetical cash is an accounting control; it does not establish all 65 shares unattractive, personal holdings/cash or achievable cash yield. October£67,129 maximum-upside calculation is archived inside the same JSON authority, not treated as a November forecast. £80,000 by March 2028 remains **UNSUPPORTED BY CURRENT EVIDENCE**. The most generous March-end arithmetic has 495 days left, requiring about66.8% annualized to double; no restarted 18 months or post-window production earnings.
+
+**Decision-critical remaining work:** finish current cash/share/diluted-value proof for the first three comparisons; quantify SUSS timing and MOD continuing debt/FCF; resolve JEM site risk, Centrus funding and FORT final proceeds. Namuga/Hanmi/Montage source gaps and other index-only screens stay explicit. A follow-up is justified only if it can change valuation, allocation, confidence, timing or a thesis break. These dependencies are not completed by writing a refresh receipt.
+
+**Operations:** scheduler pause preserved. The runtime was not reverified during this interactive refresh;9October runtime facts below remain dated history, not a current health claim. No new scheduler, notification change or brokerage execution. Frozen #261 and sealed prospective predictions are unchanged. Governance checks and publication status are reported separately, not presumed from local research completion.
+
+## Earlier execution history (dated; superseded by checkpoints above)
+
 **Lifecycle:** LOG; company files, coverage ledger, ranking and PORTFOLIO remain authoritative
-**As of:** 2026-10-10 Europe/London
+**As of:** 2026-11-22 Europe/London (current checkpoint above; prior receipts below are historical)
 **Programme:** #117; audit #365; user-authorized execute-all refresh
 **Boundary:** £40,000 research mandate through March 2028; £80,000 primary objective. No personal positions, balances or trades.
 

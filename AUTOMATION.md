@@ -1,5 +1,13 @@
 # Backlog-Driven Automation
 
+## Interactive full-refresh receipt — 22 November 2026
+
+Issue #376 is the user-authorized refresh, separate from unmerged#374. Canonical company22 November checkpoints and the ranked table supersede dated October signal text below. **No currently verified ACTION**; Impro/Laifual fresh-entry/Add suspension remains. Historical price bands cannot alone reactivate entry. Workflow state remains in live GitHub issues; current source/gate details are in `research/decision-refresh.md`.
+
+Processed events now known: GDYN29Oct results; SUSS5Nov guidance/backlog; JEM10/13Nov results; MJC12Nov results; FORT13Nov public S-4; Centrus4Nov results/operating-option expectation. Waiting for the initial publication of these events is obsolete. Residual gates concern financial/cash/dilution/recovery proof and final terms. Laifual24 Nov vote, AMBA24 Nov results and Credo1Dec results remain future; do not execute or invent their outcomes.
+
+Preserve scheduler pause and notification preference. Runtime not reverified in this interactive run; no auto-reenable or new task. User-requested full scope supersedes scheduler one-unit budgeting for this run only, while evidence/governance/check requirements remain. No brokerage execution.
+
 **Status:** PAUSED / DEGRADED — runtime verified 9 Oct 2026
 **Live since:** 2026-09-09
 **Automation epic:** #120

@@ -1,5 +1,19 @@
 # Zhejiang Laifual Drive
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; fresh entry/Add remain suspended.** [HKEX issuer index](https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&market=SEHK&stockId=1000307748), SRC-REF-20261122-01, contains 4 November award-scheme, issuance and repurchase proposals and an EGM on **24 November**, still future at this cutoff. Proposals do not establish issued dilution or H2 operating results. Latest verified economics remain H1/July observations.
+
+**FACT / quote:** [20 November HKEX close](https://markets.ft.markitdigital.com/data/equities/tearsheet/historical?s=3952%3AHKG) **HK$18.89**, 203,900 shares. No closing trade or total return is inferred. Price is below the old bear range; that disproves treating that range as a floor, not the operating thesis itself.
+
+**HYPOTHESIS / reverse earnings:** at the historical 103.4m-share denominator, equity value is about HK$1.95bn. A 2x price at 20–30x earnings needs roughly HK$130–195m annual net profit; 3x needs HK$195–293m, before future dilution. Each 10% additional shares raises the profit hurdle 10%. H1 adjusted loss and revenue do not establish this conversion. Reconcile the new scheme's actual cap and new/existing-share funding before changing the denominator.
+
+**INTERPRETATION:** H1 volume/cost/margin evidence survives as dated evidence. A low share price does not replace repeat orders, ASP and post-capex cash proof. Competing reducer capacity, alternative joint architectures and OEM integration can destroy rent despite shipments. Structural **Medium**, capture **Medium**, cash materiality **Low-Medium**, near-window equity **Low**. Original HK$55–75 base and higher bull ranges are **unvalidated historical scenarios**, not current targets.
+
+**Next gate:** EGM outcome and dilution reconciliation, then repeat production customers, utilization/ASP, durable reducer margins and cash after expansion. No automatic Add below HK$48; that old ceiling is retired as an active November trigger. Hold only on forward earnings/cash evidence; Trim on over-recognition/concentration; Sell on durable customer loss, cash/financing failure or architecture displacement. No fresh size permission.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Current review override — 15 November 2026
 
 **Current capital decision: REASSESS / fresh entry and Add eligibility suspended pending updated underwrite.** This is a freshness/valuation control, not a finding that the operating thesis has broken.

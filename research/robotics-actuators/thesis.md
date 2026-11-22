@@ -1,5 +1,9 @@
 # Robotics Actuators — Canonical Thesis
 
+## Full-theme challenge — 22 November 2026
+
+**INTERPRETATION:** actuator industrialization remains a credible scarce-complement hypothesis, but Laifual's equity drawdown challenges earlier entry/terminal assumptions independently of its H1 volume evidence. Further capacity, ASP competition and integrated alternative architectures can defeat shareholder capture. The24 November award/mandate vote is future and requires dilution reconciliation; H2 profit/cash is not inferred. Current benchmark result locations and source gaps are in `research/discovery/november-challenge.md`; the Laifual22 November checkpoint governs capital. No universal reducer winner or price floor is established.
+
 **Status:** Gate A complete; Gate B company underwriting active  
 **Confidence:** **Medium** on structural bottlenecks and architecture decomposition; **Low-Medium** on company Investment Capture until #85–#88 complete  
 **Last substantive update:** 2026-09-08

@@ -1,5 +1,17 @@
 # Grid Dynamics — Physical-AI productization underwrite
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT.** [29 October SEC result exhibit](https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/grid-20260930xex991.htm), SRC-REF-20261122-10, replaces the future-results dependency. Q3 revenue **$114.3m (+9.7%)**, GAAP gross margin **40.3%**, GAAP EPS **$0.08**; adjusted EBITDA **$22.9m /20%** and non-GAAP EPS **$0.18**, using81.9m diluted weighted-average shares. The adjustment gap matters.
+
+**Quote:** [20 November Nasdaq close](https://finance.yahoo.com/quote/GDYN/history/) **$12.66**; $12.44 is after-hours, not the close. Mechanical annualization of quarterly GAAP EPS gives ~39.6x, versus ~17.6x non-GAAP; neither is normalized annual earnings. Price has rerated as margins improved, so the old $6.5–7.2 entry comparison is historical.
+
+**INTERPRETATION:** capture/materiality confidence **Medium**, recurring Physical-AI platform capture **Low-Medium**, equity **Low-Medium**. Broader AI work (31% of revenue in the release) cannot be treated as paid recurring GAIN/FDE software. Strongest counter-case remains services/headcount/SBC economics and customer bargaining.
+
+**Next gate:** reconcile SBC-adjusted cash, buybacks/share count, recurring platform mix and remaining-window earnings versus rerating. Buy/Add only on that evidence and sufficient current payoff; Hold on sustainable per-share cash; Trim when software multiples outrun recurring proof; Sell on durable capture/cash failure. No size or ACTION upgrade.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Monitor checkpoint — 9 October 2026 (#295)
 
 [Issuer calendar](https://www.griddynamics.com/investors/events) verifies Oct29 Q3 results/call at 20:30 GMT; future results are unavailable. [Secondary daily range](https://stockscan.io/stocks/GDYN/price-history) Oct9 $7.95–8.13 is not a verified close; it does not touch $6.5–7.2. **REASSESS / WAIT**: services/project growth does not establish recurring platform margins, reusable IP, data rights or SBC-adjusted per-share cash. PTC/Siemens and private validation vendors challenge capture. Hold only if forward cash economics justify current valuation; Trim on services-like economics priced as software, Sell if delivery/headcount/SBC undermines capture. Await Q3 recurring/customer/margin/cash evidence; price alone cannot Buy/Add. No actual holding or probability inferred.

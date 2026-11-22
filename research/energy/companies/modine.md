@@ -1,5 +1,19 @@
 # Modine — AI Energy Investment Capture
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT.** [3 November issuer results](https://investors.modexussolutions.com/news/news-details/2026/Modine-Reports-Second-Quarter-Fiscal-2027-Results/default.aspx), SRC-REF-20261122-04, provide the awaited continuing-business outlook: FY27 sales $3.1–3.2bn and adjusted EBITDA $470–500m. September-quarter reported sales/earnings still include Performance Technologies; do not compare them directly with a continuing-only forecast. Six-month reported FCF **negative $145.6m** and September net debt **$573.7m** precede the October closing.
+
+**FACT / subsequent event:** [SEC Investor Day filing](https://www.sec.gov/Archives/edgar/data/67347/000110465926129392/mod-20261113x8k.htm) furnishes the November18 presentation and a $500m repurchase authorization. Authorization is not executed buybacks or proven free cash. Issuer news records Texas chiller production starting November11. The title-only investor-release route was supplemented with the SEC route; long-term ambitions must not substitute for near-window earnings.
+
+**Quote:** [20 November NYSE daily reference](https://twelvedata.com/markets/380284/stock/nyse/mod/historical-data) $124.67, with inconsistent return fields; use the dated price only pending issuer/venue cross-check. THRM distribution is a separate security/value; old combined-package entry bands remain suspended.
+
+**INTERPRETATION:** the forward-guidance information gap narrows, but a current continuing-company net-debt/FCF/share bridge is still required. Cooling demand and booked capacity do not prevent working-capital strain. Structural **High**, capture **Medium-High**, cash materiality **Medium-Low**, equity **Low**. Use $470–500m continuing EBITDA, never the old combined $650–680m, in a new EV bridge.
+
+**Next gate:** reconcile post-close cash/debt and shares, supplier advances and capex, Investor Day FY28 conversion, customer concentration and normalized margin. Buy/Add only after that standalone valuation; Hold/Trim/Sell each security on forward value. Missed cash conversion or capacity/customer loss is a thesis-risk trigger. No new deployable model weight.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 **Status:** Investigating  
 **Investment Capture Score:** **3.9 / 5**  
 **Confidence:** Medium  

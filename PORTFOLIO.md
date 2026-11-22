@@ -1,5 +1,15 @@
 # Aggressive Dynamic Portfolio Strategy — Gate E
 
+## Current checkpoint — 22 November 2026
+
+**Current new-entry/Add verification: no ACTION established.** The current [ranked universe](research/ranked-universe.md) records a leading capital-reassessment order, and the [full-refresh receipt](research/decision-refresh.md) distinguishes65 event screens from14 deeper company updates. Impro/Laifual November suspensions remain; no old price threshold automatically restores them. No holding or transaction is inferred.
+
+New earnings/revenue sources strengthen several operating cases, while SUSS delivery/margins, MOD reported cash, Centrus operating-contract expectations, JEM recovery and FORT financing/model disclosures require fresh downside. Capital priority now starts with Impro, MJC and TAI-TECH for completed current cash/share/valuation comparisons; this is not a Buy recommendation or a higher size ceiling.
+
+**Feasibility:** £80,000 by March 2028 remains **UNSUPPORTED BY CURRENT EVIDENCE**. The current model excludes historical scenarios from positive weights; zero currently verified deployment/100% hypothetical cash is a verification control, not a personal allocation. October£67,129 upside and10% starter surface are historical; neither is a current forecast. Use actual remaining days, never reset18months or import post-horizon production earnings. Existing entry/Add/Trim/Sell principles and mandate remain unchanged.
+
+**Source/decision rules:** use22 November company checkpoints, not the older “current” labels below. No new promotion, ceiling increase or automated brokerage action. Scheduler pause preserved; runtime was not reverified in this interactive refresh, so no scheduled-health claim. Interactive research is not evidence of monitoring restoration.
+
 ## Current checkpoint — 15 November 2026
 
 **REASSESS: Impro and Laifual.** This checkpoint takes precedence over the dated starter eligibility below for new capital decisions. Apply the existing material-price-move review and no-price-only-Add rules; do not interpret an old upper entry ceiling as an evergreen buy instruction.

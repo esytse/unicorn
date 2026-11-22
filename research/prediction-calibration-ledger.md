@@ -84,3 +84,12 @@ Append-only observation for existing monitors, not a newly sealed prediction or 
 **Decision:** REASSESS operational overlay for both, with earlier starter eligibility suspended pending refreshed underwrites. Structural/capital ordering is retained as a dated research-priority order, not renewed deployability. No new allocation or automatic sale.
 
 **Retrospective lesson / hypothesis:** original entry thresholds may have given insufficient weight to cash conversion, competition, valuation sensitivity or catalyst timing. Test each explanation against point-in-time evidence; two adverse observations cannot establish a general method failure. Later cautions do not erase the original ACTION signals. A bear range is not a stop-loss or a guaranteed floor.
+
+
+## Append-only checkpoint — 22 November 2026 (#376)
+
+**Observation cutoff:** issuer publications through22 November; quoted local closes20 November where explicit. Original decision-time predictions above are unchanged; frozen #261 and sealed prospective predictions were not revised.
+
+**Observed:** Impro4.31 and Laifual18.89 public references are below their original starter references; these are price outcomes, not adjusted total returns or causal proof. Impro Q3 thermal revenue attribution strengthens; Laifual H2 cash/profit remains unverified. MJC raises FY26 guidance; TAI issuer deck recovers AI mix/earnings; SUSS reports delivery/margin pressure despite orders. FORT S-4 exposes bundled perpetual software, burn and revised redemptions. Centrus discloses changed operating-option expectations.
+
+**Calibration interpretation:** original starter/target calibration requires challenge. A theme or volume forecast can be right while price timing, recurring-model assumptions, cash or per-share capture is wrong. No recovery target, numerical probability or lower-priced automatic Add is inferred. Current decisions are REASSESS/WAIT; no new ACTION. This is a live qualitative checkpoint, not a scored prospective alpha result. Exact sources, reporting periods, venue/price discrepancies and limits are in `research/discovery/november-challenge.md` and canonical company records.

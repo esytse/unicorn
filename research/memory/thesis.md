@@ -1,5 +1,9 @@
 # AI Memory — Working Thesis
 
+## Full-theme challenge — 22 November 2026
+
+**INTERPRETATION:** MJC/JEM earnings and Onto cash support real operating capture, while SUSS supply constraints and margin guidance show that a tool supplier can itself be constrained. Advanced-packaging/test complexity remains relevant; more supplier/customer capacity can reduce rents. Current economic updates are in the 22 November company checkpoints and `research/discovery/november-challenge.md`. No source-supported complete structural rerank or automatic new capital signal follows. Value process resilience, paid conversion and cash after capex; treat HBM exposures as correlated. Structural confidence remains Medium-High; current equity conclusions require company valuation.
+
 **Status:** Validated bottleneck map and capital-allocation synthesis complete; monitoring + architectural optionality  
 **Confidence:** **Medium-High** on structural/current-company evidence; **Medium** on valuation scenarios; **Medium** on Weebit commercial-adoption conclusion  
 **Last substantive update:** 2026-09-08

@@ -16,12 +16,12 @@ CLASSES = {
 }
 EXPECTED_STATES = {
     'TAI-TECH': 'REASSESS',
-    'Laifual': 'ACTION',
-    'Impro': 'ACTION',
-    'Modine': 'WAIT',
+    'Laifual': 'REASSESS',
+    'Impro': 'REASSESS',
+    'Modine': 'REASSESS',
     'Centrus': 'REASSESS',
-    'JEM': 'WAIT',
-    'SUSS': 'WAIT',
+    'JEM': 'REASSESS',
+    'SUSS': 'REASSESS',
 }
 
 

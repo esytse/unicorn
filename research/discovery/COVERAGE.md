@@ -1,5 +1,13 @@
 # Discovery coverage and negative-search ledger
 
+## Current full-universe challenge — 22 November 2026
+
+All16 lanes have a new [November challenge](november-challenge.md); the [65-company receipt](refresh-ledger.json) records exact evidence depth. This is full scope coverage, not65 completed valuations. The machine ledger is dated22 November; older narrative tables below are the October audit record.
+
+**Change:** networking/data path moves from a dated rejected screen to **COVERAGE_INCOMPLETE** for a fresh capital comparison after material November operating evidence. Industrial control remains incomplete; fleet-data rights still have no clean listed capture established; generic model/accelerator company discovery stays excluded. Other active candidates are research states, not cleared current allocations. Scientific execution remains early and financially unisolated despite new Tecan/Bruker/Automata evidence.
+
+Access/geography and funded capacity are cross-cutting stresses, with MP/Lynas/Entegris/MKS as unranked research leads/benchmarks. No new ACTION or automatic watchlist promotion. Remaining exact gates and rescan triggers are in the machine ledger and company records.
+
 **Lifecycle:** CANONICAL  
 **Authority:** CANONICAL  
 **Concept:** Cross-theme discovery coverage and negative-search outcomes  

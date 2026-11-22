@@ -1,5 +1,17 @@
 # Hainan Jinpan Smart Technology — Gate-E AI-Power Underwrite
 
+## Full-refresh decision — 22 November 2026
+
+**REASSESS / WAIT; cash-conversion counter-evidence strengthens.** [14 October quarterly issuer report mirrored by Sina](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12639809&stockid=688676), SRC-REF-20261122-07: nine-month sales **CNY6.104bn (+17.52%)**, attributable profit **CNY544.0m (+12.02%)**, operating cash **CNY90.7m (-49.04%)**. Simple OCF/net-profit conversion is about **16.7%**; quarterly OCF is not FCF and seasonal working capital matters. Direct exchange original remains a source-quality gate.
+
+**Quote:** [20 November Shanghai end-of-day secondary reference](https://www.marketscreener.com/quote/stock/HAINAN-JINPAN-SMART-TECHN-130615634/) **CNY45.18**, below the historical ex-adjusted region. Do not infer Buy from price crossing. The separate conversion-price adjustment was not a stock split.
+
+**INTERPRETATION:** transformer demand survives, but working-capital cash burden weakens the shareholder bridge. Structural **High**, company capture **Medium**, financial materiality **Low-Medium**, equity **Low**. Qualification and repeat hyperscaler orders need original support, while remaining convertible debt/dilution must be treated consistently.
+
+**Next gate:** SSE original, latest cash/debt/convertible share conversion, receivable/inventory quality and funded global AIDC orders; then current per-share earnings/FCF valuation. Buy/Add after these pass, not at the old band automatically; Hold/Trim/Sell based on cash durability and alternative forward payoff. No fresh size.
+
+**Authority:** this checkpoint supersedes earlier dated decision labels below. Prior scenarios are retained for calibration, not renewed entry permission. Sources retrieved 22 November; programme receipt: `research/decision-refresh.md`.
+
 ## Conversion/dilution reconciliation — 10 October 2026 (#130)
 
 **FACT / issuer disclosure on designated publication host:** [9 October announcement 2026-084](https://paper.cnstock.com/html/2026-10/09/content_2275158.htm) reports CNY273,000 converted into 3,029 shares during July–September; CNY1,671,227,000 face remains outstanding. It confirms conversion price **CNY88.38 effective 8 October**, formerly 88.60. [23 September adjustment announcement](https://app.cnstock.com/zzb/zgzqb/html/2026-09/23/nw.D110000zgzqb_20260923_5-B006.htm) and prior cash-distribution notice concern dividends/conversion, not a stock split. [Issuer disclosure mirrored by Sina](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12632114&stockid=688676) supplies September basic shares **459,787,393**. Direct SSE PDF retrieval remains unsuccessful; source host/access limitations are retained.
